@@ -49,6 +49,7 @@ void main() {
     'it': ('1 giorno', '3 giorni'),
     'nl': ('1 dag', '3 dagen'),
     'pt': ('1 dia', '3 dias'),
+    'pl': ('1 dzień', '3 dni'),
     'zh': ('1 天', '3 天'),
   });
 
@@ -63,6 +64,7 @@ void main() {
     'it': ('Collegata 1 foto', 'Collegate 3 foto'),
     'nl': ('1 foto gekoppeld', "3 foto's gekoppeld"),
     'pt': ('1 foto vinculada', '3 fotos vinculadas'),
+    'pl': ('Powiązano 1 zdjęcie', 'Powiązano 3 zdjęcia'),
     'zh': ('已关联 1 照片', '已关联 3 照片'),
   };
   check(
@@ -87,6 +89,7 @@ void main() {
     'it': ('Aggiungi 1 immersione', 'Aggiungi 3 immersioni'),
     'nl': ('1 duik toevoegen', '3 duiken toevoegen'),
     'pt': ('Adicionar 1 mergulho', 'Adicionar 3 mergulhos'),
+    'pl': ('Dodaj 1 nurkowanie', 'Dodaj 3 nurkowania'),
     'zh': ('添加 1 潜水', '添加 3 潜水'),
   });
 
@@ -113,6 +116,7 @@ void main() {
       '1 mergulho adicionado à viagem',
       '3 mergulhos adicionados à viagem',
     ),
+    'pl': ('Dodano 1 nurkowanie do wyjazdu', 'Dodano 3 nurkowania do wyjazdu'),
     'zh': ('已将 1 次潜水添加到旅行', '已将 3 次潜水添加到旅行'),
   });
 
@@ -151,6 +155,10 @@ void main() {
       '1 mergulho encontrado no intervalo de datas',
       '3 mergulhos encontrados no intervalo de datas',
     ),
+    'pl': (
+      'Znaleziono 1 nurkowanie w zakresie dat',
+      'Znaleziono 3 nurkowania w zakresie dat',
+    ),
     'zh': ('在日期范围内找到 1 次潜水', '在日期范围内找到 3 次潜水'),
   });
 
@@ -165,6 +173,7 @@ void main() {
     'it': ('1 immersione', '3 immersioni'),
     'nl': ('1 duik', '3 duiken'),
     'pt': ('1 mergulho', '3 mergulhos'),
+    'pl': ('1 nurkowanie', '3 nurkowania'),
     'zh': ('1 次潜水', '3 次潜水'),
   });
 
@@ -182,6 +191,7 @@ void main() {
       'it': ("Un'altra foto", 'Altre 3 foto'),
       'nl': ('1 meer foto', "3 meer foto's"),
       'pt': ('1 foto a mais', '3 fotos a mais'),
+      'pl': ('jeszcze 1 zdjęcie', 'jeszcze 3 zdjęcia'),
       'zh': ('1 更多照片', '3 更多照片'),
     },
   );
