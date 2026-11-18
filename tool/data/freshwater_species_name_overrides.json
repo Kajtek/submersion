@@ -9,6 +9,7 @@
     "pt": "Muskellunge",
     "nl": "Muskellunge",
     "hu": "Muskellunge csuka",
+    "pl": "Muskinong",
     "ar": "ماسكلانج",
     "he": "מסקלנג'"
   },
@@ -17,6 +18,7 @@
     "pt": "Lúcio-corrente",
     "nl": "Kettingsnoek",
     "hu": "Láncos csuka",
+    "pl": "Szczupak czarny",
     "ar": "الكراكي المسلسل",
     "he": "זאב מים שרשרת"
   },
@@ -52,6 +54,7 @@
     "he": "רוף"
   },
   "sp_largemouth_bass": {
+    "pl": "Bass wielkogębowy",
     "ar": "القاروص كبير الفم",
     "he": "בס גדול פה"
   },
@@ -82,6 +85,7 @@
     "it": "Crappie nero",
     "nl": "Zwarte crappie",
     "hu": "Fekete crappie",
+    "pl": "Krapia czarna",
     "ar": "الكرابي الأسود",
     "he": "קראפי שחור"
   },
@@ -89,6 +93,7 @@
     "it": "Crappie bianco",
     "nl": "Witte crappie",
     "hu": "Fehér crappie",
+    "pl": "Krapia biała",
     "ar": "الكرابي الأبيض",
     "he": "קראפי לבן"
   },
@@ -186,6 +191,7 @@
   },
   "sp_american_eel": {
     "hu": "Amerikai angolna",
+    "pl": "Węgorz amerykański",
     "ar": "ثعبان الماء الأمريكي",
     "he": "צלופח אמריקאי"
   },
@@ -208,6 +214,7 @@
     "he": "שפמנון שטוח ראש"
   },
   "sp_brown_bullhead": {
+    "pl": "Sumik karłowaty",
     "ar": "البولهيد البني",
     "he": "בולהד חום"
   },
@@ -231,11 +238,13 @@
     "pt": "Esturjão-de-lago",
     "nl": "Meersteur",
     "hu": "Tavi tok",
+    "pl": "Jesiotr jeziorny",
     "zh": "湖鲟",
     "ar": "حفش البحيرات",
     "he": "חדקן אגמים"
   },
   "sp_european_sturgeon": {
+    "pl": "Jesiotr zachodni",
     "he": "חדקן אירופי"
   },
   "sp_alligator_gar": {
@@ -267,6 +276,7 @@
     "it": "Tamburo d'acqua dolce",
     "nl": "Zoetwatertrommelvis",
     "hu": "Édesvízi dobhal",
+    "pl": "Kulbin słodkowodny",
     "ar": "الطبال النهري",
     "he": "דג תוף מים מתוקים"
   },
@@ -296,6 +306,7 @@
   "sp_nile_perch": {
     "fr": "Perche du Nil",
     "hu": "Nílusi sügér",
+    "pl": "Okoń nilowy",
     "zh": "尼罗河鲈"
   },
   "sp_nile_tilapia": {
@@ -307,6 +318,7 @@
     "it": "Pesce tigre africano",
     "pt": "Peixe-tigre-africano",
     "hu": "Afrikai tigrishal",
+    "pl": "Afrykańska ryba tygrysia",
     "ar": "سمكة النمر الأفريقية",
     "he": "דג נמר אפריקאי"
   },
@@ -344,6 +356,7 @@
     "pt": "Ciclídeo pavão borboleta",
     "nl": "Vlinderpauwcichlide",
     "hu": "Pillangó pávacichlida",
+    "pl": "Aulonokara motylowa",
     "zh": "蝴蝶孔雀慈鲷",
     "ar": "بلطي الطاووس الفراشي",
     "he": "ציקליד טווס פרפר"
@@ -354,6 +367,7 @@
     "it": "Ciclide di Fuelleborn",
     "nl": "Fuelleborns cichlide",
     "hu": "Fuelleborn-cichlida",
+    "pl": "Pyszczak błękitny",
     "zh": "蓝岩栖慈鲷",
     "ar": "بلطي فولبورن",
     "he": "ציקליד פילבורן"
@@ -408,6 +422,7 @@
     "fr": "Piranha noir",
     "it": "Piranha nero",
     "hu": "Fekete piranha",
+    "pl": "Pirania czarna",
     "ar": "البيرانا السوداء",
     "he": "פיראנה שחורה"
   },
@@ -427,11 +442,13 @@
     "he": "טמבקי"
   },
   "sp_electric_eel": {
-    "it": "Anguilla elettrica"
+    "it": "Anguilla elettrica",
+    "pl": "Strętwa"
   },
   "sp_redtail_catfish": {
     "nl": "Roodstaartmeerval",
     "hu": "Vörösfarkú harcsa",
+    "pl": "Sum czerwonoogonowy",
     "ar": "السلور أحمر الذيل",
     "he": "שפמנון אדום זנב"
   },
@@ -439,6 +456,7 @@
     "it": "Pesce gatto tigre",
     "nl": "Tijgerschoffelneusmeerval",
     "hu": "Tigrisharcsa",
+    "pl": "Sum tygrysi",
     "zh": "虎皮鸭嘴鲶",
     "ar": "السلور النمري",
     "he": "שפמנון נמר"
@@ -470,6 +488,7 @@
     "it": "Discus",
     "nl": "Discusvis",
     "hu": "Diszkoszhal",
+    "pl": "Paletka",
     "zh": "七彩神仙鱼",
     "ar": "سمكة الديسكس",
     "he": "דיסקוס"
@@ -480,12 +499,14 @@
     "it": "Pleco velifero",
     "nl": "Zeilvinharnasmeerval",
     "hu": "Vitorlás algaevő harcsa",
+    "pl": "Zbrojnik żaglopłetwy",
     "ar": "البليكو الشراعي",
     "he": "פלקו מפרש"
   },
   "sp_cardinal_tetra": {
     "it": "Tetra cardinale",
     "hu": "Kardinálishal",
+    "pl": "Neon czerwony",
     "ar": "التترا الكاردينال",
     "he": "טטרה קרדינל"
   },
@@ -501,6 +522,7 @@
     "pt": "Bagre-gigante-do-Mekong",
     "nl": "Mekong-reuzenmeerval",
     "hu": "Mekongi óriásharcsa",
+    "pl": "Olbrzymi sum mekoński",
     "zh": "湄公河巨鲶",
     "ar": "سلور الميكونغ العملاق",
     "he": "שפמנון המקונג הענק"
@@ -513,6 +535,7 @@
     "pt": "Barbo-gigante",
     "nl": "Reuzenbarbeel",
     "hu": "Óriásmárna",
+    "pl": "Karp syjamski",
     "zh": "巨暹罗鲤",
     "ar": "البربل العملاق",
     "he": "ברבל ענק"
@@ -525,6 +548,7 @@
     "it": "Testa di serpente striato",
     "nl": "Gestreepte slangenkopvis",
     "hu": "Csíkos kígyófejű hal",
+    "pl": "Żmijogłów pręgowany",
     "ar": "رأس الثعبان المخطط",
     "he": "ראש נחש מפוספס"
   },
@@ -532,6 +556,7 @@
     "de": "Riesenschlangenkopf",
     "it": "Testa di serpente gigante",
     "hu": "Óriás kígyófejű hal",
+    "pl": "Żmijogłów olbrzymi",
     "ar": "رأس الثعبان العملاق",
     "he": "ראש נחש ענק"
   },
@@ -540,16 +565,19 @@
     "pt": "Perca-trepadora",
     "nl": "Klimbaars",
     "hu": "Kúszó sügér",
+    "pl": "Łaziec",
     "he": "דקר מטפס"
   },
   "sp_golden_mahseer": {
     "nl": "Gouden mahseer",
+    "pl": "Mahsir złoty",
     "ar": "الماهسير الذهبي",
     "he": "מהסיר זהוב"
   },
   "sp_koi": {
     "nl": "Koi",
     "hu": "Koi",
+    "pl": "Karp koi",
     "he": "קוי"
   },
   "sp_giant_gourami": {
@@ -563,6 +591,7 @@
     "es": "Pez cuchillo payaso",
     "fr": "Poisson-couteau clown",
     "hu": "Bohóc késhal",
+    "pl": "Brzeszczotek ozdobny",
     "ar": "سمكة السكين المهرج",
     "he": "דג סכין ליצן"
   },
@@ -572,6 +601,7 @@
     "it": "Pesce gatto camminatore",
     "nl": "Wandelmeerval",
     "hu": "Vándorló harcsa",
+    "pl": "Sum kroczący",
     "ar": "السلور الماشي",
     "he": "שפמנון מהלך"
   },
@@ -579,6 +609,7 @@
     "de": "Japanischer Aal",
     "it": "Anguilla giapponese",
     "hu": "Japán angolna",
+    "pl": "Węgorz japoński",
     "ar": "ثعبان الماء الياباني",
     "he": "צלופח יפני"
   },
@@ -618,6 +649,7 @@
     "pt": "Bacalhau-do-Murray",
     "nl": "Murraykabeljauw",
     "hu": "Murray-tőkehal",
+    "pl": "Dorsz z rzeki Murray",
     "ar": "قد نهر موراي",
     "he": "קוד המורי"
   },
@@ -626,6 +658,7 @@
     "fr": "Perche dorée",
     "nl": "Goudbaars",
     "hu": "Aranysügér",
+    "pl": "Okoń złocisty",
     "ar": "الفرخ الذهبي",
     "he": "דקר זהוב"
   },
@@ -637,6 +670,7 @@
     "pt": "Perca-australiana",
     "nl": "Australische baars",
     "hu": "Ausztrál sügér",
+    "pl": "Okoń australijski",
     "zh": "澳洲鲈",
     "ar": "القاروص الأسترالي",
     "he": "בס אוסטרלי"
@@ -655,6 +689,7 @@
     "pt": "Perca-prateada",
     "nl": "Zilverbaars",
     "hu": "Ezüstsügér",
+    "pl": "Okoń srebrzysty",
     "ar": "الفرخ الفضي",
     "he": "דקר כסוף"
   },
@@ -674,6 +709,7 @@
     "pt": "Roncador-preto",
     "nl": "Zwarte knorvis",
     "hu": "Fekete morgóhal",
+    "pl": "Terapon smolisty",
     "zh": "黑鲈鳉",
     "ar": "المزمجر الأسود",
     "he": "נוהם שחור"
@@ -696,6 +732,7 @@
     "pt": "Perca-lantejoula",
     "nl": "Glitterbaars",
     "hu": "Flitteres sügér",
+    "pl": "Terapon cętkowany",
     "zh": "亮片鲈",
     "ar": "الفرخ المرصع",
     "he": "דקר נוצץ"
@@ -707,6 +744,7 @@
     "it": "Pesce arcobaleno orientale",
     "nl": "Oostelijke regenboogvis",
     "hu": "Keleti szivárványhal",
+    "pl": "Tęczanka wschodnia",
     "zh": "东部彩虹鱼",
     "ar": "سمكة قوس قزح الشرقية",
     "he": "דג קשת מזרחי"
@@ -727,6 +765,7 @@
   "sp_white_clawed_crayfish": {
     "es": "Cangrejo de patas blancas",
     "hu": "Fehérkarmú rák",
+    "pl": "Rak białoszczypcowy",
     "ar": "جراد النهر أبيض المخالب",
     "he": "סרטן נהרות לבן צבתות"
   },
@@ -738,6 +777,7 @@
     "pt": "Lagostim-gigante-da-Tasmânia",
     "nl": "Tasmaanse reuzenrivierkreeft",
     "hu": "Tasmán óriásrák",
+    "pl": "Tasmański rak olbrzymi",
     "ar": "جراد النهر التسماني العملاق",
     "he": "סרטן הנהרות הענק של טסמניה"
   },
@@ -790,6 +830,7 @@
     "it": "Lumaca mela",
     "nl": "Appelslak",
     "hu": "Almacsiga",
+    "pl": "Ampularia żłobkowana",
     "he": "חילזון תפוח"
   },
   "sp_magnificent_bryozoan": {
@@ -797,6 +838,7 @@
     "es": "Briozoo magnífico",
     "it": "Briozoo magnifico",
     "pt": "Briozoário-magnífico",
+    "pl": "Mszywioł wspaniały",
     "ar": "الطحلبيات الرائعة",
     "he": "טחביון מפואר"
   },
@@ -808,6 +850,7 @@
     "de": "Riesensüßwassergarnele",
     "it": "Gambero gigante d'acqua dolce",
     "hu": "Óriás édesvízi garnéla",
+    "pl": "Krewetka olbrzymia słodkowodna",
     "ar": "الروبيان النهري العملاق",
     "he": "שרימפס נהר ענק"
   },
@@ -836,6 +879,7 @@
   },
   "sp_northern_map_turtle": {
     "it": "Tartaruga mappa",
+    "pl": "Żółw mapowy",
     "he": "צב מפה צפוני"
   },
   "sp_spiny_softshell_turtle": {
@@ -861,11 +905,13 @@
     "pt": "Tartaruga-do-rio-Mary",
     "nl": "Mary River-schildpad",
     "hu": "Mary-folyói teknős",
+    "pl": "Żółw z rzeki Mary",
     "ar": "سلحفاة نهر ماري",
     "he": "צב נהר מרי"
   },
   "sp_yellow_spotted_river_turtle": {
     "it": "Tartaruga di fiume dalle macchie gialle",
+    "pl": "Żółw rzeczny żółtoplamy",
     "he": "צב נהר צהוב כתמים"
   },
   "sp_american_alligator": {

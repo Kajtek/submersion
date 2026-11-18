@@ -51185,7 +51185,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy żyjący gad, spotykany w wodach przybrzeżnych i estuariach Indo-Pacyfiku.';
 
   @override
-  String get species_northern_pike_name => 'Szczupak pospolity';
+  String get species_northern_pike_name => 'Szczupak';
 
   @override
   String get species_northern_pike_desc =>
@@ -51206,14 +51206,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły szczupak z zarośniętych stawów wschodniej Ameryki Północnej, zawdzięczający angielską nazwę łańcuszkowemu wzorowi na bokach.';
 
   @override
-  String get species_walleye_name => 'Sandacz amerykański';
+  String get species_walleye_name => 'sandacz amerykański';
 
   @override
   String get species_walleye_desc =>
       'Złocistooliwkowy krewniak okonia o dużych, odbijających światło oczach, polujący o zmierzchu nad skalistym i piaszczystym dnem jezior.';
 
   @override
-  String get species_sauger_name => 'Sandacz kanadyjski';
+  String get species_sauger_name => 'sandacz kanadyjski';
 
   @override
   String get species_sauger_desc =>
@@ -51227,7 +51227,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ławicowy złocisty okoń z ciemnymi pionowymi pręgami, pospolity przy pomostach i w zaroślach roślin wodnych w całej Ameryce Północnej.';
 
   @override
-  String get species_european_perch_name => 'Okoń pospolity';
+  String get species_european_perch_name => 'okoń pospolity';
 
   @override
   String get species_european_perch_desc =>
@@ -51255,21 +51255,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Bass o zielonym grzbiecie, z ciemnym pasem na boku i ogromną paszczą, czyhający przy kłodach i skraju roślinności w ciepłych jeziorach.';
 
   @override
-  String get species_smallmouth_bass_name => 'Bass małogębowy';
+  String get species_smallmouth_bass_name => 'bass małogębowy';
 
   @override
   String get species_smallmouth_bass_desc =>
       'Brązowozłoty bass z ledwie widocznymi pionowymi pręgami, trzymający się nad kamieniami i żwirem w czystych, chłodnych jeziorach i rzekach.';
 
   @override
-  String get species_rock_bass_name => 'Bass skalny';
+  String get species_rock_bass_name => 'Bass czerwonooki';
 
   @override
   String get species_rock_bass_desc =>
       'Krępa czerwonooka ryba z rodziny bassowatych, z rzędami ciemnych plamek, chroniąca się wśród głazów w czystych strumieniach i jeziorach.';
 
   @override
-  String get species_bluegill_name => 'Bass niebieski';
+  String get species_bluegill_name => 'bass niebieski';
 
   @override
   String get species_bluegill_desc =>
@@ -51318,49 +51318,49 @@ class AppLocalizationsPl extends AppLocalizations {
       'Palia z robaczkowatym wzorem na grzbiecie, czerwonymi plamkami w niebieskich obwódkach i płetwami o białych krawędziach, żyjąca w zimnych strumieniach górnych odcinków rzek.';
 
   @override
-  String get species_lake_trout_name => 'Palia jeziorowa';
+  String get species_lake_trout_name => 'palia jeziorowa';
 
   @override
   String get species_lake_trout_desc =>
       'Duża szara palia pokryta jasnymi plamkami, z wciętym ogonem, przemierzająca głębokie zimne wody północnych jezior.';
 
   @override
-  String get species_arctic_char_name => 'Palia alpejska';
+  String get species_arctic_char_name => 'Golec zwyczajny';
 
   @override
   String get species_arctic_char_desc =>
       'Najdalej na północ występująca ryba słodkowodna, smukła palia, której brzuch w jesiennej szacie godowej nabiera pomarańczowoczerwonej barwy.';
 
   @override
-  String get species_atlantic_salmon_name => 'Łosoś atlantycki';
+  String get species_atlantic_salmon_name => 'łosoś szlachetny';
 
   @override
   String get species_atlantic_salmon_desc =>
       'Srebrzysty łosoś wędrowny z czarnymi plamkami w kształcie litery X, pokonujący skokami wodospady w drodze na tarło do rodzinnych rzek.';
 
   @override
-  String get species_chinook_salmon_name => 'Czawycza';
+  String get species_chinook_salmon_name => 'czawycza';
 
   @override
   String get species_chinook_salmon_desc =>
       'Największy łosoś pacyficzny, o niebieskozielonym grzbiecie i czarnych dziąsłach, wstępujący na tarło do wielkich rzek zachodu Ameryki Północnej.';
 
   @override
-  String get species_sockeye_salmon_name => 'Nerka';
+  String get species_sockeye_salmon_name => 'nerka';
 
   @override
   String get species_sockeye_salmon_desc =>
       'Łosoś, który na tarło staje się jaskrawoczerwony z zieloną głową i tłumnie zajmuje żwirowiska rzek zasilanych przez jeziora.';
 
   @override
-  String get species_coho_salmon_name => 'Kiżucz';
+  String get species_coho_salmon_name => 'kiżucz';
 
   @override
   String get species_coho_salmon_desc =>
       'Srebrzysty łosoś o białych dziąsłach, z plamkami tylko na górnej części ogona, trący się w małych przybrzeżnych strumieniach.';
 
   @override
-  String get species_lake_whitefish_name => 'Sieja amerykańska';
+  String get species_lake_whitefish_name => 'Sieja kanadyjska';
 
   @override
   String get species_lake_whitefish_desc =>
@@ -51465,7 +51465,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szary sum z rozproszonymi ciemnymi plamkami, wciętym ogonem i ośmioma wąsami, pospolity w rzekach i zbiornikach zaporowych całej Ameryki Północnej.';
 
   @override
-  String get species_flathead_catfish_name => 'Sum płaskogłowy';
+  String get species_flathead_catfish_name => 'sum płaskogłowy';
 
   @override
   String get species_flathead_catfish_desc =>
@@ -51479,14 +51479,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mały krępy sum o ciemnych wąsach i prosto ściętym ogonie, znoszący muliste, ciepłe i ubogie w tlen stawy.';
 
   @override
-  String get species_wels_catfish_name => 'Sum europejski';
+  String get species_wels_catfish_name => 'Sum pospolity';
 
   @override
   String get species_wels_catfish_desc =>
       'Największa ryba słodkowodna Europy, bezłuski olbrzym o szerokiej płaskiej głowie i długich wąsach, zalegający w głębokich dołach rzecznych.';
 
   @override
-  String get species_white_sturgeon_name => 'Jesiotr biały';
+  String get species_white_sturgeon_name => 'jesiotr amerykański';
 
   @override
   String get species_white_sturgeon_desc =>
@@ -51514,21 +51514,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prehistoryczny olbrzym o szerokim uzębionym pysku i pancerzu z rombowatych łusek, wynurzający się w rzekach południa USA, by zaczerpnąć powietrza.';
 
   @override
-  String get species_longnose_gar_name => 'Niszczuka długonosa';
+  String get species_longnose_gar_name => 'niszczuka długonosa';
 
   @override
   String get species_longnose_gar_desc =>
       'Smukła opancerzona ryba o igłowatym pysku, wisząca nieruchomo tuż pod powierzchnią ciepłych rzek.';
 
   @override
-  String get species_bowfin_name => 'Amia';
+  String get species_bowfin_name => 'Miękławka';
 
   @override
   String get species_bowfin_desc =>
       'Żywa skamieniałość o długiej falującej płetwie grzbietowej i kostnej głowie, strzegąca narybku w zarośniętych starorzeczach.';
 
   @override
-  String get species_american_paddlefish_name => 'Wiosłonos amerykański';
+  String get species_american_paddlefish_name => 'wiosłonos amerykański';
 
   @override
   String get species_american_paddlefish_desc =>
@@ -51549,7 +51549,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysta garbata ryba, która wydaje słyszalne chrząknięcia i miażdży małże zębami gardłowymi, pospolita w wielkich rzekach i jeziorach.';
 
   @override
-  String get species_white_sucker_name => 'Czukuczan biały';
+  String get species_white_sucker_name => 'czukuczan biały';
 
   @override
   String get species_white_sucker_desc =>
@@ -51570,7 +51570,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Maleńka opancerzona ryba z trzema kolcami na grzbiecie; samce o czerwonym podgardlu budują gniazda z włókien roślinnych i ich strzegą.';
 
   @override
-  String get species_alewife_name => 'Aloza szara';
+  String get species_alewife_name => 'Aloza wielkooka';
 
   @override
   String get species_alewife_desc =>
@@ -51598,7 +51598,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pręgowany srebrzysty drapieżnik o zazębiających się sztyletowatych zębach, polujący w bystrych afrykańskich rzekach, takich jak Zambezi.';
 
   @override
-  String get species_marbled_lungfish_name => 'Prapłetwiec abisyński';
+  String get species_marbled_lungfish_name => 'Prapłetwiec wielki';
 
   @override
   String get species_marbled_lungfish_desc =>
@@ -51612,7 +51612,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pękaty szary sum z Nilu i Konga, ogłuszający ofiary wyładowaniami o napięciu kilkuset woltów.';
 
   @override
-  String get species_zebra_mbuna_name => 'Pyszczak zebra';
+  String get species_zebra_mbuna_name => 'pyszczak zebra';
 
   @override
   String get species_zebra_mbuna_desc =>
@@ -51626,7 +51626,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Opalizująca niebieska pielęgnica pawia z jaskiń jeziora Malawi; samce lśnią płetwami o białych krawędziach.';
 
   @override
-  String get species_fuelleborn_cichlid_name => 'Pyszczak Fuelleborna';
+  String get species_fuelleborn_cichlid_name => 'Pyszczak błękitny';
 
   @override
   String get species_fuelleborn_cichlid_desc =>
@@ -51640,21 +51640,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Elegancka pielęgnica z jeziora Tanganika o lirowatych płetwach, żyjąca w wielopokoleniowych rodzinach, które wspólnie opiekują się gniazdem.';
 
   @override
-  String get species_frontosa_name => 'Frontoza';
+  String get species_frontosa_name => 'pyszczak hełmiasty';
 
   @override
   String get species_frontosa_desc =>
       'Głębinowa pielęgnica z Tanganiki w wyraziste niebiesko-białe pasy, z garbem na czole, powoli pływająca w grupach nad skałami.';
 
   @override
-  String get species_tropheus_moorii_name => 'Trofeus Moora';
+  String get species_tropheus_moorii_name => 'Pielęgnica brabancka Moora';
 
   @override
   String get species_tropheus_moorii_desc =>
       'Krępa skalna pielęgnica z Tanganiki, występująca w dziesiątkach odmian barwnych, z których każda zajmuje własny odcinek brzegu.';
 
   @override
-  String get species_arapaima_name => 'Arapaima';
+  String get species_arapaima_name => 'arapaima piraruku';
 
   @override
   String get species_arapaima_desc =>
@@ -51668,7 +51668,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wstęgowata srebrzysta ryba amazońska z dwoma wąsikami na podbródku, wyskakująca z wody, by chwytać owady z gałęzi.';
 
   @override
-  String get species_red_bellied_piranha_name => 'Pirania czerwona';
+  String get species_red_bellied_piranha_name => 'Pirania Natterera';
 
   @override
   String get species_red_bellied_piranha_desc =>
@@ -51682,21 +51682,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża samotna pirania o czerwonych oczach i ciemnym, rombowatym ciele, czyhająca w czystych skalistych dopływach Amazonki.';
 
   @override
-  String get species_red_bellied_pacu_name => 'Paku czerwonobrzuchy';
+  String get species_red_bellied_pacu_name => 'pirapitinga';
 
   @override
   String get species_red_bellied_pacu_desc =>
       'Podobny do piranii owocożerca o płaskich miażdżących zębach i czerwonym brzuchu, gromadzący się pod drzewami zalanego lasu.';
 
   @override
-  String get species_tambaqui_name => 'Paku czarny';
+  String get species_tambaqui_name => 'paku czarnopłetwy';
 
   @override
   String get species_tambaqui_desc =>
       'Ogromny ciemny paku z Amazonki, rozgryzający opadłe orzechy i nasiona pod okapem zalanego lasu.';
 
   @override
-  String get species_electric_eel_name => 'Węgorz elektryczny';
+  String get species_electric_eel_name => 'Strętwa';
 
   @override
   String get species_electric_eel_desc =>
@@ -51717,7 +51717,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły pręgowany sum o długim spłaszczonym pysku, polujący nocą wzdłuż piaszczystych koryt rzek Ameryki Południowej.';
 
   @override
-  String get species_peacock_bass_name => 'Pawi bass';
+  String get species_peacock_bass_name => 'pielęgnica pawia';
 
   @override
   String get species_peacock_bass_desc =>
@@ -51731,7 +51731,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krępa ciemna pielęgnica z pomarańczowym marmurkowaniem i plamą oczną na ogonie, patrolująca wolno płynące wody Amazonii i zalane brzegi.';
 
   @override
-  String get species_freshwater_angelfish_name => 'Skalar';
+  String get species_freshwater_angelfish_name => 'Żaglowiec skalar';
 
   @override
   String get species_freshwater_angelfish_desc =>
@@ -51759,7 +51759,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Maleńka kąsaczowata rybka z neonowoniebieskim paskiem nad czerwonym pasem biegnącym przez całą długość ciała, pływająca w ławicach w ciemnych wodach Rio Negro.';
 
   @override
-  String get species_mexican_tetra_name => 'Lustrzeń meksykański';
+  String get species_mexican_tetra_name => 'lustrzeń meksykański';
 
   @override
   String get species_mexican_tetra_desc =>
@@ -51801,7 +51801,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży, agresywny żmijogłów, za młodu pręgowany, a po dorośnięciu ciemny, broniący jaskrawoczerwonego narybku w jeziorach Azji Południowo-Wschodniej.';
 
   @override
-  String get species_climbing_perch_name => 'Łaziec indyjski';
+  String get species_climbing_perch_name => 'Łaziec';
 
   @override
   String get species_climbing_perch_desc =>
@@ -51822,7 +51822,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ozdobny karp wyhodowany w Japonii w białych, czerwonych, czarnych i złotych wzorach, dobrze czujący się w stawach i ciepłych, czystych jeziorach.';
 
   @override
-  String get species_goldfish_name => 'Karaś złocisty';
+  String get species_goldfish_name => 'Karaś chiński';
 
   @override
   String get species_goldfish_desc =>
@@ -51857,7 +51857,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wschodnioazjatycki węgorz, który dorasta w rzekach i jeziorach, a na tarło wędruje na zachodni Pacyfik.';
 
   @override
-  String get species_ayu_name => 'Ayu';
+  String get species_ayu_name => 'aju';
 
   @override
   String get species_ayu_desc =>
@@ -51871,7 +51871,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysta ryba siejowata występująca wyłącznie w Bajkale, pływająca w ławicach w zimnej toni i wstępująca na tarło do rzek.';
 
   @override
-  String get species_baikal_oilfish_name => 'Gołomianka';
+  String get species_baikal_oilfish_name => 'gołomianka duża';
 
   @override
   String get species_baikal_oilfish_desc =>
@@ -51899,7 +51899,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Brązowozielony okoń przybrzeżnych rzek wschodniej Australii, który na tarło spływa w dół rzeki do słonawych estuariów.';
 
   @override
-  String get species_barramundi_name => 'Barramundi';
+  String get species_barramundi_name => 'barramundi';
 
   @override
   String get species_barramundi_desc =>
@@ -51913,7 +51913,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzystoszary terapon z dorzecza Murray-Darling o małym pysku i rozwidlonym ogonie, niegdyś pływający w ogromnych ławicach.';
 
   @override
-  String get species_gulf_saratoga_name => 'Saratoga północna';
+  String get species_gulf_saratoga_name => 'Arowana australijska';
 
   @override
   String get species_gulf_saratoga_desc =>
@@ -51927,7 +51927,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciemny, krępy terapon rzek północnej Australii, skubiący glony i owoce wśród skał i bystrzy.';
 
   @override
-  String get species_eel_tailed_catfish_name => 'Sum węgorzoogonowy';
+  String get species_eel_tailed_catfish_name => 'tandan marmurkowy';
 
   @override
   String get species_eel_tailed_catfish_desc =>
@@ -51955,7 +51955,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży brązowy rak z białą plamą przy stawie szczypiec, inwazyjny gatunek północnoamerykański rozprzestrzeniający się w rzekach Europy.';
 
   @override
-  String get species_red_swamp_crayfish_name => 'Rak luizjański';
+  String get species_red_swamp_crayfish_name => 'rak luizjański';
 
   @override
   String get species_red_swamp_crayfish_desc =>
@@ -51991,7 +51991,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prążkowany małż wielkości paznokcia, tysiącami pokrywający skały, wraki i rury i oczyszczający wodę wszędzie tam, gdzie się rozprzestrzenia.';
 
   @override
-  String get species_quagga_mussel_name => 'Racicznica bugeńska';
+  String get species_quagga_mussel_name => 'racicznica pasiasta';
 
   @override
   String get species_quagga_mussel_desc =>
@@ -52026,7 +52026,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Zielona lub szara rozgałęziona gąbka porastająca patyki i kamienie w czystych jeziorach, zabarwiona przez żyjące w niej glony.';
 
   @override
-  String get species_freshwater_jellyfish_name => 'Meduza słodkowodna';
+  String get species_freshwater_jellyfish_name => 'hederyka Rydera';
 
   @override
   String get species_freshwater_jellyfish_desc =>
@@ -52061,7 +52061,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Galaretowata kolonia wielkości piłki nożnej, usiana maleńkimi zwierzętami, uczepiona gałęzi i lin w ciepłej stojącej wodzie.';
 
   @override
-  String get species_chinese_mitten_crab_name => 'Krab wełnistoręki';
+  String get species_chinese_mitten_crab_name => 'krab wełnistoszczypcy';
 
   @override
   String get species_chinese_mitten_crab_desc =>
@@ -52083,7 +52083,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciężki żółw o szorstkim pancerzu i długim, piłkowanym ogonie, leżący w mule stawów i wolno płynących rzek z wystawioną głową.';
 
   @override
-  String get species_alligator_snapping_turtle_name => 'Skorpucha sępia';
+  String get species_alligator_snapping_turtle_name => 'skorpucha sępia';
 
   @override
   String get species_alligator_snapping_turtle_desc =>
@@ -52118,14 +52118,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płaski, skórzasty żółw podobny do naleśnika, z ryjkiem jak fajka, zagrzebany w piasku płytkich rzek tak, że widać tylko głowę.';
 
   @override
-  String get species_florida_softshell_turtle_name => 'Żółwiak drapieżny';
+  String get species_florida_softshell_turtle_name => 'żółwiak drapieżny';
 
   @override
   String get species_florida_softshell_turtle_desc =>
       'Duży ciemny żółwiak z długim, rurkowatym ryjkiem, pospolity w źródłach, kanałach i jeziorach Florydy.';
 
   @override
-  String get species_pig_nosed_turtle_name => 'Żółw dwupazurzasty';
+  String get species_pig_nosed_turtle_name => 'miękkoskórek dwupazurzasty';
 
   @override
   String get species_pig_nosed_turtle_desc =>
@@ -52154,14 +52154,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciemny żółw nakrapiany żółtymi kropkami, rodzimy słodkowodny żółw Europy, zsuwający się z nasłonecznionych brzegów do zarośniętych stawów.';
 
   @override
-  String get species_american_alligator_name => 'Aligator amerykański';
+  String get species_american_alligator_name => 'Aligator missisipski';
 
   @override
   String get species_american_alligator_desc =>
       'Opancerzony gad o szerokim pysku z bagien, źródeł i rzek południowo-wschodnich Stanów Zjednoczonych, unoszący się tak, że nad wodą widać tylko oczy i nozdrza.';
 
   @override
-  String get species_spectacled_caiman_name => 'Kajman okularowy';
+  String get species_spectacled_caiman_name => 'kajman okularowy';
 
   @override
   String get species_spectacled_caiman_desc =>
@@ -52175,14 +52175,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy drapieżnik Amazonii, czarny opancerzony kajman długości do pięciu metrów, polujący nocą w jeziorach i zalanym lesie.';
 
   @override
-  String get species_freshwater_crocodile_name => 'Krokodyl australijski';
+  String get species_freshwater_crocodile_name => 'krokodyl australijski';
 
   @override
   String get species_freshwater_crocodile_desc =>
       'Australijski krokodyl o wąskim pysku z północnych rzek i wąwozów, płochliwy i znacznie mniejszy od krokodyla różańcowego.';
 
   @override
-  String get species_northern_water_snake_name => 'Wąż wodny północny';
+  String get species_northern_water_snake_name => 'zaskroniec północny';
 
   @override
   String get species_northern_water_snake_desc =>
@@ -52196,7 +52196,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najcięższy wąż na Ziemi, oliwkowy olbrzym w czarne plamy, leżący w zanurzeniu na bagnach i w wolno płynących rzekach Amazonii.';
 
   @override
-  String get species_hellbender_name => 'Skrytoskrzel alleghański';
+  String get species_hellbender_name => 'Skrytoskrzel diabeł błotny';
 
   @override
   String get species_hellbender_desc =>
@@ -52210,7 +52210,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Brązowa, plamista salamandra, która przez całe życie zachowuje pierzaste czerwone skrzela i nocą pełza po dnie jezior i rzek.';
 
   @override
-  String get species_axolotl_name => 'Aksolotl';
+  String get species_axolotl_name => 'Ambystoma meksykańska';
 
   @override
   String get species_axolotl_desc =>
@@ -52218,7 +52218,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_chinese_giant_salamander_name =>
-      'Salamandra olbrzymia chińska';
+      'salamandra olbrzymia chińska';
 
   @override
   String get species_chinese_giant_salamander_desc =>
@@ -52246,14 +52246,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ogromna zielona żaba o basowym ryku, siedząca wśród liści lilii wodnych w ciepłych stawach, dziś inwazyjna na kilku kontynentach.';
 
   @override
-  String get species_common_frog_name => 'Żaba trawna';
+  String get species_common_frog_name => 'żaba trawna';
 
   @override
   String get species_common_frog_desc =>
       'Brązowa żaba z ciemną maską przy oczach, wiosną zbierająca się w hałaśliwe gromady, by składać skrzek w stawach i rowach Europy.';
 
   @override
-  String get species_north_american_river_otter_name => 'Wydra kanadyjska';
+  String get species_north_american_river_otter_name => 'Wydrak kanadyjski';
 
   @override
   String get species_north_american_river_otter_desc =>
@@ -52267,14 +52267,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płochliwa brązowa wydra rzek, jezior i wybrzeży Europy, po dziesięcioleciach spadku liczebności odradzająca się w całym swoim zasięgu.';
 
   @override
-  String get species_giant_otter_name => 'Wydra olbrzymia';
+  String get species_giant_otter_name => 'Arirania amazońska';
 
   @override
   String get species_giant_otter_desc =>
       'Niemal dwumetrowa wydra z kremową plamą na gardle, żyjąca w hałaśliwych grupach rodzinnych na rzekach i starorzeczach Amazonii.';
 
   @override
-  String get species_north_american_beaver_name => 'Bóbr kanadyjski';
+  String get species_north_american_beaver_name => 'bóbr kanadyjski';
 
   @override
   String get species_north_american_beaver_desc =>
@@ -52288,21 +52288,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gryzoń Europy, reintrodukowany na całym kontynencie, ścinający nadrzeczne drzewa i budujący tamy oraz żeremia.';
 
   @override
-  String get species_muskrat_name => 'Piżmak';
+  String get species_muskrat_name => 'piżmak amerykański';
 
   @override
   String get species_muskrat_desc =>
       'Brązowy gryzoń wielkości szczura o łuskowatym, spłaszczonym ogonie, pływający wśród szuwarów pałkowych i budujący kopulaste domki z trzciny.';
 
   @override
-  String get species_platypus_name => 'Dziobak';
+  String get species_platypus_name => 'Dziobak australijski';
 
   @override
   String get species_platypus_desc =>
       'Jajorodny ssak z kaczym dziobem i błonami pławnymi na łapach, o świcie i zmierzchu żerujący z zamkniętymi oczami w potokach wschodniej Australii.';
 
   @override
-  String get species_amazonian_manatee_name => 'Manat amazoński';
+  String get species_amazonian_manatee_name => 'Manat rzeczny';
 
   @override
   String get species_amazonian_manatee_desc =>
@@ -52323,7 +52323,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jedyna na świecie foka słodkowodna, mała i srebrzystoszara, wylegująca się na lodzie i skalistych brzegach Bajkału.';
 
   @override
-  String get species_capybara_name => 'Kapibara';
+  String get species_capybara_name => 'Kapibara wielka';
 
   @override
   String get species_capybara_desc =>
@@ -52351,7 +52351,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Sercowate pływające liście i kubkowate żółte kwiaty, a pod wodą duże, prześwitujące liście podwodne, które nurkowie widzą od spodu.';
 
   @override
-  String get species_american_eelgrass_name => 'Nurzaniec amerykański';
+  String get species_american_eelgrass_name => 'nurzaniec amerykański';
 
   @override
   String get species_american_eelgrass_desc =>
@@ -52372,7 +52372,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pierzasta roślina zanurzona z okółkami drobno podzielonych liści, tworząca przy powierzchni gęste kożuchy, inwazyjna w wielu jeziorach.';
 
   @override
-  String get species_muskgrass_name => 'Ramienica zwyczajna';
+  String get species_muskgrass_name => 'ramienica pospolita';
 
   @override
   String get species_muskgrass_desc =>
@@ -52386,14 +52386,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Gęsta roślina zanurzona z okółkami trzech małych ciemnozielonych liści, rozprzestrzeniająca się z fragmentów pędów w chłodnych jeziorach i kanałach całego świata.';
 
   @override
-  String get species_curly_leaf_pondweed_name => 'Rdestnica kędzierzawa';
+  String get species_curly_leaf_pondweed_name => 'rdestnica kędzierzawa';
 
   @override
   String get species_curly_leaf_pondweed_desc =>
       'Roślina zanurzona o czerwonawozielonych liściach z falistym brzegiem, podobnych do pomarszczonej lasagne, rosnąca wczesną wiosną przed innymi roślinami wodnymi.';
 
   @override
-  String get species_water_hyacinth_name => 'Hiacynt wodny';
+  String get species_water_hyacinth_name => 'pontederia gruboogonkowa';
 
   @override
   String get species_water_hyacinth_desc =>
