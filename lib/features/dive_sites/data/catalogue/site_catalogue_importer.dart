@@ -35,8 +35,9 @@ const kSiteCatalogueMetaVersion = 'version';
 /// withdrawn records are stored (`kSiteCatalogueMetaWithdrawn`). 5: the
 /// search text folds Latin Extended-A letters and drops combining accents
 /// (#4498), as the picker's needle now does. 6: the sea table names
-/// seas in Polish.
-const kSiteCatalogueImportRevision = 6;
+/// seas in Polish. 7: the sea table names in Polish the three seas
+/// Wikidata has no Polish label for.
+const kSiteCatalogueImportRevision = 7;
 
 /// The meta row holding the catalogue's sources, as JSON.
 const kSiteCatalogueMetaSources = 'sources';

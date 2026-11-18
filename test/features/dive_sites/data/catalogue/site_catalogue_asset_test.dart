@@ -414,9 +414,9 @@ void main() {
     // If this fails because sea_areas.json changed: raise
     // kSiteCatalogueImportRevision, then put the new revision and hash here.
     const pinned = (
-      revision: 6,
+      revision: 7,
       seaTable:
-          'f811a35a0fc60c811a3b84b538ef35a500301dca7b833d0924790e45de37ced2',
+          '4a544afc4dba03151d2d97afab6d8334fece631be852db2be64acf883a819608',
     );
 
     final seaTable = File(p.join('assets', 'data', 'sea_areas.json'));

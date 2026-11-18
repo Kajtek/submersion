@@ -218,6 +218,23 @@ class TranslationTest(unittest.TestCase):
             untranslated, [], f"areas shipped with no translations: {untranslated}"
         )
 
+    def test_names_a_sea_by_hand_where_wikidata_has_no_label(self):
+        output = sea_area_harvester.build(
+            {
+                "features": [
+                    {
+                        "properties": {"name": "South Atlantic Ocean"},
+                        "geometry": _polygon(_square(0, 0, 10)),
+                    }
+                ]
+            },
+            {"South Atlantic Ocean": {"de": "Südatlantik"}},
+        )
+        self.assertEqual(
+            output["areas"][0]["names"],
+            {"de": "Südatlantik", "pl": "Południowy Atlantyk"},
+        )
+
     def test_english_is_not_fetched_because_the_name_is_the_fallback(self):
         self.assertNotIn("en", sea_area_harvester.TRANSLATION_LANGUAGES)
 
