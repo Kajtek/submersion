@@ -124,6 +124,7 @@ TRANSLATION_LANGUAGES = [
     "nl",
     "pt",
     "hu",
+    "pl",
     "ar",
     "he",
     "zh",

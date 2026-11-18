@@ -16,6 +16,7 @@ void main() {
       'nl',
       'pt',
       'hu',
+      'pl',
       'ar',
       'he',
       'zh',
@@ -47,7 +48,7 @@ void main() {
 
     test('system follows the first supported device language', () {
       expect(
-        PlaceNameLanguage.forAppLocale('system', const ['pl', 'de']),
+        PlaceNameLanguage.forAppLocale('system', const ['sv', 'de']),
         'de',
       );
     });
@@ -57,7 +58,7 @@ void main() {
     });
 
     test('system with no supported device language falls back to English', () {
-      expect(PlaceNameLanguage.forAppLocale('system', const ['pl', 'c']), 'en');
+      expect(PlaceNameLanguage.forAppLocale('system', const ['sv', 'c']), 'en');
       expect(PlaceNameLanguage.forAppLocale('system', const []), 'en');
     });
 

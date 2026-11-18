@@ -177,6 +177,10 @@ void main() {
       expect(index.nameAt(27.7275, 34.2544, languageCode: 'de'), 'Rotes Meer');
       expect(index.nameAt(27.7275, 34.2544, languageCode: 'fr'), 'mer Rouge');
       expect(index.nameAt(27.7275, 34.2544, languageCode: 'zh'), '红海');
+      expect(
+        index.nameAt(27.7275, 34.2544, languageCode: 'pl'),
+        'Morze Czerwone',
+      );
     });
 
     test('defaults to English', () {
@@ -227,6 +231,7 @@ void main() {
         'pt',
         'ar',
         'he',
+        'pl',
         'zh',
       ]) {
         expect(

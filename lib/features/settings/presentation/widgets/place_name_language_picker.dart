@@ -54,7 +54,7 @@ class PlaceNameLanguageList extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // A Column rather than a lazy ListView: eleven rows are cheap, and every
+    // A Column rather than a lazy ListView: twelve rows are cheap, and every
     // option then exists in the tree, which keeps the picker testable.
     return SizedBox(
       width: 360,

@@ -10,7 +10,14 @@ void main() {
         expect(countryCodeFor(text), code, reason: 'for "$text"');
 
     test('resolves names in any place-name language, folded', () {
-      for (final text in ['Mexico', '  méxico ', 'MEXIQUE', 'Messico', '墨西哥']) {
+      for (final text in [
+        'Mexico',
+        '  méxico ',
+        'MEXIQUE',
+        'Messico',
+        'Meksyk',
+        '墨西哥',
+      ]) {
         expectCode(text, 'MX');
       }
     });
@@ -293,7 +300,7 @@ void main() {
       for (final query in ['Thailand', 'Thaïlande', 'tailandia', 'ประเทศไทย']) {
         expect(countryCodesMatching(query), contains('TH'), reason: query);
       }
-      for (final query in ['Egypt', 'Égypte', 'Ägypten']) {
+      for (final query in ['Egypt', 'Égypte', 'Ägypten', 'Egipt']) {
         expect(countryCodesMatching(query), contains('EG'), reason: query);
       }
     });
