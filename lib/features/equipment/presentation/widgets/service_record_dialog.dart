@@ -418,11 +418,15 @@ class _ServiceRecordDialogState extends ConsumerState<ServiceRecordDialog> {
                     Expanded(
                       flex: 2,
                       // Rebuild the cost field when the currency changes so
-                      // its prefix shows the right symbol (EUR -> €, ...).
+                      // it shows the right symbol (EUR -> €, ...) on the side
+                      // the locale writes it.
                       child: ValueListenableBuilder<TextEditingValue>(
                         valueListenable: _currencyController,
                         builder: (context, value, _) {
                           final symbol = currencySymbol(value.text);
+                          final trails = currencySymbolFollowsAmount(
+                            value.text,
+                          );
                           return TextFormField(
                             key: const Key('service-record-cost'),
                             controller: _costController,
@@ -431,7 +435,12 @@ class _ServiceRecordDialogState extends ConsumerState<ServiceRecordDialog> {
                               labelText: context
                                   .l10n
                                   .equipment_serviceDialog_costLabel,
-                              prefixText: symbol.isEmpty ? null : '$symbol ',
+                              prefixText: symbol.isEmpty || trails
+                                  ? null
+                                  : '$symbol ',
+                              suffixText: symbol.isEmpty || !trails
+                                  ? null
+                                  : ' $symbol',
                               hintText:
                                   context.l10n.equipment_serviceDialog_costHint,
                             ),

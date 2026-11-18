@@ -117,6 +117,33 @@ void main() {
     );
   });
 
+  group('currencySymbolFollowsAmount', () {
+    test('Polish writes the zloty after the amount', () {
+      Intl.defaultLocale = 'pl';
+      expect(currencySymbolFollowsAmount('PLN'), isTrue);
+    });
+
+    test('German writes the euro after the amount', () {
+      Intl.defaultLocale = 'de';
+      expect(currencySymbolFollowsAmount('EUR'), isTrue);
+    });
+
+    test('English writes the symbol before the amount', () {
+      expect(currencySymbolFollowsAmount('USD'), isFalse);
+      expect(currencySymbolFollowsAmount('PLN'), isFalse);
+    });
+
+    test('a blank code puts nothing after the amount', () {
+      Intl.defaultLocale = 'pl';
+      expect(currencySymbolFollowsAmount(''), isFalse);
+    });
+
+    test('a locale intl has no number symbols for keeps the symbol first', () {
+      Intl.defaultLocale = 'xx_YY';
+      expect(currencySymbolFollowsAmount('PLN'), isFalse);
+    });
+  });
+
   group('locale data failures', () {
     // intl throws ArgumentError when Intl.defaultLocale names a locale it has
     // no number symbols for. These helpers are called from build methods, so

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:intl/intl.dart';
 
 import 'package:submersion/core/constants/enums.dart';
 import 'package:submersion/core/providers/provider.dart';
@@ -142,6 +143,25 @@ void main() {
   testWidgets('an untagged new record prefills nothing', (tester) async {
     await pumpDialog(tester, kindCost: 60, serviceKindId: null);
     expect(costText(tester), isEmpty);
+  });
+
+  testWidgets('shows the zloty after the cost under Polish', (tester) async {
+    final previousLocale = Intl.defaultLocale;
+    Intl.defaultLocale = 'pl';
+    addTearDown(() => Intl.defaultLocale = previousLocale);
+
+    await pumpDialog(tester, kindCost: 60, kindCurrency: 'PLN');
+
+    final decoration = tester
+        .widget<TextField>(
+          find.descendant(
+            of: find.byKey(costFieldKey),
+            matching: find.byType(TextField),
+          ),
+        )
+        .decoration!;
+    expect(decoration.suffixText, ' zł');
+    expect(decoration.prefixText, isNull);
   });
 
   testWidgets('a cost the diver has typed is not overwritten', (tester) async {

@@ -917,12 +917,14 @@ class _EquipmentEditPageState extends ConsumerState<EquipmentEditPage> {
               children: [
                 Expanded(
                   flex: 2,
-                  // Rebuild the price field when the currency changes so its
-                  // prefix shows the right symbol (€, $, £ ...).
+                  // Rebuild the price field when the currency changes so it
+                  // shows the right symbol (€, $, £ ...) on the side the
+                  // locale writes it ("€ 12" in English, "12 zł" in Polish).
                   child: ValueListenableBuilder<TextEditingValue>(
                     valueListenable: _purchaseCurrencyController,
                     builder: (context, value, _) {
                       final symbol = currencySymbol(value.text);
+                      final trails = currencySymbolFollowsAmount(value.text);
                       return TextFormField(
                         key: const ValueKey('equipment-purchase-price'),
                         controller: _purchasePriceController,
@@ -930,7 +932,12 @@ class _EquipmentEditPageState extends ConsumerState<EquipmentEditPage> {
                           labelText: _isWanted
                               ? context.l10n.equipment_edit_expectedPriceLabel
                               : context.l10n.equipment_edit_purchasePriceLabel,
-                          prefixText: symbol.isEmpty ? null : '$symbol ',
+                          prefixText: symbol.isEmpty || trails
+                              ? null
+                              : '$symbol ',
+                          suffixText: symbol.isEmpty || !trails
+                              ? null
+                              : ' $symbol',
                         ),
                         keyboardType: const TextInputType.numberWithOptions(
                           decimal: true,
