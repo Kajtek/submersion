@@ -254,7 +254,7 @@ fi
 # same thing in Analyze & Format; this hook is the cheaper second check that
 # catches it before the push rather than after.
 #
-# Only runs when the push touches lib/l10n/. gen-l10n rewrites all 12 files
+# Only runs when the push touches lib/l10n/. gen-l10n rewrites all 13 files
 # unconditionally, even when the bytes are identical, and app_localizations.dart
 # is imported by 378 test files -- the biggest hub in the repo -- so doing this
 # on every push would bump those mtimes and force a pointless recompile.
@@ -290,7 +290,7 @@ l10n_failed=0
 if [ "$l10n_touched" = "1" ]; then
     echo "🌍 Verifying generated localizations match the ARB files..."
     # Snapshot with -p so the mtimes can be put back when nothing drifted:
-    # gen-l10n rewrites all 12 files regardless, and letting that bump the
+    # gen-l10n rewrites all 13 files regardless, and letting that bump the
     # mtime of the repo's biggest import hub would throw away an already-warm
     # compile before this hook's own test stage runs.
     l10n_before=$(mktemp -d)

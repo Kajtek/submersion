@@ -278,7 +278,7 @@ How readiness was decided (275):
 > hold a diver's log in a proprietary cloud the diver cannot export from.
 >
 > Submersion is the same application on Android, iOS, macOS, Windows and
-> Linux, with identical detail and analysis on each, in 11 languages. The dive
+> Linux, with identical detail and analysis on each, in 12 languages. The dive
 > log is an SQLite database the diver owns, optionally encrypted at rest, and
 > exportable at any time to UDDF 3.2, CSV, Excel, KML, GPX and PDF. Nothing is
 > locked in and nothing depends on a service continuing to exist.
@@ -709,7 +709,7 @@ No server. No account. No lock-in.
 - Export to UDDF 3.2, CSV, Excel, KML, GPX and printable PDF
 
 WHY SUBMERSION
-Most dive logging software is either a desktop application stuck in the past or a mobile app that holds your dive history in a cloud you cannot export from. Submersion is the same application on Android, iOS, macOS, Windows and Linux, with the same detail and the same analysis everywhere, in 11 languages. Your dive log is a database file you own.
+Most dive logging software is either a desktop application stuck in the past or a mobile app that holds your dive history in a cloud you cannot export from. Submersion is the same application on Android, iOS, macOS, Windows and Linux, with the same detail and the same analysis everywhere, in 12 languages. Your dive log is a database file you own.
 
 Open source under GPL-3.0. Source, issue tracker and roadmap:
 github.com/submersion-app/submersion
