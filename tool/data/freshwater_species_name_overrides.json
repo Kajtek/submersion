@@ -9,7 +9,7 @@
     "pt": "Muskellunge",
     "nl": "Muskellunge",
     "hu": "Muskellunge csuka",
-    "pl": "Muskinong",
+    "pl": "Szczupak amerykański",
     "ar": "ماسكلانج",
     "he": "מסקלנג'"
   },
@@ -25,12 +25,14 @@
   "sp_walleye": {
     "it": "Walleye",
     "hu": "Walleye",
+    "pl": "Sandacz amerykański",
     "ar": "الوالاي",
     "he": "וואליי"
   },
   "sp_sauger": {
     "it": "Sauger",
     "hu": "Sauger",
+    "pl": "Sandacz kanadyjski",
     "ar": "الساوغر",
     "he": "סאוגר"
   },
@@ -41,6 +43,7 @@
     "he": "דקר צהוב"
   },
   "sp_european_perch": {
+    "pl": "Okoń pospolity",
     "ar": "الفرخ الأوروبي",
     "he": "דקר אירופי"
   },
@@ -61,6 +64,7 @@
   "sp_smallmouth_bass": {
     "it": "Persico trota bocca piccola",
     "hu": "Kisszájú sügér",
+    "pl": "Bass małogębowy",
     "ar": "القاروص صغير الفم",
     "he": "בס קטן פה"
   },
@@ -74,6 +78,7 @@
     "it": "Pesce sole bluegill",
     "nl": "Blauwkieuwzonnebaars",
     "hu": "Kékkopoltyús naphal",
+    "pl": "Bass niebieski",
     "ar": "البلوجيل",
     "he": "דג שמש כחול זימים"
   },
@@ -108,6 +113,7 @@
   "sp_lake_trout": {
     "it": "Trota di lago",
     "hu": "Tavi szaibling",
+    "pl": "Palia jeziorowa",
     "ar": "تروتة البحيرات",
     "he": "פורל אגמים"
   },
@@ -118,21 +124,25 @@
   },
   "sp_atlantic_salmon": {
     "hu": "Atlanti lazac",
+    "pl": "Łosoś szlachetny",
     "ar": "سلمون الأطلسي",
     "he": "סלמון אטלנטי"
   },
   "sp_chinook_salmon": {
     "hu": "Királylazac",
+    "pl": "Czawycza",
     "ar": "سلمون الشينوك",
     "he": "סלמון צ'ינוק"
   },
   "sp_sockeye_salmon": {
     "hu": "Vörös lazac",
+    "pl": "Nerka",
     "ar": "السلمون الأحمر",
     "he": "סלמון אדום"
   },
   "sp_coho_salmon": {
     "hu": "Ezüstlazac",
+    "pl": "Kiżucz",
     "ar": "سلمون الكوهو",
     "he": "סלמון קוהו"
   },
@@ -210,6 +220,7 @@
     "pt": "Bagre-cabeça-chata",
     "nl": "Platkopmeerval",
     "hu": "Laposfejű harcsa",
+    "pl": "Sum płaskogłowy",
     "ar": "السلور مسطح الرأس",
     "he": "שפמנון שטוח ראש"
   },
@@ -226,6 +237,7 @@
     "pt": "Esturjão-branco",
     "nl": "Witte steur",
     "hu": "Fehér tok",
+    "pl": "Jesiotr amerykański",
     "zh": "白鲟",
     "ar": "الحفش الأبيض",
     "he": "חדקן לבן"
@@ -255,6 +267,7 @@
   },
   "sp_longnose_gar": {
     "hu": "Hosszúorrú kajmánhal",
+    "pl": "Niszczuka długonosa",
     "ar": "الغار طويل الأنف",
     "he": "גאר ארוך חרטום"
   },
@@ -266,6 +279,7 @@
   "sp_american_paddlefish": {
     "pt": "Peixe-espátula-americano",
     "hu": "Amerikai lapátorrú hal",
+    "pl": "Wiosłonos amerykański",
     "he": "דג משוט אמריקאי"
   },
   "sp_sea_lamprey": {
@@ -286,6 +300,7 @@
     "pt": "Sugador-branco",
     "nl": "Witte zuigkarper",
     "hu": "Fehér szívóhal",
+    "pl": "Czukuczan biały",
     "ar": "الماص الأبيض",
     "he": "מוצץ לבן"
   },
@@ -345,6 +360,7 @@
     "it": "Mbuna zebra",
     "nl": "Zebra-mbuna",
     "hu": "Zebra mbuna",
+    "pl": "Pyszczak zebra",
     "zh": "斑马岩栖慈鲷",
     "ar": "مبونا الزرد",
     "he": "מבונה זברה"
@@ -390,6 +406,7 @@
     "it": "Frontosa",
     "nl": "Frontosa",
     "hu": "Frontosa",
+    "pl": "Pyszczak hełmiasty",
     "zh": "六间慈鲷",
     "ar": "الفرونتوزا",
     "he": "פרונטוזה"
@@ -407,7 +424,8 @@
     "he": "טרופאוס מורי"
   },
   "sp_arapaima": {
-    "fr": "Arapaïma"
+    "fr": "Arapaïma",
+    "pl": "Arapaima piraruku"
   },
   "sp_silver_arowana": {
     "hu": "Ezüst arowana",
@@ -431,6 +449,7 @@
     "it": "Pacu ventre rosso",
     "nl": "Roodbuikpacu",
     "hu": "Vöröshasú pacu",
+    "pl": "Pirapitinga",
     "ar": "الباكو أحمر البطن",
     "he": "פאקו אדום בטן"
   },
@@ -438,6 +457,7 @@
     "it": "Tambaqui",
     "pt": "Tambaqui",
     "hu": "Tambaqui",
+    "pl": "Paku czarnopłetwy",
     "ar": "التامباكي",
     "he": "טמבקי"
   },
@@ -465,6 +485,7 @@
     "it": "Persico pavone",
     "nl": "Pauwbaars",
     "hu": "Pávasügér",
+    "pl": "Pielęgnica pawia",
     "ar": "قاروص الطاووس",
     "he": "בס טווס"
   },
@@ -515,6 +536,7 @@
     "it": "Tetra messicano",
     "nl": "Blinde grottetra",
     "hu": "Vak barlangi hal",
+    "pl": "Lustrzeń meksykański",
     "he": "טטרה מקסיקנית"
   },
   "sp_mekong_giant_catfish": {
@@ -619,6 +641,7 @@
     "it": "Ayu",
     "pt": "Ayu",
     "hu": "Ayu",
+    "pl": "Aju",
     "ar": "الآيو",
     "he": "איו"
   },
@@ -639,6 +662,7 @@
     "pt": "Golomianka",
     "nl": "Golomjanka",
     "hu": "Golomjanka",
+    "pl": "Gołomianka duża",
     "zh": "贝加尔油鱼",
     "ar": "غولوميانكا",
     "he": "גולומיאנקה"
@@ -680,6 +704,7 @@
     "it": "Barramundi",
     "nl": "Barramundi",
     "hu": "Barramundi",
+    "pl": "Barramundi",
     "ar": "الباراموندي"
   },
   "sp_silver_perch": {
@@ -721,6 +746,7 @@
     "it": "Pesce gatto coda d'anguilla",
     "nl": "Palingstaartmeerval",
     "hu": "Angolnafarkú harcsa",
+    "pl": "Tandan marmurkowy",
     "zh": "鳗尾鲶",
     "ar": "السلور ثعباني الذيل",
     "he": "שפמנון זנב צלופח"
@@ -754,6 +780,7 @@
     "he": "סרטן נהרות סימן"
   },
   "sp_red_swamp_crayfish": {
+    "pl": "Rak luizjański",
     "ar": "جراد المستنقعات الأحمر"
   },
   "sp_noble_crayfish": {
@@ -787,6 +814,7 @@
   "sp_quagga_mussel": {
     "it": "Cozza quagga",
     "pt": "Mexilhão-quagga",
+    "pl": "Racicznica pasiasta",
     "ar": "بلح البحر الكواجا",
     "he": "צדפת קוואגה"
   },
@@ -816,6 +844,7 @@
   "sp_freshwater_jellyfish": {
     "es": "Medusa de agua dulce",
     "hu": "Édesvízi medúza",
+    "pl": "Hederyka Rydera",
     "he": "מדוזת מים מתוקים"
   },
   "sp_great_pond_snail": {
@@ -844,6 +873,7 @@
   },
   "sp_chinese_mitten_crab": {
     "hu": "Kínai gyapjasollós rák",
+    "pl": "Krab wełnistoszczypcy",
     "he": "סרטן כפפות סיני"
   },
   "sp_giant_freshwater_prawn": {
@@ -860,6 +890,7 @@
   "sp_alligator_snapping_turtle": {
     "it": "Tartaruga alligatore",
     "pt": "Tartaruga-aligátor",
+    "pl": "Skorpucha sępia",
     "he": "צב נושך תנין"
   },
   "sp_painted_turtle": {
@@ -890,13 +921,15 @@
   "sp_florida_softshell_turtle": {
     "it": "Tartaruga dal guscio molle della Florida",
     "nl": "Florida-weekschildpad",
+    "pl": "Żółwiak drapieżny",
     "he": "צב רך פלורידה"
   },
   "sp_pig_nosed_turtle": {
     "fr": "Tortue à nez de cochon",
     "it": "Tartaruga dal naso di maiale",
     "pt": "Tartaruga-nariz-de-porco",
-    "nl": "Varkensneusschildpad"
+    "nl": "Varkensneusschildpad",
+    "pl": "Miękkoskórek dwupazurzasty"
   },
   "sp_mary_river_turtle": {
     "es": "Tortuga del río Mary",
@@ -918,17 +951,20 @@
     "he": "אליגטור אמריקאי"
   },
   "sp_spectacled_caiman": {
+    "pl": "Kajman okularowy",
     "he": "קיימן משקפיים"
   },
   "sp_black_caiman": {
     "he": "קיימן שחור"
   },
   "sp_freshwater_crocodile": {
+    "pl": "Krokodyl australijski",
     "he": "תנין מים מתוקים"
   },
   "sp_northern_water_snake": {
     "nl": "Noordelijke waterslang",
     "hu": "Északi vízisikló",
+    "pl": "Zaskroniec północny",
     "ar": "ثعبان الماء الشمالي",
     "he": "נחש מים צפוני"
   },
@@ -938,7 +974,8 @@
   },
   "sp_hellbender": {
     "it": "Salamandra gigante americana",
-    "nl": "Hellbender"
+    "nl": "Hellbender",
+    "pl": "Skrytoskrzel"
   },
   "sp_mudpuppy": {
     "it": "Necturo",
@@ -955,7 +992,8 @@
   },
   "sp_chinese_giant_salamander": {
     "it": "Salamandra gigante cinese",
-    "hu": "Kínai óriásszalamandra"
+    "hu": "Kínai óriásszalamandra",
+    "pl": "Salamandra olbrzymia chińska"
   },
   "sp_smooth_newt": {
     "ar": "السمندل الأملس",
@@ -968,11 +1006,18 @@
     "ar": "ضفدع الثور الأمريكي"
   },
   "sp_common_frog": {
+    "pl": "Żaba trawna",
     "ar": "الضفدع الشائع",
     "he": "צפרדע מצויה"
   },
   "sp_giant_otter": {
     "he": "לוטרה ענקית"
+  },
+  "sp_north_american_beaver": {
+    "pl": "Bóbr kanadyjski"
+  },
+  "sp_muskrat": {
+    "pl": "Piżmak amerykański"
   },
   "sp_amazonian_manatee": {
     "he": "פרת ים אמזונית"
@@ -996,6 +1041,7 @@
     "pt": "Valisnéria-americana",
     "nl": "Amerikaans vallisneria",
     "hu": "Amerikai vízicsavar",
+    "pl": "Nurzaniec amerykański",
     "ar": "الفاليسنيريا الأمريكية",
     "he": "ואליסנריה אמריקאית"
   },
@@ -1003,6 +1049,7 @@
     "it": "Chara",
     "pt": "Chara",
     "hu": "Csillárka",
+    "pl": "Ramienica pospolita",
     "ar": "الخارا",
     "he": "כארה"
   },
@@ -1010,6 +1057,10 @@
     "ar": "الإيلوديا الكندية"
   },
   "sp_curly_leaf_pondweed": {
+    "pl": "Rdestnica kędzierzawa",
     "ar": "عشب البرك مجعد الأوراق"
+  },
+  "sp_water_hyacinth": {
+    "pl": "Pontederia gruboogonkowa"
   }
 }

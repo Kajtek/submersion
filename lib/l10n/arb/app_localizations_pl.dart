@@ -675,7 +675,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String equipment_history_added(String name) {
-    return 'Dodano przez: $name';
+    return 'Dodane przez: $name';
   }
 
   @override
@@ -8356,7 +8356,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_detail_stat_maxDepth => 'Głęb. maks.';
 
   @override
-  String get diveLog_detail_stat_runtime => 'Czas przebiegu';
+  String get diveLog_detail_stat_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get diveLog_detail_stat_waterTemp => 'Temp. wody';
@@ -8655,7 +8655,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_edit_label_maxDepth => 'Głęb. maks.';
 
   @override
-  String get diveLog_edit_label_runtime => 'Czas przebiegu';
+  String get diveLog_edit_label_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get diveLog_edit_label_surfacePressure => 'Ciśnienie na powierzchni';
@@ -9034,7 +9034,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String diveLog_edit_snackbar_runtimeCalculated(Object minutes) {
-    return 'Obliczono czas przebiegu: $minutes min';
+    return 'Obliczono czas przebiegu (runtime): $minutes min';
   }
 
   @override
@@ -9051,7 +9051,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveLog_edit_snackbar_unableToCalculateRuntime =>
-      'Nie można obliczyć czasu przebiegu z profilu';
+      'Nie można obliczyć czasu przebiegu (runtime) z profilu';
 
   @override
   String diveLog_edit_summary_items(int count) {
@@ -9632,7 +9632,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_legend_label_lateGasSwitches => 'Spóźnione zmiany gazu';
 
   @override
-  String get diveLog_legend_label_counterdiffusion => 'Przeciwdyfuzja';
+  String get diveLog_legend_label_counterdiffusion => 'Kontrdyfuzja';
 
   @override
   String get diveLog_counterdiffusion_segment_icd => 'ICD';
@@ -9641,7 +9641,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_counterdiffusion_segment_all => 'Wszystkie';
 
   @override
-  String get diveLog_tooltip_counterdiffusion_icd => 'Przeciwdyfuzja (ICD)';
+  String get diveLog_tooltip_counterdiffusion_icd => 'Kontrdyfuzja (ICD)';
 
   @override
   String get diveLog_tooltip_counterdiffusion_opposing =>
@@ -11717,7 +11717,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_tooltip_sensor => 'Czujnik';
 
   @override
-  String get diveLog_legend_label_o2Cells => 'Czujniki O2';
+  String get diveLog_legend_label_o2Cells => 'Sensory O2';
 
   @override
   String get diveLog_tooltip_o2CellsTight => 'zgodne';
@@ -12027,10 +12027,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get divePlanner_label_gasConsumption => 'Zużycie gazu';
 
   @override
-  String get divePlanner_label_gfHigh => 'GF wysoki';
+  String get divePlanner_label_gfHigh => 'GF High';
 
   @override
-  String get divePlanner_label_gfLow => 'GF niski';
+  String get divePlanner_label_gfLow => 'GF Low';
 
   @override
   String get divePlanner_label_minutesUnit => 'min';
@@ -12048,7 +12048,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get divePlanner_label_reserve => 'Rezerwa';
 
   @override
-  String get divePlanner_label_runtime => 'Czas przebiegu';
+  String get divePlanner_label_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get divePlanner_label_salinity => 'Zasolenie';
@@ -14647,7 +14647,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_equipmentType_dpv => 'DPV';
 
   @override
-  String get enum_equipmentType_o2Cell => 'Czujnik O2';
+  String get enum_equipmentType_o2Cell => 'Sensor O2';
 
   @override
   String get enum_equipmentType_battery => 'Bateria';
@@ -15435,7 +15435,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String passport_fill_station(String station) {
-    return 'Napełniono przez: $station';
+    return 'Napełniła stacja: $station';
   }
 
   @override
@@ -16150,7 +16150,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get pdf_avgDepth => 'Śr. głębokość';
 
   @override
-  String get pdf_runtime => 'Czas przebiegu';
+  String get pdf_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get pdf_bottomTime => 'Czas denny';
@@ -16365,7 +16365,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get pdf_liveaboard => 'Safari nurkowe';
 
   @override
-  String get pdf_totalRuntime => 'Łączny czas przebiegu';
+  String get pdf_totalRuntime => 'Łączny czas przebiegu (runtime)';
 
   @override
   String pdf_tripDiveTitle(String number) {
@@ -16730,7 +16730,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get cylinderConfigs_nameRequired => 'Podaj nazwę';
 
   @override
-  String get cylinderConfigs_forUnit => 'Dla urządzenia';
+  String get cylinderConfigs_forUnit => 'Dla rebreathera';
 
   @override
   String get cylinderConfigs_noUnit => 'Ogólny plan gazowy';
@@ -18971,7 +18971,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get gasCalculators_mod_modeOcTecHint =>
-      'Trimix w obiegu otwartym: MOD, głębokość minimalna, narkoza azotowa i gęstość gazu.';
+      'Trimix w obiegu otwartym: MOD, głębokość minimalna, narkoza gazowa i gęstość gazu.';
 
   @override
   String get gasCalculators_mod_modeCcrTecHint =>
@@ -19092,7 +19092,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String gasCalculators_mod_recBeyondLimit(String limit) {
-    return 'MOD leży głębiej niż limit rekreacyjny $limit. Tam ograniczeniem są narkoza azotowa i gęstość gazu, a nie tlen.';
+    return 'MOD leży głębiej niż limit rekreacyjny $limit. Tam ograniczeniem są narkoza gazowa i gęstość gazu, a nie tlen.';
   }
 
   @override
@@ -19252,7 +19252,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get gasCalculators_icd_ok =>
-      'Brak ryzyka ICD według zasady jednej piątej.';
+      'Brak ryzyka ICD według zasady jednej piątej (rule of fifths).';
 
   @override
   String get gasCalculators_icd_caution =>
@@ -19260,7 +19260,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String gasCalculators_icd_violation(String increase, String max) {
-    return 'Naruszona zasada jednej piątej: zawartość azotu rośnie o $increase%, dopuszczalne maksimum to $max%.';
+    return 'Naruszona zasada jednej piątej (rule of fifths): zawartość azotu rośnie o $increase%, dopuszczalne maksimum to $max%.';
   }
 
   @override
@@ -19801,7 +19801,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get gasCalculators_desc_icd =>
-      'Ryzyko przeciwdyfuzji izobarycznej między dwoma gazami';
+      'Ryzyko kontrdyfuzji izobarycznej między dwoma gazami';
 
   @override
   String get gasCalculators_tab_density => 'Gęstość gazu';
@@ -23058,7 +23058,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get plannerCanvas_turnRule_none => 'Brak';
 
   @override
-  String get plannerCanvas_turnRule_thirds => 'Tercje';
+  String get plannerCanvas_turnRule_thirds => 'Zasada 1/3';
 
   @override
   String get planning_appBar_title => 'Planowanie';
@@ -23122,7 +23122,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_conflict_field_defaultShowCounterdiffusion =>
-      'Profil pokazuje przeciwdyfuzję izobaryczną';
+      'Profil pokazuje kontrdyfuzję izobaryczną';
 
   @override
   String get settings_conflict_field_hasAcceptedPlanningDisclaimer =>
@@ -23512,16 +23512,16 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get safetySettings_rule_isobaricCounterdiffusion =>
-      'Przeciwdyfuzja izobaryczna';
+      'Kontrdyfuzja izobaryczna';
 
   @override
   String safetyReview_isobaricCounterdiffusion_title(String duration) {
-    return 'Przeciwdyfuzja izobaryczna przez $duration';
+    return 'Kontrdyfuzja izobaryczna przez $duration';
   }
 
   @override
   String get safetyReview_isobaricCounterdiffusion_switch_title =>
-      'Zmiana gazu złamała regułę jednej piątej';
+      'Zmiana gazu złamała zasadę jednej piątej (rule of fifths)';
 
   @override
   String get safetySettings_rule_highSurfaceGf => 'Wysoki GF na powierzchni';
@@ -24125,7 +24125,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_appearance_metric_counterdiffusion =>
-      'Przeciwdyfuzja izobaryczna';
+      'Kontrdyfuzja izobaryczna';
 
   @override
   String get settings_appearance_metric_events => 'Zdarzenia';
@@ -26345,7 +26345,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_conflict_field_defaultShowO2CellMv =>
-      'Profil pokazuje miliwolty czujników O2';
+      'Profil pokazuje miliwolty sensorów O2';
 
   @override
   String get settings_conflict_field_defaultShowOtu => 'Profil pokazuje OTU';
@@ -26726,7 +26726,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_conflict_field_expectedRuntimeMinutes =>
-      'Oczekiwany czas przebiegu jednego nurkowania';
+      'Oczekiwany czas przebiegu (runtime) jednego nurkowania';
 
   @override
   String get settings_conflict_field_exposureIntervals => 'Okresy ekspozycji';
@@ -27694,7 +27694,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Sekcje szczegółów miejsca nurkowego';
 
   @override
-  String get settings_conflict_field_siteFeatures_type => 'Rodzaj cechy';
+  String get settings_conflict_field_siteFeatures_type => 'Rodzaj obiektu';
 
   @override
   String get settings_conflict_field_siteListViewMode =>
@@ -27826,7 +27826,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_conflict_field_summaryRuntimeSeconds =>
-      'Planowany czas przebiegu';
+      'Planowany czas przebiegu (runtime)';
 
   @override
   String get settings_conflict_field_summaryTtsSeconds =>
@@ -29605,16 +29605,16 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_decompression_dialog_conservatismHint =>
-      'Niższe wartości = większy konserwatyzm (dłuższy NDL/więcej deko)';
+      'Niższe wartości = większy konserwatyzm (krótszy NDL/więcej deko)';
 
   @override
   String get settings_decompression_dialog_customValues => 'Własne wartości';
 
   @override
-  String get settings_decompression_dialog_gfHigh => 'GF wysoki';
+  String get settings_decompression_dialog_gfHigh => 'GF High';
 
   @override
-  String get settings_decompression_dialog_gfLow => 'GF niski';
+  String get settings_decompression_dialog_gfLow => 'GF Low';
 
   @override
   String get settings_decompression_dialog_info =>
@@ -29771,7 +29771,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get settings_decompression_header_narcosis => 'Narkoza azotowa';
+  String get settings_decompression_header_narcosis => 'Narkoza gazowa';
 
   @override
   String get settings_decompression_o2Narcotic => 'O2 jest narkotyczny';
@@ -29791,14 +29791,14 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_decompression_endLimit_dialog_title => 'Limit END';
 
   @override
-  String get settings_decompression_header_icd => 'Przeciwdyfuzja izobaryczna';
+  String get settings_decompression_header_icd => 'Kontrdyfuzja izobaryczna';
 
   @override
   String get settings_decompression_icdWarnings => 'Ostrzegaj o ryzyku ICD';
 
   @override
   String get settings_decompression_icdWarnings_subtitle =>
-      'Pokazuje ocenę według reguły jednej piątej w kalkulatorze ICD oraz na nakładce przeciwdyfuzji na profilu nurkowania przy zmianie gazu bogatszego w hel na bogatszy w azot.';
+      'Pokazuje ocenę według zasady jednej piątej (rule of fifths) w kalkulatorze ICD oraz na nakładce kontrdyfuzji na profilu nurkowania przy zmianie gazu bogatszego w hel na bogatszy w azot.';
 
   @override
   String get settings_decompression_cnsMethodTitle => 'Obliczanie CNS';
@@ -32697,7 +32697,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get insights_focus_metric_bottomTime => 'Czas denny';
 
   @override
-  String get insights_focus_metric_runtime => 'Czas przebiegu';
+  String get insights_focus_metric_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get insights_focus_metric_weight => 'Balast';
@@ -33274,14 +33274,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get insights_progression_runtime_error =>
-      'Nie udało się załadować trendu czasu przebiegu';
+      'Nie udało się załadować trendu czasu przebiegu (runtime)';
 
   @override
   String get insights_progression_runtime_subtitle =>
       'Każde nurkowanie z zakresu';
 
   @override
-  String get insights_progression_runtime_title => 'Trend czasu przebiegu';
+  String get insights_progression_runtime_title =>
+      'Trend czasu przebiegu (runtime)';
 
   @override
   String get insights_progression_cumulative_error =>
@@ -35648,7 +35649,8 @@ class AppLocalizationsPl extends AppLocalizations {
   String get trips_detail_stat_maxDepth => 'Głęb. maks.';
 
   @override
-  String get trips_detail_stat_totalRuntime => 'Łączny czas przebiegu';
+  String get trips_detail_stat_totalRuntime =>
+      'Łączny czas przebiegu (runtime)';
 
   @override
   String get trips_detail_stat_totalDives => 'Łącznie nurkowań';
@@ -36269,7 +36271,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get trips_edit_label_expectedRuntime =>
-      'Przewidywany czas przebiegu nurkowania (minuty)';
+      'Przewidywany czas przebiegu (runtime) nurkowania, w minutach';
 
   @override
   String get trips_edit_hint_expectedRuntime =>
@@ -37637,7 +37639,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String universalImport_bulk_consolidateMatched(int count) {
-    return 'Połącz dopasowane ($count)';
+    return 'Skonsoliduj dopasowane ($count)';
   }
 
   @override
@@ -37802,7 +37804,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get universalImport_label_consolidate => 'Połącz';
+  String get universalImport_label_consolidate => 'Skonsoliduj';
 
   @override
   String get universalImport_label_detecting => 'Wykrywanie...';
@@ -40554,7 +40556,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_reparseDives_button => 'Przetwórz ponownie wszystkie';
 
   @override
-  String get diveComputer_rawData_discardAction => 'Odrzuć';
+  String get diveComputer_rawData_discardAction => 'Usuń';
 
   @override
   String diveComputer_rawData_discardAllMessage(int count, String size) {
@@ -40562,7 +40564,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get diveComputer_rawData_discardButton => 'Odrzuć surowe dane';
+  String get diveComputer_rawData_discardButton => 'Usuń surowe dane';
 
   @override
   String diveComputer_rawData_discardComputerMessage(
@@ -40574,14 +40576,14 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveComputer_rawData_discardFailed =>
-      'Nie udało się odrzucić surowych danych';
+      'Nie udało się usunąć surowych danych';
 
   @override
-  String get diveComputer_rawData_discardTitle => 'Odrzucić surowe dane?';
+  String get diveComputer_rawData_discardTitle => 'Usunąć surowe dane?';
 
   @override
   String diveComputer_rawData_discarded(int count) {
-    return 'Odrzucono surowe dane $count nurkowań';
+    return 'Usunięto surowe dane $count nurkowań';
   }
 
   @override
@@ -40694,7 +40696,8 @@ class AppLocalizationsPl extends AppLocalizations {
   String get universalImport_title_successUpdated => 'Zaktualizowano pomyślnie';
 
   @override
-  String get universalImport_title_successConsolidated => 'Połączono pomyślnie';
+  String get universalImport_title_successConsolidated =>
+      'Skonsolidowano pomyślnie';
 
   @override
   String get universalImport_title_noDivesImported =>
@@ -40713,7 +40716,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Skorygowane czasy nurkowań';
 
   @override
-  String get universalImport_label_consolidated => 'Połączone';
+  String get universalImport_label_consolidated => 'Skonsolidowane';
 
   @override
   String get universalImport_label_photosAttached => 'Dołączone zdjęcia';
@@ -40740,12 +40743,12 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String settings_shareAllSites_confirm(int count) {
-    return 'Wybierz, kto widzi wszystkie twoje miejsca (liczba: $count). Aby później zmienić to dla jednego miejsca, edytuj je i dotknij Udostępniono dla.';
+    return 'Wybierz, kto widzi wszystkie twoje miejsca (liczba: $count). Aby później zmienić to dla jednego miejsca, edytuj je i dotknij Udostępniono profilom.';
   }
 
   @override
   String settings_shareAllTrips_confirm(int count) {
-    return 'Wybierz, kto widzi wszystkie twoje wyjazdy (liczba: $count). Aby później zmienić to dla jednego wyjazdu, edytuj go i dotknij Udostępniono dla.';
+    return 'Wybierz, kto widzi wszystkie twoje wyjazdy (liczba: $count). Aby później zmienić to dla jednego wyjazdu, edytuj go i dotknij Udostępniono profilom.';
   }
 
   @override
@@ -40887,7 +40890,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get sharedItems_bulkShare_action => 'Udostępnij dla...';
+  String get sharedItems_bulkShare_action => 'Komu udostępnić...';
 
   @override
   String sharedItems_bulkShare_done(int count) {
@@ -41035,7 +41038,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wybrane profile widzą to miejsce i mogą logować w nim własne nurkowania. Tylko ty możesz je usunąć lub zmienić, komu jest udostępnione.';
 
   @override
-  String get sharedItems_shareDialog_title => 'Udostępnij dla';
+  String get sharedItems_shareDialog_title => 'Komu udostępnić';
 
   @override
   String get sharedItems_shareDialog_tripBody =>
@@ -41055,7 +41058,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get sharedItems_sharedWith_everyone => 'Wszyscy';
 
   @override
-  String get sharedItems_sharedWith_label => 'Udostępniono dla';
+  String get sharedItems_sharedWith_label => 'Udostępniono profilom';
 
   @override
   String get sharedItems_sharedWith_none => 'Nie udostępniono';
@@ -41822,7 +41825,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get dive3d_axis_time => 'Czas przebiegu (min)';
+  String get dive3d_axis_time => 'Czas przebiegu (runtime, min)';
 
   @override
   String get dive3d_pose_menu => 'Kamera';
@@ -41840,7 +41843,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get dive3d_pose_top => 'Z góry (parametr i czas)';
 
   @override
-  String get dive3d_readout_runTime => 'Czas przebiegu';
+  String get dive3d_readout_runTime => 'Czas przebiegu (runtime)';
 
   @override
   String get dive3d_readout_ceiling => 'Sufit';
@@ -42529,7 +42532,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get attrLabel_scrubber_duration_h => 'Czas pracy pochłaniacza (h)';
 
   @override
-  String get attrLabel_o2_cell_count => 'Czujniki O2';
+  String get attrLabel_o2_cell_count => 'Sensory O2';
 
   @override
   String get attrLabel_diluent_cylinder_l => 'Butla diluentu';
@@ -46272,7 +46275,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_diveField_bottomTime => 'Czas denny';
 
   @override
-  String get enum_diveField_runtime => 'Czas przebiegu';
+  String get enum_diveField_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get enum_diveField_waterTemp => 'Temperatura wody';
@@ -46356,10 +46359,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_diveField_diveComputerModel => 'Komputer nurkowy';
 
   @override
-  String get enum_diveField_gradientFactorLow => 'GF niski';
+  String get enum_diveField_gradientFactorLow => 'GF Low';
 
   @override
-  String get enum_diveField_gradientFactorHigh => 'GF wysoki';
+  String get enum_diveField_gradientFactorHigh => 'GF High';
 
   @override
   String get enum_diveField_decoAlgorithm => 'Algorytm dekompresyjny';
@@ -47181,7 +47184,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_tripField_diveCount => 'Liczba nurkowań';
 
   @override
-  String get enum_tripField_totalRuntime => 'Łączny czas przebiegu';
+  String get enum_tripField_totalRuntime => 'Łączny czas przebiegu (runtime)';
 
   @override
   String get enum_tripField_maxDepth => 'Głębokość maks.';
@@ -47726,7 +47729,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płaski, dobrze zamaskowany rekin dywanowy, leżący nieruchomo na skalistych rafach Australii.';
 
   @override
-  String get species_tasselled_wobbegong_name => 'Brodacz frędzlowaty';
+  String get species_tasselled_wobbegong_name => 'Łobegong brodaty';
 
   @override
   String get species_tasselled_wobbegong_desc =>
@@ -48105,50 +48108,49 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciemnoniebieski pokolec pospolity na rafach Karaibów; młode osobniki są jaskrawożółte.';
 
   @override
-  String get species_emperor_angelfish_name => 'Ustnik cesarski';
+  String get species_emperor_angelfish_name => 'Ustniczek cesarski';
 
   @override
   String get species_emperor_angelfish_desc =>
-      'Duży ustnik w efektowne niebieskie i żółte poziome pasy. Młode osobniki mają koncentryczne niebiesko-białe kręgi.';
+      'Duży ustniczek w efektowne niebieskie i żółte poziome pasy. Młode osobniki mają koncentryczne niebiesko-białe kręgi.';
 
   @override
-  String get species_french_angelfish_name => 'Ustnik francuski';
+  String get species_french_angelfish_name => 'Ustniczek francuski';
 
   @override
   String get species_french_angelfish_desc =>
-      'Duży, ciemny ustnik o łuskach ze złotym obrzeżeniem, zwykle widywany w parach na rafach Karaibów i zachodniego Atlantyku.';
+      'Duży, ciemny ustniczek o łuskach ze złotym obrzeżeniem, zwykle widywany w parach na rafach Karaibów i zachodniego Atlantyku.';
 
   @override
-  String get species_queen_angelfish_name => 'Ustnik królewski';
+  String get species_queen_angelfish_name => 'Ustniczek królewski';
 
   @override
   String get species_queen_angelfish_desc =>
-      'Wspaniały niebiesko-żółty ustnik z charakterystyczną plamą w kształcie korony, spotykany na karaibskich rafach koralowych.';
+      'Wspaniały niebiesko-żółty ustniczek z charakterystyczną plamą w kształcie korony, spotykany na karaibskich rafach koralowych.';
 
   @override
-  String get species_regal_angelfish_name => 'Ustnik książęcy';
+  String get species_regal_angelfish_name => 'Ustniczek książęcy';
 
   @override
   String get species_regal_angelfish_desc =>
-      'Elegancki ustnik w naprzemienne pomarańczowo-białe i niebieskie pionowe pasy, spotykany na rafach Indo-Pacyfiku.';
+      'Elegancki ustniczek w naprzemienne pomarańczowo-białe i niebieskie pionowe pasy, spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_rock_beauty_name => 'Ustnik trójbarwny';
+  String get species_rock_beauty_name => 'Ustniczek trójbarwny';
 
   @override
   String get species_rock_beauty_desc =>
-      'Efektowny karaibski ustnik z żółtą przednią i czarną tylną połową ciała, spotykany przy skalistych rafach i nawisach.';
+      'Efektowny karaibski ustniczek z żółtą przednią i czarną tylną połową ciała, spotykany przy skalistych rafach i nawisach.';
 
   @override
-  String get species_gray_angelfish_name => 'Ustnik szary';
+  String get species_gray_angelfish_name => 'Ustniczek szary';
 
   @override
   String get species_gray_angelfish_desc =>
-      'Duży szary ustnik z jasnym pyskiem i żółtą wewnętrzną stroną płetwy piersiowej, pospolity na rafach Karaibów.';
+      'Duży szary ustniczek z jasnym pyskiem i żółtą wewnętrzną stroną płetwy piersiowej, pospolity na rafach Karaibów.';
 
   @override
-  String get species_copperband_butterflyfish_name =>
-      'Pensetnik miedzianopręgi';
+  String get species_copperband_butterflyfish_name => 'Pensetnik dwuoki';
 
   @override
   String get species_copperband_butterflyfish_desc =>
@@ -48281,21 +48283,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najbardziej jadowita ryba świata, doskonale zamaskowana jako kamień na dnie raf Indo-Pacyfiku. Skrajnie niebezpieczna.';
 
   @override
-  String get species_painted_frogfish_name => 'Żabnica malowana';
+  String get species_painted_frogfish_name => 'Żabnica malowana (frogfish)';
 
   @override
   String get species_painted_frogfish_desc =>
       'Krępy drapieżnik polujący z zasadzki, z wabikiem na głowie i bardzo zmiennym ubarwieniem. Spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_giant_frogfish_name => 'Żabnica olbrzymia';
+  String get species_giant_frogfish_name => 'Żabnica olbrzymia (frogfish)';
 
   @override
   String get species_giant_frogfish_desc =>
       'Największy gatunek żabnicy, dorastający do 40 cm, znakomicie zamaskowany wśród gąbek i rumoszu koralowego.';
 
   @override
-  String get species_hairy_frogfish_name => 'Żabnica włochata';
+  String get species_hairy_frogfish_name => 'Żabnica włochata (frogfish)';
 
   @override
   String get species_hairy_frogfish_desc =>
@@ -48786,7 +48788,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża iglicznia widmowa udająca trawę morską lub glony, często spotykana w parach w wodach przybrzeżnych Indo-Pacyfiku.';
 
   @override
-  String get species_trumpetfish_name => 'Trąbik';
+  String get species_trumpetfish_name => 'Fletnica plamista (trumpetfish)';
 
   @override
   String get species_trumpetfish_desc =>
@@ -48884,18 +48886,18 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pomarańczowożółty błazenek z dwoma białymi pasami, endemit Morza Czerwonego i Zatoki Adeńskiej.';
 
   @override
-  String get species_arabian_angelfish_name => 'Ustnik arabski';
+  String get species_arabian_angelfish_name => 'Ustniczek arabski';
 
   @override
   String get species_arabian_angelfish_desc =>
-      'Duży ciemnoniebieski ustnik z wyrazistym żółtym pionowym pasem i żółtym ogonem, endemit zachodniego Oceanu Indyjskiego.';
+      'Duży ciemnoniebieski ustniczek z wyrazistym żółtym pionowym pasem i żółtym ogonem, endemit zachodniego Oceanu Indyjskiego.';
 
   @override
-  String get species_king_angelfish_name => 'Ustnik monarszy';
+  String get species_king_angelfish_name => 'Ustniczek monarszy';
 
   @override
   String get species_king_angelfish_desc =>
-      'Duży ciemnoniebieski ustnik z białym pionowym pasem i żółtym ogonem, spotykany we wschodnim Pacyfiku i na Galapagos.';
+      'Duży ciemnoniebieski ustniczek z białym pionowym pasem i żółtym ogonem, spotykany we wschodnim Pacyfiku i na Galapagos.';
 
   @override
   String get species_ocean_sunfish_name => 'Samogłów';
@@ -48905,7 +48907,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najcięższa ryba kostnoszkieletowa, osiągająca ponad 2 tony. Czasem widywana przez nurków przy stacjach czyszczących na Bali i Galapagos.';
 
   @override
-  String get species_lingcod_name => 'Lingkod';
+  String get species_lingcod_name => 'Ofiodon';
 
   @override
   String get species_lingcod_desc =>
@@ -48961,18 +48963,18 @@ class AppLocalizationsPl extends AppLocalizations {
       'Dorosłe osobniki są szare w ciemne plamki; młode są brązowe z dużymi białymi plamami i pływają falującym ruchem.';
 
   @override
-  String get species_blue_ringed_angelfish_name => 'Ustnik pierścieniowy';
+  String get species_blue_ringed_angelfish_name => 'Ustniczek pierścieniowy';
 
   @override
   String get species_blue_ringed_angelfish_desc =>
-      'Duży brązowy ustnik z niebieskimi łukowatymi liniami i charakterystycznym niebieskim pierścieniem nad pokrywą skrzelową.';
+      'Duży brązowy ustniczek z niebieskimi łukowatymi liniami i charakterystycznym niebieskim pierścieniem nad pokrywą skrzelową.';
 
   @override
-  String get species_yellowbar_angelfish_name => 'Ustnik żółtopręgi';
+  String get species_yellowbar_angelfish_name => 'Ustniczek żółtopręgi';
 
   @override
   String get species_yellowbar_angelfish_desc =>
-      'Duży szaroniebieski ustnik z wyraźną żółtą plamą na boku, spotykany w Morzu Czerwonym i zachodnim Oceanie Indyjskim.';
+      'Duży szaroniebieski ustniczek z wyraźną żółtą plamą na boku, spotykany w Morzu Czerwonym i zachodnim Oceanie Indyjskim.';
 
   @override
   String get species_filefish_scrawled_name => 'Jednorożek pisany';
@@ -49063,7 +49065,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_permit_desc =>
-      'Wysokogrzbiety srebrzysty karanks z ciemnym, rozwidlonym ogonem, spotykany na piaszczystych płyciznach Karaibów i przy rafach.';
+      'Wysokogrzbieta srebrzysta ryba z rodziny ostrobokowatych, z ciemnym, rozwidlonym ogonem, spotykana na piaszczystych płyciznach Karaibów i przy rafach.';
 
   @override
   String get species_spotted_drum_name => 'Kulbin plamisty';
@@ -51192,7 +51194,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Drapieżnik o wydłużonym ciele i kaczym pysku, polujący z zasadzki; wisi nieruchomo wśród roślinności przy brzegach jezior.';
 
   @override
-  String get species_muskellunge_name => 'Muskinong';
+  String get species_muskellunge_name => 'Szczupak amerykański';
 
   @override
   String get species_muskellunge_desc =>
@@ -51206,14 +51208,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły szczupak z zarośniętych stawów wschodniej Ameryki Północnej, zawdzięczający angielską nazwę łańcuszkowemu wzorowi na bokach.';
 
   @override
-  String get species_walleye_name => 'sandacz amerykański';
+  String get species_walleye_name => 'Sandacz amerykański';
 
   @override
   String get species_walleye_desc =>
       'Złocistooliwkowy krewniak okonia o dużych, odbijających światło oczach, polujący o zmierzchu nad skalistym i piaszczystym dnem jezior.';
 
   @override
-  String get species_sauger_name => 'sandacz kanadyjski';
+  String get species_sauger_name => 'Sandacz kanadyjski';
 
   @override
   String get species_sauger_desc =>
@@ -51227,7 +51229,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ławicowy złocisty okoń z ciemnymi pionowymi pręgami, pospolity przy pomostach i w zaroślach roślin wodnych w całej Ameryce Północnej.';
 
   @override
-  String get species_european_perch_name => 'okoń pospolity';
+  String get species_european_perch_name => 'Okoń pospolity';
 
   @override
   String get species_european_perch_desc =>
@@ -51255,7 +51257,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Bass o zielonym grzbiecie, z ciemnym pasem na boku i ogromną paszczą, czyhający przy kłodach i skraju roślinności w ciepłych jeziorach.';
 
   @override
-  String get species_smallmouth_bass_name => 'bass małogębowy';
+  String get species_smallmouth_bass_name => 'Bass małogębowy';
 
   @override
   String get species_smallmouth_bass_desc =>
@@ -51269,7 +51271,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krępa czerwonooka ryba z rodziny bassowatych, z rzędami ciemnych plamek, chroniąca się wśród głazów w czystych strumieniach i jeziorach.';
 
   @override
-  String get species_bluegill_name => 'bass niebieski';
+  String get species_bluegill_name => 'Bass niebieski';
 
   @override
   String get species_bluegill_desc =>
@@ -51318,7 +51320,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Palia z robaczkowatym wzorem na grzbiecie, czerwonymi plamkami w niebieskich obwódkach i płetwami o białych krawędziach, żyjąca w zimnych strumieniach górnych odcinków rzek.';
 
   @override
-  String get species_lake_trout_name => 'palia jeziorowa';
+  String get species_lake_trout_name => 'Palia jeziorowa';
 
   @override
   String get species_lake_trout_desc =>
@@ -51332,28 +51334,28 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najdalej na północ występująca ryba słodkowodna, smukła palia, której brzuch w jesiennej szacie godowej nabiera pomarańczowoczerwonej barwy.';
 
   @override
-  String get species_atlantic_salmon_name => 'łosoś szlachetny';
+  String get species_atlantic_salmon_name => 'Łosoś szlachetny';
 
   @override
   String get species_atlantic_salmon_desc =>
       'Srebrzysty łosoś wędrowny z czarnymi plamkami w kształcie litery X, pokonujący skokami wodospady w drodze na tarło do rodzinnych rzek.';
 
   @override
-  String get species_chinook_salmon_name => 'czawycza';
+  String get species_chinook_salmon_name => 'Czawycza';
 
   @override
   String get species_chinook_salmon_desc =>
       'Największy łosoś pacyficzny, o niebieskozielonym grzbiecie i czarnych dziąsłach, wstępujący na tarło do wielkich rzek zachodu Ameryki Północnej.';
 
   @override
-  String get species_sockeye_salmon_name => 'nerka';
+  String get species_sockeye_salmon_name => 'Nerka';
 
   @override
   String get species_sockeye_salmon_desc =>
       'Łosoś, który na tarło staje się jaskrawoczerwony z zieloną głową i tłumnie zajmuje żwirowiska rzek zasilanych przez jeziora.';
 
   @override
-  String get species_coho_salmon_name => 'kiżucz';
+  String get species_coho_salmon_name => 'Kiżucz';
 
   @override
   String get species_coho_salmon_desc =>
@@ -51465,7 +51467,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szary sum z rozproszonymi ciemnymi plamkami, wciętym ogonem i ośmioma wąsami, pospolity w rzekach i zbiornikach zaporowych całej Ameryki Północnej.';
 
   @override
-  String get species_flathead_catfish_name => 'sum płaskogłowy';
+  String get species_flathead_catfish_name => 'Sum płaskogłowy';
 
   @override
   String get species_flathead_catfish_desc =>
@@ -51486,7 +51488,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największa ryba słodkowodna Europy, bezłuski olbrzym o szerokiej płaskiej głowie i długich wąsach, zalegający w głębokich dołach rzecznych.';
 
   @override
-  String get species_white_sturgeon_name => 'jesiotr amerykański';
+  String get species_white_sturgeon_name => 'Jesiotr amerykański';
 
   @override
   String get species_white_sturgeon_desc =>
@@ -51514,7 +51516,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prehistoryczny olbrzym o szerokim uzębionym pysku i pancerzu z rombowatych łusek, wynurzający się w rzekach południa USA, by zaczerpnąć powietrza.';
 
   @override
-  String get species_longnose_gar_name => 'niszczuka długonosa';
+  String get species_longnose_gar_name => 'Niszczuka długonosa';
 
   @override
   String get species_longnose_gar_desc =>
@@ -51528,7 +51530,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Żywa skamieniałość o długiej falującej płetwie grzbietowej i kostnej głowie, strzegąca narybku w zarośniętych starorzeczach.';
 
   @override
-  String get species_american_paddlefish_name => 'wiosłonos amerykański';
+  String get species_american_paddlefish_name => 'Wiosłonos amerykański';
 
   @override
   String get species_american_paddlefish_desc =>
@@ -51549,7 +51551,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysta garbata ryba, która wydaje słyszalne chrząknięcia i miażdży małże zębami gardłowymi, pospolita w wielkich rzekach i jeziorach.';
 
   @override
-  String get species_white_sucker_name => 'czukuczan biały';
+  String get species_white_sucker_name => 'Czukuczan biały';
 
   @override
   String get species_white_sucker_desc =>
@@ -51612,7 +51614,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pękaty szary sum z Nilu i Konga, ogłuszający ofiary wyładowaniami o napięciu kilkuset woltów.';
 
   @override
-  String get species_zebra_mbuna_name => 'pyszczak zebra';
+  String get species_zebra_mbuna_name => 'Pyszczak zebra';
 
   @override
   String get species_zebra_mbuna_desc =>
@@ -51640,7 +51642,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Elegancka pielęgnica z jeziora Tanganika o lirowatych płetwach, żyjąca w wielopokoleniowych rodzinach, które wspólnie opiekują się gniazdem.';
 
   @override
-  String get species_frontosa_name => 'pyszczak hełmiasty';
+  String get species_frontosa_name => 'Pyszczak hełmiasty';
 
   @override
   String get species_frontosa_desc =>
@@ -51654,7 +51656,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krępa skalna pielęgnica z Tanganiki, występująca w dziesiątkach odmian barwnych, z których każda zajmuje własny odcinek brzegu.';
 
   @override
-  String get species_arapaima_name => 'arapaima piraruku';
+  String get species_arapaima_name => 'Arapaima piraruku';
 
   @override
   String get species_arapaima_desc =>
@@ -51682,14 +51684,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża samotna pirania o czerwonych oczach i ciemnym, rombowatym ciele, czyhająca w czystych skalistych dopływach Amazonki.';
 
   @override
-  String get species_red_bellied_pacu_name => 'pirapitinga';
+  String get species_red_bellied_pacu_name => 'Pirapitinga';
 
   @override
   String get species_red_bellied_pacu_desc =>
       'Podobny do piranii owocożerca o płaskich miażdżących zębach i czerwonym brzuchu, gromadzący się pod drzewami zalanego lasu.';
 
   @override
-  String get species_tambaqui_name => 'paku czarnopłetwy';
+  String get species_tambaqui_name => 'Paku czarnopłetwy';
 
   @override
   String get species_tambaqui_desc =>
@@ -51717,7 +51719,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły pręgowany sum o długim spłaszczonym pysku, polujący nocą wzdłuż piaszczystych koryt rzek Ameryki Południowej.';
 
   @override
-  String get species_peacock_bass_name => 'pielęgnica pawia';
+  String get species_peacock_bass_name => 'Pielęgnica pawia';
 
   @override
   String get species_peacock_bass_desc =>
@@ -51759,7 +51761,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Maleńka kąsaczowata rybka z neonowoniebieskim paskiem nad czerwonym pasem biegnącym przez całą długość ciała, pływająca w ławicach w ciemnych wodach Rio Negro.';
 
   @override
-  String get species_mexican_tetra_name => 'lustrzeń meksykański';
+  String get species_mexican_tetra_name => 'Lustrzeń meksykański';
 
   @override
   String get species_mexican_tetra_desc =>
@@ -51857,7 +51859,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wschodnioazjatycki węgorz, który dorasta w rzekach i jeziorach, a na tarło wędruje na zachodni Pacyfik.';
 
   @override
-  String get species_ayu_name => 'aju';
+  String get species_ayu_name => 'Aju';
 
   @override
   String get species_ayu_desc =>
@@ -51871,7 +51873,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysta ryba siejowata występująca wyłącznie w Bajkale, pływająca w ławicach w zimnej toni i wstępująca na tarło do rzek.';
 
   @override
-  String get species_baikal_oilfish_name => 'gołomianka duża';
+  String get species_baikal_oilfish_name => 'Gołomianka duża';
 
   @override
   String get species_baikal_oilfish_desc =>
@@ -51899,7 +51901,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Brązowozielony okoń przybrzeżnych rzek wschodniej Australii, który na tarło spływa w dół rzeki do słonawych estuariów.';
 
   @override
-  String get species_barramundi_name => 'barramundi';
+  String get species_barramundi_name => 'Barramundi';
 
   @override
   String get species_barramundi_desc =>
@@ -51927,7 +51929,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciemny, krępy terapon rzek północnej Australii, skubiący glony i owoce wśród skał i bystrzy.';
 
   @override
-  String get species_eel_tailed_catfish_name => 'tandan marmurkowy';
+  String get species_eel_tailed_catfish_name => 'Tandan marmurkowy';
 
   @override
   String get species_eel_tailed_catfish_desc =>
@@ -51955,7 +51957,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży brązowy rak z białą plamą przy stawie szczypiec, inwazyjny gatunek północnoamerykański rozprzestrzeniający się w rzekach Europy.';
 
   @override
-  String get species_red_swamp_crayfish_name => 'rak luizjański';
+  String get species_red_swamp_crayfish_name => 'Rak luizjański';
 
   @override
   String get species_red_swamp_crayfish_desc =>
@@ -51991,7 +51993,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prążkowany małż wielkości paznokcia, tysiącami pokrywający skały, wraki i rury i oczyszczający wodę wszędzie tam, gdzie się rozprzestrzenia.';
 
   @override
-  String get species_quagga_mussel_name => 'racicznica pasiasta';
+  String get species_quagga_mussel_name => 'Racicznica pasiasta';
 
   @override
   String get species_quagga_mussel_desc =>
@@ -52026,7 +52028,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Zielona lub szara rozgałęziona gąbka porastająca patyki i kamienie w czystych jeziorach, zabarwiona przez żyjące w niej glony.';
 
   @override
-  String get species_freshwater_jellyfish_name => 'hederyka Rydera';
+  String get species_freshwater_jellyfish_name => 'Hederyka Rydera';
 
   @override
   String get species_freshwater_jellyfish_desc =>
@@ -52061,7 +52063,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Galaretowata kolonia wielkości piłki nożnej, usiana maleńkimi zwierzętami, uczepiona gałęzi i lin w ciepłej stojącej wodzie.';
 
   @override
-  String get species_chinese_mitten_crab_name => 'krab wełnistoszczypcy';
+  String get species_chinese_mitten_crab_name => 'Krab wełnistoszczypcy';
 
   @override
   String get species_chinese_mitten_crab_desc =>
@@ -52083,7 +52085,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciężki żółw o szorstkim pancerzu i długim, piłkowanym ogonie, leżący w mule stawów i wolno płynących rzek z wystawioną głową.';
 
   @override
-  String get species_alligator_snapping_turtle_name => 'skorpucha sępia';
+  String get species_alligator_snapping_turtle_name => 'Skorpucha sępia';
 
   @override
   String get species_alligator_snapping_turtle_desc =>
@@ -52118,14 +52120,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płaski, skórzasty żółw podobny do naleśnika, z ryjkiem jak fajka, zagrzebany w piasku płytkich rzek tak, że widać tylko głowę.';
 
   @override
-  String get species_florida_softshell_turtle_name => 'żółwiak drapieżny';
+  String get species_florida_softshell_turtle_name => 'Żółwiak drapieżny';
 
   @override
   String get species_florida_softshell_turtle_desc =>
       'Duży ciemny żółwiak z długim, rurkowatym ryjkiem, pospolity w źródłach, kanałach i jeziorach Florydy.';
 
   @override
-  String get species_pig_nosed_turtle_name => 'miękkoskórek dwupazurzasty';
+  String get species_pig_nosed_turtle_name => 'Miękkoskórek dwupazurzasty';
 
   @override
   String get species_pig_nosed_turtle_desc =>
@@ -52161,7 +52163,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Opancerzony gad o szerokim pysku z bagien, źródeł i rzek południowo-wschodnich Stanów Zjednoczonych, unoszący się tak, że nad wodą widać tylko oczy i nozdrza.';
 
   @override
-  String get species_spectacled_caiman_name => 'kajman okularowy';
+  String get species_spectacled_caiman_name => 'Kajman okularowy';
 
   @override
   String get species_spectacled_caiman_desc =>
@@ -52175,14 +52177,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy drapieżnik Amazonii, czarny opancerzony kajman długości do pięciu metrów, polujący nocą w jeziorach i zalanym lesie.';
 
   @override
-  String get species_freshwater_crocodile_name => 'krokodyl australijski';
+  String get species_freshwater_crocodile_name => 'Krokodyl australijski';
 
   @override
   String get species_freshwater_crocodile_desc =>
       'Australijski krokodyl o wąskim pysku z północnych rzek i wąwozów, płochliwy i znacznie mniejszy od krokodyla różańcowego.';
 
   @override
-  String get species_northern_water_snake_name => 'zaskroniec północny';
+  String get species_northern_water_snake_name => 'Zaskroniec północny';
 
   @override
   String get species_northern_water_snake_desc =>
@@ -52196,7 +52198,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najcięższy wąż na Ziemi, oliwkowy olbrzym w czarne plamy, leżący w zanurzeniu na bagnach i w wolno płynących rzekach Amazonii.';
 
   @override
-  String get species_hellbender_name => 'Skrytoskrzel diabeł błotny';
+  String get species_hellbender_name => 'Skrytoskrzel';
 
   @override
   String get species_hellbender_desc =>
@@ -52218,7 +52220,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_chinese_giant_salamander_name =>
-      'salamandra olbrzymia chińska';
+      'Salamandra olbrzymia chińska';
 
   @override
   String get species_chinese_giant_salamander_desc =>
@@ -52246,7 +52248,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ogromna zielona żaba o basowym ryku, siedząca wśród liści lilii wodnych w ciepłych stawach, dziś inwazyjna na kilku kontynentach.';
 
   @override
-  String get species_common_frog_name => 'żaba trawna';
+  String get species_common_frog_name => 'Żaba trawna';
 
   @override
   String get species_common_frog_desc =>
@@ -52274,7 +52276,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Niemal dwumetrowa wydra z kremową plamą na gardle, żyjąca w hałaśliwych grupach rodzinnych na rzekach i starorzeczach Amazonii.';
 
   @override
-  String get species_north_american_beaver_name => 'bóbr kanadyjski';
+  String get species_north_american_beaver_name => 'Bóbr kanadyjski';
 
   @override
   String get species_north_american_beaver_desc =>
@@ -52288,7 +52290,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gryzoń Europy, reintrodukowany na całym kontynencie, ścinający nadrzeczne drzewa i budujący tamy oraz żeremia.';
 
   @override
-  String get species_muskrat_name => 'piżmak amerykański';
+  String get species_muskrat_name => 'Piżmak amerykański';
 
   @override
   String get species_muskrat_desc =>
@@ -52351,7 +52353,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Sercowate pływające liście i kubkowate żółte kwiaty, a pod wodą duże, prześwitujące liście podwodne, które nurkowie widzą od spodu.';
 
   @override
-  String get species_american_eelgrass_name => 'nurzaniec amerykański';
+  String get species_american_eelgrass_name => 'Nurzaniec amerykański';
 
   @override
   String get species_american_eelgrass_desc =>
@@ -52372,7 +52374,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pierzasta roślina zanurzona z okółkami drobno podzielonych liści, tworząca przy powierzchni gęste kożuchy, inwazyjna w wielu jeziorach.';
 
   @override
-  String get species_muskgrass_name => 'ramienica pospolita';
+  String get species_muskgrass_name => 'Ramienica pospolita';
 
   @override
   String get species_muskgrass_desc =>
@@ -52386,14 +52388,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Gęsta roślina zanurzona z okółkami trzech małych ciemnozielonych liści, rozprzestrzeniająca się z fragmentów pędów w chłodnych jeziorach i kanałach całego świata.';
 
   @override
-  String get species_curly_leaf_pondweed_name => 'rdestnica kędzierzawa';
+  String get species_curly_leaf_pondweed_name => 'Rdestnica kędzierzawa';
 
   @override
   String get species_curly_leaf_pondweed_desc =>
       'Roślina zanurzona o czerwonawozielonych liściach z falistym brzegiem, podobnych do pomarszczonej lasagne, rosnąca wczesną wiosną przed innymi roślinami wodnymi.';
 
   @override
-  String get species_water_hyacinth_name => 'pontederia gruboogonkowa';
+  String get species_water_hyacinth_name => 'Pontederia gruboogonkowa';
 
   @override
   String get species_water_hyacinth_desc =>
@@ -55145,7 +55147,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Dane nurkowania nie są dostępne do porównania.';
 
   @override
-  String get universalImport_entityAction_consolidateBadge => 'POŁĄCZ';
+  String get universalImport_entityAction_consolidateBadge => 'SKONSOLIDUJ';
 
   @override
   String get diveCenters_import_quickSearch_egypt => 'Egipt';
@@ -56794,13 +56796,13 @@ class AppLocalizationsPl extends AppLocalizations {
   String get media_info_backupQueued => 'W kolejce do wysłania';
 
   @override
-  String get enum_profileMetric_o2CellMv => 'Czujniki O2';
+  String get enum_profileMetric_o2CellMv => 'Sensory O2';
 
   @override
-  String get enum_profileMetric_o2CellMv_short => 'Cele';
+  String get enum_profileMetric_o2CellMv_short => 'Sensory';
 
   @override
-  String get diveLog_o2CellSpread_label => 'Rozrzut czujników O2';
+  String get diveLog_o2CellSpread_label => 'Rozrzut sensorów O2';
 
   @override
   String get media_status_broken => 'Brak pliku i kopii zapasowej';
@@ -57159,7 +57161,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLab_panel_issues => 'Problemy';
 
   @override
-  String get diveLab_panel_runtime => 'Czas przebiegu';
+  String get diveLab_panel_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get diveLab_panel_noIssues => 'Brak problemów';
@@ -57215,7 +57217,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Nieznany gaz w pętli; przyjęto obieg otwarty';
 
   @override
-  String get diveLab_metric_runtime => 'Czas przebiegu';
+  String get diveLab_metric_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get diveLab_metric_ttsAtBranch => 'TTS w punkcie rozgałęzienia';
@@ -57254,7 +57256,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveLab_metric_minGasMarginAtBranch =>
-      'Min. zapas gazu w punkcie rozgałęzienia';
+      'Zapas ponad gaz min. w punkcie rozgałęzienia';
 
   @override
   String get diveLab_metric_ceilingViolations => 'Naruszenia sufitu';
@@ -57347,7 +57349,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLab_compare_line_asDived => 'Wykonane';
 
   @override
-  String get diveLab_compare_addWhatIf => 'Co by było, gdyby';
+  String get diveLab_compare_addWhatIf => 'Scenariusz';
 
   @override
   String get diveLab_compare_row_maxDepth => 'Głęb. maks.';
@@ -59712,7 +59714,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get plannerCanvas_compare_runtime => 'Czas przebiegu';
+  String get plannerCanvas_compare_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get plannerCanvas_compare_maxDepth => 'Głęb. maks.';
@@ -60037,7 +60039,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get query_divePlans_notes => 'Notatki';
 
   @override
-  String get query_divePlans_runtime => 'Czas przebiegu';
+  String get query_divePlans_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get query_divePlans_site => 'Miejsce';
@@ -60209,7 +60211,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get query_dives_finalStopDuration => 'Długość ostatniego przystanku';
 
   @override
-  String get query_dives_runtime => 'Czas przebiegu';
+  String get query_dives_runtime => 'Czas przebiegu (runtime)';
 
   @override
   String get query_dives_sightings => 'Obserwacje';
@@ -60643,7 +60645,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String diveLab_handoff_planName(String dive, String scenario) {
-    return 'Co by było, gdyby: $dive ($scenario)';
+    return 'Scenariusz: $dive ($scenario)';
   }
 
   @override
@@ -61178,10 +61180,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get rules_field_surfaceInterval => 'przerwa powierzchniowa';
 
   @override
-  String get rules_field_gradientFactorLow => 'GF niski';
+  String get rules_field_gradientFactorLow => 'GF Low';
 
   @override
-  String get rules_field_gradientFactorHigh => 'GF wysoki';
+  String get rules_field_gradientFactorHigh => 'GF High';
 
   @override
   String get rules_field_decoAlgorithm => 'algorytm dekompresyjny';
@@ -64272,11 +64274,11 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciśnienie, jakie na tej głębokości wywiera hel w gazie oddechowym, w barach. Hel nasyca tkanki i opuszcza je szybciej niż azot i nie działa narkotycznie.';
 
   @override
-  String get info_term_o2Cells_label => 'Czujniki O2';
+  String get info_term_o2Cells_label => 'Sensory O2';
 
   @override
   String get info_term_o2Cells_body =>
-      'Czujniki w pętli rebreathera, z których każdy mierzy ppO2. Rozbieżne odczyty wskazują na czujnik, który się zużywa lub jest zalany.';
+      'Sensory w pętli rebreathera, z których każdy mierzy ppO2. Rozbieżne odczyty wskazują na sensor, który się zużywa lub jest zalany.';
 
   @override
   String get info_term_mod_label => 'MOD (maksymalna głębokość operacyjna)';
@@ -64366,7 +64368,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Czas od opuszczenia powierzchni do rozpoczęcia końcowego wynurzania. Jest wyznaczany z profilu.';
 
   @override
-  String get info_term_runtime_label => 'Czas przebiegu';
+  String get info_term_runtime_label => 'Czas przebiegu (runtime)';
 
   @override
   String get info_term_runtime_body =>
@@ -64543,19 +64545,19 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_term_isobaricCounterdiffusion_label =>
-      'ICD (przeciwdyfuzja izobaryczna)';
+      'ICD (kontrdyfuzja izobaryczna)';
 
   @override
   String get info_term_isobaricCounterdiffusion_body =>
-      'Zmiana gazu może zwiększyć całkowitą ilość gazu obojętnego w tkankach bez zmiany głębokości, gdy azotu przybywa szybciej, niż ubywa helu. Powszechnie stosowany sprawdzian, reguła jednej piątej, ogranicza wzrost zawartości azotu do jednej piątej spadku zawartości helu.';
+      'Zmiana gazu może zwiększyć całkowitą ilość gazu obojętnego w tkankach bez zmiany głębokości, gdy azotu przybywa szybciej, niż ubywa helu. Powszechnie stosowany sprawdzian, zasada jednej piątej (rule of fifths), ogranicza wzrost zawartości azotu do jednej piątej spadku zawartości helu.';
 
   @override
   String get info_term_counterdiffusionProfile_label =>
-      'Przeciwdyfuzja na profilu';
+      'Kontrdyfuzja na profilu';
 
   @override
   String get info_term_counterdiffusionProfile_body =>
-      'Na profilu nurkowania pomarańczowy pas zaznacza miejsca, w których przedział zawiera już więcej gazu obojętnego, niż jest go w gazie oddechowym, a mimo to nadal wyraźnie go pochłania. W modelu Bühlmanna hel uchodzi szybciej, niż napływa azot, więc przy zmianie z trimiksu na nitrox pas pojawia się rzadko; linia przerywana w miejscu zmiany pokazuje za to regułę jednej piątej.';
+      'Na profilu nurkowania pomarańczowy pas zaznacza miejsca, w których przedział zawiera już więcej gazu obojętnego, niż jest go w gazie oddechowym, a mimo to nadal wyraźnie go pochłania. W modelu Bühlmanna hel uchodzi szybciej, niż napływa azot, więc przy zmianie z trimiksu na nitrox pas pojawia się rzadko; linia przerywana w miejscu zmiany pokazuje za to zasadę jednej piątej (rule of fifths).';
 
   @override
   String get info_term_hypercapnia_label => 'Hiperkapnia';
@@ -64586,7 +64588,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ciśnienie w butli odpowiadające gazowi minimalnemu. Uwzględnia krótki czas na głębokości na rozwiązanie problemu przed wynurzaniem.';
 
   @override
-  String get info_term_thirds_label => 'Reguła trzecich części';
+  String get info_term_thirds_label => 'Zasada 1/3';
 
   @override
   String get info_term_thirds_body =>
@@ -64664,11 +64666,11 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pojemnik w rebreatherze, który usuwa dwutlenek węgla z pętli. Jego sorbent ma określoną liczbę godzin pracy.';
 
   @override
-  String get info_term_cellOutput_label => 'Napięcie celi';
+  String get info_term_cellOutput_label => 'Napięcie sensora';
 
   @override
   String get info_term_cellOutput_body =>
-      'Odczyt każdej celi tlenowej w miliwoltach, który rebreather przelicza na ppO2.';
+      'Odczyt każdego sensora tlenowego w miliwoltach, który rebreather przelicza na ppO2.';
 
   @override
   String get info_term_highO2Hours_label => 'Godziny pracy z wysokim tlenem';
@@ -64895,7 +64897,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_term_conditionRules_body =>
-      'Kontrole, które aplikacja wykonuje na zapisanych nurkowaniach i problemach, takie jak czujniki tlenu pokazujące z czasem coraz niższe wartości albo powracający problem. Każdą można wyłączyć w ustawieniach.';
+      'Kontrole, które aplikacja wykonuje na zapisanych nurkowaniach i problemach, takie jak sensory tlenowe pokazujące z czasem coraz niższe wartości albo powracający problem. Każdą można wyłączyć w ustawieniach.';
 
   @override
   String get info_term_standout_label => 'Wyróżnia się';
@@ -65032,18 +65034,18 @@ class AppLocalizationsPl extends AppLocalizations {
       'Kiedy butla opróżniłaby się przy tempie oddychania przyjętym w odtwarzaniu.';
 
   @override
-  String get info_term_whatIf_label => 'Rzeczywiste i co jeśli';
+  String get info_term_whatIf_label => 'Rzeczywiste i scenariusz';
 
   @override
   String get info_term_whatIf_body =>
-      'Rzeczywiste przelicza zapisane nurkowanie w modelu, a Co jeśli przelicza je ze zmianami dodanymi w Laboratorium nurkowym.';
+      'Rzeczywiste przelicza zapisane nurkowanie w modelu, a Scenariusz przelicza je ze zmianami dodanymi w Laboratorium nurkowym.';
 
   @override
-  String get info_term_cellGain_label => 'Sygnał celi (mV na bar)';
+  String get info_term_cellGain_label => 'Sygnał sensora (mV na bar)';
 
   @override
   String get info_term_cellGain_body =>
-      'Odczyt każdej celi tlenowej w miliwoltach podzielony przez mierzone przez nią ppO2. Pozostaje stały, dopóki cela jest sprawna, i spada, gdy cela się starzeje.';
+      'Odczyt każdego sensora tlenowego w miliwoltach podzielony przez mierzone przez niego ppO2. Pozostaje stały, dopóki sensor jest sprawny, i spada, gdy sensor się starzeje.';
 
   @override
   String get info_term_transmitterDropouts_label => 'Zaniki sygnału nadajnika';
@@ -65192,7 +65194,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_insights_bottomTimeTrend_summary =>
-      'Czas denny każdego nurkowania w czasie; pomija końcowe wynurzanie i przystanki, które wchodzą w czas przebiegu.';
+      'Czas denny każdego nurkowania w czasie; pomija końcowe wynurzanie i przystanki, które wchodzą w czas przebiegu (runtime).';
 
   @override
   String get info_insights_waterTempTrend_summary =>
@@ -65328,7 +65330,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_planner_decoSchedule_summary =>
-      'Wynurzanie zaplanowane przez model, po jednym wierszu na przystanek lub zmianę gazu, z głębokością, czasem, czasem przebiegu i gazem.';
+      'Wynurzanie zaplanowane przez model, po jednym wierszu na przystanek lub zmianę gazu, z głębokością, czasem, czasem przebiegu (runtime) i gazem.';
 
   @override
   String get info_planner_gas_summary =>
@@ -65428,15 +65430,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_diveLab_tiles_summary =>
-      'Główne wyniki symulacji Co jeśli, zabarwione zależnie od tego, czy dany wynik jest lepszy, czy gorszy niż w rzeczywistym nurkowaniu.';
+      'Główne wyniki symulacji scenariusza, zabarwione zależnie od tego, czy dany wynik jest lepszy, czy gorszy niż w rzeczywistym nurkowaniu.';
 
   @override
   String get info_diveLab_delta_summary =>
-      'Każda miara dla rzeczywistego nurkowania i dla wersji Co jeśli obok siebie, wraz z różnicą.';
+      'Każda miara dla rzeczywistego nurkowania i dla scenariusza obok siebie, wraz z różnicą.';
 
   @override
   String get info_diveLab_tissues_summary =>
-      'Nasycenie przedziałów w chwili, gdy każda wersja dociera do powierzchni: rzeczywista i Co jeśli.';
+      'Nasycenie przedziałów w chwili, gdy każda wersja dociera do powierzchni: rzeczywista i scenariusz.';
 
   @override
   String get info_diveLab_buoyancy_summary =>
@@ -65492,7 +65494,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_calculators_icd_summary =>
-      'Czy zmiana między dwoma gazami spełnia regułę jednej piątej dla przeciwdyfuzji.';
+      'Czy zmiana między dwoma gazami spełnia zasadę jednej piątej (rule of fifths) dla kontrdyfuzji.';
 
   @override
   String get info_calculators_icd_background =>
@@ -65588,7 +65590,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_settings_icd_summary =>
-      'Kontrola przeciwdyfuzji między helem a azotem, którą aplikacja wykonuje przy zmianach gazu.';
+      'Kontrola kontrdyfuzji między helem a azotem, którą aplikacja wykonuje przy zmianach gazu.';
 
   @override
   String get info_settings_ascent_summary =>
@@ -65604,7 +65606,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_settings_sensorSummaries_summary =>
-      'Wartości dla poszczególnych nurkowań, które aplikacja przechowuje dla cel tlenowych, nadajników i pochłaniaczy.';
+      'Wartości dla poszczególnych nurkowań, które aplikacja przechowuje dla sensorów tlenowych, nadajników i pochłaniaczy.';
 
   @override
   String get info_settings_conditionRules_summary =>

@@ -41,7 +41,7 @@
       "pt": "Muskellunge",
       "nl": "Muskellunge",
       "hu": "Muskellunge csuka",
-      "pl": "Muskinong",
+      "pl": "Szczupak amerykański",
       "zh": "北美狗鱼",
       "ar": "ماسكلانج",
       "he": "מסקלנג'"
@@ -103,7 +103,7 @@
       "pt": "Sander-dourado",
       "nl": "Breedbekbaars",
       "hu": "Walleye",
-      "pl": "sandacz amerykański",
+      "pl": "Sandacz amerykański",
       "zh": "玻璃梭鲈",
       "ar": "الوالاي",
       "he": "וואליי"
@@ -134,7 +134,7 @@
       "pt": "Sander-canadense",
       "nl": "Canadese snoekbaars",
       "hu": "Sauger",
-      "pl": "sandacz kanadyjski",
+      "pl": "Sandacz kanadyjski",
       "zh": "加拿大梭鲈",
       "ar": "الساوغر",
       "he": "סאוגר"
@@ -196,7 +196,7 @@
       "pt": "Perca",
       "nl": "Baars",
       "hu": "csapósügér",
-      "pl": "okoń pospolity",
+      "pl": "Okoń pospolity",
       "zh": "河鲈",
       "ar": "الفرخ الأوروبي",
       "he": "דקר אירופי"
@@ -320,7 +320,7 @@
       "pt": "Achigã-boca-pequena",
       "nl": "Kleinbekbaars",
       "hu": "Kisszájú sügér",
-      "pl": "bass małogębowy",
+      "pl": "Bass małogębowy",
       "zh": "小口黑鲈",
       "ar": "القاروص صغير الفم",
       "he": "בס קטן פה"
@@ -382,7 +382,7 @@
       "pt": "Guelra-azul",
       "nl": "Blauwkieuwzonnebaars",
       "hu": "Kékkopoltyús naphal",
-      "pl": "bass niebieski",
+      "pl": "Bass niebieski",
       "zh": "蓝鳃太阳鱼",
       "ar": "البلوجيل",
       "he": "דג שמש כחול זימים"
@@ -599,7 +599,7 @@
       "pt": "Salvelino-lacustre",
       "nl": "Amerikaanse meerforel",
       "hu": "Tavi szaibling",
-      "pl": "palia jeziorowa",
+      "pl": "Palia jeziorowa",
       "zh": "突吻红点鲑",
       "ar": "تروتة البحيرات",
       "he": "פורל אגמים"
@@ -661,7 +661,7 @@
       "pt": "Salmão-do-Atlântico",
       "nl": "Atlantische zalm",
       "hu": "Atlanti lazac",
-      "pl": "łosoś szlachetny",
+      "pl": "Łosoś szlachetny",
       "zh": "大西洋鲑",
       "ar": "سلمون الأطلسي",
       "he": "סלמון אטלנטי"
@@ -692,7 +692,7 @@
       "pt": "Salmão-real",
       "nl": "Chinookzalm",
       "hu": "Királylazac",
-      "pl": "czawycza",
+      "pl": "Czawycza",
       "zh": "帝王鲑",
       "ar": "سلمون الشينوك",
       "he": "סלמון צ'ינוק"
@@ -723,7 +723,7 @@
       "pt": "Salmão-vermelho",
       "nl": "Rode zalm",
       "hu": "Vörös lazac",
-      "pl": "nerka",
+      "pl": "Nerka",
       "zh": "红鲑",
       "ar": "السلمون الأحمر",
       "he": "סלמון אדום"
@@ -754,7 +754,7 @@
       "pt": "Salmão-prateado",
       "nl": "Cohozalm",
       "hu": "Ezüstlazac",
-      "pl": "kiżucz",
+      "pl": "Kiżucz",
       "zh": "银鲑",
       "ar": "سلمون الكوهو",
       "he": "סלמון קוהו"
@@ -1250,7 +1250,7 @@
       "pt": "Bagre-cabeça-chata",
       "nl": "Platkopmeerval",
       "hu": "Laposfejű harcsa",
-      "pl": "sum płaskogłowy",
+      "pl": "Sum płaskogłowy",
       "zh": "铲鮰",
       "ar": "السلور مسطح الرأس",
       "he": "שפמנון שטוח ראש"
@@ -1343,7 +1343,7 @@
       "pt": "Esturjão-branco",
       "nl": "Witte steur",
       "hu": "Fehér tok",
-      "pl": "jesiotr amerykański",
+      "pl": "Jesiotr amerykański",
       "zh": "白鲟",
       "ar": "الحفش الأبيض",
       "he": "חדקן לבן"
@@ -1467,7 +1467,7 @@
       "pt": "Gar-agulha",
       "nl": "Beensnoek",
       "hu": "Hosszúorrú kajmánhal",
-      "pl": "niszczuka długonosa",
+      "pl": "Niszczuka długonosa",
       "zh": "长吻雀鳝",
       "ar": "الغار طويل الأنف",
       "he": "גאר ארוך חרטום"
@@ -1529,7 +1529,7 @@
       "pt": "Peixe-espátula-americano",
       "nl": "Lepelsteur",
       "hu": "Amerikai lapátorrú hal",
-      "pl": "wiosłonos amerykański",
+      "pl": "Wiosłonos amerykański",
       "zh": "匙吻鲟",
       "ar": "سمك المجداف الأميريكي",
       "he": "דג משוט אמריקאי"
@@ -1622,7 +1622,7 @@
       "pt": "Sugador-branco",
       "nl": "Witte zuigkarper",
       "hu": "Fehér szívóhal",
-      "pl": "czukuczan biały",
+      "pl": "Czukuczan biały",
       "zh": "康氏亚口鱼",
       "ar": "الماص الأبيض",
       "he": "מוצץ לבן"
@@ -1901,7 +1901,7 @@
       "pt": "Mbuna-zebra",
       "nl": "Zebra-mbuna",
       "hu": "Zebra mbuna",
-      "pl": "pyszczak zebra",
+      "pl": "Pyszczak zebra",
       "zh": "斑马岩栖慈鲷",
       "ar": "مبونا الزرد",
       "he": "מבונה זברה"
@@ -2025,7 +2025,7 @@
       "pt": "Ciclídeo-cabeçudo",
       "nl": "Frontosa",
       "hu": "Frontosa",
-      "pl": "pyszczak hełmiasty",
+      "pl": "Pyszczak hełmiasty",
       "zh": "六间慈鲷",
       "ar": "الفرونتوزا",
       "he": "פרונטוזה"
@@ -2087,7 +2087,7 @@
       "pt": "Pirarucu",
       "nl": "Arapaima",
       "hu": "arapaima (pirarucu)",
-      "pl": "arapaima piraruku",
+      "pl": "Arapaima piraruku",
       "zh": "巨骨舌鱼",
       "ar": "أربيمة عملاقة",
       "he": "פיררוקו"
@@ -2211,7 +2211,7 @@
       "pt": "Pacu",
       "nl": "Roodbuikpacu",
       "hu": "Vöröshasú pacu",
-      "pl": "pirapitinga",
+      "pl": "Pirapitinga",
       "zh": "短盖肥脂鲤",
       "ar": "الباكو أحمر البطن",
       "he": "פאקו אדום בטן"
@@ -2242,7 +2242,7 @@
       "pt": "Tambaqui",
       "nl": "Zwarte pacu",
       "hu": "Tambaqui",
-      "pl": "paku czarnopłetwy",
+      "pl": "Paku czarnopłetwy",
       "zh": "黑盖巨脂鲤",
       "ar": "التامباكي",
       "he": "טמבקי"
@@ -2366,7 +2366,7 @@
       "pt": "Tucunaré",
       "nl": "Pauwbaars",
       "hu": "Pávasügér",
-      "pl": "pielęgnica pawia",
+      "pl": "Pielęgnica pawia",
       "zh": "眼点丽鱼",
       "ar": "قاروص الطاووس",
       "he": "בס טווס"
@@ -2552,7 +2552,7 @@
       "pt": "Lambari-cego",
       "nl": "Blinde grottetra",
       "hu": "Vak barlangi hal",
-      "pl": "lustrzeń meksykański",
+      "pl": "Lustrzeń meksykański",
       "zh": "墨西哥麗脂鯉",
       "ar": "تترا مكسيكية",
       "he": "טטרה מקסיקנית"
@@ -2986,7 +2986,7 @@
       "pt": "Ayu",
       "nl": "Ayu",
       "hu": "Ayu",
-      "pl": "aju",
+      "pl": "Aju",
       "zh": "香鱼",
       "ar": "الآيو",
       "he": "איו"
@@ -3048,7 +3048,7 @@
       "pt": "Golomianka",
       "nl": "Golomjanka",
       "hu": "Golomjanka",
-      "pl": "gołomianka duża",
+      "pl": "Gołomianka duża",
       "zh": "贝加尔油鱼",
       "ar": "غولوميانكا",
       "he": "גולומיאנקה"
@@ -3172,7 +3172,7 @@
       "pt": "Barramunda",
       "nl": "Barramundi",
       "hu": "Barramundi",
-      "pl": "barramundi",
+      "pl": "Barramundi",
       "zh": "尖吻鲈",
       "ar": "الباراموندي",
       "he": "ברמונדי"
@@ -3296,7 +3296,7 @@
       "pt": "Bagre-enguia-kenaru",
       "nl": "Palingstaartmeerval",
       "hu": "Angolnafarkú harcsa",
-      "pl": "tandan marmurkowy",
+      "pl": "Tandan marmurkowy",
       "zh": "鳗尾鲶",
       "ar": "السلور ثعباني الذيل",
       "he": "שפמנון זנב צלופח"
@@ -3420,7 +3420,7 @@
       "pt": "Lagostim-vermelho-do-Louisiana",
       "nl": "rode Amerikaanse rivierkreeft",
       "hu": "kaliforniai vörösrák",
-      "pl": "rak luizjański",
+      "pl": "Rak luizjański",
       "zh": "克氏原螯虾",
       "ar": "جراد المستنقعات الأحمر",
       "he": "סרטן ביצות אדום"
@@ -3575,7 +3575,7 @@
       "pt": "Mexilhão-quagga",
       "nl": "Quaggamossel",
       "hu": "bugi vándorkagyló",
-      "pl": "racicznica pasiasta",
+      "pl": "Racicznica pasiasta",
       "zh": "布格河饰贝",
       "ar": "بلح البحر الكواجا",
       "he": "צדפת קוואגה"
@@ -3730,7 +3730,7 @@
       "pt": "Água-viva-de-água-doce",
       "nl": "Zoetwaterkwal",
       "hu": "Édesvízi medúza",
-      "pl": "hederyka Rydera",
+      "pl": "Hederyka Rydera",
       "zh": "索氏桃花水母",
       "ar": "قنديل البحر المياه العذبة الشائع",
       "he": "מדוזת מים מתוקים"
@@ -3885,7 +3885,7 @@
       "pt": "Caranguejo-de-Shanghai",
       "nl": "Chinese wolhandkrab",
       "hu": "Kínai gyapjasollós rák",
-      "pl": "krab wełnistoszczypcy",
+      "pl": "Krab wełnistoszczypcy",
       "zh": "中华绒螯蟹",
       "ar": "سرطان القفاز الصيني",
       "he": "סרטן כפפות סיני"
@@ -3978,7 +3978,7 @@
       "pt": "Tartaruga-aligátor",
       "nl": "Alligatorschildpad",
       "hu": "keselyűteknős",
-      "pl": "skorpucha sępia",
+      "pl": "Skorpucha sępia",
       "zh": "大鳄龟",
       "ar": "سلحفاة القاطور النهاشة",
       "he": "צב נושך תנין"
@@ -4133,7 +4133,7 @@
       "pt": "Tartaruga-de-casco-mole-americana",
       "nl": "Florida-weekschildpad",
       "hu": "floridai lágyhéjúteknős",
-      "pl": "żółwiak drapieżny",
+      "pl": "Żółwiak drapieżny",
       "zh": "佛罗里达鳖",
       "ar": "سلحفاة لينة الدرقة الفلوريدية",
       "he": "צב רך פלורידה"
@@ -4164,7 +4164,7 @@
       "pt": "Tartaruga-nariz-de-porco",
       "nl": "Varkensneusschildpad",
       "hu": "kétkarmú teknős",
-      "pl": "miękkoskórek dwupazurzasty",
+      "pl": "Miękkoskórek dwupazurzasty",
       "zh": "猪鼻龟",
       "ar": "سلحفاة ذات أنف الخنزير",
       "he": "צב אף החזיר"
@@ -4319,7 +4319,7 @@
       "pt": "Jacaretinga",
       "nl": "Brilkaaiman",
       "hu": "pápaszemes kajmán",
-      "pl": "kajman okularowy",
+      "pl": "Kajman okularowy",
       "zh": "眼镜凯门鳄",
       "ar": "كايمن ذو النظارات",
       "he": "קיימן משקפיים"
@@ -4381,7 +4381,7 @@
       "pt": "Crocodilo-de-água-doce-australiano",
       "nl": "Australische Krokodil",
       "hu": "Johnson-krokodil",
-      "pl": "krokodyl australijski",
+      "pl": "Krokodyl australijski",
       "zh": "澳洲淡水鳄",
       "ar": "تمساح أسترالي",
       "he": "תנין מים מתוקים"
@@ -4412,7 +4412,7 @@
       "pt": "Cobra-d'água-do-norte",
       "nl": "Noordelijke waterslang",
       "hu": "Északi vízisikló",
-      "pl": "zaskroniec północny",
+      "pl": "Zaskroniec północny",
       "zh": "北部美洲水蛇",
       "ar": "ثعبان الماء الشمالي",
       "he": "נחש מים צפוני"
@@ -4474,7 +4474,7 @@
       "pt": "Salamandra-gigante-americana",
       "nl": "Hellbender",
       "hu": "mocsári ördög",
-      "pl": "Skrytoskrzel diabeł błotny",
+      "pl": "Skrytoskrzel",
       "zh": "美洲大鲵",
       "ar": "هلبندر",
       "he": "סלמנדרת ענק אמריקנית"
@@ -4567,7 +4567,7 @@
       "pt": "Salamandra-gigante-da-China",
       "nl": "Chinese reuzensalamander",
       "hu": "Kínai óriásszalamandra",
-      "pl": "salamandra olbrzymia chińska",
+      "pl": "Salamandra olbrzymia chińska",
       "zh": "中国大鲵",
       "ar": "سمندل صيني عملاق",
       "he": "סלמנדרת ענק סינית"
@@ -4691,7 +4691,7 @@
       "pt": "Rã-europeia",
       "nl": "Bruine Kikker",
       "hu": "Gyepi béka",
-      "pl": "żaba trawna",
+      "pl": "Żaba trawna",
       "zh": "欧洲林蛙",
       "ar": "الضفدع الشائع",
       "he": "צפרדע מצויה"
@@ -4815,7 +4815,7 @@
       "pt": "Castor-americano",
       "nl": "Canadese Bever",
       "hu": "kanadai hód",
-      "pl": "bóbr kanadyjski",
+      "pl": "Bóbr kanadyjski",
       "zh": "北美河貍",
       "ar": "قندس أمريكي",
       "he": "בונה קנדי"
@@ -4877,7 +4877,7 @@
       "pt": "Rato-almiscarado",
       "nl": "Muskusrat",
       "hu": "Pézsmapocok",
-      "pl": "piżmak amerykański",
+      "pl": "Piżmak amerykański",
       "zh": "麝鼠",
       "ar": "فأر المسك",
       "he": "אונדטרה"
@@ -5156,7 +5156,7 @@
       "pt": "Valisnéria-americana",
       "nl": "Amerikaans vallisneria",
       "hu": "Amerikai vízicsavar",
-      "pl": "nurzaniec amerykański",
+      "pl": "Nurzaniec amerykański",
       "zh": "美洲苦草",
       "ar": "الفاليسنيريا الأمريكية",
       "he": "ואליסנריה אמריקאית"
@@ -5249,7 +5249,7 @@
       "pt": "Chara",
       "nl": "Gewoon kransblad",
       "hu": "Csillárka",
-      "pl": "ramienica pospolita",
+      "pl": "Ramienica pospolita",
       "zh": "普生轮藻",
       "ar": "الخارا",
       "he": "כארה"
@@ -5311,7 +5311,7 @@
       "pt": "Colher-de-folha-crespa",
       "nl": "Gekroesd fonteinkruid",
       "hu": "Bodros békaszőlő",
-      "pl": "rdestnica kędzierzawa",
+      "pl": "Rdestnica kędzierzawa",
       "zh": "菹草",
       "ar": "عشب البرك مجعد الأوراق",
       "he": "נהרונית מסולסלת"
@@ -5342,7 +5342,7 @@
       "pt": "Jacinto-d'água",
       "nl": "waterhyacint",
       "hu": "közönséges vízijácint",
-      "pl": "pontederia gruboogonkowa",
+      "pl": "Pontederia gruboogonkowa",
       "zh": "水葫芦",
       "ar": "ورد النيل سميك الساق",
       "he": "איכהורניה עבת-רגל"
