@@ -48,6 +48,7 @@ void main() {
     'hu',
     'it',
     'nl',
+    'pl',
     'pt',
     'zh',
   ];

@@ -139,7 +139,7 @@ No server. No account. No lock-in.
 Most dive logging software falls into two categories: desktop applications stuck in the past, or mobile apps that lock your data in proprietary clouds. Submersion is different:
 
 - **You control your data:** an SQLite database on your own hardware, encrypted at rest. No account, no server, no cloud dependency. Export everything, anytime.
-- **Truly cross-platform:** one app for iOS, Android, macOS, Windows and Linux, with the same details and analytics everywhere. Available in 11 languages.
+- **Truly cross-platform:** one app for iOS, Android, macOS, Windows and Linux, with the same details and analytics everywhere. Available in 12 languages.
 - **Open standards:** full UDDF 3.2 import and export, plus CSV, Excel, KML and GPX. No proprietary format trapping your dive history.
 - **350+ dive computers:** Bluetooth LE and USB, across 30 manufacturers, powered by [libdivecomputer](https://www.libdivecomputer.org/).
 - **Technical diving ready:** Bühlmann ZH-L16C with gradient factors, multi-gas and CCR/SCR support, CNS and OTU tracking, bailout planning and trimix blending.
@@ -234,7 +234,7 @@ Beyond what the screens above show.
 - **Data quality:** an assistant that finds duplicates and anomalies across the log and walks you through fixing them.
 - **PDF logbooks:** Simple, Detailed, Professional, PADI and NAUI layouts.
 - **Your units:** independent settings for depth, temperature, pressure, volume, weight, altitude and SAC.
-- **Your language:** 11 languages, five themes in light and dark, and keyboard shortcuts on the desktop.
+- **Your language:** 12 languages, five themes in light and dark, and keyboard shortcuts on the desktop.
 
 ## Getting Started
 

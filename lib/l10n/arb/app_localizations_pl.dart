@@ -2144,7 +2144,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wybierz co najmniej jeden parametr butli do aktualizacji.';
 
   @override
-  String get diveLog_bulkEdit_tankFieldPreset => 'Preset';
+  String get diveLog_bulkEdit_tankFieldPreset => 'Szablon';
 
   @override
   String get diveLog_bulkEdit_tankFieldRole => 'Rola';
@@ -3451,7 +3451,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get buddies_field_email => 'E-mail';
 
   @override
-  String get buddies_field_emailHint => 'email@example.com';
+  String get buddies_field_emailHint => 'email@przyklad.pl';
 
   @override
   String get buddies_field_linkedProfile => 'Powiązany profil';
@@ -4446,7 +4446,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String certifications_detail_status_expiresInDays(Object days) {
-    return 'Wygasa za $days dni';
+    return 'Dni do wygaśnięcia: $days';
   }
 
   @override
@@ -5654,7 +5654,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String diveLog_health_bpm(int value) {
-    return '$value ud./min';
+    return '$value bpm';
   }
 
   @override
@@ -7163,7 +7163,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveCenters_hint_country => 'np. Tajlandia';
 
   @override
-  String get diveCenters_hint_email => 'info@divecenter.com';
+  String get diveCenters_hint_email => 'info@centrumnurkowe.pl';
 
   @override
   String get diveCenters_hint_gpsDescription =>
@@ -7180,7 +7180,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveCenters_hint_notes => 'Dodatkowe informacje...';
 
   @override
-  String get diveCenters_hint_phone => '+1 234 567 890';
+  String get diveCenters_hint_phone => '+48 234 567 890';
 
   @override
   String get diveCenters_hint_postalCode => 'np. 83100';
@@ -7192,7 +7192,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveCenters_hint_street => 'np. ul. Plażowa 123';
 
   @override
-  String get diveCenters_hint_website => 'www.divecenter.com';
+  String get diveCenters_hint_website => 'www.centrumnurkowe.pl';
 
   @override
   String get diveCenters_hint_permanentlyClosed =>
@@ -8022,7 +8022,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String diveLog_detail_collapsed_atTime(Object timestamp) {
-    return '$timestamp';
+    return 'Czas: $timestamp';
   }
 
   @override
@@ -8086,7 +8086,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_detail_label_diveMaster => 'Divemaster';
 
   @override
-  String get diveLog_detail_label_diveOperator => 'Operator';
+  String get diveLog_detail_label_diveOperator => 'Organizator';
 
   @override
   String get diveLog_detail_label_boatName => 'Łódź';
@@ -8820,7 +8820,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_edit_row_diveCenter => 'Centrum nurkowe';
 
   @override
-  String get diveLog_edit_row_diveOperator => 'Operator';
+  String get diveLog_edit_row_diveOperator => 'Organizator';
 
   @override
   String get diveLog_edit_row_boatName => 'Łódź';
@@ -13801,7 +13801,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveType_builtin_freedive => 'Freediving';
 
   @override
-  String get diveType_builtin_freedive_short => 'Free';
+  String get diveType_builtin_freedive_short => 'Bezdech';
 
   @override
   String get diveType_builtin_ice => 'Podlodowe';
@@ -14644,7 +14644,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_equipmentType_camera => 'Aparat';
 
   @override
-  String get enum_equipmentType_dpv => 'Skuter (DPV)';
+  String get enum_equipmentType_dpv => 'DPV';
 
   @override
   String get enum_equipmentType_o2Cell => 'Czujnik O2';
@@ -15199,7 +15199,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_tankRole_sidemountRight => 'Sidemount prawa';
 
   @override
-  String get enum_tankRole_stage => 'Stage';
+  String get enum_tankRole_stage => 'Butla stage';
 
   @override
   String get enum_tankRole_suitInflation => 'Zasilanie skafandra';
@@ -16220,7 +16220,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get pdf_diveCenter => 'Centrum nurkowe';
 
   @override
-  String get pdf_diveOperator => 'Operator';
+  String get pdf_diveOperator => 'Organizator';
 
   @override
   String get pdf_boatName => 'Łódź';
@@ -18086,7 +18086,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wyczyść datę następnego serwisu';
 
   @override
-  String get equipment_serviceDialog_costHint => '0.00';
+  String get equipment_serviceDialog_costHint => '0,00';
 
   @override
   String get equipment_serviceDialog_costLabel => 'Koszt';
@@ -21418,10 +21418,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get media_perdixOverlay_labelDepth => 'GŁĘB.';
 
   @override
-  String get media_perdixOverlay_labelGas => 'GAZ';
+  String get media_perdixOverlay_labelGas => 'GAS';
 
   @override
-  String get media_perdixOverlay_labelMax => 'MAKS';
+  String get media_perdixOverlay_labelMax => 'MAX';
 
   @override
   String get media_perdixOverlay_labelNdl => 'NDL';
@@ -21433,7 +21433,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get media_perdixOverlay_labelStop => 'STOP';
 
   @override
-  String get media_perdixOverlay_labelTank => 'BUTLA';
+  String get media_perdixOverlay_labelTank => 'TANK';
 
   @override
   String get media_perdixOverlay_labelTemp => 'TEMP';
@@ -21463,7 +21463,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get media_color_adjustAction => 'Dostosuj kolory';
 
   @override
-  String get media_color_auto => 'Auto';
+  String get media_color_auto => 'Automatycznie';
 
   @override
   String get media_color_pickWhite => 'Wskaż biel';
@@ -21543,7 +21543,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String media_color_labelAutoDepth(String depth) {
-    return '$depth · auto';
+    return '$depth · automatycznie';
   }
 
   @override
@@ -26530,7 +26530,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_conflict_field_diveOperator => 'Operator nurkowy';
 
   @override
-  String get settings_conflict_field_divePlanSegments_type => 'Segment';
+  String get settings_conflict_field_divePlanSegments_type => 'Odcinek';
 
   @override
   String get settings_conflict_field_divePlanTanks_role => 'Rola butli';
@@ -27149,7 +27149,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_conflict_field_occurredAt => 'Wystąpiło';
 
   @override
-  String get settings_conflict_field_operatorName => 'Operator';
+  String get settings_conflict_field_operatorName => 'Organizator';
 
   @override
   String get settings_conflict_field_originalFilename =>
@@ -27267,7 +27267,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_conflict_field_preDiveSessions_status => 'Status';
 
   @override
-  String get settings_conflict_field_presetJson => 'Preset';
+  String get settings_conflict_field_presetJson => 'Szablon';
 
   @override
   String get settings_conflict_field_presetName => 'Preset butli';
@@ -29673,10 +29673,10 @@ class AppLocalizationsPl extends AppLocalizations {
   String get settings_decompression_ppO2BandsDialog_band1 => 'Do 28% O2';
 
   @override
-  String get settings_decompression_ppO2BandsDialog_band2 => '28-45% O2';
+  String get settings_decompression_ppO2BandsDialog_band2 => '28–45% O2';
 
   @override
-  String get settings_decompression_ppO2BandsDialog_band3 => '45-99% O2';
+  String get settings_decompression_ppO2BandsDialog_band3 => '45–99% O2';
 
   @override
   String get settings_decompression_ppO2BandsDialog_maxO2DepthToggle =>
@@ -34888,7 +34888,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get tides_chart_msl => 'MSL';
+  String get tides_chart_msl => 'Śr. poziom morza';
 
   @override
   String tides_chart_nowLabel(Object nowHeightStr, Object nowTimeStr) {
@@ -36996,7 +36996,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get trips_detail_sectionTitle_vessel => 'Statek';
 
   @override
-  String get trips_detail_label_operator => 'Operator';
+  String get trips_detail_label_operator => 'Organizator';
 
   @override
   String get trips_detail_label_vesselType => 'Typ';
@@ -40030,7 +40030,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get columnConfig_resetToDefault => 'Przywróć domyślne';
 
   @override
-  String get columnConfig_preset => 'Preset';
+  String get columnConfig_preset => 'Szablon';
 
   @override
   String get columnConfig_presetSaveAs => 'Zapisz jako';
@@ -42805,7 +42805,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get attrChoice_worn_as_sidemount_right => 'Sidemount, prawa';
 
   @override
-  String get attrChoice_worn_as_stage => 'Stage';
+  String get attrChoice_worn_as_stage => 'Butla stage';
 
   @override
   String get attrChoice_figure_position_mouth => 'Usta';
@@ -43398,7 +43398,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String safetyHub_cnsOtu_elapsedDaysHours(int days, int hours) {
-    return '${days}d ${hours}h';
+    return '$days d $hours h';
   }
 
   @override
@@ -46048,7 +46048,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String visibility_range_atLeast(String min, String unit) {
-    return '$min $unit+';
+    return 'od $min $unit';
   }
 
   @override
@@ -46869,7 +46869,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get enum_diveField_diveCenterName_short => 'Centrum';
 
   @override
-  String get enum_diveField_diveOperator_short => 'Operator';
+  String get enum_diveField_diveOperator_short => 'Organizator';
 
   @override
   String get enum_diveField_boatName_short => 'Łódź';
@@ -52466,7 +52466,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String common_elapsed_daysHours(int days, int hours) {
-    return '${days}d ${hours}h';
+    return '$days d $hours h';
   }
 
   @override
@@ -52824,7 +52824,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_mediaSources_photoLibrarySubtitle =>
-      'Zdjęcia Apple / Zdjęcia Google / iCloud';
+      'Apple Photos / Google Photos / iCloud';
 
   @override
   String get settings_mediaSources_reverifyAll =>
@@ -59239,7 +59239,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get navTrack_align_scalePinnedHint =>
-      'Koniec jest przypięty, więc to on wyznacza rozmiar śladu. Skala zmienia tylko kształt trasy pomiędzy.';
+      'Koniec jest przypięty, więc to on wyznacza rozmiar śladu. Skala zmienia tylko kształt śladu pomiędzy.';
 
   @override
   String get navTrack_align_scaleHandleLabel =>
@@ -59456,7 +59456,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String navTrack_review_offsetDays(int days, int hours) {
-    return '${days}d ${hours}h';
+    return '$days d $hours h';
   }
 
   @override

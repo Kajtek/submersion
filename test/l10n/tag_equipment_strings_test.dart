@@ -18,6 +18,7 @@ void main() {
     'hu': 'felszerel',
     'it': 'attrezzatur',
     'nl': 'uitrusting',
+    'pl': 'sprzęt',
     'pt': 'equipament',
     'zh': '装备',
   };

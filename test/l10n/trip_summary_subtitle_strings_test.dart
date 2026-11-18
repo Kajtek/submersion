@@ -39,6 +39,14 @@ void main() {
     expect(subtitle(l10n, 1), '2026-06-03 • In 1 Tag');
   });
 
+  test('Polish picks its own plural form', () async {
+    final l10n = await load('pl');
+
+    expect(subtitle(l10n, 1), '2026-06-03 • Za 1 dzień');
+    expect(subtitle(l10n, 4), '2026-06-03 • Za 4 dni');
+    expect(subtitle(l10n, 0), '2026-06-03 • Zaczyna się dzisiaj');
+  });
+
   test('French keeps its own separator and reports zero as zero', () async {
     final l10n = await load('fr');
 
