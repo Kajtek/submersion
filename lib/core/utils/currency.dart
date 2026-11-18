@@ -47,6 +47,23 @@ String currencySymbol(String currencyCode) {
   }
 }
 
+/// Whether the active locale writes [currencyCode]'s symbol after the amount
+/// ("12,50 zł" in Polish, "12,50 €" in German) rather than before it
+/// ("$12.50" in English), so an amount field puts the symbol on the same side
+/// formatMoney does. False for a blank code and for locales intl has no number
+/// symbols for, keeping the symbol-first layout those cases always had.
+bool currencySymbolFollowsAmount(String currencyCode) {
+  final code = currencyCode.trim().toUpperCase();
+  if (code.isEmpty) return false;
+  try {
+    final format = NumberFormat.simpleCurrency(name: code);
+    return format.positivePrefix.trim().isEmpty &&
+        format.positiveSuffix.trim().isNotEmpty;
+  } on ArgumentError {
+    return false;
+  }
+}
+
 /// Formats [amount] in [currencyCode] using the currency's symbol, falling back
 /// to "CODE 12.34" for unrecognised codes.
 String formatMoney(double amount, String currencyCode) {

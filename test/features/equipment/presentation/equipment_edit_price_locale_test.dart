@@ -72,17 +72,48 @@ void main() {
       await tester.pumpAndSettle();
     }
 
-    Future<EquipmentItem> createItem({double? price}) async {
+    Future<EquipmentItem> createItem({
+      double? price,
+      String currency = 'EUR',
+    }) async {
       return repository.createEquipment(
         EquipmentItem(
           id: '',
           name: 'Regulator',
           type: EquipmentType.regulator,
           purchasePrice: price,
-          purchaseCurrency: 'EUR',
+          purchaseCurrency: currency,
         ),
       );
     }
+
+    InputDecoration priceDecoration(WidgetTester tester) => tester
+        .widget<TextField>(
+          find.descendant(of: priceField, matching: find.byType(TextField)),
+        )
+        .decoration!;
+
+    testWidgets('shows the zloty after the price under Polish', (tester) async {
+      Intl.defaultLocale = 'pl';
+      final created = await createItem(price: 12.5, currency: 'PLN');
+      await pumpEditor(tester, created.id);
+
+      await scrollTo(tester, priceField);
+      expect(priceDecoration(tester).suffixText, ' zł');
+      expect(priceDecoration(tester).prefixText, isNull);
+    });
+
+    testWidgets('shows the dollar before the price under English', (
+      tester,
+    ) async {
+      Intl.defaultLocale = 'en_US';
+      final created = await createItem(price: 12.5, currency: 'USD');
+      await pumpEditor(tester, created.id);
+
+      await scrollTo(tester, priceField);
+      expect(priceDecoration(tester).prefixText, r'$ ');
+      expect(priceDecoration(tester).suffixText, isNull);
+    });
 
     testWidgets('saves a price typed with a comma decimal separator', (
       tester,
