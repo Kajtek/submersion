@@ -48495,28 +48495,29 @@ class AppLocalizationsPl extends AppLocalizations {
       'Głowomłot o gładkiej, zaokrąglonej krawędzi głowy, spotykany w morzach strefy umiarkowanej.';
 
   @override
-  String get species_whitetip_reef_shark_name => 'Rekin rafowy białopłetwy';
+  String get species_whitetip_reef_shark_name => 'Żarłacz gruby';
 
   @override
   String get species_whitetip_reef_shark_desc =>
       'Łagodny mieszkaniec rafy, który za dnia często odpoczywa w jaskiniach i pod nawisami.';
 
   @override
-  String get species_blacktip_reef_shark_name => 'Rekin rafowy czarnopłetwy';
+  String get species_blacktip_reef_shark_name =>
+      'Żarłacz rafowy czarnopłetwy (blacktip reef shark)';
 
   @override
   String get species_blacktip_reef_shark_desc =>
       'Pospolity rekin rafowy płytkich wód o charakterystycznych czarnych końcach płetw.';
 
   @override
-  String get species_grey_reef_shark_name => 'Szary rekin rafowy';
+  String get species_grey_reef_shark_name => 'Żarłacz rafowy';
 
   @override
   String get species_grey_reef_shark_desc =>
       'Aktywny drapieżnik rafowy, często spotykany w grupach przy stokach rafy i w kanałach.';
 
   @override
-  String get species_caribbean_reef_shark_name => 'Karaibski rekin rafowy';
+  String get species_caribbean_reef_shark_name => 'Żarłacz karaibski';
 
   @override
   String get species_caribbean_reef_shark_desc =>
@@ -48530,7 +48531,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Powolny mieszkaniec dna, często odpoczywający pod koralowymi nawisami.';
 
   @override
-  String get species_tawny_nurse_shark_name => 'Rdzawy rekin wąsaty';
+  String get species_tawny_nurse_shark_name =>
+      'Rekin wąsaty rdzawy (tawny nurse shark)';
 
   @override
   String get species_tawny_nurse_shark_desc =>
@@ -48565,7 +48567,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Rozpoznawalny po niezwykle długiej płetwie ogonowej, czasem widywany przy stacjach czyszczących.';
 
   @override
-  String get species_pelagic_thresher_shark_name => 'Kosogon pelagiczny';
+  String get species_pelagic_thresher_shark_name =>
+      'Kosogon pelagiczny (pelagic thresher shark)';
 
   @override
   String get species_pelagic_thresher_shark_desc =>
@@ -48586,7 +48589,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły, ciemnoniebieski rekin pelagiczny, często spotykany podczas nurkowań w toni.';
 
   @override
-  String get species_spotted_wobbegong_name => 'Brodacz plamisty';
+  String get species_spotted_wobbegong_name =>
+      'Brodacz plamisty (spotted wobbegong)';
 
   @override
   String get species_spotted_wobbegong_desc =>
@@ -48607,21 +48611,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mały rekin, który chodzi po dnie rafy na płetwach piersiowych.';
 
   @override
-  String get species_horn_shark_name => 'Rogatek kalifornijski';
+  String get species_horn_shark_name => 'Rogatek kalifornijski (horn shark)';
 
   @override
   String get species_horn_shark_desc =>
       'Nocny mieszkaniec dna z wałami nad oczami, spotykany u wybrzeży Kalifornii.';
 
   @override
-  String get species_leopard_shark_name => 'Rekin lamparci';
+  String get species_leopard_shark_name => 'Rekin półpręgowany (leopard shark)';
 
   @override
   String get species_leopard_shark_desc =>
       'Pięknie ubarwiony rekin spotykany w płytkich zatokach wzdłuż pacyficznego wybrzeża USA.';
 
   @override
-  String get species_pacific_angel_shark_name => 'Raszpla pacyficzna';
+  String get species_pacific_angel_shark_name => 'Raszpla kalifornijska';
 
   @override
   String get species_pacific_angel_shark_desc =>
@@ -48635,7 +48639,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Groźnie wyglądający, lecz łagodny rekin, często zawisający w toni w jaskiniach i wrakach.';
 
   @override
-  String get species_zebra_shark_name => 'Rekin zebra';
+  String get species_zebra_shark_name => 'Rekin brodaty';
 
   @override
   String get species_zebra_shark_desc =>
@@ -48684,7 +48688,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Nocny mieszkaniec dna z rysunkiem przypominającym uprząż, endemit Australii.';
 
   @override
-  String get species_bamboo_shark_name => 'Rekin bambusowy brązowopręgi';
+  String get species_bamboo_shark_name => 'Brązowy rekin bambusowy';
 
   @override
   String get species_bamboo_shark_desc =>
@@ -48719,7 +48723,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prymitywny rekin z siedmioma szczelinami skrzelowymi, spotykany podczas nurkowań w lasach wodorostów strefy umiarkowanej.';
 
   @override
-  String get species_pyjama_shark_name => 'Rekin piżamowy';
+  String get species_pyjama_shark_name => 'Rekinek leniwy';
 
   @override
   String get species_pyjama_shark_desc =>
@@ -48733,7 +48737,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mały, liczny rekin z jadowitymi kolcami na grzbiecie, spotykany w wodach umiarkowanych.';
 
   @override
-  String get species_swell_shark_name => 'Rekinek balonowy';
+  String get species_swell_shark_name => 'Rekinek balonowy (swell shark)';
 
   @override
   String get species_swell_shark_desc =>
@@ -48747,7 +48751,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gatunek płaszczki, majestatyczny filtrator o rozpiętości płetw do 7 metrów.';
 
   @override
-  String get species_reef_manta_ray_name => 'Manta rafowa';
+  String get species_reef_manta_ray_name => 'Manta rafowa (reef manta ray)';
 
   @override
   String get species_reef_manta_ray_desc =>
@@ -48769,14 +48773,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_blue_spotted_ribbontail_ray_name =>
-      'Płaszczka niebieskoplama';
+      'Patelnica niebieskoplama';
 
   @override
   String get species_blue_spotted_ribbontail_ray_desc =>
       'Jaskrawo ubarwiona płaszczka z intensywnie niebieskimi plamami, pospolita na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_blue_spotted_stingray_name => 'Ogończa Kuhla';
+  String get species_blue_spotted_stingray_name =>
+      'Ogończa Kuhla (bluespotted stingray)';
 
   @override
   String get species_blue_spotted_stingray_desc =>
@@ -48790,28 +48795,30 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża ogończa spotykana na piaszczystych płyciznach Karaibów, słynna ze Stingray City.';
 
   @override
-  String get species_round_stingray_name => 'Ogończa okrągła';
+  String get species_round_stingray_name => 'Trygon kolisty';
 
   @override
   String get species_round_stingray_desc =>
       'Mała, okrągła ogończa, pospolita na płytkich piaszczystych obszarach wschodniego Pacyfiku.';
 
   @override
-  String get species_short_tail_stingray_name => 'Ogończa krótkoogonowa';
+  String get species_short_tail_stingray_name =>
+      'Ogończa krótkoogonowa (short-tail stingray)';
 
   @override
   String get species_short_tail_stingray_desc =>
       'Jedna z największych ogończy, spotykana w umiarkowanych wodach półkuli południowej.';
 
   @override
-  String get species_cowtail_stingray_name => 'Ogończa pióroogonowa';
+  String get species_cowtail_stingray_name =>
+      'Ogończa pióroogonowa (cowtail stingray)';
 
   @override
   String get species_cowtail_stingray_desc =>
       'Duża, ciemna ogończa z charakterystycznym fałdem ogona przypominającym chorągiewkę, spotykana na piaszczystych rafach.';
 
   @override
-  String get species_atlantic_torpedo_ray_name => 'Drętwa atlantycka';
+  String get species_atlantic_torpedo_ray_name => 'Drętwa brunatna';
 
   @override
   String get species_atlantic_torpedo_ray_desc =>
@@ -48825,14 +48832,15 @@ class AppLocalizationsPl extends AppLocalizations {
       'Śródziemnomorska płaszczka elektryczna o marmurkowym deseniu, zdolna porazić odczuwalnym wyładowaniem.';
 
   @override
-  String get species_giant_guitarfish_name => 'Rocha olbrzymia';
+  String get species_giant_guitarfish_name =>
+      'Rocha olbrzymia (giant guitarfish)';
 
   @override
   String get species_giant_guitarfish_desc =>
       'Płaszczka o kształcie rekina, spotykana na piaszczystym dnie Indo-Pacyfiku w pobliżu raf koralowych.';
 
   @override
-  String get species_shovelnose_guitarfish_name => 'Rocha łopatonosa';
+  String get species_shovelnose_guitarfish_name => 'Rocha aksamitna';
 
   @override
   String get species_shovelnose_guitarfish_desc =>
@@ -48846,7 +48854,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krytycznie zagrożona płaszczka z uzębionym rostrum, spotykana w tropikalnych wodach przybrzeżnych.';
 
   @override
-  String get species_green_sawfish_name => 'Piła zielona';
+  String get species_green_sawfish_name => 'Piła zielona (green sawfish)';
 
   @override
   String get species_green_sawfish_desc =>
@@ -48860,14 +48868,16 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża mobula z płetwami głowowymi, widywana, gdy grupami wyskakuje z wody.';
 
   @override
-  String get species_spinetail_devil_ray_name => 'Mobula kolcoogonowa';
+  String get species_spinetail_devil_ray_name =>
+      'Mobula kolcoogonowa (spinetail devil ray)';
 
   @override
   String get species_spinetail_devil_ray_desc =>
       'Pelagiczna mobula często widywana w dużych skupiskach przy powierzchni.';
 
   @override
-  String get species_lesser_devil_ray_name => 'Mobula karłowata';
+  String get species_lesser_devil_ray_name =>
+      'Mobula karłowata (pygmy devil ray)';
 
   @override
   String get species_lesser_devil_ray_desc =>
@@ -48881,7 +48891,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płaszczka o romboidalnym kształcie, pospolita w lasach wodorostów i piaszczystych zatokach Kalifornii.';
 
   @override
-  String get species_undulate_ray_name => 'Raja falista';
+  String get species_undulate_ray_name => 'Raja bruzdowana';
 
   @override
   String get species_undulate_ray_desc =>
@@ -48895,21 +48905,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pospolita europejska raja z ostrymi kolcami wzdłuż grzbietu i ogona.';
 
   @override
-  String get species_cownose_ray_name => 'Płaszczka krowionosa';
+  String get species_cownose_ray_name => 'Płaszczka karbogłowa';
 
   @override
   String get species_cownose_ray_desc =>
       'Charakterystyczna wcięta głowa; często widywana w dużych ławicach podczas sezonowych wędrówek.';
 
   @override
-  String get species_marble_ray_name => 'Ogończa marmurkowa';
+  String get species_marble_ray_name => 'Ogończa marmurkowa (marble ray)';
 
   @override
   String get species_marble_ray_desc =>
       'Duża, ciemna ogończa z białymi plamami, często widywana przy stacjach czyszczących Indo-Pacyfiku.';
 
   @override
-  String get species_ocellate_river_stingray_name => 'Płaszczka motoro';
+  String get species_ocellate_river_stingray_name => 'Płaszczka plamista';
 
   @override
   String get species_ocellate_river_stingray_desc =>
@@ -48923,7 +48933,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mała ryba w pomarańczowo-białe pasy, żyjąca w symbiozie z ukwiałami na rafach koralowych.';
 
   @override
-  String get species_clarkii_clownfish_name => 'Błazenek Clarka';
+  String get species_clarkii_clownfish_name =>
+      'Błazenek Clarka (Clark\'s clownfish)';
 
   @override
   String get species_clarkii_clownfish_desc =>
@@ -48958,14 +48969,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Efektowny jasnoniebieski pokolec z czarną głową i żółtą płetwą grzbietową, spotykany w Oceanie Indyjskim.';
 
   @override
-  String get species_sohal_surgeonfish_name => 'Pokolec arabski';
+  String get species_sohal_surgeonfish_name => 'Pokolec szary';
 
   @override
   String get species_sohal_surgeonfish_desc =>
       'Wyraziście pręgowany pokolec z pomarańczowym kolcem ogonowym, endemit raf Morza Czerwonego i Zatoki Perskiej.';
 
   @override
-  String get species_blue_tang_name => 'Pokolec błękitny';
+  String get species_blue_tang_name => 'Pokolec turkusowy';
 
   @override
   String get species_blue_tang_desc =>
@@ -48979,35 +48990,35 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży ustniczek w efektowne niebieskie i żółte poziome pasy. Młode osobniki mają koncentryczne niebiesko-białe kręgi.';
 
   @override
-  String get species_french_angelfish_name => 'Ustniczek francuski';
+  String get species_french_angelfish_name => 'Ustniczek czarny';
 
   @override
   String get species_french_angelfish_desc =>
       'Duży, ciemny ustniczek o łuskach ze złotym obrzeżeniem, zwykle widywany w parach na rafach Karaibów i zachodniego Atlantyku.';
 
   @override
-  String get species_queen_angelfish_name => 'Ustniczek królewski';
+  String get species_queen_angelfish_name => 'Nefrytek królewski';
 
   @override
   String get species_queen_angelfish_desc =>
-      'Wspaniały niebiesko-żółty ustniczek z charakterystyczną plamą w kształcie korony, spotykany na karaibskich rafach koralowych.';
+      'Wspaniały niebiesko-żółty nefrytek z charakterystyczną plamą w kształcie korony, spotykany na karaibskich rafach koralowych.';
 
   @override
-  String get species_regal_angelfish_name => 'Ustniczek książęcy';
+  String get species_regal_angelfish_name => 'Ustnik słoneczny';
 
   @override
   String get species_regal_angelfish_desc =>
-      'Elegancki ustniczek w naprzemienne pomarańczowo-białe i niebieskie pionowe pasy, spotykany na rafach Indo-Pacyfiku.';
+      'Elegancki ustnik w naprzemienne pomarańczowo-białe i niebieskie pionowe pasy, spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_rock_beauty_name => 'Ustniczek trójbarwny';
+  String get species_rock_beauty_name => 'Nefrytek trójbarwny';
 
   @override
   String get species_rock_beauty_desc =>
-      'Efektowny karaibski ustniczek z żółtą przednią i czarną tylną połową ciała, spotykany przy skalistych rafach i nawisach.';
+      'Efektowny karaibski nefrytek z żółtą przednią i czarną tylną połową ciała, spotykany przy skalistych rafach i nawisach.';
 
   @override
-  String get species_gray_angelfish_name => 'Ustniczek szary';
+  String get species_gray_angelfish_name => 'Ustniczek francuzik';
 
   @override
   String get species_gray_angelfish_desc =>
@@ -49021,7 +49032,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Charakterystyczny chetonik z pomarańczowymi pionowymi pasami i wydłużonym pyskiem, spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_raccoon_butterflyfish_name => 'Chetonik szopi';
+  String get species_raccoon_butterflyfish_name => 'Ustnik lunula';
 
   @override
   String get species_raccoon_butterflyfish_desc =>
@@ -49035,32 +49046,34 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jaskrawożółty chetonik z niezwykle długim pyskiem, którym wybiera pokarm ze szczelin na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_threadfin_butterflyfish_name => 'Chetonik nitkopłetwy';
+  String get species_threadfin_butterflyfish_name => 'Ustnik pawik';
 
   @override
   String get species_threadfin_butterflyfish_desc =>
       'Biały chetonik z jodełkowym wzorem i nitkowatym wyrostkiem płetwy grzbietowej, szeroko rozprzestrzeniony w Indo-Pacyfiku.';
 
   @override
-  String get species_foureye_butterflyfish_name => 'Chetonik czterooki';
+  String get species_foureye_butterflyfish_name =>
+      'Ustnik czterooki (foureye butterflyfish)';
 
   @override
   String get species_foureye_butterflyfish_desc =>
       'Jasny chetonik z wyraźną fałszywą plamą oczną przy ogonie, pospolity na rafach Karaibów.';
 
   @override
-  String get species_spotfin_butterflyfish_name => 'Chetonik plamopłetwy';
+  String get species_spotfin_butterflyfish_name => 'Ustnik płetwoplamy';
 
   @override
   String get species_spotfin_butterflyfish_desc =>
       'Biało-żółty chetonik z małą ciemną plamką na płetwie grzbietowej, spotykany w zachodnim Atlantyku.';
 
   @override
-  String get species_banner_butterflyfish_name => 'Kabuba czerwonomorska';
+  String get species_banner_butterflyfish_name =>
+      'Ustnik czerwonomorski (Red Sea bannerfish)';
 
   @override
   String get species_banner_butterflyfish_desc =>
-      'Czarno-biała kabuba z wydłużoną płetwą grzbietową i żółtym brzuchem, endemit Morza Czerwonego.';
+      'Czarno-biały ustnik z wydłużoną płetwą grzbietową i żółtym brzuchem, endemit Morza Czerwonego.';
 
   @override
   String get species_moorish_idol_name => 'Idolek mauretański';
@@ -49084,7 +49097,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gatunek mureny, osiągający ponad 3 m, z cętkami jak u lamparta. Spotykany na rafach koralowych Indo-Pacyfiku.';
 
   @override
-  String get species_spotted_moray_eel_name => 'Murena plamista';
+  String get species_spotted_moray_eel_name => 'Moringa cętkowana';
 
   @override
   String get species_spotted_moray_eel_desc =>
@@ -49098,21 +49111,23 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukła murena z rozszerzonymi nozdrzami; samce są intensywnie niebieskie, samice żółte. Spotykana w piaszczystych lagunach Indo-Pacyfiku.';
 
   @override
-  String get species_spotted_garden_eel_name => 'Węgorz ogrodowy plamisty';
+  String get species_spotted_garden_eel_name =>
+      'Węgorz ogrodowy plamisty (spotted garden eel)';
 
   @override
   String get species_spotted_garden_eel_desc =>
       'Cienki biały węgorz w czarne plamki, żyjący w koloniach na piasku i kołyszący się w prądzie, by chwytać plankton.';
 
   @override
-  String get species_splendid_garden_eel_name => 'Węgorz ogrodowy wspaniały';
+  String get species_splendid_garden_eel_name =>
+      'Węgorz ogrodowy wspaniały (splendid garden eel)';
 
   @override
   String get species_splendid_garden_eel_desc =>
       'Węgorz ogrodowy w pomarańczowo-białe pręgi, tworzący duże kolonie na piasku w zachodnim Pacyfiku.';
 
   @override
-  String get species_snowflake_moray_name => 'Murena gwiaździsta';
+  String get species_snowflake_moray_name => 'Echidna gwiaździsta';
 
   @override
   String get species_snowflake_moray_desc =>
@@ -49133,7 +49148,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jadowita ryba ze skorpenowatych z efektownymi wachlarzowatymi płetwami piersiowymi, w czerwono-białe pasy. Inwazyjna na Karaibach.';
 
   @override
-  String get species_leaf_scorpionfish_name => 'Skorpena liściowata';
+  String get species_leaf_scorpionfish_name =>
+      'Skorpena liściowata (leaf scorpionfish)';
 
   @override
   String get species_leaf_scorpionfish_desc =>
@@ -49147,25 +49163,25 @@ class AppLocalizationsPl extends AppLocalizations {
       'Najbardziej jadowita ryba świata, doskonale zamaskowana jako kamień na dnie raf Indo-Pacyfiku. Skrajnie niebezpieczna.';
 
   @override
-  String get species_painted_frogfish_name => 'Żabnica malowana (frogfish)';
+  String get species_painted_frogfish_name => 'Antenarius malowany (frogfish)';
 
   @override
   String get species_painted_frogfish_desc =>
       'Krępy drapieżnik polujący z zasadzki, z wabikiem na głowie i bardzo zmiennym ubarwieniem. Spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_giant_frogfish_name => 'Żabnica olbrzymia (frogfish)';
+  String get species_giant_frogfish_name => 'Antenarius olbrzymi (frogfish)';
 
   @override
   String get species_giant_frogfish_desc =>
-      'Największy gatunek żabnicy, dorastający do 40 cm, znakomicie zamaskowany wśród gąbek i rumoszu koralowego.';
+      'Największy gatunek antenariusa, dorastający do 40 cm, znakomicie zamaskowany wśród gąbek i rumoszu koralowego.';
 
   @override
-  String get species_hairy_frogfish_name => 'Żabnica włochata (frogfish)';
+  String get species_hairy_frogfish_name => 'Antenarius włochaty (frogfish)';
 
   @override
   String get species_hairy_frogfish_desc =>
-      'Żabnica pokryta mięsistymi wyrostkami podobnymi do robaków, które naśladują glony; cenione znalezisko dla fotografów podwodnych.';
+      'Antenarius pokryty mięsistymi wyrostkami podobnymi do robaków, które naśladują glony; cenione znalezisko dla fotografów podwodnych.';
 
   @override
   String get species_clown_triggerfish_name => 'Rogatnica jasnoplama';
@@ -49175,14 +49191,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wyraziście ubarwiona rogatnica z dużymi białymi plamami na ciemnym ciele i żółtymi wargami, spotykana na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_titan_triggerfish_name => 'Rogatnica tytan';
+  String get species_titan_triggerfish_name => 'Rogatnica zielonkawa';
 
   @override
   String get species_titan_triggerfish_desc =>
       'Duża, agresywna rogatnica znana z atakowania nurków w pobliżu gniazda. Pospolita na rafach koralowych Indo-Pacyfiku.';
 
   @override
-  String get species_queen_triggerfish_name => 'Rogatnica królewska';
+  String get species_queen_triggerfish_name => 'Rogatnica piękna';
 
   @override
   String get species_queen_triggerfish_desc =>
@@ -49196,7 +49212,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Rogatnica z abstrakcyjnym wzorem niebieskich, żółtych i czarnych pasów, pospolita na płyciznach rafowych Indo-Pacyfiku.';
 
   @override
-  String get species_yellowmargin_triggerfish_name => 'Rogatnica żółtobrzega';
+  String get species_yellowmargin_triggerfish_name =>
+      'Rogatnica żółtobrzega (yellowmargin triggerfish)';
 
   @override
   String get species_yellowmargin_triggerfish_desc =>
@@ -49210,28 +49227,28 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża kolczasta ryba, która w razie zagrożenia nadyma się w kulę, spotykana na rafach tropikalnych całego świata.';
 
   @override
-  String get species_guineafowl_pufferfish_name => 'Rozdymka perlicza';
+  String get species_guineafowl_pufferfish_name => 'Arotron nakrapiany';
 
   @override
   String get species_guineafowl_pufferfish_desc =>
       'Ciemna rozdymka pokryta drobnymi białymi plamkami, na rafach Indo-Pacyfiku spotykana czasem w złotożółtej odmianie barwnej.';
 
   @override
-  String get species_map_pufferfish_name => 'Rozdymka mapowa';
+  String get species_map_pufferfish_name => 'Arotron żółtoszary';
 
   @override
   String get species_map_pufferfish_desc =>
       'Duża jasna rozdymka z misternym ciemnym rysunkiem na całym ciele, przypominającym mapę, spotykana na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_sharpnose_pufferfish_name => 'Rozdymka ostronosa';
+  String get species_sharpnose_pufferfish_name => 'Rozdymka niebieskoplama';
 
   @override
   String get species_sharpnose_pufferfish_desc =>
       'Maleńka rozdymka z niebieskimi liniami na głowie i pomarańczowym ogonem, często widywana na rafach Karaibów.';
 
   @override
-  String get species_boxfish_name => 'Kostera żółta';
+  String get species_boxfish_name => 'Kostera gruzełkowata';
 
   @override
   String get species_boxfish_desc =>
@@ -49245,7 +49262,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pudełkowata żółta ryba z charakterystycznymi wyrostkami przypominającymi rogi nad każdym okiem, spotykana na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_napoleon_wrasse_name => 'Wargacz garbogłowy (napoleon)';
+  String get species_napoleon_wrasse_name => 'Wargacz garbogłowy';
 
   @override
   String get species_napoleon_wrasse_desc =>
@@ -49259,63 +49276,64 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mały wargacz z niebieskim pasem, prowadzący stacje czyszczące, w których usuwa pasożyty z większych ryb na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_yellowtail_coris_name => 'Koris żółtoogonowy';
+  String get species_yellowtail_coris_name => 'Korys żółtochwosty';
 
   @override
   String get species_yellowtail_coris_desc =>
       'Barwny wargacz o cętkowanym ciele i żółtym ogonie; młode osobniki są jaskrawo pomarańczowoczerwone z białymi plamami.';
 
   @override
-  String get species_bluehead_wrasse_name => 'Wargacz niebieskogłowy';
+  String get species_bluehead_wrasse_name => 'Talasoma sinogłowa';
 
   @override
   String get species_bluehead_wrasse_desc =>
       'Liczny karaibski wargacz; samce w fazie terminalnej mają intensywnie niebieską głowę i zielone ciało z czarno-białymi pasami.';
 
   @override
-  String get species_spanish_hogfish_name => 'Wargacz hiszpański';
+  String get species_spanish_hogfish_name => 'Bodian hiszpański';
 
   @override
   String get species_spanish_hogfish_desc =>
       'Fioletowo-żółty wargacz pospolity na rafach Karaibów; młode osobniki pełnią rolę czyścicieli.';
 
   @override
-  String get species_bumphead_parrotfish_name => 'Papugoryba garbogłowa';
+  String get species_bumphead_parrotfish_name =>
+      'Papugoryba garbogłowa (bumphead parrotfish)';
 
   @override
   String get species_bumphead_parrotfish_desc =>
       'Największy gatunek papugoryby, dorastający do 1,3 m, z masywnym garbem na czole. Wędruje ławicami po rafach Indo-Pacyfiku.';
 
   @override
-  String get species_stoplight_parrotfish_name => 'Papugoryba zielona';
+  String get species_stoplight_parrotfish_name => 'Sparysoma szmaragdowa';
 
   @override
   String get species_stoplight_parrotfish_desc =>
       'Pospolita karaibska papugoryba, której ubarwienie diametralnie zmienia się między fazą początkową a terminalną.';
 
   @override
-  String get species_queen_parrotfish_name => 'Papugoryba królewska';
+  String get species_queen_parrotfish_name => 'Skarus wetula';
 
   @override
   String get species_queen_parrotfish_desc =>
       'Duża niebieskozielona papugoryba spotykana na rafach Karaibów, często widywana, gdy odgryza koral, żerując na glonach.';
 
   @override
-  String get species_yellowtail_damselfish_name => 'Garbik żółtoogonowy';
+  String get species_yellowtail_damselfish_name => 'Garbik białokropek';
 
   @override
   String get species_yellowtail_damselfish_desc =>
       'Ciemnoniebieski garbik z jaskrawożółtym ogonem, pospolity na szczytach i grzbietach raf Karaibów.';
 
   @override
-  String get species_sergeant_major_name => 'Garbik pięciopręgi (sierżant)';
+  String get species_sergeant_major_name => 'Garbik pasiasty';
 
   @override
   String get species_sergeant_major_desc =>
       'Srebrzystożółty garbik z pięcioma wyraźnymi czarnymi pręgami, tworzący duże skupiska na rafach tropikalnego Atlantyku.';
 
   @override
-  String get species_three_spot_damselfish_name => 'Garbik trójplamy';
+  String get species_three_spot_damselfish_name => 'Garbik złoty';
 
   @override
   String get species_three_spot_damselfish_desc =>
@@ -49336,42 +49354,43 @@ class AppLocalizationsPl extends AppLocalizations {
       'Olśniewająco niebieski planktonożerny garbik, tworzący duże skupiska w toni nad ścianami raf Karaibów.';
 
   @override
-  String get species_nassau_grouper_name => 'Granik nassauski';
+  String get species_nassau_grouper_name => 'Granik siodlasty';
 
   @override
   String get species_nassau_grouper_desc =>
       'Duży karaibski granik z charakterystycznym ciemnym pasem przez oko i pręgowanym wzorem, dziś zagrożony z powodu przełowienia.';
 
   @override
-  String get species_giant_grouper_name => 'Granik olbrzymi';
+  String get species_giant_grouper_name => 'Itajara olbrzymia';
 
   @override
   String get species_giant_grouper_desc =>
       'Największa kostnoszkieletowa ryba rafowa, osiągająca 2,7 m i 400 kg. Spotykana w jaskiniach i wrakach całego Indo-Pacyfiku.';
 
   @override
-  String get species_coral_grouper_name => 'Strzępiel koralowy';
+  String get species_coral_grouper_name => 'Graniec koralowy';
 
   @override
   String get species_coral_grouper_desc =>
       'Jaskrawy czerwonopomarańczowy strzępiel pokryty niebieskimi plamkami, gatunek wizytówka raf koralowych Indo-Pacyfiku.';
 
   @override
-  String get species_goliath_grouper_name => 'Granik goliat';
+  String get species_goliath_grouper_name => 'Itajara zmienna';
 
   @override
   String get species_goliath_grouper_desc =>
       'Potężny atlantycki granik dorastający do 2,5 m, często spotykany przy wrakach i nawisach na Florydzie i Karaibach.';
 
   @override
-  String get species_potato_grouper_name => 'Granik ziemniaczany';
+  String get species_potato_grouper_name =>
+      'Granik ziemniaczany (potato grouper)';
 
   @override
   String get species_potato_grouper_desc =>
       'Duży, przyjazny granik z ciemnymi plamami w kształcie ziemniaków, słynny z Cod Hole na Wielkiej Rafie Koralowej.';
 
   @override
-  String get species_peacock_grouper_name => 'Strzępiel pawi';
+  String get species_peacock_grouper_name => 'Graniec zmienny';
 
   @override
   String get species_peacock_grouper_desc =>
@@ -49385,7 +49404,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szybki drapieżnik pelagiczny z długą żółtą płetwą grzbietową i odbytową, czasem widywany przez nurków w miejscach z dala od brzegu.';
 
   @override
-  String get species_dogtooth_tuna_name => 'Tuńczyk psiozębny';
+  String get species_dogtooth_tuna_name => 'Tuńczyk psiozębny (dogtooth tuna)';
 
   @override
   String get species_dogtooth_tuna_desc =>
@@ -49399,7 +49418,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukły srebrzysty drapieżnik do 1,8 m długości, o wydatnych zębach, często wiszący nieruchomo w toni przy rafach tropikalnych.';
 
   @override
-  String get species_blackfin_barracuda_name => 'Barakuda czarnopłetwa';
+  String get species_blackfin_barracuda_name =>
+      'Barakuda czarnopłetwa (blackfin barracuda)';
 
   @override
   String get species_blackfin_barracuda_desc =>
@@ -49413,56 +49433,57 @@ class AppLocalizationsPl extends AppLocalizations {
       'Olśniewająca niebieskozielono-złota ryba pelagiczna o tępym czole, czasem widywana w miejscach nurkowych z dala od brzegu.';
 
   @override
-  String get species_giant_trevally_name => 'Karanks olbrzymi';
+  String get species_giant_trevally_name => 'Karanks żółtopłetwy';
 
   @override
   String get species_giant_trevally_desc =>
       'Silny srebrzysty drapieżnik do 1,7 m długości, znany z polowań w kanałach rafowych i przy stokach raf Indo-Pacyfiku.';
 
   @override
-  String get species_bluefin_trevally_name => 'Karanks niebieskopłetwy';
+  String get species_bluefin_trevally_name =>
+      'Karanks niebieskopłetwy (bluefin trevally)';
 
   @override
   String get species_bluefin_trevally_desc =>
       'Smukły karanks w niebieskie plamki, często patrolujący krawędzie raf Indo-Pacyfiku w małych grupach łowieckich.';
 
   @override
-  String get species_bigeye_trevally_name => 'Karanks wielkooki';
+  String get species_bigeye_trevally_name => 'Karanks smugowy';
 
   @override
   String get species_bigeye_trevally_desc =>
       'Srebrzysty karanks o dużych oczach, tworzący imponujące wirujące ławice przy ścianach raf i stacjach czyszczących.';
 
   @override
-  String get species_bar_jack_name => 'Karanks smugowy';
+  String get species_bar_jack_name => 'Karanks baretka';
 
   @override
   String get species_bar_jack_desc =>
       'Smukły srebrzysty karanks karaibski z charakterystycznym ciemnoniebieskim pasem biegnącym wzdłuż grzbietu aż na dolny płat ogona.';
 
   @override
-  String get species_horse_eye_jack_name => 'Karanks końskooki';
+  String get species_horse_eye_jack_name => 'Karanks szeroki';
 
   @override
   String get species_horse_eye_jack_desc =>
       'Srebrzysty karanks o dużych oczach, tworzący ławice przy rafach i wrakach Karaibów i zachodniego Atlantyku.';
 
   @override
-  String get species_yellowtail_snapper_name => 'Lucjan żółtoogonowy';
+  String get species_yellowtail_snapper_name => 'Chryzor';
 
   @override
   String get species_yellowtail_snapper_desc =>
       'Smukły lucjan z żółtym pasem na boku i żółtym ogonem, często widywany w ławicach w toni na rafach Karaibów.';
 
   @override
-  String get species_schoolmaster_snapper_name => 'Lucjan nauczyciel';
+  String get species_schoolmaster_snapper_name => 'Lucjan panek';
 
   @override
   String get species_schoolmaster_snapper_desc =>
       'Żółtosrebrzysty lucjan z niebieskimi liniami pod okiem, spotykany w grupach pod nawisami na rafach Karaibów.';
 
   @override
-  String get species_bluestripe_snapper_name => 'Lucjan błękitnopasy';
+  String get species_bluestripe_snapper_name => 'Lucjan kaszmirski';
 
   @override
   String get species_bluestripe_snapper_desc =>
@@ -49476,112 +49497,118 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży czerwony lucjan spotykany na zewnętrznych rafach Indo-Pacyfiku, czasem tworzący ławice przy głębokich ścianach i w kanałach.';
 
   @override
-  String get species_humphead_snapper_name => 'Lucjan nocny';
+  String get species_humphead_snapper_name => 'Lucjan nocny (midnight snapper)';
 
   @override
   String get species_humphead_snapper_desc =>
       'Duży ciemny lucjan spotykany w ławicach przy stromych stokach raf Indo-Pacyfiku; młode osobniki są kontrastowo czarno-białe.';
 
   @override
-  String get species_longfin_bannerfish_name => 'Kabuba długopłetwa';
+  String get species_longfin_bannerfish_name => 'Ustnik rafowy';
 
   @override
   String get species_longfin_bannerfish_desc =>
       'Czarno-biała ryba z długą, ciągnącą się płetwą grzbietową i żółtym ogonem, często widywana w parach na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_batfish_orbicular_name => 'Plataks okrągły';
+  String get species_batfish_orbicular_name => 'Plataks pospolity';
 
   @override
   String get species_batfish_orbicular_desc =>
       'Srebrzysta ryba w kształcie dysku, z wysokimi płetwami, z ciekawością podpływająca do nurków. Pospolita na wrakach i rafach Indo-Pacyfiku.';
 
   @override
-  String get species_batfish_teira_name => 'Plataks długopłetwy';
+  String get species_batfish_teira_name =>
+      'Plataks długopłetwy (longfin batfish)';
 
   @override
   String get species_batfish_teira_desc =>
       'Plataks o wysokich płetwach z ciemną plamą przy płetwie piersiowej, często widywany przy stacjach czyszczących i wrakach.';
 
   @override
-  String get species_batfish_pinnatus_name => 'Plataks pierzasty';
+  String get species_batfish_pinnatus_name => 'Plataks indyjski';
 
   @override
   String get species_batfish_pinnatus_desc =>
       'Młode osobniki są kruczoczarne z jaskrawopomarańczowym obrzeżeniem i przypominają trującego płazińca. Spotykany w zachodnim Pacyfiku.';
 
   @override
-  String get species_banggai_cardinalfish_name => 'Apogon z Banggai';
+  String get species_banggai_cardinalfish_name => 'Apogon kardynał';
 
   @override
   String get species_banggai_cardinalfish_desc =>
       'Efektowny srebrno-czarny apogon o wydłużonych płetwach, endemit indonezyjskich wysp Banggai.';
 
   @override
-  String get species_pajama_cardinalfish_name => 'Apogon piżamowy';
+  String get species_pajama_cardinalfish_name => 'Apogon piżamka';
 
   @override
   String get species_pajama_cardinalfish_desc =>
       'Niezwykły apogon z żółtą głową, ciemnym pasem w połowie ciała i nakrapianym tyłem, spotykany wśród koralowców Indo-Pacyfiku.';
 
   @override
-  String get species_longnose_hawkfish_name => 'Strażnik długonosy';
+  String get species_longnose_hawkfish_name => 'Żagiewka długonosa';
 
   @override
   String get species_longnose_hawkfish_desc =>
       'Mała biała ryba z czerwonym kratkowanym wzorem i wydłużonym pyskiem, przesiadująca na gorgoniach i czarnych koralach.';
 
   @override
-  String get species_arc_eye_hawkfish_name => 'Strażnik łukooki';
+  String get species_arc_eye_hawkfish_name =>
+      'Żagiewka łukooka (arc-eye hawkfish)';
 
   @override
   String get species_arc_eye_hawkfish_desc =>
-      'Mały strażnik z charakterystycznym pomarańczowym łukiem za okiem, często przesiadujący na blokach koralowych raf Indo-Pacyfiku.';
+      'Mała żagiewka z charakterystycznym pomarańczowym łukiem za okiem, często przesiadująca na blokach koralowych raf Indo-Pacyfiku.';
 
   @override
-  String get species_flame_hawkfish_name => 'Strażnik płomienisty';
+  String get species_flame_hawkfish_name =>
+      'Żagiewka płomienista (flame hawkfish)';
 
   @override
   String get species_flame_hawkfish_desc =>
-      'Jaskrawoczerwony strażnik z ciemnym rysunkiem wokół oczu, przesiadujący w koralach Pocillopora w zachodnim Pacyfiku.';
+      'Jaskrawoczerwona żagiewka z ciemnym rysunkiem wokół oczu, przesiadująca w koralach Pocillopora w zachodnim Pacyfiku.';
 
   @override
-  String get species_fire_goby_name => 'Babka ognista';
+  String get species_fire_goby_name => 'Babka ognista (fire goby)';
 
   @override
   String get species_fire_goby_desc =>
       'Elegancka biała babka z wysoką pierwszą płetwą grzbietową i czerwonopomarańczowym ogonem, unosząca się nad rumoszem rafowym Indo-Pacyfiku.';
 
   @override
-  String get species_purple_firefish_name => 'Babka purpurowa';
+  String get species_purple_firefish_name =>
+      'Babka purpurowa (purple firefish)';
 
   @override
   String get species_purple_firefish_desc =>
       'Delikatna babka z fioletowymi płetwami i wysokim kolcem grzbietowym, unosząca się w pobliżu norek na zewnętrznych rafach Indo-Pacyfiku.';
 
   @override
-  String get species_yellownose_goby_name => 'Babka żółtonosa';
+  String get species_yellownose_goby_name =>
+      'Babka żółtonosa (yellownose goby)';
 
   @override
   String get species_yellownose_goby_desc =>
       'Maleńka karaibska babka czyściciel z żółtym pyskiem i niebieskim pasem na boku, spotykana na gąbkach i blokach koralowych.';
 
   @override
-  String get species_citron_goby_name => 'Babka cytrynowa';
+  String get species_citron_goby_name => 'Babka cytrynowa (citron goby)';
 
   @override
   String get species_citron_goby_desc =>
       'Maleńka jaskrawożółta babka żyjąca wśród gałęzi korali Acropora na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_shrimp_goby_name => 'Babka krewetkowa Steinitza';
+  String get species_shrimp_goby_name =>
+      'Babka krewetkowa Steinitza (Steinitz\'s shrimp goby)';
 
   @override
   String get species_shrimp_goby_desc =>
       'Babka w kolorze piasku, dzieląca norkę z krewetką pistoletową w układzie mutualistycznym na piaszczystych płyciznach Indo-Pacyfiku.';
 
   @override
-  String get species_neon_goby_name => 'Babka neonowa';
+  String get species_neon_goby_name => 'Babka neonowa (neon goby)';
 
   @override
   String get species_neon_goby_desc =>
@@ -49589,126 +49616,132 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_bluestriped_fangblenny_name =>
-      'Ślizg szablozębny niebieskopręgi';
+      'Aspidont niebieskopręgi (bluestriped fangblenny)';
 
   @override
   String get species_bluestriped_fangblenny_desc =>
       'Mały ślizg w niebieskie pasy, który upodabnia się do wargatków czyścicieli, by odgryzać łuski niczego niepodejrzewającym rybom.';
 
   @override
-  String get species_sailfin_blenny_name => 'Ślizg żaglopłetwy';
+  String get species_sailfin_blenny_name =>
+      'Ślizg żaglopłetwy (sailfin blenny)';
 
   @override
   String get species_sailfin_blenny_desc =>
       'Maleńki karaibski ślizg, który ze swojej rurki mieszkalnej stawia dużą, podobną do żagla płetwę grzbietową, by zwabić partnerki.';
 
   @override
-  String get species_bicolor_blenny_name => 'Ślizg dwubarwny';
+  String get species_bicolor_blenny_name => 'Ślizg dwubarwny (bicolor blenny)';
 
   @override
   String get species_bicolor_blenny_desc =>
       'Mały ślizg z ciemnobrązową przednią i pomarańczową tylną połową ciała, wyglądający z otworów na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_redlip_blenny_name => 'Ślizg czerwonowargi';
+  String get species_redlip_blenny_name =>
+      'Ślizg czerwonowargi (redlip blenny)';
 
   @override
   String get species_redlip_blenny_desc =>
       'Ciemny ślizg z wydatnymi czerwonopomarańczowymi wargami, broniący płatów glonów na grzbietach raf Karaibów.';
 
   @override
-  String get species_pygmy_seahorse_name => 'Karłowaty konik morski Bargibanta';
+  String get species_pygmy_seahorse_name =>
+      'Pławikonik karłowaty Bargibanta (Bargibant\'s pygmy seahorse)';
 
   @override
   String get species_pygmy_seahorse_desc =>
       'Maleńki konik morski poniżej 2 cm, idealnie upodobniony do gorgonii, na której żyje; ceniony obiekt makrofotografii.';
 
   @override
-  String get species_common_seahorse_name => 'Konik morski pospolity';
+  String get species_common_seahorse_name => 'Pławikonik żółty';
 
   @override
   String get species_common_seahorse_desc =>
       'Średniej wielkości konik morski spotykany na łąkach trawy morskiej i w rumoszu koralowym Indo-Pacyfiku, o zmiennym ubarwieniu.';
 
   @override
-  String get species_thorny_seahorse_name => 'Konik morski kolczasty';
+  String get species_thorny_seahorse_name => 'Pławikonik kolczasty';
 
   @override
   String get species_thorny_seahorse_desc =>
       'Konik morski pokryty długimi kolcami, spotykany na łąkach trawy morskiej i miękkim dnie Indo-Pacyfiku.';
 
   @override
-  String get species_ornate_ghost_pipefish_name => 'Iglicznia widmowa ozdobna';
+  String get species_ornate_ghost_pipefish_name =>
+      'Iglicznia widmowa ozdobna (ornate ghost pipefish)';
 
   @override
   String get species_ornate_ghost_pipefish_desc =>
       'Misternie zamaskowana iglicznia, unosząca się głową w dół przy liliowcach i koralach miękkich Indo-Pacyfiku.';
 
   @override
-  String get species_robust_ghost_pipefish_name => 'Iglicznia widmowa krępa';
+  String get species_robust_ghost_pipefish_name =>
+      'Iglicznia widmowa krępa (robust ghost pipefish)';
 
   @override
   String get species_robust_ghost_pipefish_desc =>
       'Duża iglicznia widmowa udająca trawę morską lub glony, często spotykana w parach w wodach przybrzeżnych Indo-Pacyfiku.';
 
   @override
-  String get species_trumpetfish_name => 'Fletnica plamista (trumpetfish)';
+  String get species_trumpetfish_name => 'Fletnica plamista';
 
   @override
   String get species_trumpetfish_desc =>
       'Długa, smukła ryba polująca w cieniu większych ryb, spotykana w różnych barwach na rafach Karaibów i Atlantyku.';
 
   @override
-  String get species_cornetfish_name => 'Fistulka';
+  String get species_cornetfish_name => 'Fistulka Commersona';
 
   @override
   String get species_cornetfish_desc =>
       'Niezwykle wydłużona ryba do 1,5 m długości, z nitkowatym wyrostkiem ogona, często widywana, gdy sunie nad płyciznami rafowymi.';
 
   @override
-  String get species_yellowhead_jawfish_name => 'Szczękacz żółtogłowy';
+  String get species_yellowhead_jawfish_name => 'Szczęknik złotoczelny';
 
   @override
   String get species_yellowhead_jawfish_desc =>
       'Mała ryba o niebieskim ciele i żółtej głowie, unosząca się nad swoją norką w piasku na rafach Karaibów. Samce inkubują ikrę w pysku.';
 
   @override
-  String get species_flamefish_name => 'Apogon płomienisty';
+  String get species_flamefish_name => 'Apogon ognisty';
 
   @override
   String get species_flamefish_desc =>
       'Mały jaskrawoczerwony apogon z ciemną plamą pod drugą płetwą grzbietową, za dnia ukryty w szczelinach raf Karaibów.';
 
   @override
-  String get species_longspine_squirrelfish_name => 'Hajduk długokolcy';
+  String get species_longspine_squirrelfish_name => 'Hajduk jasnopłetwy';
 
   @override
   String get species_longspine_squirrelfish_desc =>
       'Czerwona nocna ryba o dużych oczach i długim kolcu grzbietowym, za dnia spotykana pod nawisami na rafach Karaibów.';
 
   @override
-  String get species_soldierfish_name => 'Żołnierzyk wielkołuski';
+  String get species_soldierfish_name =>
+      'Hajduczek wielkołuski (bigscale soldierfish)';
 
   @override
   String get species_soldierfish_desc =>
       'Czerwona nocna ryba o ogromnych ciemnych oczach i dużych łuskach, za dnia tworząca grupy w jaskiniach i pod nawisami.';
 
   @override
-  String get species_flame_angelfish_name => 'Ustniczek płomienisty';
+  String get species_flame_angelfish_name => 'Cherubinek płomienny';
 
   @override
   String get species_flame_angelfish_desc =>
-      'Jaskrawy czerwonopomarańczowy ustniczek z czarnymi pionowymi pasami i niebieskimi końcami płetw, spotykany w całym Pacyfiku.';
+      'Jaskrawy czerwonopomarańczowy cherubinek z czarnymi pionowymi pasami i niebieskimi końcami płetw, spotykany w całym Pacyfiku.';
 
   @override
-  String get species_royal_gramma_name => 'Gramma królewska';
+  String get species_royal_gramma_name => 'Loretka';
 
   @override
   String get species_royal_gramma_desc =>
       'Mała dwubarwna ryba karaibska z fioletową przednią i żółtą tylną połową ciała, spotykana pod nawisami.';
 
   @override
-  String get species_anthias_lyretail_name => 'Antias liroogonowy';
+  String get species_anthias_lyretail_name => 'Papużak łuskopłetwy';
 
   @override
   String get species_anthias_lyretail_desc =>
@@ -49736,32 +49769,35 @@ class AppLocalizationsPl extends AppLocalizations {
       'Barwny zielony wargacz z czerwonym rysunkiem na głowie, jeden z najpospolitszych wargaczy na rafach Morza Śródziemnego.';
 
   @override
-  String get species_red_sea_bannerfish_name => 'Chetonik maskowy';
+  String get species_red_sea_bannerfish_name =>
+      'Szczecioząb krasnopręgi (masked butterflyfish)';
 
   @override
   String get species_red_sea_bannerfish_desc =>
       'Jaskrawożółty chetonik z ciemną plamą wokół oka, endemit Morza Czerwonego. Często widywany w parach.';
 
   @override
-  String get species_red_sea_anemonefish_name => 'Błazenek czerwonomorski';
+  String get species_red_sea_anemonefish_name => 'Błazenek dwupręgi';
 
   @override
   String get species_red_sea_anemonefish_desc =>
       'Pomarańczowożółty błazenek z dwoma białymi pasami, endemit Morza Czerwonego i Zatoki Adeńskiej.';
 
   @override
-  String get species_arabian_angelfish_name => 'Ustniczek arabski';
+  String get species_arabian_angelfish_name =>
+      'Ustniczek arabski (Arabian angelfish)';
 
   @override
   String get species_arabian_angelfish_desc =>
       'Duży ciemnoniebieski ustniczek z wyrazistym żółtym pionowym pasem i żółtym ogonem, endemit zachodniego Oceanu Indyjskiego.';
 
   @override
-  String get species_king_angelfish_name => 'Ustniczek monarszy';
+  String get species_king_angelfish_name =>
+      'Nefrytek monarszy (king angelfish)';
 
   @override
   String get species_king_angelfish_desc =>
-      'Duży ciemnoniebieski ustniczek z białym pionowym pasem i żółtym ogonem, spotykany we wschodnim Pacyfiku i na Galapagos.';
+      'Duży ciemnoniebieski nefrytek z białym pionowym pasem i żółtym ogonem, spotykany we wschodnim Pacyfiku i na Galapagos.';
 
   @override
   String get species_ocean_sunfish_name => 'Samogłów';
@@ -49778,28 +49814,29 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża, cętkowana drapieżna terpuga spotykana na skalistych rafach północno-zachodniego wybrzeża Pacyfiku, często pilnująca złożonej ikry.';
 
   @override
-  String get species_wolf_eel_name => 'Zębacz węgorzowaty';
+  String get species_wolf_eel_name => 'Zębacz długi';
 
   @override
   String get species_wolf_eel_desc =>
       'Duży szary zębacz o wężowatym ciele, z bulwiastą głową i potężnymi szczękami, spotykany w skalnych kryjówkach północno-zachodniego wybrzeża Pacyfiku.';
 
   @override
-  String get species_giant_sea_bass_name => 'Wrakoń olbrzymi';
+  String get species_giant_sea_bass_name => 'Strzępiel gigantyczny';
 
   @override
   String get species_giant_sea_bass_desc =>
       'Potężna ryba okoniokształtna osiągająca ponad 2 m i 250 kg, spotykana na skalistych rafach i w lasach wodorostów u wybrzeży południowej Kalifornii.';
 
   @override
-  String get species_garibaldi_name => 'Garbik garibaldi';
+  String get species_garibaldi_name => 'Garbik garibaldi (garibaldi)';
 
   @override
   String get species_garibaldi_desc =>
       'Jaskrawopomarańczowy garbik, oficjalna ryba morska stanu Kalifornia, terytorialny na rafach w lasach wodorostów.';
 
   @override
-  String get species_sheephead_name => 'Wargacz kalifornijski';
+  String get species_sheephead_name =>
+      'Wargacz kalifornijski (California sheephead)';
 
   @override
   String get species_sheephead_desc =>
@@ -49813,63 +49850,66 @@ class AppLocalizationsPl extends AppLocalizations {
       'Miedzianopomarańczowy karmazyn z jasnymi plamami, częsty widok na skalistych rafach i w lasach wodorostów północno-zachodniego wybrzeża Pacyfiku.';
 
   @override
-  String get species_oriental_sweetlips_name => 'Słodkousty orientalny';
+  String get species_oriental_sweetlips_name => 'Parma czarnopasa';
 
   @override
   String get species_oriental_sweetlips_desc =>
       'Duża ryba rafowa Indo-Pacyfiku w wyraziste czarno-białe pasy, z żółtymi płetwami. Młode osobniki wykonują wijący się taniec.';
 
   @override
-  String get species_harlequin_sweetlips_name => 'Słodkousty arlekin';
+  String get species_harlequin_sweetlips_name =>
+      'Parma arlekin (harlequin sweetlips)';
 
   @override
   String get species_harlequin_sweetlips_desc =>
       'Dorosłe osobniki są szare w ciemne plamki; młode są brązowe z dużymi białymi plamami i pływają falującym ruchem.';
 
   @override
-  String get species_blue_ringed_angelfish_name => 'Ustniczek pierścieniowy';
+  String get species_blue_ringed_angelfish_name => 'Ustniczek pierścieniowaty';
 
   @override
   String get species_blue_ringed_angelfish_desc =>
       'Duży brązowy ustniczek z niebieskimi łukowatymi liniami i charakterystycznym niebieskim pierścieniem nad pokrywą skrzelową.';
 
   @override
-  String get species_yellowbar_angelfish_name => 'Ustniczek żółtopręgi';
+  String get species_yellowbar_angelfish_name => 'Ustniczek cętkowany';
 
   @override
   String get species_yellowbar_angelfish_desc =>
       'Duży szaroniebieski ustniczek z wyraźną żółtą plamą na boku, spotykany w Morzu Czerwonym i zachodnim Oceanie Indyjskim.';
 
   @override
-  String get species_filefish_scrawled_name => 'Jednorożek pisany';
+  String get species_filefish_scrawled_name => 'Alutera pisana';
 
   @override
   String get species_filefish_scrawled_desc =>
       'Duży oliwkowobrązowy jednorożek z niebieskim rysunkiem przypominającym bazgroły i pomarańczowym fałdem podgardla, spotykany na rafach tropikalnych całego świata.';
 
   @override
-  String get species_clown_filefish_name => 'Jednorożek pomarańczowoplamy';
+  String get species_clown_filefish_name => 'Jednorożek długonosy';
 
   @override
   String get species_clown_filefish_desc =>
       'Mały zielony jednorożek w pomarańczowe plamki, z długim pyskiem, żywiący się wyłącznie polipami korali Acropora.';
 
   @override
-  String get species_unicornfish_name => 'Pokolec jednorogi';
+  String get species_unicornfish_name =>
+      'Naso jednorogi (bluespine unicornfish)';
 
   @override
   String get species_unicornfish_desc =>
       'Szary pokolec z wydatnym rogiem na czole i dwoma niebieskimi kolcami u nasady ogona, pospolity na płyciznach rafowych Indo-Pacyfiku.';
 
   @override
-  String get species_surgeonfish_sailfin_name => 'Zebrasoma żaglopłetwa';
+  String get species_surgeonfish_sailfin_name =>
+      'Zebrasoma żaglopłetwa (sailfin tang)';
 
   @override
   String get species_surgeonfish_sailfin_desc =>
       'Wyraziście pręgowany pokolec z silnie powiększoną płetwą grzbietową i odbytową, spotykany w całym Indo-Pacyfiku.';
 
   @override
-  String get species_achilles_tang_name => 'Pokolec Achillesa';
+  String get species_achilles_tang_name => 'Pokolec czarny';
 
   @override
   String get species_achilles_tang_desc =>
@@ -49883,35 +49923,36 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szarobrązowy pokolec ze słabo widocznymi ciemnymi pręgami i wydatnym kolcem u nasady ogona, pospolity na rafach Karaibów.';
 
   @override
-  String get species_checkerboard_wrasse_name => 'Wargacz szachownicowy';
+  String get species_checkerboard_wrasse_name => 'Wargatek tamarin';
 
   @override
   String get species_checkerboard_wrasse_desc =>
       'Barwny wargacz z szachownicowym wzorem zielonych, różowych i czarnych pól na całym ciele.';
 
   @override
-  String get species_bird_wrasse_name => 'Wargacz ptasi';
+  String get species_bird_wrasse_name => 'Gomfos zielony';
 
   @override
   String get species_bird_wrasse_desc =>
       'Wargacz z niezwykle wydłużonym pyskiem przypominającym ptasi dziób; samce są ciemnozielone, samice brązowe.';
 
   @override
-  String get species_sling_jaw_wrasse_name => 'Wargacz o wysuwanej szczęce';
+  String get species_sling_jaw_wrasse_name =>
+      'Wargacz o wysuwanej szczęce (sling-jaw wrasse)';
 
   @override
   String get species_sling_jaw_wrasse_desc =>
       'Wargacz z wysuwaną szczęką, która wystrzeliwuje do przodu, by pochwycić ofiarę; występuje w odmianie żółtej lub brązowej.';
 
   @override
-  String get species_peacock_flounder_name => 'Flądra pawia';
+  String get species_peacock_flounder_name => 'Skarp pawik';
 
   @override
   String get species_peacock_flounder_desc =>
       'Płaska ryba denna w niebieskie pierścienie i plamki, potrafiąca zmieniać ubarwienie, by dopasować się do dna.';
 
   @override
-  String get species_hogfish_name => 'Wargacz świniopyski';
+  String get species_hogfish_name => 'Odyńczyk';
 
   @override
   String get species_hogfish_desc =>
@@ -49925,28 +49966,28 @@ class AppLocalizationsPl extends AppLocalizations {
       'Ogromna srebrzysta ryba o dużych, lustrzanych łuskach, czasem spotykana przez nurków w jaskiniach i kanałach Karaibów.';
 
   @override
-  String get species_permit_name => 'Sierpik (permit)';
+  String get species_permit_name => 'Sierpik permit';
 
   @override
   String get species_permit_desc =>
       'Wysokogrzbieta srebrzysta ryba z rodziny ostrobokowatych, z ciemnym, rozwidlonym ogonem, spotykana na piaszczystych płyciznach Karaibów i przy rafach.';
 
   @override
-  String get species_spotted_drum_name => 'Kulbin plamisty';
+  String get species_spotted_drum_name => 'Huzarek plamisty (spotted drum)';
 
   @override
   String get species_spotted_drum_desc =>
       'Efektowna karaibska ryba z wysoką, wydłużoną płetwą grzbietową i wyrazistym wzorem czarno-białych plam.';
 
   @override
-  String get species_jackknife_fish_name => 'Kulbin lancetowaty';
+  String get species_jackknife_fish_name => 'Huzarek karaibski';
 
   @override
   String get species_jackknife_fish_desc =>
       'Elegancka karaibska ryba z czarnym pasem na wysokiej płetwie grzbietowej i ukośną pręgą na ciele, spotykana pod nawisami.';
 
   @override
-  String get species_bigeye_name => 'Wielkook szklisty';
+  String get species_bigeye_name => 'Wielkook szklisty (glasseye)';
 
   @override
   String get species_bigeye_desc =>
@@ -49960,98 +50001,104 @@ class AppLocalizationsPl extends AppLocalizations {
       'Smukła ryba z przyssawką na głowie, podróżująca na gapę na rekinach, płaszczkach, żółwiach i innych dużych zwierzętach.';
 
   @override
-  String get species_tilefish_sand_name => 'Płytecznik piaskowy';
+  String get species_tilefish_sand_name => 'Malkanik piaskowy';
 
   @override
   String get species_tilefish_sand_desc =>
       'Wydłużona jasnoniebieska ryba, która usypuje kopce z rumoszu na piaszczystych obszarach raf Karaibów.';
 
   @override
-  String get species_weedy_seadragon_name => 'Pławikonik australijski';
+  String get species_weedy_seadragon_name =>
+      'Smok morski wodorostowy (weedy seadragon)';
 
   @override
   String get species_weedy_seadragon_desc =>
       'Ozdobny krewny koników morskich z wyrostkami przypominającymi liście, endemit umiarkowanych wód południowej Australii.';
 
   @override
-  String get species_leafy_seadragon_name => 'Pławikonik grzywiasty';
+  String get species_leafy_seadragon_name => 'Pławikonik australijski';
 
   @override
   String get species_leafy_seadragon_desc =>
       'Widowiskowy smok morski pokryty misternymi wyrostkami w kształcie liści, endemit południowej Australii. Obserwacja z listy nurkowych marzeń.';
 
   @override
-  String get species_sailfin_snapper_name => 'Lucjan żaglopłetwy';
+  String get species_sailfin_snapper_name =>
+      'Lucjan żaglopłetwy (sailfin snapper)';
 
   @override
   String get species_sailfin_snapper_desc =>
       'Elegancki żółto-niebieski lucjan z wydłużoną płetwą grzbietową i odbytową, spotykany na stokach raf Indo-Pacyfiku.';
 
   @override
-  String get species_sweetlip_emperor_name => 'Letra mglista';
+  String get species_sweetlip_emperor_name => 'Letra niebieska';
 
   @override
   String get species_sweetlip_emperor_desc =>
       'Duża srebrzysta letra z niebieskimi liniami na głowie i żółtymi krawędziami płetw, pospolita nad piaszczystymi obszarami raf Indo-Pacyfiku.';
 
   @override
-  String get species_crocodilefish_name => 'Ryba krokodyl';
+  String get species_crocodilefish_name => 'Ryba krokodyl (crocodilefish)';
 
   @override
   String get species_crocodilefish_desc =>
       'Płaskogłowy drapieżnik polujący z zasadzki, z misternymi frędzlami nad oczami, leżący doskonale zamaskowany na dnie raf Indo-Pacyfiku.';
 
   @override
-  String get species_devil_scorpionfish_name => 'Skorpena diabelska';
+  String get species_devil_scorpionfish_name =>
+      'Skorpena diabelska (devil scorpionfish)';
 
   @override
   String get species_devil_scorpionfish_desc =>
       'Krępa, zamaskowana skorpena, która w ostrzeżeniu przed drapieżnikami błyska barwną wewnętrzną stroną płetw piersiowych.';
 
   @override
-  String get species_spiny_devilfish_name => 'Szkaradnica demon';
+  String get species_spiny_devilfish_name =>
+      'Inimikus dwupalcy (demon stinger)';
 
   @override
   String get species_spiny_devilfish_desc =>
       'Jadowity mieszkaniec dna, który chodzi na przekształconych promieniach płetw, a zaniepokojony błyska jaskrawymi płetwami piersiowymi.';
 
   @override
-  String get species_waspfish_name => 'Skorpena kakadu';
+  String get species_waspfish_name => 'Skorpena kakadu (cockatoo waspfish)';
 
   @override
   String get species_waspfish_desc =>
       'Mała, bocznie spłaszczona skorpena, kołysząca się w prądzie jak martwy liść na mulistym dnie Indo-Pacyfiku.';
 
   @override
-  String get species_stargazer_name => 'Skaber białobrzegi';
+  String get species_stargazer_name =>
+      'Skaber białobrzegi (whitemargin stargazer)';
 
   @override
   String get species_stargazer_desc =>
       'Drapieżnik polujący z zasadzki, zagrzebujący się w piasku tak, że widać tylko oczy; potrafi razić prądem. Spotykany w Indo-Pacyfiku.';
 
   @override
-  String get species_striped_catfish_name => 'Sumik koralowy';
+  String get species_striped_catfish_name => 'Sumik węgorzowaty';
 
   @override
   String get species_striped_catfish_desc =>
       'Sumik z jadowitymi kolcami; młode osobniki tworzą gęste kuliste ławice, które toczą się po dnie raf Indo-Pacyfiku.';
 
   @override
-  String get species_red_emperor_name => 'Lucjan cesarski';
+  String get species_red_emperor_name => 'Lucjan seba';
 
   @override
   String get species_red_emperor_desc =>
       'Duży lucjan; dorosłe osobniki są różowoczerwone, młode mają wyraziste czerwono-białe pręgi. Spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_mangrove_snapper_name => 'Lucjan namorzynowy';
+  String get species_mangrove_snapper_name => 'Lucjan trujący';
 
   @override
   String get species_mangrove_snapper_desc =>
       'Szary lucjan spotykany w karaibskich namorzynach, na łąkach trawy morskiej i rafach, często gromadzący się przy podwodnych konstrukcjach.';
 
   @override
-  String get species_dottyback_orchid_name => 'Pseudochromis orchidowy';
+  String get species_dottyback_orchid_name =>
+      'Pseudochromis orchidowy (orchid dottyback)';
 
   @override
   String get species_dottyback_orchid_desc =>
@@ -50065,63 +50112,64 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mała dwubarwna ryba z przodem w kolorze magenty i jaskrawożółtym tyłem, spotykana na ścianach raf Indo-Pacyfiku.';
 
   @override
-  String get species_coral_trout_name => 'Strzępiel lamparci';
+  String get species_coral_trout_name => 'Pleperka lamparcia (coral trout)';
 
   @override
   String get species_coral_trout_desc =>
       'Ceniony drapieżnik Wielkiej Rafy Koralowej o pomarańczowoczerwonym ciele pokrytym niebieskimi plamkami.';
 
   @override
-  String get species_barramundi_cod_name => 'Granik garbaty';
+  String get species_barramundi_cod_name => 'Panterka';
 
   @override
   String get species_barramundi_cod_desc =>
       'Charakterystyczny granik z małą głową, garbatym ciałem i ciemnymi kropkami na jasnym tle.';
 
   @override
-  String get species_spadefish_atlantic_name => 'Szpadelek atlantycki';
+  String get species_spadefish_atlantic_name => 'Szpadelek karaibski';
 
   @override
   String get species_spadefish_atlantic_desc =>
       'Srebrzysta ryba w kształcie dysku z ciemnymi pionowymi pręgami, często widywana w dużych ławicach wokół karaibskich wraków.';
 
   @override
-  String get species_fusilier_yellowback_name => 'Fizylier żółtogrzbiety';
+  String get species_fusilier_yellowback_name => 'Cesja żółtogrzbieta';
 
   @override
   String get species_fusilier_yellowback_desc =>
       'Smukła niebieska ryba planktonożerna z żółtym grzbietem, tworząca ogromne ławice nad stokami raf Indo-Pacyfiku.';
 
   @override
-  String get species_fusilier_bluestreak_name => 'Fizylier niebieskopręgi';
+  String get species_fusilier_bluestreak_name =>
+      'Cesja niebieskopręga (bluestreak fusilier)';
 
   @override
   String get species_fusilier_bluestreak_desc =>
-      'Mały niebieski fizylier z ciemnym pasem na boku, widywany w szybko płynących ławicach wzdłuż ścian raf Indo-Pacyfiku.';
+      'Mała niebieska cesja z ciemnym pasem na boku, widywana w szybko płynących ławicach wzdłuż ścian raf Indo-Pacyfiku.';
 
   @override
-  String get species_porkfish_name => 'Chrząkacz prosiaczek';
+  String get species_porkfish_name => 'Luszczyk wirgiński';
 
   @override
   String get species_porkfish_desc =>
-      'Barwny karaibski chrząkacz w niebieskie i żółte pasy, z dwiema czarnymi pręgami na głowie, spotykany przy rafach i wrakach.';
+      'Barwny karaibski luszczyk w niebieskie i żółte pasy, z dwiema czarnymi pręgami na głowie, spotykany przy rafach i wrakach.';
 
   @override
-  String get species_blue_striped_grunt_name => 'Chrząkacz niebieskopręgi';
+  String get species_blue_striped_grunt_name => 'Hemulon smużkowy';
 
   @override
   String get species_blue_striped_grunt_desc =>
-      'Żółty karaibski chrząkacz w intensywnie niebieskie poziome pasy, za dnia tworzący duże odpoczywające ławice pod nawisami.';
+      'Żółty karaibski hemulon w intensywnie niebieskie poziome pasy, za dnia tworzący duże odpoczywające ławice pod nawisami.';
 
   @override
-  String get species_french_grunt_name => 'Chrząkacz francuski';
+  String get species_french_grunt_name => 'Hemulon ronko';
 
   @override
   String get species_french_grunt_desc =>
-      'Mały chrząkacz w żółte pasy, w ciągu dnia tworzący gęste odpoczywające ławice na rafach Karaibów.';
+      'Mały hemulon w żółte pasy, w ciągu dnia tworzący gęste odpoczywające ławice na rafach Karaibów.';
 
   @override
-  String get species_convict_tang_name => 'Pokolec pręgowany';
+  String get species_convict_tang_name => 'Pokolec pasiasty';
 
   @override
   String get species_convict_tang_desc =>
@@ -50135,14 +50183,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Charakterystyczny rekin o głowie w kształcie młota z falistą krawędzią, tworzący duże ławice przy górach podwodnych i wyspach z dala od lądu.';
 
   @override
-  String get species_wobbegong_name => 'Brodacz plamisty';
+  String get species_wobbegong_name => 'Brodacz plamisty (spotted wobbegong)';
 
   @override
   String get species_wobbegong_desc =>
       'Płaski, dobrze zamaskowany rekin dywanowy z frędzlowatymi wyrostkami wokół pyska, spotykany na rafach umiarkowanych wód Australii.';
 
   @override
-  String get species_manta_ray_name => 'Manta rafowa';
+  String get species_manta_ray_name => 'Manta rafowa (reef manta ray)';
 
   @override
   String get species_manta_ray_desc =>
@@ -50156,14 +50204,15 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gatunek płaszczki, o rozpiętości płetw przekraczającej 7 m, spotykany przy górach podwodnych z dala od brzegu i stacjach czyszczących.';
 
   @override
-  String get species_undulated_moray_name => 'Murena falista';
+  String get species_undulated_moray_name =>
+      'Murena falista (undulated moray eel)';
 
   @override
   String get species_undulated_moray_desc =>
       'Żółtawozielona murena z ciemnym falistym rysunkiem, często widywana nocą podczas polowania na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_whitemouth_moray_name => 'Murena białopyska';
+  String get species_whitemouth_moray_name => 'Moringa plamista';
 
   @override
   String get species_whitemouth_moray_desc =>
@@ -50177,63 +50226,68 @@ class AppLocalizationsPl extends AppLocalizations {
       'Efektowna murena ze smoczymi rogami nad nozdrzami i pomarańczowoczerwonymi lamparcimi cętkami, spotykana w Indo-Pacyfiku.';
 
   @override
-  String get species_lyretail_grouper_name => 'Strzępiel liroogonowy';
+  String get species_lyretail_grouper_name => 'Wariola';
 
   @override
   String get species_lyretail_grouper_desc =>
       'Czerwonoróżowy strzępiel w niebieskie plamki, z charakterystycznym ogonem w kształcie półksiężyca, spotykany na zewnętrznych ścianach raf Indo-Pacyfiku.';
 
   @override
-  String get species_banded_butterflyfish_name => 'Chetonik pręgowany';
+  String get species_banded_butterflyfish_name =>
+      'Ustnik pręgowany (banded butterflyfish)';
 
   @override
   String get species_banded_butterflyfish_desc =>
       'Biały chetonik z czterema wyrazistymi czarnymi pionowymi pręgami, jeden z najpospolitszych chetoników na rafach Karaibów.';
 
   @override
-  String get species_ringed_pipefish_name => 'Iglicznia obrączkowana';
+  String get species_ringed_pipefish_name =>
+      'Iglicznia obrączkowana (ringed pipefish)';
 
   @override
   String get species_ringed_pipefish_desc =>
       'Smukła iglicznia w naprzemienne czerwone i białe obrączki, spotykana w jaskiniach i pod nawisami na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_razorfish_name => 'Brzytewka';
+  String get species_razorfish_name => 'Brzytewnik zwyczajny';
 
   @override
   String get species_razorfish_desc =>
       'Niewielka ryba pływająca w grupach pionowo, głową w dół, często ukryta wśród kolców jeżowców na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_harlequin_tuskfish_name => 'Wargacz arlekin';
+  String get species_harlequin_tuskfish_name =>
+      'Wargacz arlekin (harlequin tuskfish)';
 
   @override
   String get species_harlequin_tuskfish_desc =>
       'Barwny wargacz o jaskrawoniebieskich kłach, czerwonopomarańczowych pręgach i białych plamach, spotykany na rafach zachodniego Pacyfiku.';
 
   @override
-  String get species_blue_groper_name => 'Wargacz błękitny';
+  String get species_blue_groper_name => 'Wargacz błękitny (blue groper)';
 
   @override
   String get species_blue_groper_desc =>
       'Duży niebieski wargacz, endemit wschodniej Australii, ufny i często podpływający do nurków na rafach strefy umiarkowanej.';
 
   @override
-  String get species_red_lipped_batfish_name => 'Nietoperznik czerwonowargi';
+  String get species_red_lipped_batfish_name =>
+      'Nietoperznik czerwonowargi (red-lipped batfish)';
 
   @override
   String get species_red_lipped_batfish_desc =>
       'Osobliwa ryba o spłaszczonym ciele i jaskrawoczerwonych wargach, chodząca po dnie Galapagos na przekształconych płetwach.';
 
   @override
-  String get species_orangeband_surgeonfish_name => 'Pokolec pomarańczowopręgi';
+  String get species_orangeband_surgeonfish_name =>
+      'Pokolec pomarańczowopręgi (orangeband surgeonfish)';
 
   @override
   String get species_orangeband_surgeonfish_desc =>
       'Szarobrązowy pokolec z pomarańczową poziomą pręgą za okiem, spotykany na stokach raf Pacyfiku.';
 
   @override
-  String get species_maori_wrasse_name => 'Wargacz maoryski';
+  String get species_maori_wrasse_name => 'Chelinek maoryski (Maori wrasse)';
 
   @override
   String get species_maori_wrasse_desc =>
@@ -50241,7 +50295,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_blue_ringed_octopus_name =>
-      'Ośmiornica niebieskopierścieniowa';
+      'Ośmiornica niebieskopierścieniowa (blue-ringed octopus)';
 
   @override
   String get species_blue_ringed_octopus_desc =>
@@ -50262,56 +50316,62 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy gatunek ośmiornicy, o rozpiętości ramion przekraczającej 4 metry, żyjący w zimnych wodach Pacyfiku.';
 
   @override
-  String get species_mimic_octopus_name => 'Ośmiornica mimik';
+  String get species_mimic_octopus_name => 'Ośmiornica mimik (mimic octopus)';
 
   @override
   String get species_mimic_octopus_desc =>
       'Niezwykła ośmiornica naśladująca wygląd i zachowanie innych morskich gatunków.';
 
   @override
-  String get species_coconut_octopus_name => 'Ośmiornica kokosowa';
+  String get species_coconut_octopus_name =>
+      'Ośmiornica kokosowa (coconut octopus)';
 
   @override
   String get species_coconut_octopus_desc =>
       'Mała ośmiornica słynąca z noszenia łupin kokosa i używania ich jako przenośnych kryjówek.';
 
   @override
-  String get species_day_octopus_name => 'Ośmiornica dzienna';
+  String get species_day_octopus_name => 'Ośmiornica dzienna (day octopus)';
 
   @override
   String get species_day_octopus_desc =>
       'Aktywny za dnia łowca, pospolity na rafach Indo-Pacyfiku, o imponujących zdolnościach kamuflażu.';
 
   @override
-  String get species_wonderpus_octopus_name => 'Ośmiornica wonderpus';
+  String get species_wonderpus_octopus_name =>
+      'Ośmiornica wonderpus (wonderpus octopus)';
 
   @override
   String get species_wonderpus_octopus_desc =>
       'Efektowna ośmiornica o niepowtarzalnych biało-brązowych pręgach, spotykana na piaszczystych miejscach nurkowych typu muck.';
 
   @override
-  String get species_broadclub_cuttlefish_name => 'Mątwa szerokoramienna';
+  String get species_broadclub_cuttlefish_name =>
+      'Mątwa szerokoramienna (broadclub cuttlefish)';
 
   @override
   String get species_broadclub_cuttlefish_desc =>
       'Duża mątwa o hipnotyzujących pokazach barw, często widywana na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_pharaoh_cuttlefish_name => 'Mątwa faraońska';
+  String get species_pharaoh_cuttlefish_name =>
+      'Mątwa faraońska (pharaoh cuttlefish)';
 
   @override
   String get species_pharaoh_cuttlefish_desc =>
       'Duża mątwa spotykana w całym Oceanie Indyjskim, znana z pulsujących wzorów barwnych.';
 
   @override
-  String get species_flamboyant_cuttlefish_name => 'Mątwa płomienista';
+  String get species_flamboyant_cuttlefish_name =>
+      'Mątwa płomienista (flamboyant cuttlefish)';
 
   @override
   String get species_flamboyant_cuttlefish_desc =>
       'Maleńka mątwa chodząca po dnie i pulsująca jaskrawymi barwami: fioletem, różem i żółcią.';
 
   @override
-  String get species_giant_cuttlefish_name => 'Mątwa olbrzymia';
+  String get species_giant_cuttlefish_name =>
+      'Mątwa olbrzymia (giant cuttlefish)';
 
   @override
   String get species_giant_cuttlefish_desc =>
@@ -50319,126 +50379,143 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_bigfin_reef_squid_name =>
-      'Kałamarnica rafowa wielkopłetwa';
+      'Kałamarnica rafowa wielkopłetwa (bigfin reef squid)';
 
   @override
   String get species_bigfin_reef_squid_desc =>
       'Ławicowa kałamarnica często spotykana podczas nurkowań nocnych, zwabiana światłem latarek.';
 
   @override
-  String get species_caribbean_reef_squid_name => 'Kałamarnica karaibska';
+  String get species_caribbean_reef_squid_name =>
+      'Kałamarnica karaibska (Caribbean reef squid)';
 
   @override
   String get species_caribbean_reef_squid_desc =>
       'Ciekawska kałamarnica, często unosząca się w małych grupach przy krawędziach raf na Karaibach.';
 
   @override
-  String get species_bobtail_squid_name => 'Sepiola';
+  String get species_bobtail_squid_name =>
+      'Euprymna Berry\'ego (bobtail squid)';
 
   @override
   String get species_bobtail_squid_desc =>
       'Maleńki nocny głowonóg, który za dnia zakopuje się w piasku; cenione znalezisko w nurkowaniu typu muck.';
 
   @override
-  String get species_chambered_nautilus_name => 'Łodzik piękny';
+  String get species_chambered_nautilus_name =>
+      'Łodzik piękny (chambered nautilus)';
 
   @override
   String get species_chambered_nautilus_desc =>
       'Prastara żywa skamieniałość ze zwiniętą muszlą, rzadko widywana przez nurków, na dużych głębokościach o świcie.';
 
   @override
-  String get species_spanish_dancer_name => 'Tancerka hiszpańska';
+  String get species_spanish_dancer_name =>
+      'Tancerka hiszpańska (Spanish dancer)';
 
   @override
   String get species_spanish_dancer_desc =>
       'Największy gatunek ślimaka nagoskrzelnego; pływa, falując czerwonym płaszczem niczym tancerka flamenco.';
 
   @override
-  String get species_chromodoris_willani_name => 'Chromodoris Willana';
+  String get species_chromodoris_willani_name =>
+      'Chromodoris Willana (Willan\'s chromodoris)';
 
   @override
   String get species_chromodoris_willani_desc =>
       'Efektowny niebiesko-czarny ślimak nagoskrzelny z białym obrzeżeniem, pospolity w Indo-Pacyfiku.';
 
   @override
-  String get species_chromodoris_lochi_name => 'Chromodoris Locha';
+  String get species_chromodoris_lochi_name =>
+      'Chromodoris Locha (Loch\'s chromodoris)';
 
   @override
   String get species_chromodoris_lochi_desc =>
       'Niebieski ślimak nagoskrzelny z ciemnymi liniami i białą obwódką, spotykany w całym tropikalnym Pacyfiku.';
 
   @override
-  String get species_chromodoris_magnifica_name => 'Chromodoris wspaniała';
+  String get species_chromodoris_magnifica_name =>
+      'Chromodoris wspaniała (magnificent chromodoris)';
 
   @override
   String get species_chromodoris_magnifica_desc =>
       'Olśniewający niebiesko-biało-pomarańczowy ślimak nagoskrzelny, spotykany na rafach koralowych Indo-Pacyfiku.';
 
   @override
-  String get species_chromodoris_annae_name => 'Chromodoris Anny';
+  String get species_chromodoris_annae_name =>
+      'Chromodoris Anny (Anna\'s chromodoris)';
 
   @override
   String get species_chromodoris_annae_desc =>
       'Ciemnoniebieski ślimak nagoskrzelny z czarnymi liniami oraz rinoforami i skrzelami o pomarańczowych końcach.';
 
   @override
-  String get species_nembrotha_kubaryana_name => 'Zmienny ślimak neonowy';
+  String get species_nembrotha_kubaryana_name =>
+      'Nembrota zmienna (variable neon slug)';
 
   @override
   String get species_nembrotha_kubaryana_desc =>
       'Ciemnozielony ślimak nagoskrzelny z jaskrawymi pomarańczowymi lub czerwonymi znaczeniami, żywiący się osłonicami.';
 
   @override
-  String get species_nembrotha_cristata_name => 'Nembrota grzebieniasta';
+  String get species_nembrotha_cristata_name =>
+      'Nembrota grzebieniasta (crested nembrotha)';
 
   @override
   String get species_nembrotha_cristata_desc =>
       'Czarny ślimak nagoskrzelny z jaskrawozielonymi brodawkami i prążkami, spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_phyllidia_varicosa_name => 'Filidia brodawkowata';
+  String get species_phyllidia_varicosa_name =>
+      'Filidia brodawkowata (varicose phyllidia)';
 
   @override
   String get species_phyllidia_varicosa_desc =>
       'Niebieskoszary ślimak nagoskrzelny z wypukłymi guzkami o żółtych szczytach, trujący dla drapieżników.';
 
   @override
-  String get species_phyllidia_ocellata_name => 'Filidia oczkowana';
+  String get species_phyllidia_ocellata_name =>
+      'Filidia oczkowana (ocellated phyllidia)';
 
   @override
   String get species_phyllidia_ocellata_desc =>
       'Biały ślimak nagoskrzelny z wypukłymi guzkami w różowych obwódkach, spotykany na tropikalnych rafach.';
 
   @override
-  String get species_pikachu_nudibranch_name => 'Ślimak Pikachu';
+  String get species_pikachu_nudibranch_name =>
+      'Ślimak Pikachu (Pikachu nudibranch)';
 
   @override
   String get species_pikachu_nudibranch_desc =>
       'Maleńki żółto-czarny ślimak morski przypominający postać z kreskówki, spotykany na Pacyfiku.';
 
   @override
-  String get species_anna_rosefieldi_name => 'Ślimak nagoskrzelny Roboastra';
+  String get species_anna_rosefieldi_name =>
+      'Ślimak nagoskrzelny Roboastra (roboastra nudibranch)';
 
   @override
   String get species_anna_rosefieldi_desc =>
       'Drapieżny ślimak nagoskrzelny o ciemnym ciele z jasnymi podłużnymi pasami, polujący na inne ślimaki.';
 
   @override
-  String get species_lettuce_sea_slug_name => 'Ślimak sałatowy';
+  String get species_lettuce_sea_slug_name =>
+      'Ślimak sałatowy (lettuce sea slug)';
 
   @override
   String get species_lettuce_sea_slug_desc =>
       'Pofalowany zielony ślimak morski, który zatrzymuje chloroplasty z glonów i wykorzystuje je do fotosyntezy.';
 
   @override
-  String get species_blue_dragon_nudibranch_name => 'Ślimak niebieski smok';
+  String get species_blue_dragon_nudibranch_name =>
+      'Ślimak nagoskrzelny Pteraeolidia (blue dragon nudibranch)';
 
   @override
   String get species_blue_dragon_nudibranch_desc =>
       'Długi ślimak nagoskrzelny z grupy eolidów, o wyrostkach grzbietowych z niebieskimi końcami, w których żyją symbiotyczne zooksantelle.';
 
   @override
-  String get species_gloomy_nudibranch_name => 'Ślimak nagoskrzelny ponury';
+  String get species_gloomy_nudibranch_name =>
+      'Ślimak nagoskrzelny ponury (gloomy nudibranch)';
 
   @override
   String get species_gloomy_nudibranch_desc =>
@@ -50446,7 +50523,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_ocellined_nudibranch_name =>
-      'Ślimak nagoskrzelny oczkowany';
+      'Ślimak nagoskrzelny oczkowany (ocellined nudibranch)';
 
   @override
   String get species_ocellined_nudibranch_desc =>
@@ -50454,14 +50531,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_glossodoris_cincta_name =>
-      'Ślimak nagoskrzelny Glossodoris';
+      'Ślimak nagoskrzelny Glossodoris (glossodoris nudibranch)';
 
   @override
   String get species_glossodoris_cincta_desc =>
       'Kremowy ślimak nagoskrzelny z ciemnobrązową obwódką i pomarańczowym obrzeżeniem płaszcza.';
 
   @override
-  String get species_jorunna_funebris_name => 'Ślimak nagoskrzelny kropkowany';
+  String get species_jorunna_funebris_name =>
+      'Ślimak nagoskrzelny kropkowany (dotted nudibranch)';
 
   @override
   String get species_jorunna_funebris_desc =>
@@ -50469,42 +50547,47 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_ceratosoma_trilobatum_name =>
-      'Ślimak nagoskrzelny trójpłatowy';
+      'Ślimak nagoskrzelny trójpłatowy (trilobate nudibranch)';
 
   @override
   String get species_ceratosoma_trilobatum_desc =>
       'Duży ślimak nagoskrzelny z wysokim rogiem grzbietowym i bocznymi płatami, w odcieniach fioletu i żółci.';
 
   @override
-  String get species_hypselodoris_apolegma_name => 'Hypselodoris purpurowy';
+  String get species_hypselodoris_apolegma_name =>
+      'Hypselodoris purpurowy (purple hypselodoris)';
 
   @override
   String get species_hypselodoris_apolegma_desc =>
       'Elegancki fioletowy ślimak nagoskrzelny z białą obwódką płaszcza, spotykany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_hypselodoris_bullockii_name => 'Hypselodoris Bullocka';
+  String get species_hypselodoris_bullockii_name =>
+      'Hypselodoris Bullocka (Bullock\'s hypselodoris)';
 
   @override
   String get species_hypselodoris_bullockii_desc =>
       'Różowo-fioletowy ślimak nagoskrzelny z rinoforami o żółtych końcach, żyjący na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_flabellina_exoptata_name => 'Flabellina upragniona';
+  String get species_flabellina_exoptata_name =>
+      'Flabellina upragniona (desirable flabellina)';
 
   @override
   String get species_flabellina_exoptata_desc =>
       'Półprzezroczysty ślimak nagoskrzelny z grupy eolidów, o pomarańczowych wyrostkach grzbietowych z fioletowymi końcami, spotykany w wodach tropikalnych.';
 
   @override
-  String get species_risbecia_tryoni_name => 'Risbecia Tryona';
+  String get species_risbecia_tryoni_name =>
+      'Risbecia Tryona (Tryon\'s risbecia)';
 
   @override
   String get species_risbecia_tryoni_desc =>
       'Duży brązowo-niebieski ślimak nagoskrzelny, często spotykany w parach godowych na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_goniobranchus_kuniei_name => 'Ślimak nagoskrzelny Kunie';
+  String get species_goniobranchus_kuniei_name =>
+      'Ślimak nagoskrzelny Kunie (Kunie\'s nudibranch)';
 
   @override
   String get species_goniobranchus_kuniei_desc =>
@@ -50512,14 +50595,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_mexichromis_multituberculata_name =>
-      'Ślimak nagoskrzelny wieloguzkowy';
+      'Ślimak nagoskrzelny wieloguzkowy (multi-tuberculated nudibranch)';
 
   @override
   String get species_mexichromis_multituberculata_desc =>
       'Fioletowo-biały ślimak nagoskrzelny z wypukłymi guzkami i wyrostkami o pomarańczowych końcach.';
 
   @override
-  String get species_chromodoris_dianae_name => 'Chromodoris Diany';
+  String get species_chromodoris_dianae_name =>
+      'Chromodoris Diany (Diana\'s chromodoris)';
 
   @override
   String get species_chromodoris_dianae_desc =>
@@ -50527,21 +50611,23 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_phyllodesmium_poindimiei_name =>
-      'Ślimak nagoskrzelny słoneczny';
+      'Ślimak nagoskrzelny słoneczny (solar-powered nudibranch)';
 
   @override
   String get species_phyllodesmium_poindimiei_desc =>
       'Półprzezroczysty ślimak nagoskrzelny z grupy eolidów, o rozgałęzionych wyrostkach grzbietowych, w których żyją zooksantelle.';
 
   @override
-  String get species_chromodoris_elisabethina_name => 'Chromodoris Elżbiety';
+  String get species_chromodoris_elisabethina_name =>
+      'Chromodoris Elżbiety (Elizabeth\'s chromodoris)';
 
   @override
   String get species_chromodoris_elisabethina_desc =>
       'Ślimak nagoskrzelny w niebieskie i żółte linie, z białą obwódką płaszcza, pospolity w Azji Południowo-Wschodniej.';
 
   @override
-  String get species_doridella_batava_name => 'Doryda batawska';
+  String get species_doridella_batava_name =>
+      'Doryda batawska (Batavian dorid)';
 
   @override
   String get species_doridella_batava_desc =>
@@ -50562,14 +50648,15 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży drapieżny ślimak, naturalny wróg korony cierniowej.';
 
   @override
-  String get species_queen_conch_name => 'Skrzydelnik olbrzymi';
+  String get species_queen_conch_name => 'Skrzydelnik wielki';
 
   @override
   String get species_queen_conch_desc =>
       'Charakterystyczny duży skrzydelnik z karaibskich łąk trawy morskiej, o wyróżniającej się różowej wardze wewnętrznej.';
 
   @override
-  String get species_banded_coral_shrimp_name => 'Krewetka bokser';
+  String get species_banded_coral_shrimp_name =>
+      'Krewetka bokser (banded coral shrimp)';
 
   @override
   String get species_banded_coral_shrimp_desc =>
@@ -50583,7 +50670,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Barwny drapieżnik z potężnymi maczugowatymi odnóżami, którymi potrafi rozbijać muszle.';
 
   @override
-  String get species_cleaner_shrimp_name => 'Szkarłatna krewetka czyszcząca';
+  String get species_cleaner_shrimp_name => 'Krewetka czyściciel';
 
   @override
   String get species_cleaner_shrimp_desc =>
@@ -50591,42 +50678,46 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_pederson_cleaner_shrimp_name =>
-      'Krewetka czyszcząca Pedersona';
+      'Krewetka czyszcząca Pedersona (Pederson cleaner shrimp)';
 
   @override
   String get species_pederson_cleaner_shrimp_desc =>
       'Półprzezroczysta karaibska krewetka czyszcząca żyjąca wśród czułków ukwiałów.';
 
   @override
-  String get species_harlequin_shrimp_name => 'Krewetka arlekin';
+  String get species_harlequin_shrimp_name =>
+      'Krewetka arlekin (harlequin shrimp)';
 
   @override
   String get species_harlequin_shrimp_desc =>
       'Efektownie wzorzysta krewetka o płaskich szczypcach, żywiąca się wyłącznie rozgwiazdami.';
 
   @override
-  String get species_coleman_shrimp_name => 'Krewetka Colemana';
+  String get species_coleman_shrimp_name =>
+      'Krewetka Colemana (Coleman shrimp)';
 
   @override
   String get species_coleman_shrimp_desc =>
       'Maleńka krewetka żyjąca w parach na jeżowcach ognistych, bardzo ceniona przez fotografów podwodnych.';
 
   @override
-  String get species_emperor_shrimp_name => 'Krewetka cesarska';
+  String get species_emperor_shrimp_name =>
+      'Krewetka cesarska (emperor shrimp)';
 
   @override
   String get species_emperor_shrimp_desc =>
       'Barwna krewetka komensalna podróżująca na strzykwach i ślimakach nagoskrzelnych.';
 
   @override
-  String get species_sexy_shrimp_name => 'Krewetka sexy';
+  String get species_sexy_shrimp_name => 'Krewetka sexy (sexy shrimp)';
 
   @override
   String get species_sexy_shrimp_desc =>
       'Maleńka krewetka ukwiałowa znana z tańca z kołysaniem odwłokiem, popularna w makrofotografii.';
 
   @override
-  String get species_marble_shrimp_name => 'Krewetka marmurkowa';
+  String get species_marble_shrimp_name =>
+      'Krewetka marmurkowa (marble shrimp)';
 
   @override
   String get species_marble_shrimp_desc =>
@@ -50640,7 +50731,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża langusta bez szczypiec, z długimi czułkami, chroniąca się pod nawisami rafy.';
 
   @override
-  String get species_painted_spiny_lobster_name => 'Langusta malowana';
+  String get species_painted_spiny_lobster_name =>
+      'Langusta malowana (painted spiny lobster)';
 
   @override
   String get species_painted_spiny_lobster_desc =>
@@ -50654,56 +50746,60 @@ class AppLocalizationsPl extends AppLocalizations {
       'Nocny skorupiak o spłaszczonym ciele, z szerokimi płytkami zamiast długich, biczowatych czułków.';
 
   @override
-  String get species_squat_lobster_name => 'Galatea włochata';
+  String get species_squat_lobster_name => 'Lauriea włochata (squat lobster)';
 
   @override
   String get species_squat_lobster_desc =>
       'Maleńki różowofioletowy skorupiak żyjący na wielkich gąbkach beczkowatych, ulubieniec makrofotografów.';
 
   @override
-  String get species_hermit_crab_name => 'Pustelnik niebieskonogi';
+  String get species_hermit_crab_name =>
+      'Pustelnik niebieskonogi (blue-legged hermit crab)';
 
   @override
   String get species_hermit_crab_desc =>
       'Mały pustelnik o jaskrawoniebieskich odnóżach, często widywany na rafach Karaibów.';
 
   @override
-  String get species_orangutan_crab_name => 'Krab orangutan';
+  String get species_orangutan_crab_name => 'Krab orangutan (orangutan crab)';
 
   @override
   String get species_orangutan_crab_desc =>
       'Maleńki włochaty krab żyjący w koralowcu bąbelkowym, nazwany tak ze względu na podobieństwo do orangutana.';
 
   @override
-  String get species_decorator_crab_name => 'Krab dekorator';
+  String get species_decorator_crab_name => 'Krab dekorator (decorator crab)';
 
   @override
   String get species_decorator_crab_desc =>
       'Mistrz kamuflażu, który przytwierdza do pancerza gąbki, glony i stułbiopławy.';
 
   @override
-  String get species_porcelain_crab_name => 'Porcelanowy krab ukwiałowy';
+  String get species_porcelain_crab_name =>
+      'Krab porcelanowy ukwiałowy (porcelain anemone crab)';
 
   @override
   String get species_porcelain_crab_desc =>
       'Płaski, plamisty krab żyjący w ukwiałach, odfiltrowujący pokarm pierzastymi narządami gębowymi.';
 
   @override
-  String get species_arrow_crab_name => 'Krab strzałka';
+  String get species_arrow_crab_name => 'Krab strzałka (arrow crab)';
 
   @override
   String get species_arrow_crab_desc =>
       'Cienkonogi karaibski krab z długim, spiczastym rostrum i prążkowanymi odnóżami.';
 
   @override
-  String get species_channel_clinging_crab_name => 'Karaibski krab królewski';
+  String get species_channel_clinging_crab_name =>
+      'Krab kolczasty karaibski (channel clinging crab)';
 
   @override
   String get species_channel_clinging_crab_desc =>
       'Duży karaibski krab rafowy o ciemnym ciele i czerwonopomarańczowych szczypcach, spotykany w szczelinach.';
 
   @override
-  String get species_coral_crab_name => 'Krab strażnik koralowców';
+  String get species_coral_crab_name =>
+      'Krab strażnik koralowców (coral guard crab)';
 
   @override
   String get species_coral_crab_desc =>
@@ -50717,126 +50813,137 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jadowita wieloramienna rozgwiazda żywiąca się koralowcami; podczas masowych pojawów potrafi spustoszyć rafy.';
 
   @override
-  String get species_blue_linckia_starfish_name => 'Linkia niebieska';
+  String get species_blue_linckia_starfish_name => 'Rozgwiazda niebieska';
 
   @override
   String get species_blue_linckia_starfish_desc =>
       'Intensywnie niebieska rozgwiazda często widywana na płyciznach i stokach raf Indo-Pacyfiku.';
 
   @override
-  String get species_red_knob_starfish_name => 'Rozgwiazda czerwonoguzkowa';
+  String get species_red_knob_starfish_name =>
+      'Rozgwiazda czerwonoguzkowa (red knob starfish)';
 
   @override
   String get species_red_knob_starfish_desc =>
       'Duża szara rozgwiazda z wydatnymi kolcami o czerwonych końcach, spotykana na piaszczystych fragmentach rafy.';
 
   @override
-  String get species_chocolate_chip_starfish_name => 'Rozgwiazda czekoladowa';
+  String get species_chocolate_chip_starfish_name =>
+      'Rozgwiazda czekoladowa (chocolate chip starfish)';
 
   @override
   String get species_chocolate_chip_starfish_desc =>
       'Jasnobrązowa rozgwiazda z ciemnymi wypukłymi guzkami przypominającymi kawałki czekolady, żyjąca na piaszczystym dnie.';
 
   @override
-  String get species_cushion_star_name => 'Rozgwiazda poduszkowa';
+  String get species_cushion_star_name =>
+      'Rozgwiazda poduszkowa (cushion star)';
 
   @override
   String get species_cushion_star_desc =>
       'Pękata pięciokątna rozgwiazda o skróconych ramionach, spotykana na płyciznach raf Indo-Pacyfiku.';
 
   @override
-  String get species_fromia_starfish_name => 'Rozgwiazda elegancka';
+  String get species_fromia_starfish_name =>
+      'Rozgwiazda elegancka (elegant starfish)';
 
   @override
   String get species_fromia_starfish_desc =>
       'Mała pomarańczowoczerwona rozgwiazda, której jasne brzegi płytek tworzą wzór przypominający kafelki.';
 
   @override
-  String get species_basket_star_name => 'Wężowidło koszyczkowe';
+  String get species_basket_star_name => 'Wężowidło koszyczkowe (basket star)';
 
   @override
   String get species_basket_star_desc =>
       'Misternie rozgałęzione ramiona rozwijają się nocą, by odfiltrowywać pokarm z prądu.';
 
   @override
-  String get species_brittle_star_name => 'Wężowidło pręgowane';
+  String get species_brittle_star_name =>
+      'Wężowidło pręgowane (banded brittle star)';
 
   @override
   String get species_brittle_star_desc =>
       'Prążkowane wężowidło o zwinnych, wężowatych ramionach, spotykane pod kamieniami i w szczelinach.';
 
   @override
-  String get species_feather_star_name => 'Liliowiec';
+  String get species_feather_star_name => 'Liliowiec Bennetta (feather star)';
 
   @override
   String get species_feather_star_desc =>
       'Wieloramienny liliowiec przesiadujący na wyniesieniach rafy i odfiltrowujący pokarm pierzastymi ramionami.';
 
   @override
-  String get species_black_feather_star_name => 'Liliowiec czarny';
+  String get species_black_feather_star_name =>
+      'Liliowiec czarny (black feather star)';
 
   @override
   String get species_black_feather_star_desc =>
       'Ciemny liliowiec, który potrafi krótko pływać, rytmicznie falując licznymi ramionami.';
 
   @override
-  String get species_long_spined_sea_urchin_name => 'Jeżowiec długokolcy';
+  String get species_long_spined_sea_urchin_name =>
+      'Jeżowiec długokolcy (long-spined sea urchin)';
 
   @override
   String get species_long_spined_sea_urchin_desc =>
       'Czarny jeżowiec o długich jadowitych kolcach, kluczowy roślinożerca raf karaibskich.';
 
   @override
-  String get species_fire_urchin_name => 'Jeżowiec ognisty';
+  String get species_fire_urchin_name => 'Jeżowiec ognisty (fire urchin)';
 
   @override
   String get species_fire_urchin_desc =>
       'Jeżowiec o miękkim ciele i jadowitych kolcach, których dotknięcie powoduje bolesne ukłucia.';
 
   @override
-  String get species_pencil_urchin_name => 'Jeżowiec ołówkowy';
+  String get species_pencil_urchin_name => 'Jeżowiec ołówkowy (pencil urchin)';
 
   @override
   String get species_pencil_urchin_desc =>
       'Masywny jeżowiec o grubych, tępych kolcach, wciśnięty w szczeliny rafy.';
 
   @override
-  String get species_collector_urchin_name => 'Jeżowiec kolekcjoner';
+  String get species_collector_urchin_name =>
+      'Jeżowiec kolekcjoner (collector urchin)';
 
   @override
   String get species_collector_urchin_desc =>
       'Jeżowiec, który dla kamuflażu okrywa się okruchami z dna i fragmentami glonów.';
 
   @override
-  String get species_sea_apple_name => 'Jabłko morskie';
+  String get species_sea_apple_name => 'Jabłko morskie (sea apple)';
 
   @override
   String get species_sea_apple_desc =>
       'Jaskrawo ubarwiona strzykwa z czułkami wokół otworu gębowego, którymi odfiltrowuje pokarm.';
 
   @override
-  String get species_pineapple_sea_cucumber_name => 'Strzykwa ananasowa';
+  String get species_pineapple_sea_cucumber_name =>
+      'Strzykwa ananasowa (pineapple sea cucumber)';
 
   @override
   String get species_pineapple_sea_cucumber_desc =>
       'Duża pomarańczowoczerwona strzykwa z gwiaździstymi brodawkami, spotykana na stokach raf.';
 
   @override
-  String get species_black_sea_cucumber_name => 'Strzykwa czarna';
+  String get species_black_sea_cucumber_name =>
+      'Strzykwa czarna (black sea cucumber)';
 
   @override
   String get species_black_sea_cucumber_desc =>
       'Pospolita czarna strzykwa spotykana na piaszczystych płyciznach raf w całym Indo-Pacyfiku.';
 
   @override
-  String get species_leopard_sea_cucumber_name => 'Strzykwa lamparcia';
+  String get species_leopard_sea_cucumber_name =>
+      'Strzykwa lamparcia (leopard sea cucumber)';
 
   @override
   String get species_leopard_sea_cucumber_desc =>
       'Plamista strzykwa, która niepokojona wyrzuca lepkie białe przewody Cuviera.';
 
   @override
-  String get species_sand_dollar_name => 'Dolar piaskowy';
+  String get species_sand_dollar_name => 'Dolar piaskowy (sand dollar)';
 
   @override
   String get species_sand_dollar_desc =>
@@ -50857,77 +50964,87 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jeden z największych gatunków meduz, o długich, ciągnących się czułkach, żyjący w zimnych wodach.';
 
   @override
-  String get species_box_jellyfish_name => 'Kostkomeduza';
+  String get species_box_jellyfish_name => 'Osa morska';
 
   @override
   String get species_box_jellyfish_desc =>
       'Skrajnie niebezpieczna meduza o silnym jadzie, spotykana w tropikalnych wodach Indo-Pacyfiku.';
 
   @override
-  String get species_upside_down_jellyfish_name => 'Meduza odwrócona';
+  String get species_upside_down_jellyfish_name =>
+      'Meduza odwrócona (upside-down jellyfish)';
 
   @override
   String get species_upside_down_jellyfish_desc =>
       'Nietypowa meduza, która spoczywa dzwonem w dół na piaszczystym dnie, by jej glony mogły prowadzić fotosyntezę.';
 
   @override
-  String get species_blue_blubber_jellyfish_name => 'Meduza niebieska';
+  String get species_blue_blubber_jellyfish_name =>
+      'Meduza niebieska (blue blubber jellyfish)';
 
   @override
   String get species_blue_blubber_jellyfish_desc =>
       'Niebieskobiała meduza o zwartym dzwonie i falbaniastych ramionach gębowych, pospolita w wodach Australii.';
 
   @override
-  String get species_fried_egg_jellyfish_name => 'Meduza jajko sadzone';
+  String get species_fried_egg_jellyfish_name =>
+      'Meduza jajko sadzone (fried egg jellyfish)';
 
   @override
   String get species_fried_egg_jellyfish_desc =>
       'Śródziemnomorska meduza z żółtą kopułą przypominającą jajko sadzone, parząca tylko łagodnie.';
 
   @override
-  String get species_pacific_sea_nettle_name => 'Pacyficzna pokrzywa morska';
+  String get species_pacific_sea_nettle_name =>
+      'Meduza pacyficzna (Pacific sea nettle)';
 
   @override
   String get species_pacific_sea_nettle_desc =>
       'Złotobrązowa meduza o długich, ciągnących się czułkach, spotykana wzdłuż wybrzeża Pacyfiku.';
 
   @override
-  String get species_compass_jellyfish_name => 'Meduza kompasowa';
+  String get species_compass_jellyfish_name =>
+      'Meduza kompasowa (compass jellyfish)';
 
   @override
   String get species_compass_jellyfish_desc =>
       'Brązowo-biała meduza ze znaczeniami w kształcie litery V, rozchodzącymi się promieniście jak róża kompasowa.';
 
   @override
-  String get species_spotted_jellyfish_name => 'Meduza cętkowana';
+  String get species_spotted_jellyfish_name =>
+      'Meduza cętkowana (spotted jellyfish)';
 
   @override
   String get species_spotted_jellyfish_desc =>
       'Złocista meduza w białe cętki, słynąca z tego, że wypełnia Jezioro Meduz na Palau.';
 
   @override
-  String get species_barrel_jellyfish_name => 'Meduza beczkowata';
+  String get species_barrel_jellyfish_name =>
+      'Meduza beczkowata (barrel jellyfish)';
 
   @override
   String get species_barrel_jellyfish_desc =>
       'Duża kopulasta meduza z falbaniastymi ramionami gębowymi, parząca tylko łagodnie, pospolita w Atlantyku.';
 
   @override
-  String get species_persian_carpet_flatworm_name => 'Płaziniec perski dywan';
+  String get species_persian_carpet_flatworm_name =>
+      'Płaziniec perski dywan (Persian carpet flatworm)';
 
   @override
   String get species_persian_carpet_flatworm_desc =>
       'Ozdobny czarny płaziniec z żółtopomarańczowym obrzeżeniem, często mylony ze ślimakiem nagoskrzelnym.';
 
   @override
-  String get species_leopard_flatworm_name => 'Płaziniec lamparci';
+  String get species_leopard_flatworm_name =>
+      'Płaziniec lamparci (leopard flatworm)';
 
   @override
   String get species_leopard_flatworm_desc =>
       'Półprzezroczysty płaziniec w lamparcie cętki, sunący po podłożu rafy.';
 
   @override
-  String get species_divided_flatworm_name => 'Płaziniec dwudzielny';
+  String get species_divided_flatworm_name =>
+      'Płaziniec dwudzielny (divided flatworm)';
 
   @override
   String get species_divided_flatworm_desc =>
@@ -50935,7 +51052,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_blue_pseudoceros_flatworm_name =>
-      'Niebieski płaziniec Pseudoceros';
+      'Płaziniec niebieski (blue pseudoceros flatworm)';
 
   @override
   String get species_blue_pseudoceros_flatworm_desc =>
@@ -50943,42 +51060,46 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_racing_stripe_flatworm_name =>
-      'Płaziniec z wyścigowym pasem';
+      'Płaziniec z wyścigowym pasem (racing stripe flatworm)';
 
   @override
   String get species_racing_stripe_flatworm_desc =>
       'Kremowy płaziniec z wyraźnym ciemnym pasem pośrodku i pofalowanym brzegiem.';
 
   @override
-  String get species_christmas_tree_worm_name => 'Robak choinkowy';
+  String get species_christmas_tree_worm_name =>
+      'Robak choinkowy (Christmas tree worm)';
 
   @override
   String get species_christmas_tree_worm_desc =>
       'Barwny wieloszczet ze spiralnymi koronami, osadzony w koralowcu; chowa się błyskawicznie, gdy ktoś się zbliży.';
 
   @override
-  String get species_feather_duster_worm_name => 'Rurówka wachlarzowa';
+  String get species_feather_duster_worm_name =>
+      'Rurówka wachlarzowa (feather duster worm)';
 
   @override
   String get species_feather_duster_worm_desc =>
       'Wieloszczet mieszkający w rurce, z wachlarzowatą koroną pierzastych czułków służących do odfiltrowywania pokarmu.';
 
   @override
-  String get species_fire_worm_name => 'Brodaty robak ognisty';
+  String get species_fire_worm_name =>
+      'Robak ognisty brodaty (bearded fire worm)';
 
   @override
   String get species_fire_worm_desc =>
       'Wieloszczet o białych parzących szczecinkach, których dotknięcie powoduje bolesne podrażnienie.';
 
   @override
-  String get species_bobbit_worm_name => 'Robak Bobbita';
+  String get species_bobbit_worm_name => 'Robak Bobbita (Bobbit worm)';
 
   @override
   String get species_bobbit_worm_desc =>
       'Ukryty w piasku drapieżnik polujący z zasadzki, o potężnych szczękach atakujących z prędkością błyskawicy.';
 
   @override
-  String get species_social_feather_duster_name => 'Rurówka kolonijna';
+  String get species_social_feather_duster_name =>
+      'Rurówka kolonijna (social feather duster)';
 
   @override
   String get species_social_feather_duster_desc =>
@@ -50992,133 +51113,145 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy żyjący małż, o opalizującym płaszczu, w którym żyją symbiotyczne glony.';
 
   @override
-  String get species_boring_clam_name => 'Przydacznia drążąca';
+  String get species_boring_clam_name => 'Przydacznia drążąca (boring clam)';
 
   @override
   String get species_boring_clam_desc =>
       'Mały barwny małż wwiercający się w skałę koralową tak, że widać tylko jego jaskrawy płaszcz.';
 
   @override
-  String get species_maxima_clam_name => 'Przydacznia maxima';
+  String get species_maxima_clam_name => 'Przydacznia niebieska';
 
   @override
   String get species_maxima_clam_desc =>
       'Olśniewająco ubarwiony małż osadzony w skale rafowej, o płaszczu w odcieniach elektrycznego błękitu i zieleni.';
 
   @override
-  String get species_flame_scallop_name => 'Małż płomienisty';
+  String get species_flame_scallop_name => 'Małż płomienisty (flame scallop)';
 
   @override
   String get species_flame_scallop_desc =>
       'Czerwony małż z białym światłem migoczącym wzdłuż krawędzi płaszcza, spotykany w szczelinach rafy.';
 
   @override
-  String get species_thorny_oyster_name => 'Ostryga kolczasta';
+  String get species_thorny_oyster_name => 'Ostryga kolczasta (thorny oyster)';
 
   @override
   String get species_thorny_oyster_desc =>
       'Małż o kolczastej muszli, przyrośnięty do skały rafowej, często porośnięty gąbkami i glonami.';
 
   @override
-  String get species_magnificent_sea_anemone_name => 'Ukwiał wspaniały';
+  String get species_magnificent_sea_anemone_name =>
+      'Ukwiał wspaniały (magnificent sea anemone)';
 
   @override
   String get species_magnificent_sea_anemone_desc =>
       'Duży barwny ukwiał dający schronienie błazenkom, o okazałym trzonie i falujących czułkach.';
 
   @override
-  String get species_bubble_tip_anemone_name => 'Ukwiał bąbelkowy';
+  String get species_bubble_tip_anemone_name =>
+      'Ukwiał bąbelkowy (bubble tip anemone)';
 
   @override
   String get species_bubble_tip_anemone_desc =>
       'Popularny gospodarz błazenków, o czułkach z bulwiastymi końcami, zielony, brązowy lub różowy.';
 
   @override
-  String get species_giant_carpet_anemone_name => 'Olbrzymi ukwiał dywanowy';
+  String get species_giant_carpet_anemone_name =>
+      'Ukwiał dywanowy olbrzymi (giant carpet anemone)';
 
   @override
   String get species_giant_carpet_anemone_desc =>
       'Ogromny ukwiał o krótkich lepkich czułkach, osiągający ponad metr średnicy.';
 
   @override
-  String get species_haddon_carpet_anemone_name => 'Ukwiał dywanowy Haddona';
+  String get species_haddon_carpet_anemone_name =>
+      'Ukwiał dywanowy Haddona (Haddon\'s carpet anemone)';
 
   @override
   String get species_haddon_carpet_anemone_desc =>
       'Płaski ukwiał dywanowy żyjący na piaszczystym dnie, gospodarz różnych błazenków i krabów porcelanowych.';
 
   @override
-  String get species_long_tentacle_anemone_name => 'Ukwiał długoczułki';
+  String get species_long_tentacle_anemone_name =>
+      'Ukwiał długoczułki (long tentacle anemone)';
 
   @override
   String get species_long_tentacle_anemone_desc =>
       'Ukwiał piaszczystego dna o długich falujących czułkach, często dający schronienie błazenkom.';
 
   @override
-  String get species_tube_anemone_name => 'Ukwiał rurkowy';
+  String get species_tube_anemone_name => 'Ukwiał rurkowy (tube anemone)';
 
   @override
   String get species_tube_anemone_desc =>
       'Elegancki ukwiał z dwoma okółkami czułków, mieszkający w pergaminowej rurce w piasku.';
 
   @override
-  String get species_hell_fire_anemone_name => 'Ukwiał piekielny';
+  String get species_hell_fire_anemone_name =>
+      'Ukwiał piekielny (hell\'s fire anemone)';
 
   @override
   String get species_hell_fire_anemone_desc =>
       'Silnie parzący ukwiał o rozgałęzionych czułkach, przypominający miękkiego koralowca.';
 
   @override
-  String get species_beaded_sea_anemone_name => 'Ukwiał koralikowy';
+  String get species_beaded_sea_anemone_name =>
+      'Ukwiał koralikowy (beaded sea anemone)';
 
   @override
   String get species_beaded_sea_anemone_desc =>
       'Ukwiał o nabrzmiałych, koralikowatych końcach czułków, spotykany na piaszczystych fragmentach raf Indo-Pacyfiku.';
 
   @override
-  String get species_condylactis_anemone_name => 'Olbrzymi ukwiał karaibski';
+  String get species_condylactis_anemone_name =>
+      'Ukwiał karaibski olbrzymi (giant Caribbean anemone)';
 
   @override
   String get species_condylactis_anemone_desc =>
       'Duży karaibski ukwiał o czułkach z fioletowymi końcami, spotykany na skalistym podłożu rafy.';
 
   @override
-  String get species_sand_anemone_name => 'Ukwiał piaskowy';
+  String get species_sand_anemone_name => 'Ukwiał piaskowy (sand anemone)';
 
   @override
   String get species_sand_anemone_desc =>
       'Delikatny ukwiał częściowo zagrzebany w piasku, o czułkach z fioletowymi końcami.';
 
   @override
-  String get species_barrel_sponge_name => 'Olbrzymia gąbka beczkowata';
+  String get species_barrel_sponge_name =>
+      'Gąbka beczkowata olbrzymia (giant barrel sponge)';
 
   @override
   String get species_barrel_sponge_desc =>
       'Ogromna gąbka w kształcie beczki, która na ścianach raf Karaibów może żyć setki lat.';
 
   @override
-  String get species_azure_vase_sponge_name => 'Lazurowa gąbka wazonowa';
+  String get species_azure_vase_sponge_name =>
+      'Gąbka wazonowa lazurowa (azure vase sponge)';
 
   @override
   String get species_azure_vase_sponge_desc =>
       'Jaskrawa niebieskofioletowa gąbka w kształcie wazonu, spotykana na ścianach raf Karaibów.';
 
   @override
-  String get species_yellow_tube_sponge_name => 'Żółta gąbka rurkowa';
+  String get species_yellow_tube_sponge_name =>
+      'Gąbka rurkowa żółta (yellow tube sponge)';
 
   @override
   String get species_yellow_tube_sponge_desc =>
       'Jaskrawożółta rurkowata gąbka rosnąca w skupiskach na ścianach raf Karaibów.';
 
   @override
-  String get species_elephant_ear_sponge_name => 'Gąbka słoniowe ucho';
+  String get species_elephant_ear_sponge_name =>
+      'Gąbka słoniowe ucho (elephant ear sponge)';
 
   @override
   String get species_elephant_ear_sponge_desc =>
       'Duża pomarańczowa gąbka w kształcie wachlarza, rosnąca na ścianach i nawisach na Karaibach.';
 
   @override
-  String get species_rope_sponge_name => 'Gąbka sznurowa';
+  String get species_rope_sponge_name => 'Gąbka sznurowa (rope sponge)';
 
   @override
   String get species_rope_sponge_desc =>
@@ -51132,63 +51265,67 @@ class AppLocalizationsPl extends AppLocalizations {
       'Kolonijny stułbiopław z wypełnionym gazem pływakiem i ciągnącymi się czułkami, które parzą wyjątkowo boleśnie.';
 
   @override
-  String get species_fire_coral_name => 'Koral ognisty';
+  String get species_fire_coral_name => 'Koral ognisty (fire coral)';
 
   @override
   String get species_fire_coral_desc =>
       'Nie prawdziwy koralowiec, lecz stułbiopław, który przy dotknięciu boleśnie parzy nurków.';
 
   @override
-  String get species_by_the_wind_sailor_name => 'Welella';
+  String get species_by_the_wind_sailor_name => 'Żeglarz wiatrowy';
 
   @override
   String get species_by_the_wind_sailor_desc =>
       'Niebieska kolonia stułbiopławów unosząca się na powierzchni, z ukośnym żaglem łapiącym wiatr.';
 
   @override
-  String get species_blue_button_name => 'Niebieski guzik';
+  String get species_blue_button_name => 'Porpita (blue button)';
 
   @override
   String get species_blue_button_desc =>
       'Unoszący się na powierzchni kolonijny stułbiopław z płaskim dyskiem i niebieskimi hydrantami przypominającymi czułki.';
 
   @override
-  String get species_giant_sea_hare_name => 'Olbrzymi zając morski';
+  String get species_giant_sea_hare_name =>
+      'Zając morski olbrzymi (giant sea hare)';
 
   @override
   String get species_giant_sea_hare_desc =>
       'Jeden z największych ślimaków morskich, od ciemnobrązowego po czarny, spotykany w lasach wodorostów.';
 
   @override
-  String get species_sea_hare_name => 'Zając morski plamisty';
+  String get species_sea_hare_name =>
+      'Zając morski plamisty (spotted sea hare)';
 
   @override
   String get species_sea_hare_desc =>
       'Duży zając morski w zielone plamy, który niepokojony wypuszcza fioletowy atrament.';
 
   @override
-  String get species_nudibranch_berghia_name => 'Ślimak nagoskrzelny Berghia';
+  String get species_nudibranch_berghia_name =>
+      'Ślimak nagoskrzelny Berghia (berghia nudibranch)';
 
   @override
   String get species_nudibranch_berghia_desc =>
       'Półprzezroczysty ślimak nagoskrzelny z grupy eolidów, o wyrostkach grzbietowych z białymi końcami, żywiący się ukwiałami.';
 
   @override
-  String get species_sea_pen_name => 'Pióro morskie';
+  String get species_sea_pen_name => 'Pióro morskie (sea pen)';
 
   @override
   String get species_sea_pen_desc =>
       'Kolonijny koralowiec ośmiopromienny w kształcie pióra, zakotwiczony w piasku; niepokojony chowa się w podłożu.';
 
   @override
-  String get species_blue_sea_star_name => 'Rozgwiazda niebieska';
+  String get species_blue_sea_star_name =>
+      'Rozgwiazda różnobarwna (multicolor sea star)';
 
   @override
   String get species_blue_sea_star_desc =>
       'Różnobarwna rozgwiazda z raf Indo-Pacyfiku, która potrafi odrosnąć z fragmentu pojedynczego ramienia.';
 
   @override
-  String get species_reef_squid_name => 'Kałamarnica rafowa';
+  String get species_reef_squid_name => 'Kałamarnica rafowa (reef squid)';
 
   @override
   String get species_reef_squid_desc =>
@@ -51202,21 +51339,23 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duża prążkowana krewetka spotykana na piaszczystym dnie i łąkach trawy morskiej Indo-Pacyfiku.';
 
   @override
-  String get species_candy_crab_name => 'Krab cukierkowy';
+  String get species_candy_crab_name => 'Krab cukierkowy (candy crab)';
 
   @override
   String get species_candy_crab_desc =>
       'Maleńki barwny krab z różowymi lub żółtymi kolczastymi wyrostkami, upodobniony do miękkiego koralowca, na którym żyje.';
 
   @override
-  String get species_spider_crab_name => 'Pająkowaty krab dekorator';
+  String get species_spider_crab_name =>
+      'Krab dekorator pająkowaty (spider decorator crab)';
 
   @override
   String get species_spider_crab_desc =>
       'Powolny krab, który dla kamuflażu okrywa się przytwierdzonymi gąbkami i glonami.';
 
   @override
-  String get species_anemone_shrimp_name => 'Wspaniała krewetka ukwiałowa';
+  String get species_anemone_shrimp_name =>
+      'Krewetka ukwiałowa wspaniała (magnificent anemone shrimp)';
 
   @override
   String get species_anemone_shrimp_desc =>
@@ -51237,42 +51376,46 @@ class AppLocalizationsPl extends AppLocalizations {
       'Delikatna gąbka szklana o misternym krzemionkowym szkielecie, spotykana na dużych głębokościach.';
 
   @override
-  String get species_toxic_sea_urchin_name => 'Jeżowiec kwiatowy';
+  String get species_toxic_sea_urchin_name =>
+      'Jeżowiec kwiatowy (flower urchin)';
 
   @override
   String get species_toxic_sea_urchin_desc =>
       'Zwodniczo piękny jeżowiec pokryty przypominającymi kwiaty pedicelariami z silnym jadem.';
 
   @override
-  String get species_slate_pencil_urchin_name => 'Jeżowiec rysikowy';
+  String get species_slate_pencil_urchin_name =>
+      'Jeżowiec rysikowy (slate pencil urchin)';
 
   @override
   String get species_slate_pencil_urchin_desc =>
       'Jeżowiec o grubych zaokrąglonych kolcach, spotykany na podłożu raf Karaibów i Atlantyku.';
 
   @override
-  String get species_spiny_sea_star_name => 'Rozgwiazda kolczasta';
+  String get species_spiny_sea_star_name =>
+      'Rozgwiazda kolczasta (spiny sea star)';
 
   @override
   String get species_spiny_sea_star_desc =>
       'Duża rozgwiazda strefy umiarkowanej z wydatnymi kolcami, spotykana w wodach europejskich i atlantyckich.';
 
   @override
-  String get species_bat_star_name => 'Rozgwiazda nietoperz';
+  String get species_bat_star_name => 'Rozgwiazda nietoperz (bat star)';
 
   @override
   String get species_bat_star_desc =>
       'Pacyficzna rozgwiazda o ramionach połączonych błoną, pomarańczowa, czerwona lub fioletowa, spotykana w lasach wodorostów.';
 
   @override
-  String get species_sunflower_star_name => 'Rozgwiazda słonecznikowa';
+  String get species_sunflower_star_name =>
+      'Rozgwiazda słonecznikowa (sunflower star)';
 
   @override
   String get species_sunflower_star_desc =>
       'Ogromna, szybko poruszająca się rozgwiazda mająca do 24 ramion, spotykana w lasach wodorostów Pacyfiku.';
 
   @override
-  String get species_blood_star_name => 'Rozgwiazda krwista';
+  String get species_blood_star_name => 'Rozgwiazda krwista (blood star)';
 
   @override
   String get species_blood_star_desc =>
@@ -51286,14 +51429,15 @@ class AppLocalizationsPl extends AppLocalizations {
       'Mistrzyni kamuflażu o źrenicach w kształcie litery W, spotykana w wodach europejskich i w Morzu Śródziemnym.';
 
   @override
-  String get species_blue_spotted_crab_name => 'Krab pływak niebieskoplamy';
+  String get species_blue_spotted_crab_name =>
+      'Krab pływak niebieskoplamy (blue-spotted swimming crab)';
 
   @override
   String get species_blue_spotted_crab_desc =>
       'Ruchliwy krab pływający z niebieskimi plamami na pancerzu, spotykany na piaszczystym dnie Indo-Pacyfiku.';
 
   @override
-  String get species_sponge_crab_name => 'Krab gąbkowy';
+  String get species_sponge_crab_name => 'Krab gąbkowy (sponge crab)';
 
   @override
   String get species_sponge_crab_desc =>
@@ -51307,21 +51451,22 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prastary stawonóg z grupy szczękoczułkowców, o pancerzu w kształcie hełmu, spotykany na piaszczystym dnie Atlantyku.';
 
   @override
-  String get species_sea_spider_name => 'Kikutnica';
+  String get species_sea_spider_name => 'Kikutnica smukła (sea spider)';
 
   @override
   String get species_sea_spider_desc =>
       'Delikatny długonogi stawonóg morski, spotykany na stułbiopławach i mszywiołach, po których pełza.';
 
   @override
-  String get species_sea_lily_name => 'Lilia morska';
+  String get species_sea_lily_name => 'Lilia morska (sea lily)';
 
   @override
   String get species_sea_lily_desc =>
       'Osadzony na łodydze liliowiec, żywa skamieniałość z głębszych wód, odfiltrowująca pokarm pierzastymi ramionami.';
 
   @override
-  String get species_mantis_shrimp_lysiosquilla_name => 'Rawka włócznik';
+  String get species_mantis_shrimp_lysiosquilla_name =>
+      'Rawka włócznik (spearer mantis shrimp)';
 
   @override
   String get species_mantis_shrimp_lysiosquilla_desc =>
@@ -51335,28 +51480,30 @@ class AppLocalizationsPl extends AppLocalizations {
       'Liczny fioletowy jeżowiec spotykany w lasach wodorostów Pacyfiku i w skalnych basenach pływowych.';
 
   @override
-  String get species_crown_jellyfish_name => 'Meduza koronowa';
+  String get species_crown_jellyfish_name =>
+      'Meduza koronowa (crown jellyfish)';
 
   @override
   String get species_crown_jellyfish_desc =>
       'Ciemnofioletowa meduza o wypukłym dzwonie przypominającym koronę, spotykana w Indo-Pacyfiku.';
 
   @override
-  String get species_comb_jelly_name => 'Agrest morski';
+  String get species_comb_jelly_name => 'Agrest morski (sea gooseberry)';
 
   @override
   String get species_comb_jelly_desc =>
       'Mały bioluminescencyjny żebropław z opalizującymi rzędami grzebyków i dwoma długimi czułkami.';
 
   @override
-  String get species_warty_sea_slug_name => 'Ślimak brodawkowaty';
+  String get species_warty_sea_slug_name =>
+      'Filidia niebieska (warty sea slug)';
 
   @override
   String get species_warty_sea_slug_desc =>
       'Niebiesko-czarny ślimak nagoskrzelny z guzkami o żółtych szczytach, często widywany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_doris_nudibranch_name => 'Cytryna morska';
+  String get species_doris_nudibranch_name => 'Cytryna morska (sea lemon)';
 
   @override
   String get species_doris_nudibranch_desc =>
@@ -51364,14 +51511,15 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_opalescent_nudibranch_name =>
-      'Ślimak nagoskrzelny opalizujący';
+      'Ślimak nagoskrzelny opalizujący (opalescent nudibranch)';
 
   @override
   String get species_opalescent_nudibranch_desc =>
       'Półprzezroczysty eolid z jaskrawopomarańczowymi wyrostkami grzbietowymi i niebieskimi liniami na grzbiecie, żyjący w wodach Pacyfiku.';
 
   @override
-  String get species_clown_nudibranch_name => 'Ślimak nagoskrzelny klaun';
+  String get species_clown_nudibranch_name =>
+      'Ślimak nagoskrzelny klaun (clown nudibranch)';
 
   @override
   String get species_clown_nudibranch_desc =>
@@ -51399,7 +51547,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szybko pływający delfin z charakterystycznym wzorem klepsydry, spotykany na otwartym oceanie i w wodach przybrzeżnych.';
 
   @override
-  String get species_spotted_dolphin_name => 'Delfinek plamisty atlantycki';
+  String get species_spotted_dolphin_name => 'Delfinek plamisty';
 
   @override
   String get species_spotted_dolphin_desc =>
@@ -51595,196 +51743,209 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krytycznie zagrożony żółw morski spotykany głównie w Zatoce Meksykańskiej.';
 
   @override
-  String get species_flatback_sea_turtle_name => 'Żółw płaskoskorupowy';
+  String get species_flatback_sea_turtle_name => 'Żółw natator';
 
   @override
   String get species_flatback_sea_turtle_desc =>
       'Endemit wód Australii, wyróżniający się płaskim karapaksem i przybrzeżnym siedliskiem.';
 
   @override
-  String get species_brain_coral_name => 'Koralowiec mózgowy';
+  String get species_brain_coral_name => 'Koralowiec mózgowy (brain coral)';
 
   @override
   String get species_brain_coral_desc =>
       'Masywny koralowiec rafotwórczy o bruzdowanej powierzchni przypominającej mózg, pospolity na rafach Karaibów.';
 
   @override
-  String get species_staghorn_coral_name => 'Koralowiec jeleniorogi';
+  String get species_staghorn_coral_name =>
+      'Koralowiec jeleniorogi (staghorn coral)';
 
   @override
   String get species_staghorn_coral_desc =>
       'Szybko rosnący rozgałęziony koralowiec tworzący gęste zarośla, kluczowe siedlisko ryb rafowych.';
 
   @override
-  String get species_elkhorn_coral_name => 'Koralowiec łosiorogi';
+  String get species_elkhorn_coral_name =>
+      'Koralowiec łosiorogi (elkhorn coral)';
 
   @override
   String get species_elkhorn_coral_desc =>
       'Duży rozgałęziony koralowiec o płaskich, dłoniastych gałęziach, jeden z głównych budowniczych raf Karaibów.';
 
   @override
-  String get species_table_coral_name => 'Koralowiec stołowy';
+  String get species_table_coral_name => 'Koralowiec stołowy (table coral)';
 
   @override
   String get species_table_coral_desc =>
       'Koralowiec tworzący płaskie płyty, spotykany na rafach Indo-Pacyfiku, dający schronienie wielu gatunkom ryb.';
 
   @override
-  String get species_mushroom_coral_name => 'Koralowiec grzybowy';
+  String get species_mushroom_coral_name =>
+      'Koralowiec grzybowy (mushroom coral)';
 
   @override
   String get species_mushroom_coral_desc =>
       'Wolno żyjący pojedynczy koralowiec w kształcie dysku, spotykany na piaszczystych obszarach przy rafach Indo-Pacyfiku.';
 
   @override
-  String get species_bubble_coral_name => 'Koralowiec bąbelkowy';
+  String get species_bubble_coral_name => 'Koralowiec bąbelkowy (bubble coral)';
 
   @override
   String get species_bubble_coral_desc =>
       'Charakterystyczny koralowiec z pęcherzykami przypominającymi winogrona, które w dzień nabrzmiewają, by chwytać światło.';
 
   @override
-  String get species_plate_coral_name => 'Koralowiec płytowy';
+  String get species_plate_coral_name => 'Koralowiec płytowy (plate coral)';
 
   @override
   String get species_plate_coral_desc =>
       'Cienki płytowy koralowiec tworzący spiralnie ułożone półki, pospolity na stokach raf Indo-Pacyfiku.';
 
   @override
-  String get species_pillar_coral_name => 'Koralowiec kolumnowy';
+  String get species_pillar_coral_name => 'Koralowiec kolumnowy (pillar coral)';
 
   @override
   String get species_pillar_coral_desc =>
       'Rzadki, rosnący ku górze koralowiec tworzący wysokie kolumny, spotykany na Karaibach.';
 
   @override
-  String get species_star_coral_name => 'Koralowiec gwiaździsty';
+  String get species_star_coral_name => 'Koralowiec gwiaździsty (star coral)';
 
   @override
   String get species_star_coral_desc =>
       'Ważny budowniczy raf Karaibów, tworzący duże kolonie w kształcie głazów, z gwiaździstymi polipami.';
 
   @override
-  String get species_lettuce_coral_name => 'Koralowiec sałatowy';
+  String get species_lettuce_coral_name =>
+      'Koralowiec sałatowy (lettuce coral)';
 
   @override
   String get species_lettuce_coral_desc =>
       'Cienki płytowy koralowiec o fałdach przypominających liście, pospolity na ścianach i stokach raf Karaibów.';
 
   @override
-  String get species_finger_coral_name => 'Koralowiec palczasty';
+  String get species_finger_coral_name => 'Koralowiec palczasty (finger coral)';
 
   @override
   String get species_finger_coral_desc =>
       'Mocny rozgałęziony koralowiec o grubych, palczastych wyrostkach, spotykany na płytkich rafach.';
 
   @override
-  String get species_massive_porites_name => 'Koralowiec Porites masywny';
+  String get species_massive_porites_name =>
+      'Koralowiec Porites masywny (massive porites coral)';
 
   @override
   String get species_massive_porites_desc =>
       'Duży koralowiec w kształcie głazu, który może rosnąć setki lat; dominujący budowniczy raf Indo-Pacyfiku.';
 
   @override
-  String get species_cauliflower_coral_name => 'Koralowiec kalafiorowy';
+  String get species_cauliflower_coral_name =>
+      'Koralowiec kalafiorowy (cauliflower coral)';
 
   @override
   String get species_cauliflower_coral_desc =>
       'Zwarty rozgałęziony koralowiec w kształcie kalafiora, szeroko rozpowszechniony na płyciznach raf tropikalnych.';
 
   @override
-  String get species_flower_pot_coral_name => 'Koralowiec doniczkowy';
+  String get species_flower_pot_coral_name =>
+      'Koralowiec doniczkowy (flowerpot coral)';
 
   @override
   String get species_flower_pot_coral_desc =>
       'Kolonia polipów o długich czułkach, które wysuwają się w dzień i przypominają bukiet kwiatów.';
 
   @override
-  String get species_cup_coral_name => 'Pomarańczowy koralowiec kielichowy';
+  String get species_cup_coral_name =>
+      'Koralowiec kielichowy pomarańczowy (orange cup coral)';
 
   @override
   String get species_cup_coral_desc =>
       'Jaskrawopomarańczowy koralowiec nieprowadzący fotosyntezy, spotykany na ścianach i nawisach w wodach tropikalnych.';
 
   @override
-  String get species_scroll_coral_name => 'Koralowiec zwojowy';
+  String get species_scroll_coral_name => 'Koralowiec zwojowy (scroll coral)';
 
   @override
   String get species_scroll_coral_desc =>
       'Koralowiec tworzący duże zwinięte płyty, pospolity na stokach raf i w lagunach Indo-Pacyfiku.';
 
   @override
-  String get species_cabbage_coral_name => 'Koralowiec kapuściany';
+  String get species_cabbage_coral_name =>
+      'Koralowiec kapuściany (cabbage coral)';
 
   @override
   String get species_cabbage_coral_desc =>
       'Płytowy koralowiec w kształcie dysku, przypominający liście kapusty, spotykany w osłoniętych częściach rafy.';
 
   @override
-  String get species_hammer_coral_name => 'Koralowiec młotkowy';
+  String get species_hammer_coral_name => 'Koralowiec młotkowy (hammer coral)';
 
   @override
   String get species_hammer_coral_desc =>
       'Koralowiec o dużych polipach i końcach czułków w kształcie kotwicy lub młotka, częsty na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_torch_coral_name => 'Koralowiec pochodniowy';
+  String get species_torch_coral_name => 'Koralowiec pochodniowy (torch coral)';
 
   @override
   String get species_torch_coral_desc =>
       'Rozgałęziony koralowiec o długich falujących czułkach zakończonych świecącymi bulwkami.';
 
   @override
-  String get species_frogspawn_coral_name => 'Koralowiec żabi skrzek';
+  String get species_frogspawn_coral_name =>
+      'Koralowiec żabi skrzek (frogspawn coral)';
 
   @override
   String get species_frogspawn_coral_desc =>
       'Koralowiec o dużych polipach i rozgałęzionych końcach czułków przypominających żabi skrzek.';
 
   @override
-  String get species_sea_fan_name => 'Wachlarz morski';
+  String get species_sea_fan_name => 'Wachlarz morski (common sea fan)';
 
   @override
   String get species_sea_fan_desc =>
       'Płaska wachlarzowata gorgonia ustawiona prostopadle do prądu, jeden z symboli raf Karaibów.';
 
   @override
-  String get species_venus_sea_fan_name => 'Wachlarz Wenus';
+  String get species_venus_sea_fan_name => 'Wachlarz Wenery (Venus sea fan)';
 
   @override
   String get species_venus_sea_fan_desc =>
       'Delikatna wachlarzowata gorgonia spotykana na płytkich rafach Karaibów w miejscach o umiarkowanym prądzie.';
 
   @override
-  String get species_deepwater_sea_fan_name => 'Głębinowy wachlarz morski';
+  String get species_deepwater_sea_fan_name =>
+      'Gorgonia głębinowa (deepwater sea fan)';
 
   @override
   String get species_deepwater_sea_fan_desc =>
       'Duża krzaczasta gorgonia spotykana na głębokich ścianach raf Karaibów.';
 
   @override
-  String get species_sea_whip_name => 'Bicz morski';
+  String get species_sea_whip_name => 'Bicz morski (sea whip)';
 
   @override
   String get species_sea_whip_desc =>
       'Smukła prętowata gorgonia kołysząca się w prądzie na rafach Atlantyku i Karaibów.';
 
   @override
-  String get species_sea_plume_name => 'Pióropusz morski';
+  String get species_sea_plume_name => 'Pióropusz morski (sea plume)';
 
   @override
   String get species_sea_plume_desc =>
       'Wysoka pierzasta gorgonia tworząca kolonie w kształcie pióropuszy na szczytach raf Karaibów.';
 
   @override
-  String get species_organ_pipe_coral_name => 'Koralowiec organowy';
+  String get species_organ_pipe_coral_name =>
+      'Koralowiec organowy (organ pipe coral)';
 
   @override
   String get species_organ_pipe_coral_desc =>
       'Jaskrawoczerwone rurki szkieletu z delikatnymi polipami, spotykane na osłoniętych rafach Indo-Pacyfiku.';
 
   @override
-  String get species_leather_coral_name => 'Koralowiec skórzasty';
+  String get species_leather_coral_name =>
+      'Koralowiec skórzasty (leather coral)';
 
   @override
   String get species_leather_coral_desc =>
@@ -51792,91 +51953,94 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_toadstool_leather_coral_name =>
-      'Koralowiec skórzasty grzybkowaty';
+      'Koralowiec skórzasty grzybkowaty (toadstool leather coral)';
 
   @override
   String get species_toadstool_leather_coral_desc =>
       'Miękki koralowiec z grubym trzonem i płaskim kapeluszem, pospolity na płyciznach raf Indo-Pacyfiku.';
 
   @override
-  String get species_pulsing_xenia_name => 'Ksenia pulsująca';
+  String get species_pulsing_xenia_name => 'Ksenia pulsująca (pulsing xenia)';
 
   @override
   String get species_pulsing_xenia_desc =>
       'Miękki koralowiec o rytmicznie pulsujących polipach, spotykany w osłoniętych wodach Indo-Pacyfiku.';
 
   @override
-  String get species_tree_coral_name => 'Koralowiec drzewkowaty';
+  String get species_tree_coral_name => 'Koralowiec drzewkowaty (tree coral)';
 
   @override
   String get species_tree_coral_desc =>
       'Jaskrawy miękki koralowiec tworzący drzewkowate skupiska na ścianach i nawisach w Morzu Czerwonym.';
 
   @override
-  String get species_blue_coral_name => 'Koralowiec niebieski';
+  String get species_blue_coral_name => 'Koralowiec niebieski (blue coral)';
 
   @override
   String get species_blue_coral_desc =>
       'Wyjątkowy koralowiec ośmiopromienny o niebieskim szkielecie, spotykany na płyciznach raf Indo-Pacyfiku.';
 
   @override
-  String get species_black_coral_name => 'Koralowiec czarny';
+  String get species_black_coral_name => 'Koralowiec czarny (black coral)';
 
   @override
   String get species_black_coral_desc =>
       'Głębokowodny koralowiec o ciemnym szkielecie, spotykany na ścianach i uskokach poniżej 30 metrów.';
 
   @override
-  String get species_carnation_coral_name => 'Koralowiec goździkowy';
+  String get species_carnation_coral_name =>
+      'Koralowiec goździkowy (carnation coral)';
 
   @override
   String get species_carnation_coral_desc =>
       'Jaskrawo ubarwiony miękki koralowiec spotykany pod nawisami i na ścianach w Indo-Pacyfiku.';
 
   @override
-  String get species_wire_coral_name => 'Koralowiec drutowy';
+  String get species_wire_coral_name => 'Koralowiec drutowy (wire coral)';
 
   @override
   String get species_wire_coral_desc =>
       'Długi spiralny koralowiec czarny tworzący skręcone bicze, gospodarz babek i krewetek.';
 
   @override
-  String get species_dead_mans_fingers_name => 'Palce topielca';
+  String get species_dead_mans_fingers_name =>
+      'Palce topielca (dead man\'s fingers)';
 
   @override
   String get species_dead_mans_fingers_desc =>
       'Mięsisty miękki koralowiec o palczastych płatach, pospolity na rafach strefy umiarkowanej północnego Atlantyku.';
 
   @override
-  String get species_sun_coral_name => 'Koralowiec słoneczny';
+  String get species_sun_coral_name => 'Koralowiec słoneczny (sun coral)';
 
   @override
   String get species_sun_coral_desc =>
       'Żółtopomarańczowy koralowiec nieprowadzący fotosyntezy, który nocą rozwija polipy na ścianach Indo-Pacyfiku.';
 
   @override
-  String get species_lace_coral_name => 'Koralowiec koronkowy';
+  String get species_lace_coral_name => 'Koralowiec koronkowy (lace coral)';
 
   @override
   String get species_lace_coral_desc =>
       'Delikatny różowy hydrokoral o koronkowych gałązkach, spotykany w szczelinach i pod nawisami.';
 
   @override
-  String get species_kenya_tree_coral_name => 'Kenijski koralowiec drzewkowaty';
+  String get species_kenya_tree_coral_name =>
+      'Koralowiec kenijski (Kenya tree coral)';
 
   @override
   String get species_kenya_tree_coral_desc =>
       'Odporny miękki koralowiec o drzewkowatych gałęziach, pospolity w Indo-Pacyfiku.';
 
   @override
-  String get species_colt_coral_name => 'Koralowiec Colt';
+  String get species_colt_coral_name => 'Koralowiec Colt (colt coral)';
 
   @override
   String get species_colt_coral_desc =>
       'Miękki koralowiec o grubych gumowatych gałęziach pokrytych drobnymi polipami, żyjący na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_turtle_grass_name => 'Trawa żółwia';
+  String get species_turtle_grass_name => 'Trawa żółwia (turtle grass)';
 
   @override
   String get species_turtle_grass_desc =>
@@ -51890,21 +52054,21 @@ class AppLocalizationsPl extends AppLocalizations {
       'Trawa morska strefy umiarkowanej, tworząca gęste podwodne łąki, które są wylęgarnią dla młodych zwierząt.';
 
   @override
-  String get species_manatee_grass_name => 'Trawa manatowa';
+  String get species_manatee_grass_name => 'Trawa manatowa (manatee grass)';
 
   @override
   String get species_manatee_grass_desc =>
       'Trawa morska o walcowatych liściach, spotykana na piaszczystych obszarach Karaibów, często w pobliżu łąk trawy żółwiej.';
 
   @override
-  String get species_shoal_grass_name => 'Trawa płyciznowa';
+  String get species_shoal_grass_name => 'Trawa płyciznowa (shoal grass)';
 
   @override
   String get species_shoal_grass_desc =>
       'Pionierska trawa morska o wąskich liściach, zasiedlająca naruszone piaszczyste obszary na Karaibach.';
 
   @override
-  String get species_paddle_grass_name => 'Trawa wiosłowata';
+  String get species_paddle_grass_name => 'Trawa wiosłowata (paddle grass)';
 
   @override
   String get species_paddle_grass_desc =>
@@ -51925,7 +52089,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Strzelisty gatunek tworzący podwodne lasy, dorastający do 60 metrów, symbol nurkowania w Kalifornii.';
 
   @override
-  String get species_bull_kelp_name => 'Kelp byczy';
+  String get species_bull_kelp_name => 'Baniopień Lütkego';
 
   @override
   String get species_bull_kelp_desc =>
@@ -51939,35 +52103,37 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pospolita brunatnica z parzystymi pęcherzami powietrznymi, spotykana w strefie pływów północnego Atlantyku.';
 
   @override
-  String get species_sargassum_name => 'Gronorost';
+  String get species_sargassum_name => 'Gronorost (sargassum)';
 
   @override
   String get species_sargassum_desc =>
       'Swobodnie unosząca się brunatnica tworząca pływające maty, które dają schronienie młodym rybom i bezkręgowcom.';
 
   @override
-  String get species_kelp_forest_ecklonia_name => 'Kelp Ecklonia';
+  String get species_kelp_forest_ecklonia_name =>
+      'Kelp Ecklonia (ecklonia kelp)';
 
   @override
   String get species_kelp_forest_ecklonia_desc =>
       'Dominujący kelp wód półkuli południowej, tworzący ważne podwodne lasy.';
 
   @override
-  String get species_coralline_algae_name => 'Krasnorosty wapienne';
+  String get species_coralline_algae_name =>
+      'Krasnorost wapienny (coralline algae)';
 
   @override
   String get species_coralline_algae_desc =>
       'Twardy, inkrustujący krasnorost, który spaja struktury rafy i nadaje rafom różowy odcień.';
 
   @override
-  String get species_irish_moss_name => 'Mech irlandzki';
+  String get species_irish_moss_name => 'Chrząstnica kędzierzawa';
 
   @override
   String get species_irish_moss_desc =>
       'Wachlarzowaty krasnorost spotykany na skalistych brzegach w strefie pływów północnego Atlantyku.';
 
   @override
-  String get species_dulse_name => 'Rodymenia palczasta';
+  String get species_dulse_name => 'Rodymenia palczasta (dulse)';
 
   @override
   String get species_dulse_desc =>
@@ -51981,28 +52147,29 @@ class AppLocalizationsPl extends AppLocalizations {
       'Zwapniała zielenica o dyskowatych członach, jedno z głównych źródeł piasku rafowego.';
 
   @override
-  String get species_sea_lettuce_name => 'Sałata morska';
+  String get species_sea_lettuce_name => 'Ulwa sałatowa';
 
   @override
   String get species_sea_lettuce_desc =>
       'Jaskrawozielona, płatowata zielenica spotykana w płytkich wodach przybrzeżnych na całym świecie.';
 
   @override
-  String get species_caulerpa_name => 'Zielone winogrona morskie';
+  String get species_caulerpa_name => 'Kaulerpa groniasta (green grape algae)';
 
   @override
   String get species_caulerpa_desc =>
       'Płożąca się zielenica o pędach przypominających winogrona, spotykana na rumoszu rafowym i piasku w tropikach.';
 
   @override
-  String get species_mermaid_fan_name => 'Wachlarz syreny';
+  String get species_mermaid_fan_name => 'Wachlarz syreny (mermaid\'s fan)';
 
   @override
   String get species_mermaid_fan_desc =>
       'Zwapniała zielenica w kształcie małego wachlarza, pospolita na piaszczystym dnie Karaibów.';
 
   @override
-  String get species_shaving_brush_algae_name => 'Glon pędzel do golenia';
+  String get species_shaving_brush_algae_name =>
+      'Glon pędzel do golenia (shaving brush algae)';
 
   @override
   String get species_shaving_brush_algae_desc =>
@@ -52016,14 +52183,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Brunatnica o palczastych plechach, tworząca podwodne łąki w przybrzeżnych wodach północnego Atlantyku.';
 
   @override
-  String get species_banded_sea_krait_name => 'Wiosłogon pręgowany';
+  String get species_banded_sea_krait_name => 'Wiosłogon żmijowaty';
 
   @override
   String get species_banded_sea_krait_desc =>
       'Jadowity wąż morski w niebieskoszare i czarne pręgi, łagodny i często widywany na rafach Indo-Pacyfiku.';
 
   @override
-  String get species_olive_sea_snake_name => 'Wąż morski oliwkowy';
+  String get species_olive_sea_snake_name => 'Krępacz olbrzymi';
 
   @override
   String get species_olive_sea_snake_desc =>
@@ -52051,7 +52218,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Największy żyjący gad, spotykany w wodach przybrzeżnych i estuariach Indo-Pacyfiku.';
 
   @override
-  String get species_northern_pike_name => 'Szczupak';
+  String get species_northern_pike_name => 'Szczupak pospolity';
 
   @override
   String get species_northern_pike_desc =>
@@ -52100,7 +52267,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Pręgowany okoń o kolczastych płetwach, z czerwonopomarańczowymi płetwami dolnymi, spotykany w niemal każdym europejskim jeziorze i wolno płynącej rzece.';
 
   @override
-  String get species_zander_name => 'Sandacz';
+  String get species_zander_name => 'Sandacz pospolity';
 
   @override
   String get species_zander_desc =>
@@ -52149,14 +52316,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Jaskrawo nakrapiana ryba z rodziny bassowatych, z płatkiem skrzelowym o czerwonym końcu i falistymi niebieskimi liniami na policzkach, pospolita na zarośniętych płyciznach.';
 
   @override
-  String get species_black_crappie_name => 'Krapia czarna';
+  String get species_black_crappie_name => 'Krapia czarna (black crappie)';
 
   @override
   String get species_black_crappie_desc =>
       'Srebrzysta, wysoko wygrzbiecona ryba w czarne cętki, trzymająca się w ławicach przy zatopionych gałęziach i palach.';
 
   @override
-  String get species_white_crappie_name => 'Krapia biała';
+  String get species_white_crappie_name => 'Krapia biała (white crappie)';
 
   @override
   String get species_white_crappie_desc =>
@@ -52296,7 +52463,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krępa ryba rzeczna o szerokiej głowie, dużych łuskach z ciemnym obrzeżeniem i dużym pysku, trzymająca się pod zwisającymi nad wodą drzewami.';
 
   @override
-  String get species_barbel_name => 'Brzana';
+  String get species_barbel_name => 'Brzana pospolita';
 
   @override
   String get species_barbel_desc =>
@@ -52317,7 +52484,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Północnoamerykański węgorz, który w rzekach i jeziorach kryje się za dnia pod kamieniami, a na rozród wraca do Morza Sargassowego.';
 
   @override
-  String get species_burbot_name => 'Miętus';
+  String get species_burbot_name => 'Miętus pospolity';
 
   @override
   String get species_burbot_desc =>
@@ -52408,7 +52575,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Bezszczękowy, podobny do węgorza pasożyt z przyssawkowym otworem gębowym otoczonym zębami; po okresie żerowania w morzu lub jeziorach trze się w żwirowych strumieniach.';
 
   @override
-  String get species_freshwater_drum_name => 'Kulbin słodkowodny';
+  String get species_freshwater_drum_name =>
+      'Kulbin słodkowodny (freshwater drum)';
 
   @override
   String get species_freshwater_drum_desc =>
@@ -52457,7 +52625,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szara pielęgnica z pionowymi pręgami na ogonie, inkubująca potomstwo w pysku, hodowana i zdziczała w ciepłych wodach na całym świecie.';
 
   @override
-  String get species_african_tigerfish_name => 'Afrykańska ryba tygrysia';
+  String get species_african_tigerfish_name =>
+      'Ryba tygrysia afrykańska (African tigerfish)';
 
   @override
   String get species_african_tigerfish_desc =>
@@ -52485,7 +52654,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Skalna pielęgnica z jeziora Malawi w niebieskie pręgi, zeskrobująca glony z głazów w gęstych, terytorialnych skupiskach.';
 
   @override
-  String get species_malawi_butterfly_peacock_name => 'Aulonokara motylowa';
+  String get species_malawi_butterfly_peacock_name =>
+      'Aulonokara motylowa (Malawi butterfly peacock)';
 
   @override
   String get species_malawi_butterfly_peacock_desc =>
@@ -52520,7 +52690,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Krępa skalna pielęgnica z Tanganiki, występująca w dziesiątkach odmian barwnych, z których każda zajmuje własny odcinek brzegu.';
 
   @override
-  String get species_arapaima_name => 'Arapaima piraruku';
+  String get species_arapaima_name => 'Arapaima';
 
   @override
   String get species_arapaima_desc =>
@@ -52541,7 +52711,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wysoko wygrzbiecona srebrzysta ryba o karmazynowym brzuchu i ostrych jak brzytwa zębach, pływająca w ławicach w amazońskich rozlewiskach.';
 
   @override
-  String get species_black_piranha_name => 'Pirania czarna';
+  String get species_black_piranha_name => 'Pirania kropkowana';
 
   @override
   String get species_black_piranha_desc =>
@@ -52576,7 +52746,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Duży amazoński sum o ciemnym grzbiecie, białym brzuchu i jaskrawym pomarańczowoczerwonym ogonie, odpoczywający w głębokich plosach rzek.';
 
   @override
-  String get species_tiger_shovelnose_catfish_name => 'Sum tygrysi';
+  String get species_tiger_shovelnose_catfish_name => 'Surubim tygrysi';
 
   @override
   String get species_tiger_shovelnose_catfish_desc =>
@@ -52611,7 +52781,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Okrągła, bocznie spłaszczona pielęgnica z falistymi niebieskimi liniami, karmiąca narybek śluzem z własnej skóry.';
 
   @override
-  String get species_sailfin_pleco_name => 'Zbrojnik żaglopłetwy';
+  String get species_sailfin_pleco_name =>
+      'Zbrojnik żaglopłetwy (sailfin pleco)';
 
   @override
   String get species_sailfin_pleco_desc =>
@@ -52632,14 +52803,14 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysta kąsaczowata ryba z rzek Meksyku, której populacje jaskiniowe są ślepe i blade; ulubienica nurków w cenotach.';
 
   @override
-  String get species_mekong_giant_catfish_name => 'Olbrzymi sum mekoński';
+  String get species_mekong_giant_catfish_name => 'Pangaz';
 
   @override
   String get species_mekong_giant_catfish_desc =>
       'Krytycznie zagrożony bezzębny olbrzym z Mekongu, szary i pozbawiony wąsów, osiągający niegdyś trzy metry.';
 
   @override
-  String get species_giant_barb_name => 'Karp syjamski';
+  String get species_giant_barb_name => 'Karp syjamski (giant barb)';
 
   @override
   String get species_giant_barb_desc =>
@@ -52660,7 +52831,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Torpedowaty drapieżnik oddychający powietrzem atmosferycznym, o płaskiej wężowatej głowie, strzegący narybku w zarośniętych azjatyckich stawach.';
 
   @override
-  String get species_giant_snakehead_name => 'Żmijogłów olbrzymi';
+  String get species_giant_snakehead_name =>
+      'Żmijogłów olbrzymi (giant snakehead)';
 
   @override
   String get species_giant_snakehead_desc =>
@@ -52674,7 +52846,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Wytrzymała oliwkowa ryba, która oddycha powietrzem atmosferycznym i pełza po lądzie między wysychającymi zbiornikami, podpierając się kolczastymi pokrywami skrzelowymi.';
 
   @override
-  String get species_golden_mahseer_name => 'Mahsir złoty';
+  String get species_golden_mahseer_name => 'Tor himalajski';
 
   @override
   String get species_golden_mahseer_desc =>
@@ -52702,14 +52874,16 @@ class AppLocalizationsPl extends AppLocalizations {
       'Szeroka, garbata ryba z Azji Południowo-Wschodniej o nitkowatych płetwach brzusznych, budująca gniazda z piany w wolno płynącej, zarośniętej wodzie.';
 
   @override
-  String get species_clown_knifefish_name => 'Brzeszczotek ozdobny';
+  String get species_clown_knifefish_name =>
+      'Brzeszczotek ozdobny (clown knifefish)';
 
   @override
   String get species_clown_knifefish_desc =>
       'Srebrzysta ryba w kształcie ostrza, z plamami ocznymi wzdłuż długiej falującej płetwy odbytowej, unosząca się pod zatopionymi pniami azjatyckich rzek.';
 
   @override
-  String get species_walking_catfish_name => 'Sum kroczący';
+  String get species_walking_catfish_name =>
+      'Długowąs kroczący (walking catfish)';
 
   @override
   String get species_walking_catfish_desc =>
@@ -52744,21 +52918,22 @@ class AppLocalizationsPl extends AppLocalizations {
       'Półprzezroczysta, bezłuska ryba z głębin Bajkału, tak bogata w tłuszcz, że niemal przejrzysta, rodząca żywe młode.';
 
   @override
-  String get species_murray_cod_name => 'Dorsz z rzeki Murray';
+  String get species_murray_cod_name => 'Dorsz z rzeki Murray (Murray cod)';
 
   @override
   String get species_murray_cod_desc =>
       'Największa słodkowodna ryba Australii, zielono marmurkowany olbrzym z białym brzuchem, stojący przy zatopionych pniach w dorzeczu Murray-Darling.';
 
   @override
-  String get species_golden_perch_name => 'Okoń złocisty';
+  String get species_golden_perch_name => 'Okoń złocisty (golden perch)';
 
   @override
   String get species_golden_perch_desc =>
       'Wysokogrzbiety, złotooliwkowy okoń śródlądowych rzek Australii, kryjący się przy powalonych drzewach i półkach skalnych.';
 
   @override
-  String get species_australian_bass_name => 'Okoń australijski';
+  String get species_australian_bass_name =>
+      'Okoń australijski (Australian bass)';
 
   @override
   String get species_australian_bass_desc =>
@@ -52772,7 +52947,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Srebrzysty, garbaty okoń rzek i estuariów północnej Australii, z wiekiem zmieniający płeć z męskiej na żeńską.';
 
   @override
-  String get species_silver_perch_name => 'Okoń srebrzysty';
+  String get species_silver_perch_name => 'Terapon srebrzysty (silver perch)';
 
   @override
   String get species_silver_perch_desc =>
@@ -52786,7 +52961,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Brązowa australijska arowana o łuskach nakrapianych czerwienią, inkubująca ikrę w pysku w północnych starorzeczach (billabongach).';
 
   @override
-  String get species_sooty_grunter_name => 'Terapon smolisty';
+  String get species_sooty_grunter_name => 'Terapon smolisty (sooty grunter)';
 
   @override
   String get species_sooty_grunter_desc =>
@@ -52800,14 +52975,16 @@ class AppLocalizationsPl extends AppLocalizations {
       'Australijski sum o zwężającym się, węgorzowatym ogonie, który na czystych rzecznych płyciznach buduje żwirowe gniazdo i go pilnuje.';
 
   @override
-  String get species_spangled_perch_name => 'Terapon cętkowany';
+  String get species_spangled_perch_name =>
+      'Terapon cętkowany (spangled perch)';
 
   @override
   String get species_spangled_perch_desc =>
       'Mały, srebrzyście nakrapiany terapon spotykany w całym interiorze Australii, zasiedlający każde oczko wodne, do którego dotrze powódź.';
 
   @override
-  String get species_eastern_rainbowfish_name => 'Tęczanka wschodnia';
+  String get species_eastern_rainbowfish_name =>
+      'Tęczanka wschodnia (eastern rainbowfish)';
 
   @override
   String get species_eastern_rainbowfish_desc =>
@@ -52835,7 +53012,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Rodzimy rak Europy, ciemnobrązowy, o szczypcach czerwonych od spodu, kryjący się w norach brzegowych czystych, chłodnych strumieni i jezior.';
 
   @override
-  String get species_white_clawed_crayfish_name => 'Rak białoszczypcowy';
+  String get species_white_clawed_crayfish_name =>
+      'Rak białoszczypcowy (white-clawed crayfish)';
 
   @override
   String get species_white_clawed_crayfish_desc =>
@@ -52843,7 +53021,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_tasmanian_giant_freshwater_crayfish_name =>
-      'Tasmański rak olbrzymi';
+      'Rak tasmański olbrzymi (Tasmanian giant freshwater crayfish)';
 
   @override
   String get species_tasmanian_giant_freshwater_crayfish_desc =>
@@ -52857,7 +53035,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Prążkowany małż wielkości paznokcia, tysiącami pokrywający skały, wraki i rury i oczyszczający wodę wszędzie tam, gdzie się rozprzestrzenia.';
 
   @override
-  String get species_quagga_mussel_name => 'Racicznica pasiasta';
+  String get species_quagga_mussel_name => 'Racicznica bużańska';
 
   @override
   String get species_quagga_mussel_desc =>
@@ -52913,14 +53091,16 @@ class AppLocalizationsPl extends AppLocalizations {
       'Płaski, spiralnie zwinięty ślimak przypominający maleńki barani róg, zgryzający glony z liści i kamieni w zarośniętych stawach.';
 
   @override
-  String get species_channeled_apple_snail_name => 'Ampularia żłobkowana';
+  String get species_channeled_apple_snail_name =>
+      'Ampularia żłobkowana (channeled apple snail)';
 
   @override
   String get species_channeled_apple_snail_desc =>
       'Duży złotobrązowy ślimak składający jaskraworóżowe złoża jaj nad linią wody, inwazyjny na ciepłych mokradłach i polach ryżowych.';
 
   @override
-  String get species_magnificent_bryozoan_name => 'Mszywioł wspaniały';
+  String get species_magnificent_bryozoan_name =>
+      'Mszywiół wspaniały (magnificent bryozoan)';
 
   @override
   String get species_magnificent_bryozoan_desc =>
@@ -52935,7 +53115,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_giant_freshwater_prawn_name =>
-      'Krewetka olbrzymia słodkowodna';
+      'Krewetka olbrzymia słodkowodna (giant freshwater prawn)';
 
   @override
   String get species_giant_freshwater_prawn_desc =>
@@ -52970,7 +53150,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Żółw wodny w zielone paski z czerwoną smugą za każdym okiem, popularny w handlu zoologicznym, dziś zdziczały w ciepłych wodach całego świata.';
 
   @override
-  String get species_northern_map_turtle_name => 'Żółw mapowy';
+  String get species_northern_map_turtle_name =>
+      'Żółw mapowy (northern map turtle)';
 
   @override
   String get species_northern_map_turtle_desc =>
@@ -52998,7 +53179,8 @@ class AppLocalizationsPl extends AppLocalizations {
       'Niezwykły żółw rzeczny Nowej Gwinei i północnej Australii o płetwach jak u żółwi morskich i mięsistym, świńskim ryjku.';
 
   @override
-  String get species_mary_river_turtle_name => 'Żółw z rzeki Mary';
+  String get species_mary_river_turtle_name =>
+      'Żółw z rzeki Mary (Mary River turtle)';
 
   @override
   String get species_mary_river_turtle_desc =>
@@ -53006,7 +53188,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get species_yellow_spotted_river_turtle_name =>
-      'Żółw rzeczny żółtoplamy';
+      'Żółw rzeczny żółtoplamy (yellow-spotted river turtle)';
 
   @override
   String get species_yellow_spotted_river_turtle_desc =>
