@@ -53,6 +53,26 @@ void main() {
       expectCode('Turks and Caicos', 'TC');
     });
 
+    test('resolves the short names Polish divers write', () {
+      expectCode('Mjanma', 'MM');
+      expectCode('Birma', 'MM');
+      expectCode('Niderlandy', 'NL');
+      expectCode('RPA', 'ZA');
+      expectCode('ZEA', 'AE');
+      expectCode('Wyspy Zielonego Przylądka', 'CV');
+      expectCode('Republika Dominikańska', 'DO');
+      for (final text in [
+        'Zjednoczone Królestwo',
+        'Anglia',
+        'Szkocja',
+        'Walia',
+        'Irlandia Północna',
+      ]) {
+        expectCode(text, 'GB');
+      }
+      expectCode('Stany Zjednoczone Ameryki', 'US');
+    });
+
     test('reads "and" for "&", drops a leading "The", collapses spaces', () {
       // Geocoders and divers write these forms; English CLDR writes "&".
       expectCode('Trinidad and Tobago', 'TT');
@@ -87,6 +107,7 @@ void main() {
       // "Congo" is as often the Democratic Republic as the Republic: no
       // flag beats the wrong one.
       expectCode('Congo', null);
+      expectCode('Kongo', null);
       expectCode('DR Congo', 'CD');
       expectCode('Congo - Brazzaville', 'CG');
     });

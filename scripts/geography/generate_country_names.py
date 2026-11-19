@@ -44,9 +44,10 @@ PLACE_NAME_LANGUAGES = (
 )
 _OFFICIAL_STATUSES = {"official", "de_facto_official", "official_regional"}
 # Folded names CLDR maps to one country that people commonly use for
-# another: plain "Congo" is as often the Democratic Republic (CD) as the
-# Republic (CG), which CLDR gives it to. No flag beats a wrong one.
-DENIED_NAMES = frozenset({"congo"})
+# another: plain "Congo" (Polish "Kongo") is as often the Democratic
+# Republic (CD) as the Republic (CG), which CLDR gives it to. No flag beats
+# a wrong one.
+DENIED_NAMES = frozenset({"congo", "kongo"})
 _ALT_SUFFIXES = ("-alt-short", "-alt-variant")
 
 _REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

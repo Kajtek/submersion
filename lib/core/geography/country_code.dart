@@ -30,6 +30,21 @@ const Map<String, String> _aliasNames = {
   'sint eustatius': 'BQ',
   'saba': 'BQ',
   'turks and caicos': 'TC',
+  // Short and colloquial Polish forms; CLDR has only "Mjanma (Birma)",
+  // "Holandia", "Republika Południowej Afryki" and the like.
+  'mjanma': 'MM',
+  'birma': 'MM',
+  'niderlandy': 'NL',
+  'rpa': 'ZA',
+  'zea': 'AE',
+  'wyspy zielonego przylądka': 'CV',
+  'republika dominikańska': 'DO',
+  'zjednoczone królestwo': 'GB',
+  'anglia': 'GB',
+  'szkocja': 'GB',
+  'walia': 'GB',
+  'irlandia północna': 'GB',
+  'stany zjednoczone ameryki': 'US',
   // The Maldives in Dhivehi: CLDR ships no Dhivehi locale data.
   'ދިވެހިރާއްޖެ': 'MV',
   // OpenStreetMap's own country names that CLDR words differently, as the

@@ -710,7 +710,6 @@ const Map<String, String> cldrCountryNameCodes = {
   'kolumbien': 'CO',
   'komoren': 'KM',
   'komory': 'KM',
-  'kongo': 'CG',
   'kongo (demokratische republik)': 'CD',
   'kongo (drc)': 'CD',
   'kongo (drk)': 'CD',
