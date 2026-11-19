@@ -139,6 +139,7 @@ HAND_WRITTEN_NAMES = {
     "Coastal Waters of Southeast Alaska and British Columbia": {
         "pl": "Wody przybrzeżne południowo-wschodniej Alaski i Kolumbii Brytyjskiej",
     },
+    "English Channel": {"pl": "La Manche"},
     "North Pacific Ocean": {"pl": "Północny Pacyfik"},
     "South Atlantic Ocean": {"pl": "Południowy Atlantyk"},
     "South Pacific Ocean": {"pl": "Południowy Pacyfik"},

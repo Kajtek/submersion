@@ -416,7 +416,7 @@ void main() {
     const pinned = (
       revision: 7,
       seaTable:
-          '4b61a7264c6562a80099a9c0bb05e9376d5219d97f94a85eef4f3c3d995fad17',
+          '25d9e54b8432a5bf3add94b833023c3d8c953e1163cac5bc5d3b3e3f1ba8481b',
     );
 
     final seaTable = File(p.join('assets', 'data', 'sea_areas.json'));
