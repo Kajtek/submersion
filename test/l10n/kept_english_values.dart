@@ -210,7 +210,6 @@ const Map<String, String> keptEnglishValues = {
   'navTrack_list_durationHours@es': _units,
   'navTrack_list_durationHours@fr': _units,
   'navTrack_list_durationHours@it': _units,
-  'navTrack_list_durationHours@pl': _units,
   'navTrack_list_durationHours@pt': _units,
   'navTrack_review_nameHint@de': _sameWord,
   'navTrack_review_offsetDays@es': _units,

@@ -17,8 +17,9 @@ void main() {
   final dir = Directory('lib/l10n/arb');
 
   /// The confirmation words are quoted in the hint. Locales use straight
-  /// quotes; Chinese uses corner brackets.
-  final quoted = RegExp(r'["“「]([^"”」]+)["”」]');
+  /// quotes; Polish opens with a low quote („Usuń”); Chinese uses corner
+  /// brackets.
+  final quoted = RegExp(r'["“„「]([^"”」]+)["”」]');
 
   const pairs = {
     'settings_storage_resetDialog_confirmWord':
