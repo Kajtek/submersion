@@ -130,13 +130,16 @@ TRANSLATION_LANGUAGES = [
     "zh",
 ]
 
-# Names for the seas Wikidata has no label for in a language, so that a
-# language the app is translated into names every sea. A Wikidata label wins
-# once there is one: these only fill the gaps.
+# Names written by hand, for a sea Wikidata has no label for in a language
+# the app is translated into, or whose label is not the name that language
+# uses (Polish Wikidata calls the North Pacific "północna część Oceanu
+# Spokojnego", a description, where Polish says "Północny Pacyfik"). A name
+# here replaces the Wikidata label.
 HAND_WRITTEN_NAMES = {
     "Coastal Waters of Southeast Alaska and British Columbia": {
         "pl": "Wody przybrzeżne południowo-wschodniej Alaski i Kolumbii Brytyjskiej",
     },
+    "North Pacific Ocean": {"pl": "Północny Pacyfik"},
     "South Atlantic Ocean": {"pl": "Południowy Atlantyk"},
     "South Pacific Ocean": {"pl": "Południowy Pacyfik"},
 }
@@ -451,8 +454,8 @@ def build(
             logger.warning("Dropped empty feature: %s", feature["properties"])
             continue
         localized = {
-            **HAND_WRITTEN_NAMES.get(area["name"], {}),
             **translations.get(area["name"], {}),
+            **HAND_WRITTEN_NAMES.get(area["name"], {}),
         }
         if localized:
             area["names"] = dict(sorted(localized.items()))

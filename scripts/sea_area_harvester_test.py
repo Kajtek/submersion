@@ -235,6 +235,20 @@ class TranslationTest(unittest.TestCase):
             {"de": "Südatlantik", "pl": "Południowy Atlantyk"},
         )
 
+    def test_a_hand_written_name_replaces_a_wikidata_label(self):
+        output = sea_area_harvester.build(
+            {
+                "features": [
+                    {
+                        "properties": {"name": "North Pacific Ocean"},
+                        "geometry": _polygon(_square(0, 0, 10)),
+                    }
+                ]
+            },
+            {"North Pacific Ocean": {"pl": "północna część Oceanu Spokojnego"}},
+        )
+        self.assertEqual(output["areas"][0]["names"], {"pl": "Północny Pacyfik"})
+
     def test_english_is_not_fetched_because_the_name_is_the_fallback(self):
         self.assertNotIn("en", sea_area_harvester.TRANSLATION_LANGUAGES)
 
