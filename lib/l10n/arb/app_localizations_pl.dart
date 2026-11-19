@@ -828,7 +828,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String plannerMission_issue_scooterUnspecified(String name) {
-    return 'Skuter nurka $name wymaga podania prędkości i czasu pracy';
+    return '$name: skuter wymaga podania prędkości i czasu pracy';
   }
 
   @override
@@ -7730,7 +7730,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_ccr_diluent_air => 'Powietrze';
 
   @override
-  String get diveLog_ccr_hint_loopVolume => 'np. 6.0';
+  String get diveLog_ccr_hint_loopVolume => 'np. 6,0';
 
   @override
   String get diveLog_ccr_hint_type => 'np. Sofnolime';
@@ -10184,7 +10184,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String recordEdit_hiddenCard(String card) {
-    return '$card, ukryta';
+    return '$card, karta ukryta';
   }
 
   @override
@@ -11172,7 +11172,7 @@ class AppLocalizationsPl extends AppLocalizations {
   }
 
   @override
-  String get diveLog_scr_hint_additionRatio => 'np. 0.33 (1:3)';
+  String get diveLog_scr_hint_additionRatio => 'np. 0,33 (1:3)';
 
   @override
   String get diveLog_scr_label_additionRatio => 'Współczynnik dozowania';
@@ -13917,7 +13917,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveSites_summary_section_countriesRegions => 'Kraje i regiony';
 
   @override
-  String get diveSites_summary_section_mostDived => 'Najczęściej nurkowane';
+  String get diveSites_summary_section_mostDived => 'Najczęściej odwiedzane';
 
   @override
   String get diveSites_summary_section_overview => 'Przegląd';
@@ -13947,7 +13947,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveSites_summary_stat_notDived => 'Bez nurkowań';
 
   @override
-  String get diveSites_summary_section_recentlyDived => 'Ostatnio nurkowane';
+  String get diveSites_summary_section_recentlyDived => 'Ostatnio odwiedzane';
 
   @override
   String diveSites_summary_tile_lastDived(Object date) {
@@ -17379,7 +17379,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String equipment_detail_showEquipmentWith(String name) {
-    return 'Pokaż sprzęt: $name';
+    return 'Pokaż sprzęt z tagiem: $name';
   }
 
   @override
@@ -18497,7 +18497,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get equipment_serviceKinds_defaultCostHint =>
-      'Zostaw puste, aby nie ustawiać domyślnej';
+      'Zostaw puste, aby nie ustawiać wartości domyślnej';
 
   @override
   String get equipment_scheduleDialog_defaultCostLabel =>
@@ -25577,7 +25577,7 @@ class AppLocalizationsPl extends AppLocalizations {
     String deviceName,
     String date,
   ) {
-    return 'Biblioteka została zastąpiona z kopii zapasowej na urządzeniu \"$deviceName\" ($date). Przyjęcie zastąpi dane tego urządzenia przywróconą biblioteką. Najpierw zostanie utworzona bezpieczna kopia zapasowa obecnych danych tego urządzenia.';
+    return 'Biblioteka została zastąpiona z kopii zapasowej na urządzeniu „$deviceName” ($date). Przyjęcie zastąpi dane tego urządzenia przywróconą biblioteką. Najpierw zostanie utworzona kopia bezpieczeństwa obecnych danych tego urządzenia.';
   }
 
   @override
@@ -25784,7 +25784,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String settings_cloudSync_peerRequiresUpdate_bannerNamed(Object deviceList) {
-    return '$deviceList synchronizuje z nowszej wersji Submersion, więc najnowsze zmiany stamtąd są na razie wstrzymane.';
+    return '$deviceList synchronizuje dane z nowszej wersji Submersion, więc najnowsze zmiany z tego urządzenia są na razie wstrzymane.';
   }
 
   @override
@@ -34465,7 +34465,7 @@ class AppLocalizationsPl extends AppLocalizations {
     String dives,
     String total,
   ) {
-    return 'W ostatnich 12 miesiącach $dives z $total twoich nurkowań odbyło się z partnerem: $buddyName';
+    return 'Partner $buddyName: $dives z $total twoich nurkowań w ostatnich 12 miesiącach';
   }
 
   @override
@@ -35481,7 +35481,7 @@ class AppLocalizationsPl extends AppLocalizations {
       one: '1 nurkowania',
       zero: '0 nurkowań',
     );
-    return 'Te tagi zostaną usunięte łącznie z $_temp0. Tej operacji nie można cofnąć.';
+    return 'Te tagi zostaną usunięte z $_temp0 łącznie. Tej operacji nie można cofnąć.';
   }
 
   @override
@@ -35494,7 +35494,7 @@ class AppLocalizationsPl extends AppLocalizations {
       few: '$siteCount miejsc',
       one: '1 miejsca',
     );
-    return 'Te tagi zostaną usunięte łącznie z $_temp0. Tej operacji nie można cofnąć.';
+    return 'Te tagi zostaną usunięte z $_temp0 łącznie. Tej operacji nie można cofnąć.';
   }
 
   @override
@@ -35507,7 +35507,7 @@ class AppLocalizationsPl extends AppLocalizations {
       few: '$equipmentCount elementów sprzętu',
       one: '1 elementu sprzętu',
     );
-    return 'Te tagi zostaną usunięte łącznie z $_temp0. Tej operacji nie można cofnąć.';
+    return 'Te tagi zostaną usunięte z $_temp0 łącznie. Tej operacji nie można cofnąć.';
   }
 
   @override
@@ -38938,7 +38938,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveComputer_autoDownload_disableSubtitle =>
-      'Wyłącza ten komputer z pasywnego skanowania automatycznego łączenia, nawet gdy ten przełącznik jest włączony.';
+      'Pomija ten komputer podczas pasywnego skanowania na potrzeby automatycznego łączenia, nawet gdy tamten przełącznik jest włączony.';
 
   @override
   String get diveComputer_autoDownload_disableTitle =>
@@ -40356,7 +40356,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get tankPresets_defaultSettings_description =>
-      'Preset oznaczony gwiazdką jest używany jako domyślna butla przy logowaniu nowych nurkowań.';
+      'Preset oznaczony gwiazdką jest używany jako domyślna butla przy zapisywaniu nowych nurkowań.';
 
   @override
   String tankPresets_deleteDefaultMessage(String name) {
@@ -41854,7 +41854,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get sharedItems_shareDialog_siteBody =>
-      'Wybrane profile widzą to miejsce i mogą logować w nim własne nurkowania. Tylko ty możesz je usunąć lub zmienić, komu jest udostępnione.';
+      'Wybrane profile widzą to miejsce i mogą zapisywać w nim własne nurkowania. Tylko ty możesz je usunąć lub zmienić, komu jest udostępnione.';
 
   @override
   String get sharedItems_shareDialog_title => 'Komu udostępnić';
@@ -42037,7 +42037,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get divers_edit_priorExperienceHelp =>
-      'Nurkowania i czas sprzed rozpoczęcia logowania w Submersion.';
+      'Nurkowania i czas sprzed rozpoczęcia zapisywania nurkowań w Submersion.';
 
   @override
   String get divers_edit_priorDivesLabel => 'Wcześniejsze nurkowania';
@@ -42063,7 +42063,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String insights_priorBreakdown(String logged, String prior) {
-    return '$logged zalogowanych + $prior wcześniejszych';
+    return '$logged zapisanych + $prior wcześniejszych';
   }
 
   @override
@@ -42302,7 +42302,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String tools_weight_basedOnDives(int count) {
-    return 'Na podstawie zalogowanych nurkowań: $count';
+    return 'Na podstawie zapisanych nurkowań: $count';
   }
 
   @override
@@ -44795,7 +44795,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveLog_planned_bannerBody =>
-      'Oczekuje na dane z komputera nurkowego. Oznacz je jako zalogowane, jeśli nurkowanie odbyło się bez komputera.';
+      'Oczekuje na dane z komputera nurkowego. Oznacz je jako odbyte, jeśli nurkowanie odbyło się bez komputera.';
 
   @override
   String get diveLog_planned_openInPlanner => 'Otwórz w planerze';
@@ -44804,14 +44804,14 @@ class AppLocalizationsPl extends AppLocalizations {
   String get diveLog_detail_menu_viewInPlanner => 'Pokaż w planerze';
 
   @override
-  String get diveLog_detail_menu_markLogged => 'Oznacz jako zalogowane';
+  String get diveLog_detail_menu_markLogged => 'Oznacz jako odbyte';
 
   @override
-  String get diveLog_planned_markedLogged => 'Oznaczono jako zalogowane';
+  String get diveLog_planned_markedLogged => 'Oznaczono jako odbyte';
 
   @override
   String get diveLog_planned_markLoggedFailed =>
-      'Nie udało się oznaczyć nurkowania jako zalogowanego.';
+      'Nie udało się oznaczyć nurkowania jako odbytego.';
 
   @override
   String get diveLog_mirror_dialogTitle =>
@@ -44819,7 +44819,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get diveLog_mirror_dialogBody =>
-      'Ci partnerzy mają profile na tym urządzeniu. Nurkowanie zostanie dodane do ich logbooków jako planowane, dopóki nie uzupełnią go dane z ich własnych komputerów nurkowych.';
+      'Ci partnerzy mają profile na tym urządzeniu. Nurkowanie zostanie dodane do ich logbooków i pozostanie planowane, dopóki nie uzupełnią go dane z ich własnych komputerów nurkowych.';
 
   @override
   String get diveLog_mirror_log => 'Zapisz';
@@ -54812,13 +54812,13 @@ class AppLocalizationsPl extends AppLocalizations {
       count,
       locale: localeName,
       other:
-          '$count pozostałości po zastąpionej lub wycofanej bibliotece, zajmuje $size.',
+          '$count pozostałości po zastąpionej lub wycofanej bibliotece zajmuje $size.',
       many:
-          '$count pozostałości po zastąpionej lub wycofanej bibliotece, zajmuje $size.',
+          '$count pozostałości po zastąpionej lub wycofanej bibliotece zajmuje $size.',
       few:
-          '$count pozostałości po zastąpionej lub wycofanej bibliotece, zajmują $size.',
+          '$count pozostałości po zastąpionej lub wycofanej bibliotece zajmują $size.',
       one:
-          '1 pozostałość po zastąpionej lub wycofanej bibliotece, zajmuje $size.',
+          '1 pozostałość po zastąpionej lub wycofanej bibliotece zajmuje $size.',
     );
     return '$_temp0';
   }
@@ -58017,7 +58017,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_media_tagBadgesSubtitle =>
-      'Małe ikony na zdjęciach z oznaczonymi osobami, oznaczonymi gatunkami lub czasem w nurkowaniu.';
+      'Małe ikony na zdjęciach z oznaczonymi osobami, oznaczonymi gatunkami lub z ustawionym czasem w nurkowaniu.';
 
   @override
   String get settings_media_autoColorCorrection =>
@@ -63617,7 +63617,7 @@ class AppLocalizationsPl extends AppLocalizations {
       few: '$count elementów multimedialnych',
       one: '1 elementu multimedialnego',
     );
-    return 'Te tagi zostaną usunięte łącznie z $_temp0. Tej operacji nie można cofnąć.';
+    return 'Te tagi zostaną usunięte z $_temp0 łącznie. Tej operacji nie można cofnąć.';
   }
 
   @override
@@ -63630,7 +63630,7 @@ class AppLocalizationsPl extends AppLocalizations {
       few: '$count dokumentów',
       one: '1 dokumentu',
     );
-    return 'Te tagi zostaną usunięte łącznie z $_temp0. Tej operacji nie można cofnąć.';
+    return 'Te tagi zostaną usunięte z $_temp0 łącznie. Tej operacji nie można cofnąć.';
   }
 
   @override
@@ -65121,7 +65121,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get twinSet_none => 'Nie należy do twinsetu';
 
   @override
-  String get twinSet_link => 'Połącz z drugą butlą w twinset';
+  String get twinSet_link => 'Połącz w twinset z drugą butlą';
 
   @override
   String twinSet_since(String date) {
@@ -65832,7 +65832,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_term_thirds_body =>
-      'Plan gazowy, w którym jedną trzecią zużywa się w drodze do celu, jedną trzecią w drodze powrotnej, a jedną trzecią zostawia w rezerwie. Uczy się jej na szkoleniach jaskiniowych i w przestrzeniach zamkniętych.';
+      'Plan gazowy, w którym jedną trzecią zużywa się w drodze do celu, jedną trzecią w drodze powrotnej, a jedną trzecią zostawia w rezerwie. Tej zasady uczy się na szkoleniach jaskiniowych i innych szkoleniach z nurkowania w przestrzeniach zamkniętych.';
 
   @override
   String get info_term_airBreaks_label => 'Przerwy powietrzne';
@@ -66172,7 +66172,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get info_term_cylinderRole_body =>
-      'Do czego butla służyła w nurkowaniu: gaz denny, stage, deko, pony lub bailout. Według niej grupowane jest zużycie.';
+      'Do czego butla służyła w nurkowaniu: gaz denny, stage, deko, pony lub bailout. Zużycie jest grupowane według tej roli.';
 
   @override
   String get info_term_colourBy_label => 'Koloruj według';
