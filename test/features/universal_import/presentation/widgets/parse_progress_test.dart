@@ -54,7 +54,7 @@ Future<_RecordingNotifier> _pump(
       container: container,
       child: MaterialApp(
         // flutter_test forwards the host machine's locale list rather than a
-        // fixed en_US, and the app ships 11 locales.
+        // fixed en_US, and the app ships many locales.
         locale: const Locale('en'),
         localizationsDelegates: AppLocalizations.localizationsDelegates,
         supportedLocales: AppLocalizations.supportedLocales,

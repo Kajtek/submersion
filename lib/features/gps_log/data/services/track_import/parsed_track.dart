@@ -50,7 +50,7 @@ bool hasExplicitZone(String text) =>
 ///
 /// The parsers throw with an English [TrackParseException.message] naming the
 /// offending element, row, or value. That detail belongs in the log, not in a
-/// SnackBar it would be shipped to eleven locales untranslated - so each throw
+/// SnackBar it would be shipped untranslated to every locale - so each throw
 /// also carries one of these, and the UI localizes the reason.
 enum TrackParseReason {
   /// The extension is not one this app reads.

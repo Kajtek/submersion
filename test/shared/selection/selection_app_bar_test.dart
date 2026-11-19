@@ -32,7 +32,7 @@ void main() {
     );
     return testApp(
       // Pinned: these assertions read English UI strings, and the app ships
-      // 11 locales, so platform-locale resolution would make them
+      // many locales, so platform-locale resolution would make them
       // environment-dependent.
       locale: const Locale('en'),
       child: shell == SelectionBarShell.appBar

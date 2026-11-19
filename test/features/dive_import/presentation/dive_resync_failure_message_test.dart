@@ -21,7 +21,7 @@ void main() {
 
   test('the sentences are translated, not English inside a wrapper', () {
     // The reasons used to be English strings built in the service layer and
-    // interpolated into the translated sentence, so ten of eleven locales
+    // interpolated into the translated sentence, so every locale but English
     // showed a half-translated message.
     final de = AppLocalizationsDe();
 
