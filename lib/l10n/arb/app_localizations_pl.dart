@@ -1581,7 +1581,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get equipment_color_sheetTitle => 'Wybierz kolor';
 
   @override
-  String get equipment_setEdit_bundleTitle => 'Zestaw';
+  String get equipment_setEdit_bundleTitle => 'Pakiet';
 
   @override
   String get equipment_setEdit_geofencesTitle => 'Geostrefy';
@@ -3493,7 +3493,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get buddies_action_lendGear => 'Pożycz sprzęt';
 
   @override
-  String get buddies_editCard_gear => 'Pożyczony sprzęt';
+  String get buddies_editCard_gear => 'Wypożyczony sprzęt';
 
   @override
   String buddies_gear_title(String name) {
@@ -23097,7 +23097,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String plannerCanvas_gas_problemSolvingReading(String reading) {
-    return 'rozwiązanie problemu: $reading';
+    return 'na rozwiązanie problemu: $reading';
   }
 
   @override
@@ -23117,7 +23117,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String plannerCanvas_issue_minGas(String remaining, String minimum) {
-    return 'Opuszcza dno z $remaining, poniżej minimum rock bottom $minimum: brak zapasu gazu na czas rozwiązania problemu';
+    return 'Opuszcza dno z $remaining, poniżej minimum Rock Bottom $minimum: brak zapasu gazu na rozwiązanie problemu';
   }
 
   @override
@@ -29867,7 +29867,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String settings_speciesId_levelFallback(String chosen, String inForce) {
-    return 'Poziomu $chosen nie ma w tej wersji modelu, więc aplikacja używa poziomu $inForce, dopóki aktualizacja nie doda poziomu $chosen. Wybierz $inForce, aby przy nim zostać.';
+    return 'Poziomu „$chosen” nie ma w tej wersji modelu, więc aplikacja używa poziomu „$inForce”, dopóki aktualizacja nie doda poziomu „$chosen”. Wybierz „$inForce”, aby przy nim zostać.';
   }
 
   @override
@@ -33755,7 +33755,7 @@ class AppLocalizationsPl extends AppLocalizations {
     String level,
     String date,
   ) {
-    return '$level wynurzania, osiągnięte $date';
+    return '$level wynurzania, osiągnięto $date';
   }
 
   @override
@@ -33763,7 +33763,7 @@ class AppLocalizationsPl extends AppLocalizations {
     String level,
     String date,
   ) {
-    return '$level zanurzania, osiągnięte $date';
+    return '$level zanurzania, osiągnięto $date';
   }
 
   @override
@@ -33771,7 +33771,7 @@ class AppLocalizationsPl extends AppLocalizations {
     String landmark,
     String date,
   ) {
-    return '$landmark: osiągnięte $date';
+    return '$landmark: osiągnięto $date';
   }
 
   @override
@@ -33794,10 +33794,13 @@ class AppLocalizationsPl extends AppLocalizations {
       total,
       locale: localeName,
       other:
-          '$estimated z $total nurkowania policzono z głębokości maksymalnej',
-      many: '$estimated z $total nurkowań policzono z głębokości maksymalnej',
-      few: '$estimated z $total nurkowań policzono z głębokości maksymalnej',
-      one: '$estimated z $total nurkowania policzono z głębokości maksymalnej',
+          '$estimated z $total nurkowania policzono na podstawie głębokości maksymalnej',
+      many:
+          '$estimated z $total nurkowań policzono na podstawie głębokości maksymalnej',
+      few:
+          '$estimated z $total nurkowań policzono na podstawie głębokości maksymalnej',
+      one:
+          '$estimated z $total nurkowania policzono na podstawie głębokości maksymalnej',
     );
     return '$_temp0';
   }
@@ -33881,7 +33884,7 @@ class AppLocalizationsPl extends AppLocalizations {
       'Limit nurkowania rekreacyjnego';
 
   @override
-  String get insights_landmark_greatBlueHole => 'Wielka Błękitna Dziura';
+  String get insights_landmark_greatBlueHole => 'Great Blue Hole';
 
   @override
   String get insights_landmark_deansBlueHole => 'Dean\'s Blue Hole';
@@ -33922,7 +33925,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get insights_landmark_deepestShipwreck => 'Najgłębszy wrak';
 
   @override
-  String get insights_landmark_javaTrench => 'Rów Jawajski';
+  String get insights_landmark_javaTrench => 'Rów Sundajski';
 
   @override
   String get insights_landmark_southSandwichTrench =>
@@ -33938,7 +33941,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get insights_landmark_challengerDeep => 'Głębia Challengera';
 
   @override
-  String get insights_landmark_kolaBorehole => 'Kolski Supergłęboki Odwiert';
+  String get insights_landmark_kolaBorehole => 'Supergłęboki Odwiert Kolski';
 
   @override
   String get insights_profile_avgAscent => 'Śr. wynurzanie';
@@ -54661,7 +54664,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String get settings_decompression_header_plannerRebreather_subtitle =>
-      'Przepływ w półzamkniętym obiegu, od którego zaczyna nowy plan SCR lub pSCR. Zmiana w planie obowiązuje tylko w nim i nie zmienia tej wartości domyślnej.';
+      'Przepływ w obiegu półzamkniętym, od którego zaczyna się nowy plan SCR lub pSCR. Zmiana w planie obowiązuje tylko w nim i nie zmienia tej wartości domyślnej.';
 
   @override
   String get settings_decompression_rates_finalAscent =>
@@ -57554,7 +57557,7 @@ class AppLocalizationsPl extends AppLocalizations {
 
   @override
   String media_species_unconfirmedLabel(String name) {
-    return '$name, oznaczone przez aplikację, jeszcze niepotwierdzone';
+    return '$name – tag dodany przez aplikację, jeszcze niepotwierdzony';
   }
 
   @override
@@ -57704,7 +57707,7 @@ class AppLocalizationsPl extends AppLocalizations {
       few:
           '$count zdjęć i filmów nie ma na tym urządzeniu. Wyszukiwanie gatunków je pobierze.',
       one:
-          '1 zdjęcia lub filmu nie ma na tym urządzeniu. Wyszukiwanie gatunków je pobierze.',
+          '1 zdjęcia lub filmu nie ma na tym urządzeniu. Wyszukiwanie gatunków pobierze ten plik.',
     );
     return '$_temp0';
   }
@@ -65010,7 +65013,7 @@ class AppLocalizationsPl extends AppLocalizations {
   String get changeLog_table_diverSettings => 'Ustawienia nurka';
 
   @override
-  String get changeLog_table_safetyFinding => 'Uwaga dotycząca bezpieczeństwa';
+  String get changeLog_table_safetyFinding => 'Wynik przeglądu bezpieczeństwa';
 
   @override
   String get changeLog_table_pressureSeries => 'Odczyty ciśnienia';
