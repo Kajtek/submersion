@@ -30,7 +30,7 @@ void main() {
 
   /// Characters after which a new sentence (or a plural branch, or a quoted
   /// phrase) begins, so a capital there says nothing about the register.
-  const sentenceStarts = {'.', '!', '?', ':', '\n', '{', '"'};
+  const sentenceStarts = {'.', '!', '?', ':', '\n', '{', '"', '„', '“'};
 
   bool atSentenceStart(String value, int index) {
     final before = value.substring(0, index).trimRight();
