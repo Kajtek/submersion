@@ -21,6 +21,7 @@ abstract final class PlaceNameLanguage {
     'nl',
     'pt',
     'hu',
+    'pl',
     'ar',
     'he',
     'zh',

@@ -100,6 +100,8 @@ void main() {
     expect(find.text('System Default'), findsOneWidget);
     expect(find.text('Deutsch'), findsOneWidget);
     expect(find.text('German'), findsOneWidget);
+    expect(find.text('Polski'), findsOneWidget);
+    expect(find.text('Polish'), findsOneWidget);
   });
 
   testWidgets('marks only the current language as selected', (tester) async {

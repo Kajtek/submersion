@@ -79,7 +79,7 @@ Widget _wrap(Widget child) {
     overrides: [settingsProvider.overrideWith((ref) => MockSettingsNotifier())],
     child: MaterialApp(
       // Pinned: flutter_test forwards the HOST machine's locale list rather
-      // than a fixed en_US, and this app supports 11 locales, so an unpinned
+      // than a fixed en_US, and this app supports many locales, so an unpinned
       // MaterialApp renders a translated UI on a non-English machine and
       // every English assertion below finds nothing. CI stays green because
       // its runners are en_US, so this would fail only for a contributor.

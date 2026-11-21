@@ -9,7 +9,7 @@ import 'package:submersion/l10n/arb/app_localizations.dart';
 
 void main() {
   group('AppLocalizations delegate', () {
-    test('loads all 11 supported locales without error', () async {
+    test('loads all 12 supported locales without error', () async {
       for (final locale in AppLocalizations.supportedLocales) {
         final l10n = await AppLocalizations.delegate.load(locale);
         expect(l10n, isNotNull);
@@ -17,8 +17,8 @@ void main() {
       }
     });
 
-    test('supports exactly 11 locales', () {
-      expect(AppLocalizations.supportedLocales.length, 11);
+    test('supports exactly 12 locales', () {
+      expect(AppLocalizations.supportedLocales.length, 12);
       final codes = AppLocalizations.supportedLocales
           .map((l) => l.languageCode)
           .toSet();
@@ -36,6 +36,7 @@ void main() {
           'he',
           'hu',
           'zh',
+          'pl',
         ]),
       );
     });
@@ -80,6 +81,7 @@ void main() {
       'he',
       'hu',
       'zh',
+      'pl',
     ]) {
       test('$code has translated common_action_save', () async {
         final l10n = await AppLocalizations.delegate.load(Locale(code));
@@ -264,6 +266,7 @@ void main() {
       'he',
       'hu',
       'zh',
+      'pl',
     ]) {
       test('$code has all dropTarget_ strings', () async {
         final l10n = await AppLocalizations.delegate.load(Locale(code));

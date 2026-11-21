@@ -30,7 +30,16 @@ void main() {
     });
 
     test('reads a plain integer under every supported locale', () {
-      for (final locale in ['en_US', 'fr', 'de', 'es', 'it', 'nl', 'pt']) {
+      for (final locale in [
+        'en_US',
+        'fr',
+        'de',
+        'es',
+        'it',
+        'nl',
+        'pt',
+        'pl',
+      ]) {
         Intl.defaultLocale = locale;
         expect(parseUserDecimal('1250'), 1250.0, reason: 'locale $locale');
       }
@@ -86,7 +95,16 @@ void main() {
 
   group('parseUserInt', () {
     test('reads a plain integer under every supported locale', () {
-      for (final locale in ['en_US', 'fr', 'de', 'es', 'it', 'nl', 'pt']) {
+      for (final locale in [
+        'en_US',
+        'fr',
+        'de',
+        'es',
+        'it',
+        'nl',
+        'pt',
+        'pl',
+      ]) {
         Intl.defaultLocale = locale;
         expect(parseUserInt('1250'), 1250, reason: 'locale $locale');
       }
@@ -252,7 +270,7 @@ void main() {
     });
 
     test('round trips back through parseUserDecimal', () {
-      for (final locale in ['en_US', 'fr', 'de', 'es']) {
+      for (final locale in ['en_US', 'fr', 'de', 'es', 'pl']) {
         Intl.defaultLocale = locale;
         expect(
           parseUserDecimal(formatFixedForInput(12.5, 1)),
@@ -300,6 +318,7 @@ void main() {
         'pt',
         'zh',
         'hu',
+        'pl',
         'ar',
         'he',
       ];

@@ -10,7 +10,14 @@ void main() {
         expect(countryCodeFor(text), code, reason: 'for "$text"');
 
     test('resolves names in any place-name language, folded', () {
-      for (final text in ['Mexico', '  méxico ', 'MEXIQUE', 'Messico', '墨西哥']) {
+      for (final text in [
+        'Mexico',
+        '  méxico ',
+        'MEXIQUE',
+        'Messico',
+        'Meksyk',
+        '墨西哥',
+      ]) {
         expectCode(text, 'MX');
       }
     });
@@ -44,6 +51,26 @@ void main() {
       expectCode('U.S.A.', 'US');
       expectCode('Czech Republic', 'CZ');
       expectCode('Turks and Caicos', 'TC');
+    });
+
+    test('resolves the short names Polish divers write', () {
+      expectCode('Mjanma', 'MM');
+      expectCode('Birma', 'MM');
+      expectCode('Niderlandy', 'NL');
+      expectCode('RPA', 'ZA');
+      expectCode('ZEA', 'AE');
+      expectCode('Wyspy Zielonego Przylądka', 'CV');
+      expectCode('Republika Dominikańska', 'DO');
+      for (final text in [
+        'Zjednoczone Królestwo',
+        'Anglia',
+        'Szkocja',
+        'Walia',
+        'Irlandia Północna',
+      ]) {
+        expectCode(text, 'GB');
+      }
+      expectCode('Stany Zjednoczone Ameryki', 'US');
     });
 
     test('reads "and" for "&", drops a leading "The", collapses spaces', () {
@@ -80,6 +107,7 @@ void main() {
       // "Congo" is as often the Democratic Republic as the Republic: no
       // flag beats the wrong one.
       expectCode('Congo', null);
+      expectCode('Kongo', null);
       expectCode('DR Congo', 'CD');
       expectCode('Congo - Brazzaville', 'CG');
     });
@@ -293,7 +321,7 @@ void main() {
       for (final query in ['Thailand', 'Thaïlande', 'tailandia', 'ประเทศไทย']) {
         expect(countryCodesMatching(query), contains('TH'), reason: query);
       }
-      for (final query in ['Egypt', 'Égypte', 'Ägypten']) {
+      for (final query in ['Egypt', 'Égypte', 'Ägypten', 'Egipt']) {
         expect(countryCodesMatching(query), contains('EG'), reason: query);
       }
     });

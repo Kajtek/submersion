@@ -192,7 +192,7 @@ Widget _buildWidget({
       theme: theme,
       // Pinned because every assertion below matches an English literal.
       // flutter_test forwards the HOST machine's locale list rather than a
-      // fixed en_US, and this app supports eleven locales, so on a developer
+      // fixed en_US, and this app supports many locales, so on a developer
       // machine set to one of them an unpinned MaterialApp renders the
       // translation and every find.textContaining fails. CI is en_US, so that
       // breaks only for the contributor.

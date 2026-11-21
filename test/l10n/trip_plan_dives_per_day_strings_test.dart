@@ -22,6 +22,7 @@ void main() {
     'it': ('1 immersione/giorno', '3 immersioni/giorno'),
     'nl': ('1 duik/dag', '3 duiken/dag'),
     'pt': ('1 mergulho/dia', '3 mergulhos/dia'),
+    'pl': ('1 nurkowanie/dzień', '3 nurkowania/dzień'),
     'zh': ('每天 1 次潜水', '每天 3 次潜水'),
   };
 

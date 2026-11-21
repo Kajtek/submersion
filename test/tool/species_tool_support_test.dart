@@ -138,6 +138,7 @@ void main() {
     // Simplified (zh-CN) is preferred over the traditional zh entry.
     expect(names['zh'], '白斑狗鱼');
     expect(names['pt'], 'Lúcio');
+    expect(names['pl'], 'Szczupak');
     // Absent locale: the taxon's English name, not the seed fallback.
     expect(names['ar'], 'Northern Pike');
     expect(names.keys.toSet(), appLocales.toSet());

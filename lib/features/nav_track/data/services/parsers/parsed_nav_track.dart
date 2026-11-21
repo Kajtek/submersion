@@ -23,7 +23,7 @@ class ParsedNavTrack {
 ///
 /// The parsers throw with an English [NavTrackParseException.message]
 /// naming the offending row or value, for the log and for tests. That
-/// detail is not fit for a SnackBar shipped to eleven locales untranslated,
+/// detail is not fit for a SnackBar shipped untranslated to every locale,
 /// so each throw also carries one of these, and the UI localises the
 /// reason. Mirrors `TrackParseReason` in the GPS logger.
 enum NavTrackParseReason {

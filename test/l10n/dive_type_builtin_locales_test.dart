@@ -23,6 +23,7 @@ void main() {
     'nl',
     'pt',
     'hu',
+    'pl',
     'zh',
     'ar',
     'he',

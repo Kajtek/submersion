@@ -98,7 +98,7 @@ void main() {
         child: MaterialApp.router(
           routerConfig: router,
           // Pinned: an unpinned MaterialApp resolves against the HOST
-          // machine's locale list, and this app ships 11 locales, so the
+          // machine's locale list, and this app ships many locales, so the
           // English literals below would vanish for a contributor whose
           // primary locale is one of them.
           locale: const Locale('en'),

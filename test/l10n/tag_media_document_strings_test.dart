@@ -17,6 +17,7 @@ void main() {
     'hu': 'médi',
     'it': 'media',
     'nl': 'media',
+    'pl': 'multimedi',
     'pt': 'mídia',
     'zh': '媒体',
   };
@@ -31,6 +32,7 @@ void main() {
     'hu': 'dokument',
     'it': 'document',
     'nl': 'document',
+    'pl': 'dokument',
     'pt': 'documento',
     'zh': '文档',
   };
@@ -95,6 +97,7 @@ void main() {
       'hu': 'felszerel',
       'it': 'attrezzatur',
       'nl': 'uitrust',
+      'pl': 'sprzęt',
       'pt': 'equipament',
       'zh': '装备',
     };

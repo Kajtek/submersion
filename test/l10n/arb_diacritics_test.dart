@@ -29,6 +29,9 @@ import 'package:flutter_test/flutter_test.dart';
 /// `visités`, `fermé`) and the `a`/`à`, `ou`/`où` and Dutch `een`/`één` fixes
 /// are real words when unaccented, so only review can catch them regressing.
 ///
+/// Polish is listed as it was first written, so it keeps its diacritics
+/// from the start: each entry is an ASCII spelling that is no Polish word.
+///
 /// Arabic, Hebrew and Chinese are not listed: modern Arabic and Hebrew
 /// normally omit their diacritics, and that is correct.
 const _forbiddenSpellings = <String, Map<String, String>>{
@@ -424,6 +427,38 @@ const _forbiddenSpellings = <String, Map<String, String>>{
     'Verknuepfen': 'Verknüpfen',
     'Wochentlich': 'Wöchentlich',
     'zugefugt': 'zugefügt',
+  },
+  // Polish
+  'pl': <String, String>{
+    'blad': 'błąd',
+    'bledu': 'błędu',
+    'cisnienia': 'ciśnienia',
+    'cisnienie': 'ciśnienie',
+    'dzien': 'dzień',
+    'glebokosc': 'głębokość',
+    'glebokosci': 'głębokości',
+    'jesli': 'jeśli',
+    'moze': 'może',
+    'mozesz': 'możesz',
+    'polaczenie': 'połączenie',
+    'Pomin': 'Pomiń',
+    'Ponow': 'Ponów',
+    'predkosc': 'prędkość',
+    'sprzet': 'sprzęt',
+    'sprzetu': 'sprzętu',
+    'urzadzenia': 'urządzenia',
+    'urzadzenie': 'urządzenie',
+    'ustawien': 'ustawień',
+    'Usun': 'Usuń',
+    'wejscie': 'wejście',
+    'wiecej': 'więcej',
+    'Wroc': 'Wróć',
+    'wyjscie': 'wyjście',
+    'Wyswietl': 'Wyświetl',
+    'zdjecia': 'zdjęcia',
+    'zdjecie': 'zdjęcie',
+    'zrodla': 'źródła',
+    'zrodlo': 'źródło',
   },
 };
 

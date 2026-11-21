@@ -172,7 +172,7 @@ void main() {
 
       await service.applyFirstRun(
         draft,
-        deviceLanguageCodes: const ['pl', 'de'],
+        deviceLanguageCodes: const ['sv', 'de'],
       );
 
       expect(await storedPlaceNameLanguage(), 'de');
@@ -181,7 +181,7 @@ void main() {
     test('stays English when no device language is supported', () async {
       final service = makeContainer().read(setupApplyServiceProvider);
 
-      await service.applyFirstRun(draft, deviceLanguageCodes: const ['pl']);
+      await service.applyFirstRun(draft, deviceLanguageCodes: const ['sv']);
 
       expect(await storedPlaceNameLanguage(), 'en');
     });

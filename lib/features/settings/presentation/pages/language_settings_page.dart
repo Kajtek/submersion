@@ -28,6 +28,7 @@ class LanguageSettingsPage extends StatelessWidget {
       englishName: 'Portuguese',
     ),
     LocaleOption(code: 'hu', nativeName: 'Magyar', englishName: 'Hungarian'),
+    LocaleOption(code: 'pl', nativeName: 'Polski', englishName: 'Polish'),
     LocaleOption(
       code: 'ar',
       nativeName: '\u0627\u0644\u0639\u0631\u0628\u064A\u0629',

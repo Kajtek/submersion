@@ -19,7 +19,7 @@ import 'package:submersion/shared/widgets/info_sheet/info_button.dart';
 
 /// Every MaterialApp here pins `locale: Locale('en')`. flutter_test forwards
 /// the HOST machine's locale list rather than a fixed en_US, and the app ships
-/// 11 locales, so an unpinned MaterialApp renders a translated UI on a
+/// many locales, so an unpinned MaterialApp renders a translated UI on a
 /// non-English machine and every English assertion in this file misses. CI
 /// runners are en_US, so the failure would only ever show up on a
 /// contributor's machine.

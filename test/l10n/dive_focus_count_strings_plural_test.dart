@@ -83,6 +83,10 @@ void main() {
         'Apenas 1 mergulho tem este valor, por isso é mostrado',
         'Apenas 3 mergulhos têm este valor, por isso são todos mostrados',
       ),
+      'pl': (
+        'Tylko 1 nurkowanie ma tę wartość, więc jest pokazane',
+        'Tylko 3 nurkowania mają tę wartość, więc pokazano wszystkie',
+      ),
       'zh': ('只有 1 次潜水有此数值，因此显示这一次', '只有 3 次潜水有此数值，因此全部显示'),
     },
   );
@@ -102,6 +106,7 @@ void main() {
       'it': ('1 immersione su 1', '2 immersioni su 3'),
       'nl': ('1 van 1 duik', '2 van 3 duiken'),
       'pt': ('1 de 1 mergulho', '2 de 3 mergulhos'),
+      'pl': ('1 z 1 nurkowania', '2 z 3 nurkowań'),
       'zh': ('1 次中的 1 次', '3 次中的 2 次'),
     },
   );
@@ -153,6 +158,10 @@ void main() {
         '1 de 1 mergulho. Média G, contra O em todos os seus mergulhos.',
         '2 de 3 mergulhos. Média G, contra O em todos os seus mergulhos.',
       ),
+      'pl': (
+        '1 z 1 nurkowania. Średnia G, wobec O dla wszystkich twoich nurkowań.',
+        '2 z 3 nurkowań. Średnia G, wobec O dla wszystkich twoich nurkowań.',
+      ),
       'zh': ('1 次潜水中的 1 次。平均 G，全部潜水为 O。', '3 次潜水中的 2 次。平均 G，全部潜水为 O。'),
     },
   );
@@ -172,6 +181,7 @@ void main() {
       'it': ("Mostra l'immersione", 'Mostra tutte le 6 immersioni'),
       'nl': ('Toon de 1 duik', 'Toon alle 6 duiken'),
       'pt': ('Mostrar o mergulho', 'Mostrar todos os 6 mergulhos'),
+      'pl': ('Pokaż to 1 nurkowanie', 'Pokaż wszystkie 6 nurkowań'),
       'zh': ('显示这 1 次潜水', '显示全部 6 次潜水'),
     },
   );
@@ -215,6 +225,10 @@ void main() {
         'e mais 1 na comparação completa',
         'e mais 3 na comparação completa',
       ),
+      'pl': (
+        'i jeszcze 1 w pełnym porównaniu',
+        'i jeszcze 3 w pełnym porównaniu',
+      ),
       'zh': ('完整对比中还有 1 项', '完整对比中还有 3 项'),
     },
   );
@@ -234,6 +248,7 @@ void main() {
       'it': ('Mostra 1 altro fattore', 'Mostra altri 4 fattori'),
       'nl': ('Toon 1 factor meer', 'Toon 4 factoren meer'),
       'pt': ('Mostrar mais 1 fator', 'Mostrar mais 4 fatores'),
+      'pl': ('Pokaż jeszcze 1 czynnik', 'Pokaż jeszcze 4 czynniki'),
       'zh': ('显示另外 1 项因素', '显示另外 4 项因素'),
     },
   );

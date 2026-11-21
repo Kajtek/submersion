@@ -79,7 +79,7 @@ void main() {
         return null;
       };
 
-      for (final code in ['en', 'fr', 'de', 'hu', 'zh', 'ar', 'he']) {
+      for (final code in ['en', 'fr', 'de', 'hu', 'pl', 'zh', 'ar', 'he']) {
         await PdfFonts.instance.themeFor(PdfLocalization.forLanguageCode(code));
       }
 

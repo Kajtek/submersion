@@ -40,6 +40,7 @@ void main() {
     'nl': ['zeeleven', 'onderwaterleven', 'marien'],
     'pt': ['marin'],
     'hu': ['tengeri'],
+    'pl': ['morsk'],
     'ar': ['البحرية'],
     'he': ['ימי'],
     'zh': ['海洋生物'],

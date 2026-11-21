@@ -178,7 +178,7 @@ void main() {
 
   // Three segments could not hold "Default (Large)" at phone width; the
   // longest translations are the real test.
-  for (final lang in ['en', 'hu', 'de', 'fr', 'es', 'nl']) {
+  for (final lang in ['en', 'hu', 'de', 'fr', 'es', 'nl', 'pl']) {
     testWidgets('fits a 320 px phone in $lang', (tester) async {
       tester.view.physicalSize = const Size(320, 700);
       tester.view.devicePixelRatio = 1;

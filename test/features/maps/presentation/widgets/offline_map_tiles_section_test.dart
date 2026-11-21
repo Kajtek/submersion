@@ -155,7 +155,7 @@ void main() {
         ],
         child: const MaterialApp(
           // flutter_test forwards the host machine's locale list rather than a
-          // fixed en_US, and this app supports 11 locales, so an unpinned
+          // fixed en_US, and this app supports many locales, so an unpinned
           // MaterialApp renders in the contributor's own language and every
           // English assertion below misses.
           locale: Locale('en'),
@@ -268,7 +268,7 @@ void main() {
         ],
         child: const MaterialApp(
           // flutter_test forwards the host machine's locale list rather than a
-          // fixed en_US, and this app supports 11 locales, so an unpinned
+          // fixed en_US, and this app supports many locales, so an unpinned
           // MaterialApp renders in the contributor's own language and every
           // English assertion below misses.
           locale: Locale('en'),

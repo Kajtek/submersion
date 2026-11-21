@@ -9,7 +9,7 @@ and appends any missing query_error_<code> keys to lib/l10n/arb/app_en.arb.
 The English text is the engine's message, byte for byte; the ARB's English
 string is the same template, so the UI in English reads as the engine does.
 Add a row here, run the script, run flutter gen-l10n, translate the new key
-in the other ten locales.
+in the other locales.
 """
 import json
 import pathlib

@@ -6,7 +6,7 @@ import 'package:flutter_test/flutter_test.dart';
 ///
 /// This is the drift that actually happened: `equipment_list_worstClock` and
 /// `trips_serviceAlert_overdue` held the same sentence under two keys, in two
-/// features, byte-identical across all 11 locale files, with nothing keeping
+/// features, byte-identical across every locale file, with nothing keeping
 /// them in step. Retiring one key fixes today; this keeps tomorrow honest.
 ///
 /// Deliberately NOT a guard on `equipmentRollupClockProvider`. Several

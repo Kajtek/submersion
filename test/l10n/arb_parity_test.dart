@@ -4,7 +4,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 
-/// Guards the project rule that every ARB key is translated into all ten
+/// Guards the project rule that every ARB key is translated into all eleven
 /// non-English locales, not just added to the template.
 void main() {
   final dir = Directory('lib/l10n/arb');
@@ -28,8 +28,8 @@ void main() {
           .toList()
         ..sort((a, b) => a.path.compareTo(b.path));
 
-  test('all ten non-English locales are present', () {
-    expect(locales.length, 10);
+  test('all eleven non-English locales are present', () {
+    expect(locales.length, 11);
   });
 
   test('every locale defines every English key', () {

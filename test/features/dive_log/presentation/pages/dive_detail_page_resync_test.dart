@@ -281,8 +281,8 @@ void main() {
     tester,
   ) async {
     // The reason used to be an English string built in the service layer and
-    // interpolated into the translated sentence, so 10 of 11 locales showed a
-    // half-translated message.
+    // interpolated into the translated sentence, so every locale but English
+    // showed a half-translated message.
     await pumpDetail(
       tester,
       outcome: const DiveResyncOutcome.failure(

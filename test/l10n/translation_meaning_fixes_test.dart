@@ -26,6 +26,7 @@ void main() {
     'hu',
     'it',
     'nl',
+    'pl',
     'pt',
     'zh',
   ];
@@ -79,6 +80,7 @@ void main() {
         'hu': 'Merülési adatok importálása fájlból',
         'it': 'Importa dati di immersione da file',
         'nl': 'Duikgegevens importeren uit bestand',
+        'pl': 'Importuj dane nurkowań z pliku',
         'pt': 'Importar dados de mergulho de um arquivo',
         'zh': '从文件导入潜水数据',
       };

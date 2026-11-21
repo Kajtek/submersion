@@ -117,7 +117,7 @@ void main() {
 
     test('the English technical detail never reaches the message', () {
       // The whole point: e.message names an XML element or a row number and
-      // would ship untranslated to eleven locales.
+      // would ship untranslated to every locale.
       final text = trackParseErrorText(
         l10n,
         const TrackParseException(

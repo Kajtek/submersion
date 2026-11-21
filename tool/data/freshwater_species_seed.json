@@ -14,6 +14,7 @@
       "pt": "Predador alongado de focinho em bico de pato, imóvel à espreita entre as plantas das margens dos lagos.",
       "nl": "Langgerekte roofvis met een eendenbeksnuit die roerloos tussen de waterplanten langs de oever loert.",
       "hu": "Megnyúlt testű, kacsacsőrszerű orrú lesből támadó ragadozó, mozdulatlanul áll a parti hínár között.",
+      "pl": "Drapieżnik o wydłużonym ciele i kaczym pysku, polujący z zasadzki; wisi nieruchomo wśród roślinności przy brzegach jezior.",
       "zh": "身体细长、吻部像鸭嘴的伏击型掠食鱼，常一动不动地悬停在湖岸水草间。",
       "ar": "مفترس طويل الجسم بخطم يشبه منقار البط، يترصد بلا حراك بين نباتات حواف البحيرات.",
       "he": "טורף ארוך גוף עם חרטום דמוי מקור ברווז, אורב ללא תנועה בין צמחי המים בשולי האגם."
@@ -34,6 +35,7 @@
       "pt": "O maior dos lúcios, um gigante listrado ou pintado dos lagos límpidos do norte, raro de ver e inesquecível.",
       "nl": "De grootste snoek, een gestreepte of gevlekte reus van heldere noordelijke meren, zelden gezien en onvergetelijk.",
       "hu": "A legnagyobb csukafaj, a tiszta északi tavak csíkos vagy pettyes óriása, ritkán látni, de felejthetetlen.",
+      "pl": "Największy ze szczupaków, pręgowany lub plamisty olbrzym czystych północnych jezior, rzadko widywany, ale niezapomniany.",
       "zh": "最大的狗鱼，北方清澈湖泊中带条纹或斑点的巨型鱼，难得一见但令人难忘。",
       "ar": "أكبر أنواع الكراكي، عملاق مخطط أو مرقط في البحيرات الشمالية الصافية، نادر الرؤية ولا يُنسى.",
       "he": "הגדול שבזאבי המים, ענק מפוספס או מנוקד של אגמים צפוניים צלולים, נדיר לראייה ובלתי נשכח."
@@ -54,6 +56,7 @@
       "pt": "Lúcio esguio dos lagos com vegetação do leste da América do Norte, nomeado pelo padrão em cadeia dos flancos.",
       "nl": "Slanke snoek van begroeide vijvers in oostelijk Noord-Amerika, genoemd naar het kettingpatroon op zijn flanken.",
       "hu": "Karcsú csuka Észak-Amerika keleti, hínáros tavaiból, oldalán láncszerű mintázatáról kapta a nevét.",
+      "pl": "Smukły szczupak z zarośniętych stawów wschodniej Ameryki Północnej, zawdzięczający angielską nazwę łańcuszkowemu wzorowi na bokach.",
       "zh": "北美东部水草茂密池塘中的细长狗鱼，因体侧链状花纹而得名。",
       "ar": "كراكي نحيل يعيش في برك شرق أمريكا الشمالية العشبية، سُمي بذلك بسبب النمط الشبيه بالسلسلة على جانبيه.",
       "he": "זאב מים דק של בריכות עשירות בצמחייה במזרח צפון אמריקה, שנקרא על שם דוגמת השרשרת שעל צדדיו."
@@ -74,6 +77,7 @@
       "pt": "Parente da perca de tom oliva dourado com grandes olhos refletores, caça ao anoitecer sobre fundos rochosos e arenosos.",
       "nl": "Goudolijfkleurige baarsachtige met grote, lichtweerkaatsende ogen die in de schemering boven rots- en zandbodems jaagt.",
       "hu": "Aranyzöld sügérrokon nagy, fényvisszaverő szemekkel, alkonyatkor vadászik sziklás és homokos tófenék fölött.",
+      "pl": "Złocistooliwkowy krewniak okonia o dużych, odbijających światło oczach, polujący o zmierzchu nad skalistym i piaszczystym dnem jezior.",
       "zh": "金橄榄色的鲈科近亲，眼睛大而反光，黄昏时在岩石和沙质湖底上方捕食。",
       "ar": "قريب للفرخ بلون زيتوني ذهبي وعينين كبيرتين عاكستين، يصطاد عند الغسق فوق قيعان البحيرات الصخرية والرملية.",
       "he": "קרוב של הדקר בצבע זית זהוב ועיניים גדולות מחזירות אור, צד בדמדומים מעל קרקעיות סלעיות וחוליות."
@@ -94,6 +98,7 @@
       "pt": "Primo menor e mais manchado do walleye, prefere rios turvos e represas.",
       "nl": "Kleinere, vlekkerigere neef van de walleye die troebele rivieren en stuwmeren verkiest.",
       "hu": "A walleye kisebb, foltosabb rokona, zavaros folyókat és víztározókat kedvel.",
+      "pl": "Mniejszy, bardziej plamisty kuzyn sandacza amerykańskiego, preferujący mętne rzeki i zbiorniki zaporowe.",
       "zh": "大眼梭鲈体型更小、斑纹更多的近亲，偏爱浑浊的河流和水库。",
       "ar": "ابن عم أصغر وأكثر تبقعاً لسمك الوالاي، يفضل الأنهار العكرة والخزانات.",
       "he": "בן דוד קטן ומנומר יותר של הוואליי, מעדיף נהרות עכורים ומאגרים."
@@ -114,6 +119,7 @@
       "pt": "Perca dourada de cardume com barras verticais escuras, comum junto a cais e leitos de plantas na América do Norte.",
       "nl": "Goudgele scholenvormende baars met donkere dwarsbanden, algemeen bij steigers en waterplanten in Noord-Amerika.",
       "hu": "Rajokban járó aranysárga sügér sötét függőleges csíkokkal, gyakori stégek és hínárosok körül Észak-Amerikában.",
+      "pl": "Ławicowy złocisty okoń z ciemnymi pionowymi pręgami, pospolity przy pomostach i w zaroślach roślin wodnych w całej Ameryce Północnej.",
       "zh": "成群活动的金黄色鲈鱼，体侧有深色竖纹，在北美的码头和水草丛附近很常见。",
       "ar": "فرخ ذهبي يعيش في أسراب بخطوط عمودية داكنة، شائع حول الأرصفة ونباتات المياه في أمريكا الشمالية.",
       "he": "דקר זהוב החי בלהקות עם פסים אנכיים כהים, נפוץ ליד מזחים ומצעי צמחייה ברחבי צפון אמריקה."
@@ -134,6 +140,7 @@
       "pt": "Perca listrada de barbatanas espinhosas e barbatanas inferiores vermelho alaranjadas, presente em quase todos os lagos e rios lentos da Europa.",
       "nl": "Gestreepte baars met stekelige vinnen en roodoranje buikvinnen, in vrijwel elk Europees meer en elke trage rivier.",
       "hu": "Csíkos, tüskés úszójú sügér vörös-narancs alsó úszókkal, szinte minden európai tóban és lassú folyóban megtalálható.",
+      "pl": "Pręgowany okoń o kolczastych płetwach, z czerwonopomarańczowymi płetwami dolnymi, spotykany w niemal każdym europejskim jeziorze i wolno płynącej rzece.",
       "zh": "带条纹、鳍有硬棘的鲈鱼，下鳍呈红橙色，几乎遍布欧洲所有湖泊和缓流河流。",
       "ar": "فرخ مخطط بزعانف شوكية وزعانف سفلية حمراء برتقالية، يوجد في كل بحيرة ونهر بطيء تقريباً في أوروبا.",
       "he": "דקר מפוספס עם סנפירים קוצניים וסנפירים תחתונים אדומים-כתומים, מצוי כמעט בכל אגם ונהר איטי באירופה."
@@ -154,6 +161,7 @@
       "pt": "Grande predador pálido de olhos vítreos e mandíbulas com presas, patrulha lagos e rios turvos da Europa à noite.",
       "nl": "Grote, bleke roofvis met glazige ogen en hoektanden die na donker door troebele Europese meren en rivieren patrouilleert.",
       "hu": "Nagy, sápadt ragadozó üveges szemekkel és agyarszerű fogakkal, sötétedés után járja a zavaros európai tavakat és folyókat.",
+      "pl": "Duży jasny drapieżnik o szklistych oczach i szczękach z kłami, patrolujący po zmroku mętne europejskie jeziora i rzeki.",
       "zh": "体型大、颜色淡的掠食鱼，眼睛呈玻璃状，口有尖牙，夜间在欧洲浑浊的湖河中巡游。",
       "ar": "مفترس كبير شاحب اللون بعينين زجاجيتين وفكين ذوي أنياب، يجوب بحيرات وأنهار أوروبا العكرة بعد حلول الظلام.",
       "he": "טורף גדול וחיוור עם עיניים זגוגיות ולסתות עם ניבים, מסייר באגמים ובנהרות עכורים באירופה אחרי רדת החשכה."
@@ -174,6 +182,7 @@
       "pt": "Pequena perca mosqueada com barbatana dorsal espinhosa contínua, abundante em fundos moles de lagos europeus.",
       "nl": "Kleine gevlekte pos met een doorlopende stekelige rugvin, talrijk op zachte bodems van Europese meren.",
       "hu": "Kis, márványozott mintájú vágó durbincs egybefüggő tüskés hátúszóval, gyakori az európai tavak puha fenekén.",
+      "pl": "Mała cętkowana ryba okoniowata z kolczastą, zrośniętą płetwą grzbietową, liczna na miękkim dnie europejskich jezior.",
       "zh": "小型斑纹鲈鱼，背鳍连成一片且有硬棘，在欧洲湖泊的软质湖底大量出现。",
       "ar": "فرخ صغير مرقط بزعنفة ظهرية شوكية متصلة، وفير على القيعان الطرية في بحيرات أوروبا.",
       "he": "דקר קטן ומנומר עם סנפיר גב קוצני מחובר, שכיח על קרקעיות רכות של אגמים אירופיים."
@@ -194,6 +203,7 @@
       "pt": "Achigã de dorso verde, faixa lateral escura e boca enorme, à espreita junto a troncos e bordas de vegetação em lagos quentes.",
       "nl": "Groenrugbaars met een donkere zijstreep en enorme bek die bij boomstammen en plantenranden in warme meren loert.",
       "hu": "Zöld hátú sügér sötét oldalcsíkkal és hatalmas szájjal, fatörzsek és hínárszegélyek mellett les a meleg tavakban.",
+      "pl": "Bass o zielonym grzbiecie, z ciemnym pasem na boku i ogromną paszczą, czyhający przy kłodach i skraju roślinności w ciepłych jeziorach.",
       "zh": "背部绿色的黑鲈，体侧有深色条纹，嘴巴极大，潜伏在温暖湖泊的倒木和水草边缘。",
       "ar": "قاروص أخضر الظهر بخط جانبي داكن وفم ضخم، يترصد قرب جذوع الأشجار وحواف النباتات في البحيرات الدافئة.",
       "he": "בס ירוק גב עם פס צד כהה ופה עצום, אורב ליד גזעים ושולי צמחייה באגמים חמימים."
@@ -214,6 +224,7 @@
       "pt": "Achigã bronzeado com barras verticais ténues, mantém-se sobre rocha e cascalho em lagos e rios claros e frescos.",
       "nl": "Bronskleurige baars met vage dwarsbanden die boven rots en grind in heldere, koele meren en rivieren staat.",
       "hu": "Bronzszínű sügér halvány függőleges csíkokkal, sziklás és kavicsos aljzat fölött áll tiszta, hűvös tavakban és folyókban.",
+      "pl": "Brązowozłoty bass z ledwie widocznymi pionowymi pręgami, trzymający się nad kamieniami i żwirem w czystych, chłodnych jeziorach i rzekach.",
       "zh": "古铜色的黑鲈，体侧有淡淡的竖纹，栖息在清凉湖河的岩石和砾石上方。",
       "ar": "قاروص برونزي بخطوط عمودية باهتة، يستقر فوق الصخور والحصى في البحيرات والأنهار الصافية الباردة.",
       "he": "בס ארדי עם פסים אנכיים עדינים, שוהה מעל סלע וחצץ באגמים ובנהרות צלולים וקרירים."
@@ -234,6 +245,7 @@
       "pt": "Peixe-sol atarracado de olhos vermelhos com fileiras de pontos escuros, abriga-se entre pedregulhos em riachos e lagos claros.",
       "nl": "Gedrongen roodogige zonnebaars met rijen donkere vlekken die tussen rotsblokken in heldere beken en meren schuilt.",
       "hu": "Zömök, vörös szemű naphal sötét pontsorokkal, sziklatömbök között rejtőzik tiszta patakokban és tavakban.",
+      "pl": "Krępa czerwonooka ryba z rodziny bassowatych, z rzędami ciemnych plamek, chroniąca się wśród głazów w czystych strumieniach i jeziorach.",
       "zh": "体型粗壮、眼睛发红的太阳鱼，体侧有成排深色斑点，藏身于清澈溪流和湖泊的巨石间。",
       "ar": "سمكة شمس ممتلئة بعينين حمراوين وصفوف من البقع الداكنة، تحتمي بين الصخور الكبيرة في الجداول والبحيرات الصافية.",
       "he": "דג שמש גוץ אדום עיניים עם שורות כתמים כהים, מסתתר בין סלעים גדולים בנחלים ובאגמים צלולים."
@@ -254,6 +266,7 @@
       "pt": "Peixe-sol discoide com opérculo azul-escuro e peito laranja, nidifica em colónias em fundos arenosos rasos.",
       "nl": "Schijfvormige zonnebaars met een blauwzwarte kieuwflap en oranje borst die in kolonies nestelt op ondiepe zandbodems.",
       "hu": "Korong alakú naphal kékesfekete kopoltyúfedő-lebennyel és narancssárga mellel, kolóniákban fészkel sekély homokos aljzaton.",
+      "pl": "Dyskowata ryba z rodziny bassowatych, z niebieskoczarnym płatkiem na pokrywie skrzelowej i pomarańczową piersią, gniazdująca kolonijnie na płytkim piaszczystym dnie.",
       "zh": "圆盘状的太阳鱼，鳃盖有蓝黑色耳片，胸部橙色，在浅沙底成群筑巢。",
       "ar": "سمكة شمس قرصية الشكل بغطاء خيشومي أزرق مسوّد وصدر برتقالي، تعشش في مستعمرات على القيعان الرملية الضحلة.",
       "he": "דג שמש דמוי דיסקה עם דש זימים כחול-שחור וחזה כתום, מקנן במושבות על קרקעיות חוליות רדודות."
@@ -274,6 +287,7 @@
       "pt": "Peixe-sol vivamente salpicado com opérculo de ponta vermelha e linhas azuis onduladas nas bochechas, comum em águas rasas com vegetação.",
       "nl": "Felgevlekte zonnebaars met een roodgerande kieuwflap en golvende blauwe wanglijnen, algemeen in begroeid ondiep water.",
       "hu": "Élénken pettyezett naphal vörös szegélyű kopoltyúlebennyel és hullámos kék pofacsíkokkal, gyakori a hínáros sekélyesekben.",
+      "pl": "Jaskrawo nakrapiana ryba z rodziny bassowatych, z płatkiem skrzelowym o czerwonym końcu i falistymi niebieskimi liniami na policzkach, pospolita na zarośniętych płyciznach.",
       "zh": "色彩斑斓的太阳鱼，耳片末端红色，面颊有波浪状蓝纹，常见于水草茂密的浅水区。",
       "ar": "سمكة شمس منقطة بألوان زاهية بغطاء خيشومي ذي طرف أحمر وخطوط زرقاء متموجة على الخدين، شائعة في المياه الضحلة العشبية.",
       "he": "דג שמש מנוקד בצבעים עזים עם דש זימים בקצה אדום וקווי לחי כחולים גליים, נפוץ ברדודים עשירי צמחייה."
@@ -294,6 +308,7 @@
       "pt": "Peixe prateado de corpo alto salpicado de preto, em cardumes junto a ramos submersos e estacas.",
       "nl": "Zilverkleurige, hoogrugge zonnebaars met zwarte spikkels die in scholen rond verzonken takken en palen zwemt.",
       "hu": "Ezüstös, magas testű, fekete pettyes naphalféle, elmerült ágak és cölöpök körül rajzik.",
+      "pl": "Srebrzysta, wysoko wygrzbiecona ryba w czarne cętki, trzymająca się w ławicach przy zatopionych gałęziach i palach.",
       "zh": "银色高身的小型鱼，布满黑色斑点，成群聚集在沉没的树枝和桩柱周围。",
       "ar": "سمكة فضية عالية الجسم مرقطة بالأسود، تتجمع في أسراب حول الأغصان الغارقة والأعمدة.",
       "he": "דג כסוף וגבוה גוף מנוקד בשחור, נע בלהקות סביב ענפים שקועים ועמודים."
@@ -314,6 +329,7 @@
       "pt": "Crappie mais pálido com faixas verticais ténues, prefere represas turvas e rios lentos.",
       "nl": "Bleker crappie met vage dwarsbanden die troebele stuwmeren en trage rivieren verkiest.",
       "hu": "Halványabb crappie gyenge függőleges sávokkal, zavaros víztározókat és lassú folyókat kedvel.",
+      "pl": "Jaśniejsza krapia z ledwie widocznymi pionowymi pręgami, preferująca mętne zbiorniki zaporowe i wolno płynące rzeki.",
       "zh": "颜色较淡的莓鲈，体侧有淡淡的竖带，偏爱浑浊的水库和缓流河流。",
       "ar": "كرابي أكثر شحوباً بأشرطة عمودية باهتة، يفضل الخزانات العكرة والأنهار البطيئة.",
       "he": "קראפי חיוור יותר עם פסים אנכיים עדינים, מעדיף מאגרים עכורים ונהרות איטיים."
@@ -334,6 +350,7 @@
       "pt": "Truta castanho dourada com pintas vermelhas e pretas, mantém-se na corrente de rios e lagos frescos e claros.",
       "nl": "Goudbruine forel met rode en zwarte stippen die in de stroming van koele, heldere rivieren en meren staat.",
       "hu": "Aranybarna pisztráng vörös és fekete pettyekkel, hűvös, tiszta folyók és tavak sodrában áll.",
+      "pl": "Złocistobrązowy pstrąg w czerwone i czarne plamki, trzymający się w nurcie chłodnych, czystych rzek i jezior.",
       "zh": "金棕色的鳟鱼，身上有红色和黑色斑点，栖息在清凉河流和湖泊的水流中。",
       "ar": "تروتة بنية ذهبية ببقع حمراء وسوداء، تستقر في تيار الأنهار والبحيرات الباردة الصافية.",
       "he": "פורל חום-זהוב עם נקודות אדומות ושחורות, שוהה בזרם של נהרות ואגמים קרירים וצלולים."
@@ -354,6 +371,7 @@
       "pt": "Truta prateada com faixa lateral rosada e fino salpicado preto, repovoada e selvagem em águas frias de todo o mundo.",
       "nl": "Zilverkleurige forel met een roze zijband en fijne zwarte spikkels, uitgezet en wild in koud water wereldwijd.",
       "hu": "Ezüstös pisztráng rózsaszín oldalsávval és finom fekete pettyezéssel, telepített és vad populációi hideg vizekben világszerte.",
+      "pl": "Srebrzysty pstrąg z różowym pasem wzdłuż boku i drobnymi czarnymi cętkami, zarybiany i dziko żyjący w zimnych wodach na całym świecie.",
       "zh": "银色的鳟鱼，体侧有粉红色带，布满细小黑斑，在全球冷水中既有放流也有野生种群。",
       "ar": "تروتة فضية بشريط جانبي وردي ونقاط سوداء دقيقة، تُستزرع وتعيش برياً في المياه الباردة حول العالم.",
       "he": "פורל כסוף עם פס צד ורוד ונקודות שחורות עדינות, מאוכלס ופראי במים קרים ברחבי העולם."
@@ -374,6 +392,7 @@
       "pt": "Truta-das-fontes com marcas vermiformes no dorso, pintas vermelhas com halos azuis e barbatanas orladas de branco, em riachos frios de cabeceira.",
       "nl": "Bronforel met wormvormige tekening op de rug, rode stippen in blauwe ringen en witgerande vinnen, in koude bovenlopen.",
       "hu": "Pataki szaibling féregszerű hátmintázattal, kék udvarú vörös pettyekkel és fehér szegélyű úszókkal, hideg forrásvidéki patakokban.",
+      "pl": "Palia z robaczkowatym wzorem na grzbiecie, czerwonymi plamkami w niebieskich obwódkach i płetwami o białych krawędziach, żyjąca w zimnych strumieniach górnych odcinków rzek.",
       "zh": "背部有蠕虫状花纹的红点鲑，红点外有蓝色光晕，鳍缘白色，栖息于寒冷的源头溪流。",
       "ar": "شار بعلامات دودية الشكل على ظهره وبقع حمراء بهالات زرقاء وزعانف بحواف بيضاء، في جداول المنبع الباردة.",
       "he": "שאר עם סימנים דמויי תולעים על הגב, נקודות אדומות בהילות כחולות וסנפירים בשוליים לבנים, בנחלי מקור קרים."
@@ -394,6 +413,7 @@
       "pt": "Grande truta-de-lago cinzenta coberta de manchas claras e cauda bifurcada, percorre as águas frias e profundas dos lagos do norte.",
       "nl": "Grote grijze forel bedekt met lichte vlekken en een gevorkte staart die door het diepe koude water van noordelijke meren kruist.",
       "hu": "Nagy, szürke, világos foltokkal borított szaibling villás farokkal, az északi tavak mély, hideg vizét járja.",
+      "pl": "Duża szara palia pokryta jasnymi plamkami, z wciętym ogonem, przemierzająca głębokie zimne wody północnych jezior.",
       "zh": "大型灰色红点鲑，布满淡色斑点，尾鳍分叉，在北方湖泊深冷水域中巡游。",
       "ar": "شار رمادي كبير مغطى ببقع باهتة وذيل متشعب، يجوب المياه العميقة الباردة في البحيرات الشمالية.",
       "he": "שאר אפור גדול מכוסה כתמים בהירים עם זנב מפוצל, משייט במים העמוקים והקרים של אגמים צפוניים."
@@ -414,6 +434,7 @@
       "pt": "O peixe de água doce mais setentrional, uma truta esguia cujo ventre se tinge de vermelho alaranjado nas cores de desova outonais.",
       "nl": "Noordelijkste zoetwatervis, een slanke forel waarvan de buik in de herfstpaaitijd oranjerood kleurt.",
       "hu": "A legészakibb édesvízi hal, karcsú szaibling, amelynek hasa az őszi ívási időszakban narancsvörösre színeződik.",
+      "pl": "Najdalej na północ występująca ryba słodkowodna, smukła palia, której brzuch w jesiennej szacie godowej nabiera pomarańczowoczerwonej barwy.",
       "zh": "分布最北的淡水鱼，体形细长的红点鲑，秋季繁殖期腹部泛出橙红色。",
       "ar": "أقصى أسماك المياه العذبة شمالاً، شار نحيل يتورد بطنه باللون الأحمر البرتقالي في ألوان التزاوج الخريفية.",
       "he": "דג המים המתוקים הצפוני ביותר, שאר דק שבטנו מסמיקה לכתום-אדום בצבעי ההטלה של הסתיו."
@@ -434,6 +455,7 @@
       "pt": "Salmão prateado migrador com pintas pretas em forma de X, salta quedas de água ao regressar aos rios natais para desovar.",
       "nl": "Zilveren zeeforelachtige zalm met zwarte X-vormige stippen die watervallen overspringt op weg naar zijn geboorterivier.",
       "hu": "Ezüstös, tengerjáró lazac fekete X alakú pettyekkel, vízeséseket ugrik át, amikor ívni visszatér szülőfolyójába.",
+      "pl": "Srebrzysty łosoś wędrowny z czarnymi plamkami w kształcie litery X, pokonujący skokami wodospady w drodze na tarło do rodzinnych rzek.",
       "zh": "银色的溯河洄游鲑鱼，身上有X形黑斑，返回出生河流产卵时会跃过瀑布。",
       "ar": "سلمون فضي مهاجر ببقع سوداء على شكل X، يقفز فوق الشلالات عند عودته إلى أنهار مولده للتكاثر.",
       "he": "סלמון כסוף נודד בים עם נקודות שחורות בצורת X, מזנק מעל מפלים בדרכו חזרה לנהרות הולדתו להטלה."
@@ -454,6 +476,7 @@
       "pt": "O maior salmão do Pacífico, de dorso azul-esverdeado e gengivas pretas, sobe os grandes rios ocidentais para desovar.",
       "nl": "De grootste Pacifische zalm, met blauwgroene rug en zwart tandvlees, die grote westelijke rivieren opzwemt om te paaien.",
       "hu": "A legnagyobb csendes-óceáni lazac, kékeszöld háttal és fekete ínnyel, ívni a nagy nyugati folyókba vándorol fel.",
+      "pl": "Największy łosoś pacyficzny, o niebieskozielonym grzbiecie i czarnych dziąsłach, wstępujący na tarło do wielkich rzek zachodu Ameryki Północnej.",
       "zh": "体型最大的太平洋鲑，背部蓝绿色，牙龈黑色，溯游西部大河产卵。",
       "ar": "أكبر سلمون المحيط الهادئ، بظهر أزرق مخضر ولثة سوداء، يصعد الأنهار الغربية الكبيرة للتكاثر.",
       "he": "הסלמון הגדול ביותר של האוקיינוס השקט, בעל גב כחול-ירוק וחניכיים שחורות, עולה בנהרות המערב הגדולים להטלה."
@@ -474,6 +497,7 @@
       "pt": "Salmão que fica vermelho vivo com cabeça verde na desova, enchendo os leitos de cascalho de rios alimentados por lagos.",
       "nl": "Zalm die bij het paaien felrood met een groene kop wordt en de grindbedden van door meren gevoede rivieren vult.",
       "hu": "Íváskor élénkvörösre színeződő, zöld fejű lazac, ellepi a tavak táplálta folyók kavicságyait.",
+      "pl": "Łosoś, który na tarło staje się jaskrawoczerwony z zieloną głową i tłumnie zajmuje żwirowiska rzek zasilanych przez jeziora.",
       "zh": "产卵期体色变为鲜红、头部呈绿色的鲑鱼，成群聚集在湖泊补给河流的砾石床上。",
       "ar": "سلمون يتحول عند التكاثر إلى الأحمر الزاهي برأس أخضر، ويزدحم على قيعان الحصى في الأنهار التي تغذيها البحيرات.",
       "he": "סלמון שהופך אדום בוהק עם ראש ירוק בעת ההטלה, וממלא את מצעי החצץ של נהרות הניזונים מאגמים."
@@ -494,6 +518,7 @@
       "pt": "Salmão prateado de gengivas brancas e pintas apenas na parte superior da cauda, desova em pequenos riachos costeiros.",
       "nl": "Zilverzalm met wit tandvlees en stippen alleen op het bovenste deel van de staart, paait in kleine kustbeken.",
       "hu": "Ezüstlazac fehér ínnyel és csak a farok felső felén lévő pettyekkel, kis parti patakokban ívik.",
+      "pl": "Srebrzysty łosoś o białych dziąsłach, z plamkami tylko na górnej części ogona, trący się w małych przybrzeżnych strumieniach.",
       "zh": "银鲑，牙龈白色，斑点仅分布于尾鳍上半部，在小型沿海溪流中产卵。",
       "ar": "سلمون فضي بلثة بيضاء وبقع على الجزء العلوي من الذيل فقط، يتكاثر في الجداول الساحلية الصغيرة.",
       "he": "סלמון כסוף עם חניכיים לבנות ונקודות רק בחלק העליון של הזנב, מטיל בנחלי חוף קטנים."
@@ -514,6 +539,7 @@
       "pt": "Peixe-branco prateado de boca pequena dos lagos frios e profundos, alimenta-se no fundo em grandes cardumes.",
       "nl": "Zilverkleurige houting met kleine bek uit diepe koude meren, die in grote scholen op de bodem foerageert.",
       "hu": "Ezüstös, kis szájú maréna mély, hideg tavakból, nagy rajokban táplálkozik a fenéken.",
+      "pl": "Srebrzysta sieja o małym pysku, żyjąca w głębokich zimnych jeziorach i żerująca przy dnie w dużych ławicach.",
       "zh": "银色小嘴的白鲑，生活在寒冷的深水湖泊，成大群在湖底觅食。",
       "ar": "سمكة بيضاء فضية صغيرة الفم تعيش في البحيرات العميقة الباردة، تتغذى على القاع في أسراب كبيرة.",
       "he": "דג לבן כסוף קטן פה של אגמים קרים ועמוקים, ניזון על הקרקעית בלהקות גדולות."
@@ -534,6 +560,7 @@
       "pt": "Peixe-branco esguio semelhante a um arenque que forma cardumes em águas abertas de lagos frios do norte, presa da truta-de-lago.",
       "nl": "Slanke haringachtige houting die in open water van koude noordelijke meren schoolt, prooi voor de meerforel.",
       "hu": "Karcsú, heringre emlékeztető maréna, az északi hideg tavak nyílt vizében rajzik, a tavi szaibling zsákmánya.",
+      "pl": "Smukła, podobna do śledzia ryba siejowata, żyjąca w ławicach w toni zimnych północnych jezior; ofiara palii jeziorowej.",
       "zh": "体形细长、似鲱鱼的白鲑，在北方冷水湖的开阔水域成群活动，是湖鳟的猎物。",
       "ar": "سمكة بيضاء نحيلة تشبه الرنجة تتجمع في أسراب في المياه المفتوحة للبحيرات الشمالية الباردة، فريسة لتروتة البحيرات.",
       "he": "דג לבן דק דמוי הרינג שנע בלהקות במים הפתוחים של אגמים צפוניים קרים, טרף לפורל האגמים."
@@ -554,6 +581,7 @@
       "pt": "Peixe de rio cinzento prateado com barbatana dorsal alta em forma de vela orlada de púrpura, mantém-se em correntes rápidas sobre cascalho limpo.",
       "nl": "Zilvergrijze riviervis met een hoge, zeilachtige rugvin met paarse rand die in snelle, schone grindstromen staat.",
       "hu": "Ezüstszürke folyami hal magas, vitorlaszerű, lila szegélyű hátúszóval, gyors, tiszta kavicsos szakaszokon áll.",
+      "pl": "Srebrzystoszara ryba rzeczna z wysoką, żaglowatą płetwą grzbietową o fioletowym obrzeżeniu, trzymająca się w bystrym nurcie nad czystym żwirem.",
       "zh": "银灰色的河鱼，背鳍高耸如帆且边缘泛紫，栖息于水流湍急、砾石洁净的河段。",
       "ar": "سمكة نهرية رمادية فضية بزعنفة ظهرية عالية تشبه الشراع بحافة أرجوانية، تستقر في المجاري السريعة النظيفة ذات الحصى.",
       "he": "דג נהר אפור-כסוף עם סנפיר גב גבוה דמוי מפרש בשוליים סגולים, שוהה בקטעי חצץ נקיים ומהירים."
@@ -574,6 +602,7 @@
       "pt": "Carpa robusta cor de bronze com escamas grandes e dois barbilhos, revolve os fundos moles de lagos e rios quentes.",
       "nl": "Zware bronskleurige karper met grote schubben en twee baarddraden die in zachte bodems van warme meren en rivieren wroet.",
       "hu": "Testes, bronzszínű ponty nagy pikkelyekkel és két bajuszszállal, meleg tavak és folyók puha fenekét túrja.",
+      "pl": "Ciężki brązowozłoty karp o dużych łuskach i z dwoma wąsikami, ryjący w miękkim dnie ciepłych jezior i rzek.",
       "zh": "体态厚重的古铜色鲤鱼，鳞片大，有两对须，在温暖湖河的软底中翻找食物。",
       "ar": "شبوط ثقيل برونزي اللون بحراشف كبيرة وزوجين من الزوائد اللمسية، ينبش القيعان الطرية في البحيرات والأنهار الدافئة.",
       "he": "קרפיון כבד בצבע ארד עם קשקשים גדולים ושני זיפי חישה, נובר בקרקעיות רכות של אגמים ונהרות חמימים."
@@ -594,6 +623,7 @@
       "pt": "Carpa asiática fusiforme introduzida em todo o mundo para consumir plantas aquáticas, frequente em lagos de pedreira límpidos.",
       "nl": "Torpedovormige Aziatische karper die wereldwijd is uitgezet om waterplanten te begrazen, vaak te zien in heldere groevemeren.",
       "hu": "Torpedó alakú ázsiai ponty, világszerte betelepítették a vízinövények legelésére, gyakran látható tiszta bányatavakban.",
+      "pl": "Azjatycka ryba karpiowata o torpedowatym kształcie, introdukowana na całym świecie do wyjadania roślinności wodnej, często widywana w czystych jeziorach w kamieniołomach.",
       "zh": "鱼雷形的亚洲鲤鱼，被引入世界各地以啃食水草，常见于清澈的采石场湖泊。",
       "ar": "شبوط آسيوي على شكل طوربيد أُدخل حول العالم لرعي الأعشاب المائية، يُشاهد كثيراً في بحيرات المحاجر الصافية.",
       "he": "קרפיון אסייתי דמוי טורפדו שהוכנס ברחבי העולם כדי לרעות צמחי מים, נראה לעיתים קרובות באגמי מחצבה צלולים."
@@ -614,6 +644,7 @@
       "pt": "Peixe verde-oliva de escamas minúsculas, olhos vermelhos e barbatanas arredondadas, desliza pela lama e pelos caniços de águas paradas.",
       "nl": "Olijfgroene vis met piepkleine schubben, rode ogen en afgeronde vinnen die door modder en riet van stilstaand water glijdt.",
       "hu": "Olajzöld hal apró pikkelyekkel, vörös szemekkel és lekerekített úszókkal, az állóvizek iszapjában és nádasában siklik.",
+      "pl": "Oliwkowozielona ryba o drobnych łuskach, czerwonych oczach i zaokrąglonych płetwach, przemykająca w mule i trzcinach wód stojących.",
       "zh": "橄榄绿色的鱼，鳞片细小，眼睛红色，鳍圆钝，在静水的淤泥和芦苇间滑行。",
       "ar": "سمكة خضراء زيتونية بحراشف دقيقة وعينين حمراوين وزعانف مستديرة، تنساب بين الطين والقصب في المياه الراكدة.",
       "he": "דג ירוק-זית עם קשקשים זעירים, עיניים אדומות וסנפירים מעוגלים, מחליק בבוץ ובקנים של מים עומדים."
@@ -634,6 +665,7 @@
       "pt": "Peixe bronzeado de corpo alto e comprimido que se alimenta de cabeça para baixo em cardumes sobre fundos lodosos, comum nas planícies europeias.",
       "nl": "Hoge, zijdelings afgeplatte bronskleurige vis die met de kop omlaag in modderige scholen foerageert, algemeen in de Europese laaglanden.",
       "hu": "Magas testű, oldalról lapított bronzszínű hal, fejjel lefelé táplálkozik iszapos rajokban, gyakori az európai síkvidékeken.",
+      "pl": "Wysoka, bocznie spłaszczona brązowozłota ryba żerująca głową w dół w ławicach nad mulistym dnem, pospolita na nizinach Europy.",
       "zh": "体高而侧扁的古铜色鱼，成群头朝下在泥底觅食，广泛分布于欧洲低地。",
       "ar": "سمكة برونزية عالية الجسم مفلطحة الجانبين تتغذى ورأسها إلى الأسفل في أسراب على القيعان الطينية، شائعة في سهول أوروبا.",
       "he": "דג ארד גבוה ושטוח מהצדדים שניזון בראש כלפי מטה בלהקות על קרקעיות בוציות, נפוץ בשפלות אירופה."
@@ -654,6 +686,7 @@
       "pt": "Peixe prateado de cardume com barbatanas vermelhas e íris vermelha, o mais abundante em muitos lagos e canais europeus.",
       "nl": "Zilverkleurige scholenvis met rode vinnen en een rode iris, de talrijkste vis in veel Europese meren en kanalen.",
       "hu": "Ezüstös, rajokban élő hal vörös úszókkal és vörös szivárványhártyával, sok európai tó és csatorna leggyakoribb hala.",
+      "pl": "Srebrzysta ryba ławicowa o czerwonych płetwach i czerwonej tęczówce, najliczniejsza ryba wielu europejskich jezior i kanałów.",
       "zh": "银色的群游鱼，鳍红色，虹膜红色，是许多欧洲湖泊和运河中数量最多的鱼。",
       "ar": "سمكة فضية تعيش في أسراب بزعانف حمراء وقزحية حمراء، أكثر الأسماك وفرة في كثير من بحيرات أوروبا وقنواتها.",
       "he": "דג כסוף החי בלהקות עם סנפירים אדומים וקשתית אדומה, הדג השכיח ביותר באגמים ובתעלות רבים באירופה."
@@ -674,6 +707,7 @@
       "pt": "Parente da ruivaca de flancos dourados com barbatanas vermelho vivo e boca virada para cima, alimenta-se logo abaixo da superfície.",
       "nl": "Goudflankige verwant van de blankvoorn met felrode vinnen en een opwaarts gerichte bek die vlak onder het oppervlak foerageert.",
       "hu": "A bodorka aranyoldalú rokona élénkvörös úszókkal és felfelé álló szájjal, közvetlenül a felszín alatt táplálkozik.",
+      "pl": "Krewniaczka płoci o złocistych bokach, jaskrawoczerwonych płetwach i skierowanym ku górze pysku, żerująca tuż pod powierzchnią.",
       "zh": "拟鲤的近亲，体侧金色，鳍鲜红，口上位，在水面下方觅食。",
       "ar": "قريب للروش بجوانب ذهبية وزعانف حمراء زاهية وفم متجه للأعلى، يتغذى تحت السطح مباشرة.",
       "he": "קרוב של הרואץ' עם צדדים זהובים, סנפירים אדומים בוהקים ופה מופנה כלפי מעלה, ניזון ממש מתחת לפני המים."
@@ -694,6 +728,7 @@
       "pt": "Peixe de rio robusto de cabeça larga, escamas grandes de bordo escuro e boca grande, mantém-se sob árvores debruçadas sobre a água.",
       "nl": "Gedrongen riviervis met een brede kop, grote donkergerande schubben en een grote bek die onder overhangende bomen staat.",
       "hu": "Zömök folyami hal széles fejjel, nagy, sötét szegélyű pikkelyekkel és nagy szájjal, a víz fölé hajló fák alatt áll.",
+      "pl": "Krępa ryba rzeczna o szerokiej głowie, dużych łuskach z ciemnym obrzeżeniem i dużym pysku, trzymająca się pod zwisającymi nad wodą drzewami.",
       "zh": "体格粗壮的河鱼，头宽，鳞片大且边缘深色，嘴大，常停留在悬垂的树下。",
       "ar": "سمكة نهرية ممتلئة برأس عريض وحراشف كبيرة ذات حواف داكنة وفم كبير، تستقر تحت الأشجار المتدلية فوق الماء.",
       "he": "דג נהר מוצק עם ראש רחב, קשקשים גדולים בשוליים כהים ופה גדול, שוהה מתחת לעצים הנוטים מעל המים."
@@ -714,6 +749,7 @@
       "pt": "Peixe de fundo hidrodinâmico com quatro barbilhos e boca ventral, colado ao cascalho dos rios rápidos europeus.",
       "nl": "Gestroomlijnde bodemvis met vier baarddraden en een onderstandige bek die op het grind van snelle Europese rivieren ligt.",
       "hu": "Áramvonalas fenéklakó hal négy bajuszszállal és alsó állású szájjal, a gyors európai folyók kavicsához simul.",
+      "pl": "Opływowa ryba denna z czterema wąsikami i dolnym otworem gębowym, trzymająca się żwirowego dna bystrych europejskich rzek.",
       "zh": "流线型的底栖鱼，有四条须，口下位，紧贴欧洲湍急河流的砾石底。",
       "ar": "سمكة قاعية انسيابية بأربع زوائد لمسية وفم سفلي، تلتصق بالحصى في أنهار أوروبا السريعة.",
       "he": "דג קרקעית זרים עם ארבעה זיפי חישה ופה תחתון, נצמד לחצץ בנהרות אירופיים מהירים."
@@ -734,6 +770,7 @@
       "pt": "Peixe serpentiforme que passa décadas em rios e lagos antes de migrar para o Mar dos Sargaços para desovar uma única vez.",
       "nl": "Slangachtige vis die tientallen jaren in rivieren en meren leeft voordat hij naar de Sargassozee trekt om eenmalig te paaien.",
       "hu": "Kígyószerű hal, amely évtizedeket tölt folyókban és tavakban, mielőtt egyetlen ívásra a Sargasso-tengerbe vándorol.",
+      "pl": "Wężowata ryba, która spędza dziesiątki lat w rzekach i jeziorach, po czym wędruje do Morza Sargassowego, by odbyć jedyne w życiu tarło.",
       "zh": "蛇形鱼类，在河流湖泊中生活数十年后洄游至马尾藻海，一生仅产卵一次。",
       "ar": "سمكة تشبه الثعبان تقضي عقوداً في الأنهار والبحيرات قبل أن تهاجر إلى بحر سارجاسو لتتكاثر مرة واحدة.",
       "he": "דג דמוי נחש המבלה עשרות שנים בנהרות ובאגמים לפני שהוא נודד לים הסרגסו להטלה אחת ויחידה."
@@ -754,6 +791,7 @@
       "pt": "Enguia norte-americana que de dia se esconde sob as rochas em rios e lagos e regressa ao Mar dos Sargaços para se reproduzir.",
       "nl": "Noord-Amerikaanse paling die zich overdag onder stenen in rivieren en meren verbergt en naar de Sargassozee terugkeert om te paaien.",
       "hu": "Észak-amerikai angolna, nappal folyók és tavak kövei alatt rejtőzik, szaporodni a Sargasso-tengerbe tér vissza.",
+      "pl": "Północnoamerykański węgorz, który w rzekach i jeziorach kryje się za dnia pod kamieniami, a na rozród wraca do Morza Sargassowego.",
       "zh": "北美鳗鱼，白天藏身于河流湖泊的岩石下，返回马尾藻海繁殖。",
       "ar": "ثعبان ماء أمريكي شمالي يختبئ نهاراً تحت الصخور في الأنهار والبحيرات ويعود إلى بحر سارجاسو للتكاثر.",
       "he": "צלופח צפון אמריקאי המסתתר ביום מתחת לסלעים בנהרות ובאגמים וחוזר לים הסרגסו להתרבות."
@@ -774,6 +812,7 @@
       "pt": "O único bacalhau de água doce, peixe mosqueado semelhante a uma enguia com um único barbilho no queixo, escondido de dia em águas frias e profundas.",
       "nl": "De enige zoetwaterkabeljauw, een gevlekte, palingachtige vis met één kindraad die zich overdag in koud diep water verbergt.",
       "hu": "Az egyetlen édesvízi tőkehalféle, márványozott, angolnaszerű hal egyetlen állbajuszszállal, nappal a hideg mélyvízben rejtőzik.",
+      "pl": "Jedyna słodkowodna ryba dorszowata, cętkowana i podobna do węgorza, z pojedynczym wąsikiem na podbródku, za dnia ukryta w zimnej głębokiej wodzie.",
       "zh": "唯一的淡水鳕鱼，体表斑驳、形似鳗鱼，下颌有一根须，白天藏于寒冷深水中。",
       "ar": "سمك القد الوحيد في المياه العذبة، سمكة مرقطة تشبه ثعبان الماء بزائدة لمسية واحدة على الذقن، تختبئ نهاراً في المياه العميقة الباردة.",
       "he": "דג הבקלה היחיד במים מתוקים, דג מנומר דמוי צלופח עם זיף חישה בודד בסנטר, מסתתר ביום במים קרים ועמוקים."
@@ -794,6 +833,7 @@
       "pt": "Bagre cinzento com pintas escuras dispersas, cauda bifurcada e oito barbilhos, comum em rios e represas da América do Norte.",
       "nl": "Grijze meerval met verspreide donkere vlekken, een gevorkte staart en acht baarddraden, algemeen in rivieren en stuwmeren van Noord-Amerika.",
       "hu": "Szürke harcsa elszórt sötét foltokkal, villás farokkal és nyolc bajuszszállal, gyakori Észak-Amerika folyóiban és víztározóiban.",
+      "pl": "Szary sum z rozproszonymi ciemnymi plamkami, wciętym ogonem i ośmioma wąsami, pospolity w rzekach i zbiornikach zaporowych całej Ameryki Północnej.",
       "zh": "灰色的鲶鱼，体表散布深色斑点，尾鳍分叉，有八根须，常见于北美的河流和水库。",
       "ar": "سمكة سلور رمادية ببقع داكنة متناثرة وذيل متشعب وثماني زوائد لمسية، شائعة في أنهار وخزانات أمريكا الشمالية.",
       "he": "שפמנון אפור עם כתמים כהים פזורים, זנב מפוצל ושמונה זיפי חישה, נפוץ בנהרות ובמאגרים ברחבי צפון אמריקה."
@@ -814,6 +854,7 @@
       "pt": "Enorme bagre castanho mosqueado de cabeça achatada e maxilar inferior saliente, repousa em poços profundos dos rios.",
       "nl": "Enorme bruingevlekte meerval met een afgeplatte kop en vooruitstekende onderkaak die in diepe rivierkuilen ligt.",
       "hu": "Hatalmas, barnán márványozott harcsa lapított fejjel és előreálló alsó állkapoccsal, mély folyami gödrökben fekszik.",
+      "pl": "Ogromny cętkowany brązowy sum o spłaszczonej głowie i wysuniętej żuchwie, zalegający w głębokich dołach rzecznych.",
       "zh": "体型巨大的褐色斑纹鲶鱼，头部扁平，下颌突出，潜伏在河流深潭中。",
       "ar": "سلور بني مرقط ضخم برأس مسطح وفك سفلي بارز، يرقد في الحفر النهرية العميقة.",
       "he": "שפמנון חום מנומר ענק עם ראש שטוח ולסת תחתונה בולטת, רובץ בבורות עמוקים בנהרות."
@@ -834,6 +875,7 @@
       "pt": "Pequeno bagre atarracado de barbilhos escuros e cauda reta, tolera lagoas lodosas, quentes e pobres em oxigénio.",
       "nl": "Kleine gedrongen dwergmeerval met donkere baarddraden en een rechte staart die modderige, warme en zuurstofarme vijvers verdraagt.",
       "hu": "Kis, zömök törpeharcsa sötét bajuszszálakkal és egyenes farokkal, elviseli az iszapos, meleg, oxigénszegény tavakat.",
+      "pl": "Mały krępy sum o ciemnych wąsach i prosto ściętym ogonie, znoszący muliste, ciepłe i ubogie w tlen stawy.",
       "zh": "小型粗壮的鲶鱼，须呈深色，尾鳍平直，能耐受泥泞、温暖且缺氧的池塘。",
       "ar": "سلور صغير ممتلئ بزوائد لمسية داكنة وذيل مربع، يتحمل البرك الطينية الدافئة قليلة الأكسجين.",
       "he": "שפמנון קטן וגוץ עם זיפי חישה כהים וזנב ישר, סובל בריכות בוציות, חמות ודלות חמצן."
@@ -854,6 +896,7 @@
       "pt": "O maior peixe de água doce da Europa, um gigante sem escamas de cabeça larga e achatada e longos bigodes, repousa em poços fundos dos rios.",
       "nl": "Europa's grootste zoetwatervis, een schubloze reus met een brede platte kop en lange baarddraden die in diepe rivierkuilen ligt.",
       "hu": "Európa legnagyobb édesvízi hala, pikkely nélküli óriás széles, lapos fejjel és hosszú bajuszszálakkal, mély folyami gödrökben fekszik.",
+      "pl": "Największa ryba słodkowodna Europy, bezłuski olbrzym o szerokiej płaskiej głowie i długich wąsach, zalegający w głębokich dołach rzecznych.",
       "zh": "欧洲最大的淡水鱼，无鳞巨物，头宽而平，长须，潜伏在河流深潭中。",
       "ar": "أكبر أسماك المياه العذبة في أوروبا، عملاق بلا حراشف برأس عريض مسطح وشوارب طويلة، يرقد في الحفر النهرية العميقة.",
       "he": "דג המים המתוקים הגדול ביותר באירופה, ענק חסר קשקשים עם ראש רחב ושטוח ושפמים ארוכים, רובץ בבורות עמוקים בנהרות."
@@ -874,6 +917,7 @@
       "pt": "O maior peixe de água doce da América do Norte, um gigante cinzento couraçado com cauda de tubarão que percorre os grandes rios ocidentais.",
       "nl": "Noord-Amerika's grootste zoetwatervis, een gepantserde grijze reus met een haaiachtige staart die door grote westelijke rivieren kruist.",
       "hu": "Észak-Amerika legnagyobb édesvízi hala, páncélos szürke óriás cápaszerű farokkal, a nagy nyugati folyókat járja.",
+      "pl": "Największa ryba słodkowodna Ameryki Północnej, opancerzony szary olbrzym z ogonem jak u rekina, przemierzający wielkie rzeki zachodu kontynentu.",
       "zh": "北美最大的淡水鱼，披甲的灰色巨物，尾鳍似鲨鱼，在西部大河中巡游。",
       "ar": "أكبر أسماك المياه العذبة في أمريكا الشمالية، عملاق رمادي مدرع بذيل يشبه ذيل القرش يجوب الأنهار الغربية الكبيرة.",
       "he": "דג המים המתוקים הגדול ביותר בצפון אמריקה, ענק אפור משוריין עם זנב דמוי כריש המשייט בנהרות המערב הגדולים."
@@ -894,6 +938,7 @@
       "pt": "Esturjão couraçado de crescimento lento dos Grandes Lagos e da bacia do Mississípi, aspira o fundo com a boca tubular.",
       "nl": "Traag groeiende gepantserde steur van de Grote Meren en het Mississippibekken die de bodem met zijn buisvormige bek afzuigt.",
       "hu": "Lassan növő páncélos tok a Nagy-tavakból és a Mississippi vízgyűjtőjéből, csöves szájával a fenéket szívja fel.",
+      "pl": "Wolno rosnący opancerzony jesiotr z Wielkich Jezior i dorzecza Missisipi, zasysający pokarm z dna rurkowatym pyskiem.",
       "zh": "生长缓慢的披甲鲟鱼，分布于五大湖和密西西比流域，用管状口吸食底部食物。",
       "ar": "حفش مدرع بطيء النمو من البحيرات العظمى وحوض المسيسيبي، يكنس القاع بفمه الأنبوبي.",
       "he": "חדקן משוריין איטי גדילה מהאגמים הגדולים ואגן המיסיסיפי, שואב את הקרקעית בפיו הצינורי."
@@ -914,6 +959,7 @@
       "pt": "Esturjão couraçado criticamente ameaçado dos rios atlânticos, hoje criado e libertado no Garona e no Elba.",
       "nl": "Ernstig bedreigde gepantserde steur van Atlantische rivieren, nu gekweekt en uitgezet in de Garonne en de Elbe.",
       "hu": "Kritikusan veszélyeztetett páncélos tok az atlanti folyókból, ma a Garonne-ba és az Elbába tenyésztik és telepítik vissza.",
+      "pl": "Krytycznie zagrożony opancerzony jesiotr rzek zlewiska Atlantyku, dziś hodowany i wypuszczany do Garonny i Łaby.",
       "zh": "极度濒危的披甲鲟鱼，原产大西洋沿岸河流，如今在加龙河和易北河进行人工繁育放流。",
       "ar": "حفش مدرع مهدد بالانقراض بشدة من الأنهار الأطلسية، يُربى اليوم ويُطلق في نهري غارون وإلبه.",
       "he": "חדקן משוריין בסכנת הכחדה חמורה מנהרות האטלנטי, כיום מגודל ומשוחרר בגארון ובאלבה."
@@ -934,6 +980,7 @@
       "pt": "Gigante pré-histórico de focinho largo e dentado com escamas couraçadas em losango, sobe para engolir ar em rios do sul.",
       "nl": "Prehistorische reus met een brede tandenrijke snuit en ruitvormige pantserschubben die in zuidelijke rivieren lucht komt happen.",
       "hu": "Őskori óriás széles, fogas orral és rombusz alakú páncélpikkelyekkel, a déli folyókban levegőért jön a felszínre.",
+      "pl": "Prehistoryczny olbrzym o szerokim uzębionym pysku i pancerzu z rombowatych łusek, wynurzający się w rzekach południa USA, by zaczerpnąć powietrza.",
       "zh": "史前巨鱼，吻宽而多齿，菱形甲鳞，在南方河流中会浮出水面吞气。",
       "ar": "عملاق ما قبل التاريخ بخطم عريض مسنن وحراشف مدرعة معينية الشكل، يصعد لابتلاع الهواء في الأنهار الجنوبية.",
       "he": "ענק פרהיסטורי עם חרטום רחב ומשונן וקשקשי שריון בצורת מעוין, עולה לבלוע אוויר בנהרות הדרום."
@@ -954,6 +1001,7 @@
       "pt": "Peixe couraçado esguio de focinho em agulha, suspenso imóvel logo abaixo da superfície de rios quentes.",
       "nl": "Slanke gepantserde vis met een naaldvormige snuit die roerloos vlak onder het oppervlak van warme rivieren hangt.",
       "hu": "Karcsú páncélos hal tűszerű orral, mozdulatlanul lebeg közvetlenül a meleg folyók felszíne alatt.",
+      "pl": "Smukła opancerzona ryba o igłowatym pysku, wisząca nieruchomo tuż pod powierzchnią ciepłych rzek.",
       "zh": "体形细长的甲鳞鱼，吻如针状，一动不动地悬停在温暖河流的水面下方。",
       "ar": "سمكة مدرعة نحيلة بخطم يشبه الإبرة، تتعلق بلا حراك تحت سطح الأنهار الدافئة مباشرة.",
       "he": "דג משוריין דק עם חרטום דמוי מחט, תלוי ללא תנועה ממש מתחת לפני נהרות חמימים."
@@ -974,6 +1022,7 @@
       "pt": "Fóssil vivo com longa barbatana dorsal ondulante e cabeça óssea, guarda os alevins em remansos com vegetação.",
       "nl": "Levend fossiel met een lange golvende rugvin en benige kop dat zijn jongen bewaakt in begroeide dode rivierarmen.",
       "hu": "Élő kövület hosszú, hullámzó hátúszóval és csontos fejjel, ivadékait hínáros holtágakban őrzi.",
+      "pl": "Żywa skamieniałość o długiej falującej płetwie grzbietowej i kostnej głowie, strzegąca narybku w zarośniętych starorzeczach.",
       "zh": "活化石，背鳍长而波状起伏，头部骨质，在水草丛生的回水区守护幼鱼。",
       "ar": "أحفورة حية بزعنفة ظهرية طويلة متموجة ورأس عظمي، يحرس صغاره في المياه الراكدة العشبية.",
       "he": "מאובן חי עם סנפיר גב ארוך ומתנועע וראש גרמי, שומר על צאצאיו במים אחוריים עשירי צמחייה."
@@ -994,6 +1043,7 @@
       "pt": "Gigante filtrador com focinho em forma de remo que ocupa um terço do comprimento, nada de boca aberta pelos grandes rios.",
       "nl": "Filtervoedende reus met een peddelvormige snuit van een derde van zijn lengte die met open bek door grote rivieren zwemt.",
       "hu": "Szűrögető óriás lapátszerű orral, amely testhosszának harmadát teszi ki, nyitott szájjal úszik a nagy folyókban.",
+      "pl": "Filtrujący pokarm olbrzym z pyskiem w kształcie wiosła, stanowiącym jedną trzecią długości ciała, pływający w wielkich rzekach z otwartą paszczą.",
       "zh": "滤食性巨鱼，桨状吻部占体长的三分之一，在大河中张口游动。",
       "ar": "عملاق مرشح للغذاء بخطم يشبه المجداف يبلغ ثلث طوله، يسبح بفم مفتوح في الأنهار الكبيرة.",
       "he": "ענק מסנן מזון עם חרטום דמוי משוט באורך שליש מגופו, שוחה בפה פתוח בנהרות גדולים."
@@ -1014,6 +1064,7 @@
       "pt": "Parasita sem mandíbulas semelhante a uma enguia com boca em ventosa rodeada de dentes, desova em riachos de cascalho após se alimentar no mar ou em lagos.",
       "nl": "Kaakloze palingachtige parasiet met een zuigmond omringd door tanden die in grindbeken paait na zich in zee of meren te hebben gevoed.",
       "hu": "Állkapocs nélküli, angolnaszerű élősködő fogakkal körülvett tapadószájjal, kavicsos patakokban ívik, miután a tengerben vagy tavakban táplálkozott.",
+      "pl": "Bezszczękowy, podobny do węgorza pasożyt z przyssawkowym otworem gębowym otoczonym zębami; po okresie żerowania w morzu lub jeziorach trze się w żwirowych strumieniach.",
       "zh": "无颌、形似鳗鱼的寄生鱼，口为环形齿盘状吸盘，在海洋或湖泊觅食后到砾石溪流产卵。",
       "ar": "طفيلي عديم الفكين يشبه ثعبان الماء بفم ماص محاط بالأسنان، يتكاثر في جداول الحصى بعد التغذي في البحر أو البحيرات.",
       "he": "טפיל חסר לסתות דמוי צלופח עם פה מצץ מוקף שיניים, מטיל בנחלי חצץ לאחר שניזון בים או באגמים."
@@ -1034,6 +1085,7 @@
       "pt": "Peixe prateado de dorso corcunda que grunhe audivelmente e tritura mexilhões com dentes faríngeos, comum em grandes rios e lagos.",
       "nl": "Zilverkleurige vis met een bochel die hoorbaar knort en mosselen met keeltanden kraakt, algemeen in grote rivieren en meren.",
       "hu": "Ezüstös, púpos hátú hal, amely hallhatóan morog és garatfogaival kagylókat tör, gyakori nagy folyókban és tavakban.",
+      "pl": "Srebrzysta garbata ryba, która wydaje słyszalne chrząknięcia i miażdży małże zębami gardłowymi, pospolita w wielkich rzekach i jeziorach.",
       "zh": "银色驼背鱼，能发出可闻的咕噜声，用咽齿碾碎贻贝，常见于大河和湖泊。",
       "ar": "سمكة فضية محدبة الظهر تصدر أصوات همهمة مسموعة وتسحق بلح البحر بأسنان بلعومية، شائعة في الأنهار والبحيرات الكبيرة.",
       "he": "דג כסוף גבנוני שמשמיע נהמות נשמעות ומועך צדפות בשיני לוע, נפוץ בנהרות גדולים ובאגמים."
@@ -1054,6 +1106,7 @@
       "pt": "Peixe de fundo cilíndrico de boca carnuda virada para baixo, sobe os riachos na primavera em multidões de desova.",
       "nl": "Cilindrische bodemvis met een vlezige, naar beneden gerichte bek die in het voorjaar in paaimenigten beken opzwemt.",
       "hu": "Hengeres testű fenéklakó hal húsos, lefelé álló szájjal, tavasszal ívó tömegekben vonul fel a patakokba.",
+      "pl": "Walcowata ryba żerująca przy dnie, z mięsistym pyskiem skierowanym w dół, wiosną tłumnie wstępująca na tarło do strumieni.",
       "zh": "圆筒形底栖鱼，口肉质且朝下，春季成群溯溪产卵。",
       "ar": "سمكة قاعية أسطوانية بفم لحمي متجه للأسفل، تصعد الجداول في الربيع في حشود التكاثر.",
       "he": "דג קרקעית גלילי עם פה בשרני מופנה מטה, עולה בנחלים באביב בהמוני הטלה."
@@ -1074,6 +1127,7 @@
       "pt": "Minúsculo peixe listrado de cardume de riachos e lagos claros e frescos, os machos ficam vermelhos e verdes na primavera.",
       "nl": "Piepkleine gestreepte scholenvis van heldere koele beken en meren, waarvan de mannetjes in het voorjaar rood en groen kleuren.",
       "hu": "Apró, csíkos, rajokban élő hal tiszta, hűvös patakokból és tavakból, a hímek tavasszal vörös és zöld színt öltenek.",
+      "pl": "Maleńka prążkowana ryba ławicowa czystych, chłodnych strumieni i jezior; samce wiosną przybierają czerwone i zielone barwy.",
       "zh": "微小的条纹群游鱼，栖息于清凉的溪流和湖泊，雄鱼春季变为红绿色。",
       "ar": "سمكة صغيرة جداً مخططة تعيش في أسراب في الجداول والبحيرات الصافية الباردة، يتحول ذكورها إلى الأحمر والأخضر في الربيع.",
       "he": "דג זעיר מפוספס החי בלהקות בנחלים ובאגמים צלולים וקרירים, הזכרים מאדימים ומוריקים באביב."
@@ -1094,6 +1148,7 @@
       "pt": "Minúsculo peixe couraçado com três espinhos dorsais cujos machos de garganta vermelha constroem e guardam ninhos de fibras vegetais.",
       "nl": "Piepklein gepantserd visje met drie rugstekels waarvan de roodkelige mannetjes nesten van plantenvezels bouwen en bewaken.",
       "hu": "Apró, páncélos hal három háttüskével, vörös torkú hímjei növényi rostokból építenek és őriznek fészket.",
+      "pl": "Maleńka opancerzona ryba z trzema kolcami na grzbiecie; samce o czerwonym podgardlu budują gniazda z włókien roślinnych i ich strzegą.",
       "zh": "微小的披甲鱼，背部有三根硬棘，喉部红色的雄鱼会用植物纤维筑巢并守护。",
       "ar": "سمكة صغيرة جداً مدرعة بثلاث أشواك ظهرية، يبني ذكورها ذوو الحلق الأحمر أعشاشاً من الألياف النباتية ويحرسونها.",
       "he": "דג זעיר משוריין עם שלושה קוצי גב, שזכריו אדומי הגרון בונים ושומרים על קנים מסיבי צמחים."
@@ -1114,6 +1169,7 @@
       "pt": "Arenque prateado que sobe os rios na primavera e hoje enche os Grandes Lagos em cardumes imensos.",
       "nl": "Zilveren haring die in het voorjaar rivieren opzwemt en nu de Grote Meren in enorme scholen vult.",
       "hu": "Ezüstös hering, tavasszal a folyókba vonul fel, és ma hatalmas rajokban tölti meg a Nagy-tavakat.",
+      "pl": "Srebrzysty śledź, który wiosną wstępuje do rzek, a dziś wypełnia ogromnymi ławicami Wielkie Jeziora.",
       "zh": "银色的鲱鱼，春季溯河洄游，如今在五大湖中形成庞大鱼群。",
       "ar": "رنجة فضية تصعد الأنهار في الربيع وتملأ اليوم البحيرات العظمى بأسراب هائلة.",
       "he": "הרינג כסוף שעולה בנהרות באביב וממלא כיום את האגמים הגדולים בלהקות עצומות."
@@ -1134,6 +1190,7 @@
       "pt": "Enorme predador prateado de olho orlado de preto, introduzido no lago Vitória onde domina as águas abertas.",
       "nl": "Massieve zilveren roofvis met een zwartomrande oog, uitgezet in het Victoriameer waar hij het open water beheerst.",
       "hu": "Hatalmas ezüstös ragadozó fekete szegélyű szemmel, a Viktória-tóba telepítették, ahol uralja a nyílt vizet.",
+      "pl": "Potężny srebrzysty drapieżnik o oku w czarnej obwódce, introdukowany do Jeziora Wiktorii, gdzie dominuje w otwartej toni.",
       "zh": "体型庞大的银色掠食鱼，眼周有黑圈，被引入维多利亚湖后称霸开阔水域。",
       "ar": "مفترس فضي ضخم بعين محاطة بحافة سوداء، أُدخل إلى بحيرة فيكتوريا حيث يهيمن على المياه المفتوحة.",
       "he": "טורף כסוף עצום עם עין בשוליים שחורים, שהוכנס לאגם ויקטוריה ושולט שם במים הפתוחים."
@@ -1154,6 +1211,7 @@
       "pt": "Ciclídeo cinzento com barras verticais na cauda que incuba as crias na boca, criado e asselvajado em águas quentes de todo o mundo.",
       "nl": "Grijze cichlide met verticale staartbanden die zijn jongen in de bek uitbroedt, gekweekt en verwilderd in warm water wereldwijd.",
       "hu": "Szürke bölcsőszájú hal függőleges farokcsíkokkal, ivadékait a szájában költi, világszerte tenyésztik és elvadult a meleg vizekben.",
+      "pl": "Szara pielęgnica z pionowymi pręgami na ogonie, inkubująca potomstwo w pysku, hodowana i zdziczała w ciepłych wodach na całym świecie.",
       "zh": "灰色的慈鲷，尾部有竖纹，口孵幼鱼，在全球温暖水域被养殖并野化。",
       "ar": "بلطي رمادي بخطوط عمودية على الذيل يحضن صغاره في فمه، يُستزرع ويعيش متوحشاً في المياه الدافئة حول العالم.",
       "he": "ציקליד אפור עם פסים אנכיים בזנב הדוגר על צאצאיו בפיו, מגודל ומשוטט חופשי במים חמים ברחבי העולם."
@@ -1174,6 +1232,7 @@
       "pt": "Predador prateado listrado com dentes em punhal entrelaçados, caça em rios africanos rápidos como o Zambeze.",
       "nl": "Gestreepte zilveren roofvis met in elkaar grijpende dolktanden die in snelle Afrikaanse rivieren als de Zambezi jaagt.",
       "hu": "Csíkos ezüstös ragadozó egymásba illeszkedő tőrszerű fogakkal, gyors afrikai folyókban, például a Zambéziben vadászik.",
+      "pl": "Pręgowany srebrzysty drapieżnik o zazębiających się sztyletowatych zębach, polujący w bystrych afrykańskich rzekach, takich jak Zambezi.",
       "zh": "带条纹的银色掠食鱼，牙齿如匕首般交错，在赞比西河等湍急的非洲河流中捕食。",
       "ar": "مفترس فضي مخطط بأسنان خنجرية متشابكة، يصطاد في الأنهار الأفريقية السريعة مثل الزامبيزي.",
       "he": "טורף כסוף מפוספס עם שיני פגיון משתלבות, צד בנהרות אפריקאיים מהירים כמו הזמבזי."
@@ -1194,6 +1253,7 @@
       "pt": "Peixe anguiliforme que respira ar com barbatanas filiformes e sobrevive às secas fechado num casulo de lama.",
       "nl": "Palingvormige luchtademende vis met draadvormige vinnen die droogtes overleeft in een moddercocon.",
       "hu": "Angolna alakú, levegőt lélegző hal fonalszerű úszókkal, a szárazságot iszapgubóba zárkózva vészeli át.",
+      "pl": "Węgorzowata ryba oddychająca powietrzem atmosferycznym, o nitkowatych płetwach, która przetrwa suszę zamknięta w mulistym kokonie.",
       "zh": "鳗形的呼吸空气的鱼，鳍呈丝状，干旱时封在泥茧中存活。",
       "ar": "سمكة ثعبانية الشكل تتنفس الهواء بزعانف خيطية، تنجو من الجفاف محبوسة في شرنقة طينية.",
       "he": "דג דמוי צלופח הנושם אוויר עם סנפירים דמויי חוט, השורד בצורת חתום בפקעת בוץ."
@@ -1214,6 +1274,7 @@
       "pt": "Bagre cinzento rechonchudo do Nilo e do Congo que atordoa as presas com descargas de várias centenas de volts.",
       "nl": "Mollige grijze meerval uit de Nijl en de Congo die prooien verdooft met schokken van enkele honderden volt.",
       "hu": "Kövér szürke harcsa a Nílusból és a Kongóból, több száz voltos áramütéssel bénítja meg zsákmányát.",
+      "pl": "Pękaty szary sum z Nilu i Konga, ogłuszający ofiary wyładowaniami o napięciu kilkuset woltów.",
       "zh": "尼罗河和刚果河中的肥硕灰色鲶鱼，能以数百伏特的电击麻痹猎物。",
       "ar": "سلور رمادي ممتلئ من النيل والكونغو يصعق فرائسه بصدمات تبلغ عدة مئات من الفولتات.",
       "he": "שפמנון אפור שמנמן מהנילוס ומהקונגו המהמם את טרפו במכות חשמל של מאות וולטים."
@@ -1234,6 +1295,7 @@
       "pt": "Ciclídeo de rocha com barras azuis do lago Malawi, raspa algas dos pedregulhos em densas multidões territoriais.",
       "nl": "Blauwgestreepte rotscichlide van het Malawimeer die in dichte territoriale groepen algen van rotsblokken graast.",
       "hu": "Kék csíkos sziklalakó bölcsőszájú hal a Malawi-tóból, sűrű, territoriális tömegekben legeli az algát a sziklákról.",
+      "pl": "Skalna pielęgnica z jeziora Malawi w niebieskie pręgi, zeskrobująca glony z głazów w gęstych, terytorialnych skupiskach.",
       "zh": "马拉维湖的蓝色条纹岩栖慈鲷，成群密集地在巨石上刮食藻类并守卫领地。",
       "ar": "بلطي صخري بخطوط زرقاء من بحيرة ملاوي، يرعى الطحالب من الصخور الكبيرة في حشود إقليمية كثيفة.",
       "he": "ציקליד סלעים כחול פסים מאגם מלאווי, רועה אצות מסלעים בהמונים טריטוריאליים צפופים."
@@ -1254,6 +1316,7 @@
       "pt": "Ciclídeo pavão azul iridescente das grutas do lago Malawi, os machos brilham com barbatanas orladas de branco.",
       "nl": "Iriserend blauwe pauwcichlide uit de grotten van het Malawimeer, waarvan de mannetjes stralen met witgerande vinnen.",
       "hu": "Irizáló kék pávacichlida a Malawi-tó barlangjaiból, a hímek fehér szegélyű úszókkal pompáznak.",
+      "pl": "Opalizująca niebieska pielęgnica pawia z jaskiń jeziora Malawi; samce lśnią płetwami o białych krawędziach.",
       "zh": "马拉维湖洞穴中的虹彩蓝色孔雀慈鲷，雄鱼的鳍缘发白闪亮。",
       "ar": "بلطي طاووسي أزرق متقزح من كهوف بحيرة ملاوي، تتوهج ذكوره بزعانف ذات حواف بيضاء.",
       "he": "ציקליד טווס כחול נוצץ ממערות אגם מלאווי, הזכרים זוהרים בסנפירים בשוליים לבנים."
@@ -1274,6 +1337,7 @@
       "pt": "Mbuna do lago Malawi de focinho rombo e carnudo saliente para raspar algas na zona de rebentação.",
       "nl": "Stompneuzige mbuna uit het Malawimeer met een vlezige overhangende snuit om algen in de branding af te schrapen.",
       "hu": "Tompa orrú mbuna a Malawi-tóból húsos, előreálló orral, amellyel a hullámverés zónájában kaparja az algát.",
+      "pl": "Tępopyski pyszczak z grupy mbuna z jeziora Malawi, z mięsistym, wystającym nosem do zeskrobywania glonów w strefie przyboju.",
       "zh": "马拉维湖的钝吻岩栖慈鲷，肉质突出的吻部用于在浪击带刮食藻类。",
       "ar": "مبونا من بحيرة ملاوي بأنف مسطح لحمي بارز لكشط الطحالب في منطقة الأمواج.",
       "he": "מבונה מאגם מלאווי עם חרטום קהה ובשרני בולט לגירוד אצות באזור הגלים."
@@ -1294,6 +1358,7 @@
       "pt": "Elegante ciclídeo do lago Tanganica com barbatanas em lira, vive em famílias alargadas que partilham os cuidados do ninho.",
       "nl": "Elegante Tanganyikameer-cichlide met liervormige vinnen die in uitgebreide families leeft die de nestzorg delen.",
       "hu": "Elegáns Tanganyika-tavi bölcsőszájú hal líra alakú úszókkal, nagycsaládokban él, amelyek megosztják a fészekgondozást.",
+      "pl": "Elegancka pielęgnica z jeziora Tanganika o lirowatych płetwach, żyjąca w wielopokoleniowych rodzinach, które wspólnie opiekują się gniazdem.",
       "zh": "坦噶尼喀湖的优雅慈鲷，鳍呈琴形，以大家庭群体生活并共同照料巢穴。",
       "ar": "بلطي أنيق من بحيرة تنجانيقا بزعانف على شكل قيثارة، يعيش في عائلات ممتدة تتقاسم رعاية العش.",
       "he": "ציקליד אלגנטי מאגם טנגנייקה עם סנפירים דמויי נבל, חי במשפחות מורחבות החולקות את הטיפול בקן."
@@ -1314,6 +1379,7 @@
       "pt": "Ciclídeo de águas profundas do Tanganica com faixas azul-branco marcadas e testa corcunda, move-se devagar em grupos sobre as rochas.",
       "nl": "Diepwatercichlide uit het Tanganyikameer met opvallende blauwwitte banden en een bultig voorhoofd die traag in groepen over rotsen trekt.",
       "hu": "Mélyvízi Tanganyika-tavi bölcsőszájú hal erős kékesfehér sávokkal és púpos homlokkal, lassan, csoportosan mozog a sziklák fölött.",
+      "pl": "Głębinowa pielęgnica z Tanganiki w wyraziste niebiesko-białe pasy, z garbem na czole, powoli pływająca w grupach nad skałami.",
       "zh": "坦噶尼喀湖的深水慈鲷，蓝白条纹醒目，前额隆起，成群在岩石上缓慢游动。",
       "ar": "بلطي من المياه العميقة في تنجانيقا بأشرطة زرقاء وبيضاء بارزة وجبهة محدبة، يتحرك ببطء في مجموعات فوق الصخور.",
       "he": "ציקליד מים עמוקים מטנגנייקה עם פסים כחולים-לבנים בולטים ומצח גבנוני, נע לאט בקבוצות מעל סלעים."
@@ -1334,6 +1400,7 @@
       "pt": "Ciclídeo de rocha atarracado do Tanganica em dezenas de formas de cor, cada uma confinada ao seu próprio troço de margem.",
       "nl": "Gedrongen rotscichlide uit het Tanganyikameer in tientallen kleurvormen, elk beperkt tot een eigen stuk oever.",
       "hu": "Zömök Tanganyika-tavi sziklalakó bölcsőszájú hal több tucat színváltozatban, mindegyik saját partszakaszára korlátozódik.",
+      "pl": "Krępa skalna pielęgnica z Tanganiki, występująca w dziesiątkach odmian barwnych, z których każda zajmuje własny odcinek brzegu.",
       "zh": "坦噶尼喀湖的粗壮岩栖慈鲷，有数十种色型，每种仅限于自己的一段湖岸。",
       "ar": "بلطي صخري ممتلئ من تنجانيقا بعشرات الأشكال اللونية، كل منها محصور في امتداد شاطئه الخاص.",
       "he": "ציקליד סלעים גוץ מטנגנייקה בעשרות צורות צבע, כל אחת מוגבלת לרצועת החוף שלה."
@@ -1354,6 +1421,7 @@
       "pt": "Um dos maiores peixes de água doce, um gigante couraçado do Amazonas de cauda salpicada de vermelho que sobe para engolir ar.",
       "nl": "Een van de grootste zoetwatervissen, een gepantserde Amazonereus met een roodgevlekte staart die opstijgt om lucht te happen.",
       "hu": "Az egyik legnagyobb édesvízi hal, páncélos amazonasi óriás vörös pettyes farokkal, levegőért emelkedik a felszínre.",
+      "pl": "Jedna z największych ryb słodkowodnych, opancerzony amazoński olbrzym z ogonem w czerwone cętki, wynurzający się, by zaczerpnąć powietrza.",
       "zh": "最大的淡水鱼之一，亚马逊的披甲巨物，尾部有红色斑点，会浮出水面吞气。",
       "ar": "من أكبر أسماك المياه العذبة، عملاق مدرع من الأمازون بذيل مرقط بالأحمر يصعد لابتلاع الهواء.",
       "he": "מדגי המים המתוקים הגדולים ביותר, ענק משוריין מהאמזונס עם זנב מנוקד באדום העולה לבלוע אוויר."
@@ -1374,6 +1442,7 @@
       "pt": "Peixe prateado em forma de fita do Amazonas com dois barbilhos no queixo que salta fora de água para apanhar insetos nos ramos.",
       "nl": "Lintvormige zilveren Amazonevis met twee kindraden die uit het water springt om insecten van takken te grijpen.",
       "hu": "Szalagszerű ezüstös amazonasi hal két állbajuszszállal, kiugrik a vízből, hogy rovarokat kapjon el az ágakról.",
+      "pl": "Wstęgowata srebrzysta ryba amazońska z dwoma wąsikami na podbródku, wyskakująca z wody, by chwytać owady z gałęzi.",
       "zh": "亚马逊的带状银色鱼，下颌有两根须，会跃出水面从树枝上叼食昆虫。",
       "ar": "سمكة فضية شريطية من الأمازون بزائدتين لمسيتين على الذقن، تقفز خارج الماء لخطف الحشرات من الأغصان.",
       "he": "דג כסוף דמוי סרט מהאמזונס עם שני זיפי חישה בסנטר, מזנק מעל המים לחטוף חרקים מענפים."
@@ -1394,6 +1463,7 @@
       "pt": "Peixe prateado de corpo alto, ventre carmesim e dentes afiados, desloca-se em cardumes pelos remansos do Amazonas.",
       "nl": "Hoogrugge zilveren vis met een karmozijnrode buik en vlijmscherpe tanden die in scholen door Amazone-nevenwateren trekt.",
       "hu": "Magas testű ezüstös hal karmazsinvörös hassal és borotvaéles fogakkal, rajokban vonul az Amazonas holtágain.",
+      "pl": "Wysoko wygrzbiecona srebrzysta ryba o karmazynowym brzuchu i ostrych jak brzytwa zębach, pływająca w ławicach w amazońskich rozlewiskach.",
       "zh": "体高的银色鱼，腹部深红，牙齿锋利，成群在亚马逊回水区活动。",
       "ar": "سمكة فضية عالية الجسم ببطن قرمزي وأسنان حادة كالشفرة، تتنقل في أسراب عبر المياه الراكدة للأمازون.",
       "he": "דג כסוף גבוה גוף עם בטן ארגמנית ושיניים חדות כתער, נע בלהקות במים אחוריים של האמזונס."
@@ -1414,6 +1484,7 @@
       "pt": "Grande piranha solitária de olhos vermelhos e corpo escuro em losango, à espreita em afluentes claros e rochosos do Amazonas.",
       "nl": "Grote solitaire piranha met rode ogen en een donker ruitvormig lichaam die in heldere rotsachtige Amazonezijrivieren loert.",
       "hu": "Nagy, magányos piranha vörös szemekkel és sötét, rombusz alakú testtel, tiszta, sziklás amazonasi mellékfolyókban les.",
+      "pl": "Duża samotna pirania o czerwonych oczach i ciemnym, rombowatym ciele, czyhająca w czystych skalistych dopływach Amazonki.",
       "zh": "大型独居的食人鱼，眼睛红色，身体深色呈菱形，潜伏在亚马逊清澈多岩的支流中。",
       "ar": "بيرانا كبيرة انفرادية بعينين حمراوين وجسم داكن معيني الشكل، تترصد في روافد الأمازون الصافية الصخرية.",
       "he": "פיראנה גדולה ובודדת עם עיניים אדומות וגוף כהה בצורת מעוין, אורבת ביובלים צלולים וסלעיים של האמזונס."
@@ -1434,6 +1505,7 @@
       "pt": "Frugívoro semelhante a uma piranha com dentes achatados trituradores e ventre vermelho, reúne-se sob as árvores da floresta inundada.",
       "nl": "Piranha-achtige vruchteneter met platte maaltanden en een rode buik die zich onder overstroomde bosbomen verzamelt.",
       "hu": "Piranhára emlékeztető gyümölcsevő lapos, zúzó fogakkal és vörös hassal, elárasztott erdők fái alatt gyülekezik.",
+      "pl": "Podobny do piranii owocożerca o płaskich miażdżących zębach i czerwonym brzuchu, gromadzący się pod drzewami zalanego lasu.",
       "zh": "外形似食人鱼的食果鱼，牙齿扁平善于碾碎，腹部红色，聚集在被淹没的森林树下。",
       "ar": "آكل فاكهة يشبه البيرانا بأسنان مسطحة ساحقة وبطن أحمر، يتجمع تحت أشجار الغابة المغمورة.",
       "he": "אוכל פירות דמוי פיראנה עם שיניים שטוחות מועכות ובטן אדומה, מתקבץ מתחת לעצי יער מוצף."
@@ -1454,6 +1526,7 @@
       "pt": "Enorme pacu escuro do Amazonas que tritura nozes e sementes caídas sob a copa da floresta inundada.",
       "nl": "Enorme donkere pacu uit de Amazone die gevallen noten en zaden kraakt onder het bladerdak van overstroomd bos.",
       "hu": "Hatalmas, sötét pacu az Amazonasból, az elárasztott erdő lombkoronája alatt lehullott dióféléket és magvakat ropogtat.",
+      "pl": "Ogromny ciemny paku z Amazonki, rozgryzający opadłe orzechy i nasiona pod okapem zalanego lasu.",
       "zh": "亚马逊的巨型深色淡水鲳，在被淹没的森林树冠下嚼食落下的坚果和种子。",
       "ar": "باكو ضخم داكن من الأمازون يطحن المكسرات والبذور المتساقطة تحت مظلة الغابة المغمورة.",
       "he": "פאקו כהה וענק מהאמזונס המפצח אגוזים וזרעים שנשרו מתחת לחופת יער מוצף."
@@ -1474,6 +1547,7 @@
       "pt": "Não é uma enguia mas um peixe-faca, um longo respirador de ar escuro que atordoa as presas com descargas de até 600 volts.",
       "nl": "Geen paling maar een mesvis, een lange donkere luchtademer die prooien verdooft met schokken tot 600 volt.",
       "hu": "Nem angolna, hanem késhal, hosszú, sötét, levegőt lélegző hal, amely akár 600 voltos ütéssel bénítja meg zsákmányát.",
+      "pl": "Nie węgorz, lecz ryba z rzędu strętwokształtnych: długa, ciemna, oddychająca powietrzem atmosferycznym, ogłuszająca ofiary wyładowaniami do 600 woltów.",
       "zh": "并非真正的鳗鱼而是裸背电鳗，体长而深色，能呼吸空气，以高达600伏的电击麻痹猎物。",
       "ar": "ليس ثعبان ماء بل سمكة سكين، طويلة داكنة تتنفس الهواء وتصعق فرائسها بصدمات تصل إلى 600 فولت.",
       "he": "לא צלופח אלא דג סכין, נושם אוויר ארוך וכהה המהמם טרף במכות חשמל של עד 600 וולט."
@@ -1494,6 +1568,7 @@
       "pt": "Grande bagre do Amazonas de dorso escuro, ventre branco e cauda vermelho alaranjada viva, repousa em poços fundos dos rios.",
       "nl": "Grote Amazonemeerval met een donkere rug, witte buik en feloranjerode staart die in diepe rivierpoelen rust.",
       "hu": "Nagy amazonasi harcsa sötét háttal, fehér hassal és élénk narancsvörös farokkal, mély folyami medencékben pihen.",
+      "pl": "Duży amazoński sum o ciemnym grzbiecie, białym brzuchu i jaskrawym pomarańczowoczerwonym ogonie, odpoczywający w głębokich plosach rzek.",
       "zh": "大型亚马逊鲶鱼，背部深色，腹部白色，尾鳍鲜橙红色，栖息于河流深潭。",
       "ar": "سلور أمازوني كبير بظهر داكن وبطن أبيض وذيل برتقالي أحمر زاهٍ، يستريح في برك الأنهار العميقة.",
       "he": "שפמנון אמזונס גדול עם גב כהה, בטן לבנה וזנב כתום-אדום בוהק, נח בבריכות נהר עמוקות."
@@ -1514,6 +1589,7 @@
       "pt": "Bagre listrado e esguio de focinho longo e achatado, caça à noite ao longo dos canais arenosos dos rios sul-americanos.",
       "nl": "Slanke gestreepte meerval met een lange afgeplatte snuit die 's nachts langs zandige Zuid-Amerikaanse riviergeulen jaagt.",
       "hu": "Karcsú, csíkos harcsa hosszú, lapított orral, éjjel vadászik a dél-amerikai folyók homokos medrei mentén.",
+      "pl": "Smukły pręgowany sum o długim spłaszczonym pysku, polujący nocą wzdłuż piaszczystych koryt rzek Ameryki Południowej.",
       "zh": "流线型的条纹鲶鱼，吻长而扁平，夜间沿南美河流的沙质河道捕食。",
       "ar": "سلور مخطط انسيابي بخطم طويل مسطح، يصطاد ليلاً على طول القنوات الرملية لأنهار أمريكا الجنوبية.",
       "he": "שפמנון מפוספס וחלק עם חרטום ארוך ושטוח, צד בלילה לאורך ערוצי נהר חוליים בדרום אמריקה."
@@ -1534,6 +1610,7 @@
       "pt": "Ciclídeo agressivo do Amazonas com três barras escuras e um ocelo na cauda, embosca peixes junto a troncos submersos.",
       "nl": "Agressieve Amazonecichlide met drie donkere banden en een oogvlek op de staart die vissen bij verzonken hout belaagt.",
       "hu": "Agresszív amazonasi bölcsőszájú hal három sötét sávval és farokfoltjával, elsüllyedt fák mentén les halakra.",
+      "pl": "Agresywna amazońska pielęgnica z trzema ciemnymi pręgami i plamą oczną na ogonie, atakująca ryby z zasadzki przy zatopionym drewnie.",
       "zh": "好斗的亚马逊慈鲷，体侧有三条深色竖纹，尾部有眼斑，在沉木旁伏击鱼类。",
       "ar": "بلطي أمازوني عدواني بثلاثة أشرطة داكنة وبقعة عينية على الذيل، يكمن للأسماك بجوار الأخشاب الغارقة.",
       "he": "ציקליד אמזונס תוקפני עם שלושה פסים כהים וכתם עין בזנב, אורב לדגים לאורך עצים שקועים."
@@ -1554,6 +1631,7 @@
       "pt": "Ciclídeo robusto e escuro com marmoreado laranja e um ocelo na cauda, patrulha águas lentas do Amazonas e margens inundadas.",
       "nl": "Stevige donkere cichlide met oranje marmering en een oogvlek op de staart die trage Amazonewateren en overstroomde oevers afzoekt.",
       "hu": "Zömök, sötét bölcsőszájú hal narancssárga márványozással és farokfolttal, lassú amazonasi vizeket és elárasztott partokat jár be.",
+      "pl": "Krępa ciemna pielęgnica z pomarańczowym marmurkowaniem i plamą oczną na ogonie, patrolująca wolno płynące wody Amazonii i zalane brzegi.",
       "zh": "粗壮的深色慈鲷，带橙色大理石纹，尾部有眼斑，在亚马逊缓流水域和淹没的岸边巡游。",
       "ar": "بلطي داكن ممتلئ برخامية برتقالية وبقعة عينية على الذيل، يجوب مياه الأمازون البطيئة والحواف المغمورة.",
       "he": "ציקליד כהה ומוצק עם שיוש כתום וכתם עין בזנב, מסייר במימי אמזונס איטיים ובשוליים מוצפים."
@@ -1574,6 +1652,7 @@
       "pt": "Ciclídeo amazónico alto e discoide com barbatanas alongadas e riscas verticais, flutua entre raízes submersas.",
       "nl": "Hoge, schijfvormige Amazonecichlide met lange vinnen en verticale strepen die tussen verzonken wortels zweeft.",
       "hu": "Magas, korong alakú amazonasi bölcsőszájú hal hosszú úszókkal és függőleges csíkokkal, elmerült gyökerek között lebeg.",
+      "pl": "Wysoka, dyskowata amazońska pielęgnica o wydłużonych płetwach i pionowych pręgach, unosząca się wśród zatopionych korzeni.",
       "zh": "体高呈圆盘状的亚马逊慈鲷，鳍长而飘逸，体侧有竖纹，在沉没的树根间漂游。",
       "ar": "بلطي أمازوني عالٍ قرصي الشكل بزعانف طويلة وخطوط عمودية، ينساب بين الجذور المغمورة.",
       "he": "ציקליד אמזונס גבוה ודמוי דיסקה עם סנפירים ארוכים ופסים אנכיים, נסחף בין שורשים שקועים."
@@ -1594,6 +1673,7 @@
       "pt": "Ciclídeo redondo e comprimido com linhas azuis onduladas que alimenta as crias com o muco da própria pele.",
       "nl": "Ronde, zijdelings afgeplatte cichlide met golvende blauwe lijnen die zijn jongen voedt met slijm van zijn eigen huid.",
       "hu": "Kerek, oldalról lapított bölcsőszájú hal hullámos kék vonalakkal, ivadékait saját bőrének nyálkájával táplálja.",
+      "pl": "Okrągła, bocznie spłaszczona pielęgnica z falistymi niebieskimi liniami, karmiąca narybek śluzem z własnej skóry.",
       "zh": "圆形侧扁的慈鲷，体侧有波浪状蓝纹，用自身皮肤分泌的黏液喂养幼鱼。",
       "ar": "بلطي دائري مفلطح الجانبين بخطوط زرقاء متموجة يطعم صغاره بالمخاط من جلده.",
       "he": "ציקליד עגול ושטוח מהצדדים עם קווים כחולים גליים המאכיל את צאצאיו בריר מעורו שלו."
@@ -1614,6 +1694,7 @@
       "pt": "Bagre couraçado de boca em ventosa com barbatana dorsal alta e manchas de leopardo, raspa algas da madeira e da rocha.",
       "nl": "Gepantserde zuigmondmeerval met een hoge rugvin en luipaardvlekken die algen van hout en rots schraapt.",
       "hu": "Páncélos, tapadószájú harcsa magas hátúszóval és leopárdfoltokkal, fáról és szikláról kaparja le az algát.",
+      "pl": "Opancerzony sum z przyssawkowym otworem gębowym, o wysokiej płetwie grzbietowej i lamparcich cętkach, zeskrobujący glony z drewna i skał.",
       "zh": "披甲的吸口鲶鱼，背鳍高耸，身披豹纹斑点，刮食木头和岩石上的藻类。",
       "ar": "سلور مدرع ذو فم ماص بزعنفة ظهرية عالية وبقع كالفهد، يكشط الطحالب عن الخشب والصخر.",
       "he": "שפמנון משוריין עם פה מצץ, סנפיר גב גבוה וכתמי נמר, מגרד אצות מעץ ומסלע."
@@ -1634,6 +1715,7 @@
       "pt": "Minúsculo tetra com uma risca azul néon sobre uma faixa vermelha a todo o comprimento, forma cardumes nas águas escuras do Rio Negro.",
       "nl": "Piepkleine tetra met een neonblauwe streep boven een rode band over de hele lengte die in scholen door het donkere water van de Rio Negro zwemt.",
       "hu": "Apró pontylazac neonkék csíkkal egy teljes hosszúságú vörös sáv fölött, a Rio Negro sötét vizében rajzik.",
+      "pl": "Maleńka kąsaczowata rybka z neonowoniebieskim paskiem nad czerwonym pasem biegnącym przez całą długość ciała, pływająca w ławicach w ciemnych wodach Rio Negro.",
       "zh": "微小的脂鲤，霓虹蓝色条纹下是贯穿全身的红带，成群游弋在内格罗河的黑水中。",
       "ar": "تترا صغيرة جداً بخط أزرق نيوني فوق شريط أحمر على طول الجسم، تعيش في أسراب في مياه ريو نيغرو الداكنة.",
       "he": "טטרה זעירה עם פס כחול ניאון מעל רצועה אדומה לכל האורך, נעה בלהקות במים הכהים של ריו נגרו."
@@ -1654,6 +1736,7 @@
       "pt": "Tetra prateado dos rios mexicanos cujas populações de gruta são cegas e pálidas, um favorito dos mergulhadores de cenotes.",
       "nl": "Zilveren tetra van Mexicaanse rivieren waarvan de grotpopulaties blind en bleek zijn, een favoriet van cenote-duikers.",
       "hu": "Ezüstös pontylazac a mexikói folyókból, barlangi populációi vakok és sápadtak, a cenote-búvárok kedvence.",
+      "pl": "Srebrzysta kąsaczowata ryba z rzek Meksyku, której populacje jaskiniowe są ślepe i blade; ulubienica nurków w cenotach.",
       "zh": "墨西哥河流中的银色脂鲤，其洞穴种群失明且体色苍白，深受天然井潜水者喜爱。",
       "ar": "تترا فضية من أنهار المكسيك، مجموعاتها الكهفية عمياء وشاحبة، مفضلة لدى غواصي السينوتي.",
       "he": "טטרה כסופה מנהרות מקסיקו שאוכלוסיות המערות שלה עיוורות וחיוורות, אהובה על צוללני הסנוטות."
@@ -1674,6 +1757,7 @@
       "pt": "Gigante desdentado do Mekong criticamente ameaçado, cinzento e sem barbilhos, que outrora atingia três metros.",
       "nl": "Ernstig bedreigde tandeloze reus van de Mekong, grijs en zonder baarddraden, ooit tot drie meter lang.",
       "hu": "Kritikusan veszélyeztetett, fogatlan óriás a Mekongból, szürke és bajuszszál nélküli, egykor három méteresre nőtt.",
+      "pl": "Krytycznie zagrożony bezzębny olbrzym z Mekongu, szary i pozbawiony wąsów, osiągający niegdyś trzy metry.",
       "zh": "湄公河中极度濒危的无齿巨型鲶鱼，灰色无须，曾可长达三米。",
       "ar": "عملاق بلا أسنان من نهر الميكونغ مهدد بالانقراض بشدة، رمادي وبلا زوائد لمسية، كان يبلغ ثلاثة أمتار.",
       "he": "ענק חסר שיניים מהמקונג בסכנת הכחדה חמורה, אפור וללא זיפי חישה, שהגיע בעבר לשלושה מטרים."
@@ -1694,6 +1778,7 @@
       "pt": "A maior carpa do mundo, um gigante do Mekong de escamas grandes e cabeça enorme, hoje raro em poços fundos do rio.",
       "nl": "De grootste karper ter wereld, een grootschubbige Mekongreus met een enorme kop, nu zeldzaam in diepe rivierpoelen.",
       "hu": "A világ legnagyobb pontyféléje, nagy pikkelyű mekongi óriás hatalmas fejjel, ma már ritka a mély folyami medencékben.",
+      "pl": "Największa ryba karpiowata świata, olbrzym z Mekongu o dużych łuskach i ogromnej głowie, dziś rzadki w głębokich plosach rzek.",
       "zh": "世界上最大的鲤科鱼，湄公河的大鳞巨物，头部巨大，如今在河流深潭中已很稀少。",
       "ar": "أكبر شبوط في العالم، عملاق الميكونغ بحراشف كبيرة ورأس ضخم، أصبح نادراً في برك الأنهار العميقة.",
       "he": "הקרפיון הגדול בעולם, ענק מהמקונג עם קשקשים גדולים וראש עצום, נדיר כיום בבריכות נהר עמוקות."
@@ -1714,6 +1799,7 @@
       "pt": "Peixe-dragão vermelho ou dourado metálico dos rios de águas negras do Sudeste Asiático, desliza logo abaixo da superfície.",
       "nl": "Metaalrode of gouden drakenvis van Zuidoost-Aziatische zwartwaterrivieren die vlak onder het oppervlak glijdt.",
       "hu": "Fémes vörös vagy arany sárkányhal Délkelet-Ázsia feketevizű folyóiból, közvetlenül a felszín alatt siklik.",
+      "pl": "Metalicznie czerwona lub złota smocza ryba z czarnowodnych rzek Azji Południowo-Wschodniej, sunąca tuż pod powierzchnią.",
       "zh": "东南亚黑水河流中的金属红色或金色龙鱼，紧贴水面下方滑行。",
       "ar": "سمكة التنين الحمراء أو الذهبية المعدنية من أنهار المياه السوداء في جنوب شرق آسيا، تنساب تحت السطح مباشرة.",
       "he": "דג דרקון אדום או זהוב מתכתי מנהרות מים שחורים בדרום-מזרח אסיה, מחליק ממש מתחת לפני המים."
@@ -1734,6 +1820,7 @@
       "pt": "Predador fusiforme que respira ar com cabeça achatada de serpente, guarda as crias em lagoas asiáticas com vegetação.",
       "nl": "Torpedovormige luchtademende roofvis met een platte slangenkop die zijn jongen in begroeide Aziatische vijvers bewaakt.",
       "hu": "Torpedó alakú, levegőt lélegző ragadozó lapos, kígyószerű fejjel, ivadékait hínáros ázsiai tavakban őrzi.",
+      "pl": "Torpedowaty drapieżnik oddychający powietrzem atmosferycznym, o płaskiej wężowatej głowie, strzegący narybku w zarośniętych azjatyckich stawach.",
       "zh": "鱼雷形的呼吸空气的掠食鱼，头扁平似蛇，在水草茂密的亚洲池塘中守护幼鱼。",
       "ar": "مفترس على شكل طوربيد يتنفس الهواء برأس مسطح يشبه الثعبان، يحرس صغاره في البرك الآسيوية العشبية.",
       "he": "טורף דמוי טורפדו הנושם אוויר עם ראש שטוח דמוי נחש, שומר על צאצאיו בבריכות אסייתיות עשירות בצמחייה."
@@ -1754,6 +1841,7 @@
       "pt": "Grande e feroz cabeça-de-cobra, listrado em jovem e escuro em adulto, defende as crias vermelho vivo em lagos do Sudeste Asiático.",
       "nl": "Grote, felle slangenkopvis, gestreept als jong en donker als volwassene, die zijn felrode jongen in Zuidoost-Aziatische meren verdedigt.",
       "hu": "Nagy, harcias kígyófejű hal, fiatalon csíkos, felnőttként sötét, élénkvörös ivadékait délkelet-ázsiai tavakban védi.",
+      "pl": "Duży, agresywny żmijogłów, za młodu pręgowany, a po dorośnięciu ciemny, broniący jaskrawoczerwonego narybku w jeziorach Azji Południowo-Wschodniej.",
       "zh": "大型凶猛的鳢鱼，幼时带条纹，成年后体色变深，在东南亚湖泊中保护鲜红色的幼鱼。",
       "ar": "رأس ثعبان كبير شرس، مخطط في صغره وداكن عند البلوغ، يدافع عن صغاره الحمراء الزاهية في بحيرات جنوب شرق آسيا.",
       "he": "ראש נחש גדול ופראי, מפוספס בצעירותו וכהה בבגרותו, מגן על צאצאיו האדומים הבוהקים באגמי דרום-מזרח אסיה."
@@ -1774,6 +1862,7 @@
       "pt": "Peixe oliva resistente que respira ar e rasteja por terra sobre os opérculos espinhosos entre charcos que secam.",
       "nl": "Taaie olijfkleurige vis die lucht ademt en over land kruipt op zijn stekelige kieuwdeksels tussen opdrogende poelen.",
       "hu": "Szívós olajzöld hal, levegőt lélegzik és tüskés kopoltyúfedőin kúszik a szárazföldön a kiszáradó tócsák között.",
+      "pl": "Wytrzymała oliwkowa ryba, która oddycha powietrzem atmosferycznym i pełza po lądzie między wysychającymi zbiornikami, podpierając się kolczastymi pokrywami skrzelowymi.",
       "zh": "耐受力强的橄榄色鱼，能呼吸空气，并借助带刺的鳃盖在干涸水塘间爬行。",
       "ar": "سمكة زيتونية صلبة تتنفس الهواء وتزحف على اليابسة بأغطيتها الخيشومية الشوكية بين البرك الجافة.",
       "he": "דג זית עמיד הנושם אוויר וזוחל ביבשה על מכסי הזימים הקוצניים שלו בין שלוליות מתייבשות."
@@ -1794,6 +1883,7 @@
       "pt": "Carpa de escamas douradas dos rios dos Himalaias, nadadora poderosa que se mantém em poços claros e rápidos abaixo das corredeiras.",
       "nl": "Goudgeschubde karper van Himalayarivieren, een krachtige zwemmer die in snelle heldere poelen onder stroomversnellingen staat.",
       "hu": "Aranypikkelyű pontyféle a Himalája folyóiból, erős úszó, a zúgók alatti gyors, tiszta medencékben áll.",
+      "pl": "Ryba karpiowata o złotych łuskach z himalajskich rzek, silny pływak trzymający się w bystrych, czystych plosach poniżej bystrzy.",
       "zh": "喜马拉雅河流中的金鳞鲤科鱼，游泳有力，栖息在急流下方清澈湍急的水潭中。",
       "ar": "شبوط ذهبي الحراشف من أنهار الهيمالايا، سبّاح قوي يستقر في البرك الصافية السريعة أسفل المنحدرات.",
       "he": "קרפיון זהוב קשקשים מנהרות ההימלאיה, שחיין חזק השוהה בבריכות צלולות ומהירות מתחת לאשדות."
@@ -1814,6 +1904,7 @@
       "pt": "Carpa ornamental criada no Japão em padrões brancos, vermelhos, pretos e dourados, à vontade em tanques e lagos quentes e claros.",
       "nl": "Sierkarper die in Japan is gefokt in witte, rode, zwarte en gouden patronen, thuis in vijvers en warme heldere meren.",
       "hu": "Japánban fehér, vörös, fekete és arany mintázatúra nemesített díszponty, tavakban és meleg, tiszta tavakban érzi otthon magát.",
+      "pl": "Ozdobny karp wyhodowany w Japonii w białych, czerwonych, czarnych i złotych wzorach, dobrze czujący się w stawach i ciepłych, czystych jeziorach.",
       "zh": "在日本培育的观赏鲤，有白、红、黑、金等花纹，栖息于池塘和温暖清澈的湖泊。",
       "ar": "شبوط للزينة استُولد في اليابان بأنماط بيضاء وحمراء وسوداء وذهبية، يعيش في البرك والبحيرات الدافئة الصافية.",
       "he": "קרפיון נוי שטופח ביפן בדוגמאות לבנות, אדומות, שחורות וזהובות, חי בבריכות ובאגמים חמימים וצלולים."
@@ -1834,6 +1925,7 @@
       "pt": "Carpa asiática domesticada que reverte para oliva bronze na natureza, formando grandes cardumes asselvajados em lagos quentes.",
       "nl": "Gedomesticeerde Aziatische karper die in het wild olijfbrons wordt en grote verwilderde scholen vormt in warme meren.",
       "hu": "Háziasított ázsiai pontyféle, a vadonban olívabronz színűvé válik, meleg tavakban nagy elvadult rajokat alkot.",
+      "pl": "Udomowiona azjatycka ryba karpiowata, która na wolności wraca do oliwkowobrązowego ubarwienia i tworzy duże zdziczałe ławice w ciepłych jeziorach.",
       "zh": "驯化的亚洲鲫鱼，野化后恢复橄榄古铜色，在温暖湖泊中形成大群。",
       "ar": "شبوط آسيوي مستأنس يعود إلى اللون الزيتوني البرونزي في البرية، مكوّناً أسراباً متوحشة كبيرة في البحيرات الدافئة.",
       "he": "קרפיון אסייתי מבוית שחוזר לגוון זית-ארד בטבע ויוצר להקות פראיות גדולות באגמים חמימים."
@@ -1854,6 +1946,7 @@
       "pt": "Peixe largo e corcunda do Sudeste Asiático com barbatanas pélvicas filiformes que constrói ninhos de bolhas em água lenta com vegetação.",
       "nl": "Brede, bultige Zuidoost-Aziatische vis met draadvormige buikvinnen die schuimnesten bouwt in traag, begroeid water.",
       "hu": "Széles, púpos délkelet-ázsiai hal fonalszerű hasúszókkal, lassú, hínáros vízben habfészket épít.",
+      "pl": "Szeroka, garbata ryba z Azji Południowo-Wschodniej o nitkowatych płetwach brzusznych, budująca gniazda z piany w wolno płynącej, zarośniętej wodzie.",
       "zh": "宽大驼背的东南亚鱼类，腹鳍呈丝状，在缓慢多草的水中筑泡巢。",
       "ar": "سمكة عريضة محدبة من جنوب شرق آسيا بزعانف حوضية خيطية تبني أعشاشاً من الفقاعات في المياه البطيئة العشبية.",
       "he": "דג רחב וגבנוני מדרום-מזרח אסיה עם סנפירי אגן דמויי חוט הבונה קני בועות במים איטיים ועשירי צמחייה."
@@ -1874,6 +1967,7 @@
       "pt": "Peixe prateado em forma de lâmina com ocelos ao longo de uma longa barbatana anal ondulante, paira sob troncos de rios asiáticos.",
       "nl": "Zilveren mesvormige vis met oogvlekken langs een lange golvende aarsvin die onder verzonken hout in Aziatische rivieren zweeft.",
       "hu": "Ezüstös, pengeszerű hal szemfoltokkal a hosszú, hullámzó farokalatti úszó mentén, ázsiai folyók fatörzsei alatt lebeg.",
+      "pl": "Srebrzysta ryba w kształcie ostrza, z plamami ocznymi wzdłuż długiej falującej płetwy odbytowej, unosząca się pod zatopionymi pniami azjatyckich rzek.",
       "zh": "银色刀形鱼，长而波动的臀鳍上有眼状斑点，悬停在亚洲河流的沉木下。",
       "ar": "سمكة فضية على شكل نصل ببقع عينية على طول زعنفة شرجية طويلة متموجة، تحوم تحت جذوع أنهار آسيا.",
       "he": "דג כסוף דמוי להב עם כתמי עין לאורך סנפיר שת ארוך וגלי, מרחף מתחת לגזעים בנהרות אסיה."
@@ -1894,6 +1988,7 @@
       "pt": "Bagre esguio que respira ar e serpenteia sobre solo húmido entre lagoas, hoje asselvajado na Florida.",
       "nl": "Slanke luchtademende meerval die over natte grond tussen vijvers kronkelt, nu verwilderd in Florida.",
       "hu": "Karcsú, levegőt lélegző harcsa, nedves talajon tekereg a tavak között, ma Floridában elvadult.",
+      "pl": "Smukły sum oddychający powietrzem atmosferycznym, który wijąc się, pokonuje mokry grunt między stawami; dziś zdziczały na Florydzie.",
       "zh": "细长的呼吸空气的鲶鱼，能在池塘间的湿地上蠕动前行，如今在佛罗里达已野化。",
       "ar": "سلور نحيل يتنفس الهواء ويتلوى عبر الأرض الرطبة بين البرك، أصبح الآن متوحشاً في فلوريدا.",
       "he": "שפמנון דק הנושם אוויר ומתפתל על קרקע רטובה בין בריכות, כיום משוטט חופשי בפלורידה."
@@ -1914,6 +2009,7 @@
       "pt": "Enguia da Ásia Oriental que cresce em rios e lagos e migra para o Pacífico ocidental para desovar.",
       "nl": "Oost-Aziatische paling die opgroeit in rivieren en meren en naar de westelijke Stille Oceaan trekt om te paaien.",
       "hu": "Kelet-ázsiai angolna, folyókban és tavakban nő fel, ívni a Csendes-óceán nyugati részére vándorol.",
+      "pl": "Wschodnioazjatycki węgorz, który dorasta w rzekach i jeziorach, a na tarło wędruje na zachodni Pacyfik.",
       "zh": "东亚鳗鱼，在河流湖泊中成长，洄游至西太平洋产卵。",
       "ar": "ثعبان ماء من شرق آسيا ينمو في الأنهار والبحيرات ويهاجر إلى غرب المحيط الهادئ للتكاثر.",
       "he": "צלופח מזרח אסייתי הגדל בנהרות ובאגמים ונודד למערב האוקיינוס השקט להטלה."
@@ -1934,6 +2030,7 @@
       "pt": "Esguio peixe prateado japonês que raspa algas das pedras em rios claros e defende um território de alimentação.",
       "nl": "Slanke zilveren Japanse zoetwatervis die algen van stenen in heldere rivieren graast en een voedselterritorium verdedigt.",
       "hu": "Karcsú, ezüstös japán hal, tiszta folyók kövein legeli az algát és táplálkozóterületet véd.",
+      "pl": "Smukła srebrzysta japońska ryba, która zeskrobuje glony z kamieni w czystych rzekach i broni terytorium żerowego.",
       "zh": "细长的银色日本香鱼，在清澈河流的石头上刮食藻类并守卫觅食领地。",
       "ar": "سمكة يابانية فضية نحيلة ترعى الطحالب من الحجارة في الأنهار الصافية وتدافع عن منطقة تغذيتها.",
       "he": "דג יפני כסוף ודק הרועה אצות מאבנים בנהרות צלולים ומגן על טריטוריית האכלה."
@@ -1954,6 +2051,7 @@
       "pt": "Peixe-branco prateado exclusivo do lago Baikal, forma cardumes nas águas frias abertas e sobe os rios para desovar.",
       "nl": "Zilveren houting die alleen in het Baikalmeer voorkomt, scholen in het koude open water en rivieren opzwemt om te paaien.",
       "hu": "Ezüstös maréna, amely csak a Bajkál-tóban él, a hideg nyílt vízben rajzik és ívni a folyókba vonul fel.",
+      "pl": "Srebrzysta ryba siejowata występująca wyłącznie w Bajkale, pływająca w ławicach w zimnej toni i wstępująca na tarło do rzek.",
       "zh": "仅见于贝加尔湖的银色白鲑，在寒冷的开阔水域成群活动，溯河产卵。",
       "ar": "سمكة بيضاء فضية لا توجد إلا في بحيرة بايكال، تتجمع في أسراب في المياه المفتوحة الباردة وتصعد الأنهار للتكاثر.",
       "he": "דג לבן כסוף המצוי רק באגם באיקל, נע בלהקות במים הפתוחים הקרים ועולה בנהרות להטלה."
@@ -1974,6 +2072,7 @@
       "pt": "Peixe translúcido sem escamas das profundezas do Baikal, tão rico em óleo que é quase transparente, e vivíparo.",
       "nl": "Doorschijnende, schubloze vis uit de diepten van het Baikalmeer, zo olierijk dat hij bijna doorzichtig is, en levendbarend.",
       "hu": "Áttetsző, pikkely nélküli hal a Bajkál-tó mélyéből, olyan olajdús, hogy szinte átlátszó, és elevenszülő.",
+      "pl": "Półprzezroczysta, bezłuska ryba z głębin Bajkału, tak bogata w tłuszcz, że niemal przejrzysta, rodząca żywe młode.",
       "zh": "贝加尔湖深处的半透明无鳞鱼，体内油脂丰富几近透明，为卵胎生。",
       "ar": "سمكة شفافة بلا حراشف من أعماق بايكال، غنية بالزيت لدرجة تكاد تكون شفافة، وتلد صغاراً أحياء.",
       "he": "דג שקוף למחצה וחסר קשקשים ממעמקי באיקל, עשיר בשמן עד שכמעט רואים דרכו, ומשריץ צאצאים חיים."
@@ -1994,6 +2093,7 @@
       "pt": "O maior peixe de água doce da Austrália, um gigante verde mosqueado de ventre branco, mantém-se junto a troncos no Murray-Darling.",
       "nl": "Australië's grootste zoetwatervis, een groengevlekte reus met witte buik die naast verzonken hout in de Murray-Darling staat.",
       "hu": "Ausztrália legnagyobb édesvízi hala, zöldesen márványozott óriás fehér hassal, a Murray-Darling fatörzsei mellett áll.",
+      "pl": "Największa słodkowodna ryba Australii, zielono marmurkowany olbrzym z białym brzuchem, stojący przy zatopionych pniach w dorzeczu Murray-Darling.",
       "zh": "澳大利亚最大的淡水鱼，绿色斑纹巨物，腹部白色，栖息于墨累-达令河的沉木旁。",
       "ar": "أكبر أسماك المياه العذبة في أستراليا، عملاق أخضر مرقط ببطن أبيض، يستقر بجوار الجذوع في نهر موراي دارلينغ.",
       "he": "דג המים המתוקים הגדול ביותר באוסטרליה, ענק ירוק מנומר עם בטן לבנה, שוהה ליד גזעים במורי-דארלינג."
@@ -2014,6 +2114,7 @@
       "pt": "Perca de corpo alto de tom oliva dourado dos rios interiores da Austrália, abriga-se junto a árvores caídas e saliências rochosas.",
       "nl": "Hoogrugge goudolijfkleurige baars van Australische binnenlandse rivieren die bij omgevallen bomen en rotsrichels schuilt.",
       "hu": "Magas testű, aranyzöld sügér Ausztrália belső folyóiból, kidőlt fák és sziklapárkányok mellett rejtőzik.",
+      "pl": "Wysokogrzbiety, złotooliwkowy okoń śródlądowych rzek Australii, kryjący się przy powalonych drzewach i półkach skalnych.",
       "zh": "澳大利亚内陆河流的高身金橄榄色鲈鱼，藏身于倒木和岩架旁。",
       "ar": "فرخ ذهبي زيتوني عالي الجسم من أنهار أستراليا الداخلية، يحتمي بجوار الأخشاب الساقطة والحواف الصخرية.",
       "he": "דקר זהוב-זית גבוה גוף מנהרות פנים אוסטרליה, מסתתר ליד עצים שנפלו ומדפי סלע."
@@ -2034,6 +2135,7 @@
       "pt": "Perca verde bronze dos rios costeiros do leste da Austrália que migra rio abaixo para desovar em estuários salobros.",
       "nl": "Bronsgroene baars van kustrivieren in oostelijk Australië die stroomafwaarts trekt om in brakke estuaria te paaien.",
       "hu": "Bronzzöld sügér Kelet-Ausztrália parti folyóiból, ívni lefelé vándorol a brakkvizű torkolatokba.",
+      "pl": "Brązowozielony okoń przybrzeżnych rzek wschodniej Australii, który na tarło spływa w dół rzeki do słonawych estuariów.",
       "zh": "澳大利亚东部沿海河流的古铜绿色鲈鱼，顺流而下到半咸水河口产卵。",
       "ar": "قاروص أخضر برونزي من أنهار شرق أستراليا الساحلية يهاجر مع مجرى النهر للتكاثر في مصبات المياه المالحة قليلاً.",
       "he": "בס ירוק-ארד מנהרות החוף של מזרח אוסטרליה הנודד במורד הזרם להטיל בשפכים מליחים."
@@ -2054,6 +2156,7 @@
       "pt": "Perca prateada de dorso corcunda dos rios e estuários do norte da Austrália, que muda de macho para fêmea com a idade.",
       "nl": "Zilveren baars met bochel van rivieren en estuaria in Noord-Australië die met de leeftijd van mannetje in vrouwtje verandert.",
       "hu": "Ezüstös, púpos hátú sügér Észak-Ausztrália folyóiból és torkolataiból, korával hímből nősténnyé alakul.",
+      "pl": "Srebrzysty, garbaty okoń rzek i estuariów północnej Australii, z wiekiem zmieniający płeć z męskiej na żeńską.",
       "zh": "澳大利亚北部河流和河口的银色驼背鲈鱼，随年龄由雄性转变为雌性。",
       "ar": "فرخ فضي محدب الظهر من أنهار ومصبات شمال أستراليا، يتحول من ذكر إلى أنثى مع التقدم في العمر.",
       "he": "דקר כסוף גבנוני מנהרות ושפכים בצפון אוסטרליה, המשנה את מינו מזכר לנקבה עם הגיל."
@@ -2074,6 +2177,7 @@
       "pt": "Peixe cinzento prateado do Murray-Darling de boca pequena e cauda bifurcada, outrora em cardumes enormes.",
       "nl": "Zilvergrijze vis van de Murray-Darling met een kleine bek en gevorkte staart, ooit in enorme scholen.",
       "hu": "Ezüstszürke hal a Murray-Darlingból kis szájjal és villás farokkal, egykor hatalmas rajokban járt.",
+      "pl": "Srebrzystoszary terapon z dorzecza Murray-Darling o małym pysku i rozwidlonym ogonie, niegdyś pływający w ogromnych ławicach.",
       "zh": "墨累-达令河的银灰色鱼，嘴小，尾鳍分叉，曾经成群数量庞大。",
       "ar": "سمكة رمادية فضية من نهر موراي دارلينغ بفم صغير وذيل متشعب، كانت تتجمع في أسراب هائلة.",
       "he": "דג אפור-כסוף ממורי-דארלינג עם פה קטן וזנב מפוצל, שנע בעבר בלהקות עצומות."
@@ -2094,6 +2198,7 @@
       "pt": "Arowana australiana bronzeada de escamas salpicadas de vermelho que incuba os ovos na boca nos billabongs do norte.",
       "nl": "Bronskleurige Australische arowana met roodgevlekte schubben die haar eieren in de bek uitbroedt in noordelijke billabongs.",
       "hu": "Bronzszínű ausztrál arowana vörös pettyes pikkelyekkel, ikráit a szájában költi az északi billabongokban.",
+      "pl": "Brązowa australijska arowana o łuskach nakrapianych czerwienią, inkubująca ikrę w pysku w północnych starorzeczach (billabongach).",
       "zh": "古铜色的澳大利亚龙鱼，鳞片带红色斑点，在北部死水潭中口孵鱼卵。",
       "ar": "أروانا أسترالية برونزية بحراشف مرقطة بالأحمر تحضن بيضها في فمها في برك الشمال.",
       "he": "ארוואנה אוסטרלית ארדית עם קשקשים מנוקדים באדום הדוגרת על ביציה בפיה בבילבונגים הצפוניים."
@@ -2114,6 +2219,7 @@
       "pt": "Peixe escuro e atarracado dos rios do norte da Austrália, alimenta-se de algas e frutos junto a rochas e corredeiras.",
       "nl": "Donkere, gedrongen vis van Noord-Australische rivieren die algen en vruchten rond rotsen en stroomversnellingen graast.",
       "hu": "Sötét, zömök hal Észak-Ausztrália folyóiból, sziklák és zúgók körül algát és gyümölcsöt legel.",
+      "pl": "Ciemny, krępy terapon rzek północnej Australii, skubiący glony i owoce wśród skał i bystrzy.",
       "zh": "澳大利亚北部河流的深色粗壮鱼类，在岩石和急流周围以藻类和果实为食。",
       "ar": "سمكة داكنة ممتلئة من أنهار شمال أستراليا، ترعى الطحالب والفاكهة حول الصخور والمنحدرات.",
       "he": "דג כהה ומוצק מנהרות צפון אוסטרליה, רועה אצות ופירות סביב סלעים ואשדות."
@@ -2134,6 +2240,7 @@
       "pt": "Bagre australiano de cauda afilada semelhante à de uma enguia que constrói e guarda um ninho de cascalho em águas rasas e claras.",
       "nl": "Australische meerval met een spits toelopende palingstaart die een grindnest bouwt en bewaakt in heldere ondiepe rivierdelen.",
       "hu": "Ausztrál harcsa elkeskenyedő, angolnaszerű farokkal, tiszta folyói sekélyesekben kavicsfészket épít és őriz.",
+      "pl": "Australijski sum o zwężającym się, węgorzowatym ogonie, który na czystych rzecznych płyciznach buduje żwirowe gniazdo i go pilnuje.",
       "zh": "澳大利亚鲶鱼，尾部渐细似鳗鱼，在清澈河流的浅水区筑砾石巢并守护。",
       "ar": "سلور أسترالي بذيل مدبب يشبه ثعبان الماء يبني عش حصى في المياه الضحلة الصافية ويحرسه.",
       "he": "שפמנון אוסטרלי עם זנב מתחדד דמוי צלופח הבונה ושומר על קן חצץ ברדודים צלולים של נהרות."
@@ -2154,6 +2261,7 @@
       "pt": "Pequeno peixe salpicado de prata presente em todo o interior da Austrália, coloniza qualquer poça que uma cheia ligue.",
       "nl": "Klein zilvergevlekt visje dat in heel binnenlands Australië voorkomt en elke waterpoel koloniseert die een overstroming verbindt.",
       "hu": "Kis, ezüstpettyes hal Ausztrália egész belső részén, minden víznyelőt benépesít, amelyet egy árvíz összeköt.",
+      "pl": "Mały, srebrzyście nakrapiany terapon spotykany w całym interiorze Australii, zasiedlający każde oczko wodne, do którego dotrze powódź.",
       "zh": "体小、带银色斑点的鱼，遍布澳大利亚内陆，洪水连通的任何水潭都会被它占据。",
       "ar": "سمكة صغيرة مرقطة بالفضي منتشرة في أنحاء داخل أستراليا، تستوطن أي بركة يصلها الفيضان.",
       "he": "דג קטן מנוקד בכסף המצוי ברחבי פנים אוסטרליה, מאכלס כל בור מים ששיטפון מחבר אליו."
@@ -2174,6 +2282,7 @@
       "pt": "Pequeno peixe iridescente dos ribeiros do leste da Austrália, os machos exibem ao sol riscas vermelhas e azuis.",
       "nl": "Klein iriserend visje van beken in oostelijk Australië, waarvan de mannetjes in de zon rode en blauwe strepen laten oplichten.",
       "hu": "Kis, irizáló hal Kelet-Ausztrália patakjaiból, a hímek a napfényben vörös és kék csíkokat villantanak.",
+      "pl": "Mała, opalizująca ryba potoków wschodniej Australii; samce błyskają w słońcu czerwonymi i niebieskimi pasami.",
       "zh": "澳大利亚东部溪流中的小型虹彩鱼，雄鱼在阳光下闪现红蓝条纹。",
       "ar": "سمكة صغيرة متقزحة من جداول شرق أستراليا، تلمع ذكورها بخطوط حمراء وزرقاء تحت الشمس.",
       "he": "דג קטן ונוצץ מנחלי מזרח אוסטרליה, הזכרים מבזיקים פסים אדומים וכחולים בשמש."
@@ -2194,6 +2303,7 @@
       "pt": "Lagostim castanho e grande com uma mancha branca na articulação da pinça, espécie invasora norte-americana em expansão pelos rios europeus.",
       "nl": "Grote bruine rivierkreeft met een witte vlek bij het schaargewricht, een invasieve Noord-Amerikaanse soort die zich door Europese rivieren verspreidt.",
       "hu": "Nagy, barna folyami rák fehér folttal az olló ízületénél, invazív észak-amerikai faj, amely Európa folyóiban terjed.",
+      "pl": "Duży brązowy rak z białą plamą przy stawie szczypiec, inwazyjny gatunek północnoamerykański rozprzestrzeniający się w rzekach Europy.",
       "zh": "大型褐色螯虾，螯关节处有白斑，是正在欧洲河流中蔓延的北美入侵物种。",
       "ar": "جراد نهر بني كبير ببقعة بيضاء عند مفصل المخلب، نوع غازٍ من أمريكا الشمالية ينتشر في أنهار أوروبا.",
       "he": "סרטן נהרות חום גדול עם כתם לבן במפרק הצבת, מין פולש צפון אמריקאי המתפשט בנהרות אירופה."
@@ -2214,6 +2324,7 @@
       "pt": "Lagostim vermelho-escuro de pinças rugosas dos pântanos do Luisiana, hoje escava em zonas húmidas quentes de todos os continentes.",
       "nl": "Donkerrode rivierkreeft met bobbelige scharen uit de moerassen van Louisiana die zich nu ingraaft in warme wetlands op elk continent.",
       "hu": "Sötétvörös folyami rák dudoros ollókkal Louisiana mocsaraiból, ma minden kontinens meleg vizes élőhelyeibe ássa be magát.",
+      "pl": "Ciemnoczerwony rak o guzkowatych szczypcach z bagien Luizjany, dziś ryjący nory w ciepłych mokradłach na wszystkich kontynentach.",
       "zh": "来自路易斯安那沼泽的深红色螯虾，螯上有瘤突，如今在各大洲的温暖湿地中掘穴扩散。",
       "ar": "جراد نهر أحمر داكن بمخالب خشنة من مستنقعات لويزيانا، يحفر الآن في الأراضي الرطبة الدافئة في كل قارة.",
       "he": "סרטן נהרות אדום כהה עם צבתות מחוספסות מביצות לואיזיאנה, חופר כיום באזורי ביצה חמים בכל יבשת."
@@ -2234,6 +2345,7 @@
       "pt": "Lagostim nativo da Europa, castanho-escuro com pinças vermelhas por baixo, esconde-se em tocas nas margens de riachos e lagos limpos e frescos.",
       "nl": "Europa's inheemse rivierkreeft, donkerbruin met scharen die van onderen rood zijn, verborgen in oeverholen van schone koele beken en meren.",
       "hu": "Európa őshonos folyami rákja, sötétbarna, alul vörös ollókkal, tiszta, hűvös patakok és tavak parti üregeiben rejtőzik.",
+      "pl": "Rodzimy rak Europy, ciemnobrązowy, o szczypcach czerwonych od spodu, kryjący się w norach brzegowych czystych, chłodnych strumieni i jezior.",
       "zh": "欧洲本土螯虾，深褐色，螯的下面呈红色，藏身于洁净凉爽溪流湖泊的岸边洞穴中。",
       "ar": "جراد النهر الأصلي في أوروبا، بني داكن بمخالب حمراء من الأسفل، يختبئ في جحور الضفاف في الجداول والبحيرات النظيفة الباردة.",
       "he": "סרטן הנהרות המקומי של אירופה, חום כהה עם צבתות אדומות מלמטה, מסתתר במחילות גדה של נחלים ואגמים נקיים וקרירים."
@@ -2254,6 +2366,7 @@
       "pt": "Pequeno lagostim oliva com pinças pálidas por baixo, espécie ameaçada de riachos calcários limpos da Europa ocidental.",
       "nl": "Kleine olijfkleurige rivierkreeft met bleke onderkant van de scharen, een bedreigde soort van schone kalksteenbeken in West-Europa.",
       "hu": "Kis, olajzöld folyami rák halvány ollóaljjal, Nyugat-Európa tiszta mészkőpatakjainak veszélyeztetett őshonos faja.",
+      "pl": "Mały oliwkowy rak o jasnym spodzie szczypiec, zagrożony rodzimy mieszkaniec czystych wapiennych strumieni zachodniej Europy.",
       "zh": "小型橄榄色螯虾，螯下面颜色淡，是西欧洁净石灰岩溪流中受威胁的本土物种。",
       "ar": "جراد نهر زيتوني صغير بمخالب شاحبة من الأسفل، نوع مهدد أصلي في جداول الحجر الجيري النظيفة في غرب أوروبا.",
       "he": "סרטן נהרות קטן בצבע זית עם צבתות חיוורות מלמטה, מין מקומי מאוים של נחלי גיר נקיים במערב אירופה."
@@ -2274,6 +2387,7 @@
       "pt": "O maior invertebrado de água doce do mundo, um lagostim azul-acastanhado de crescimento lento dos rios sombreados da Tasmânia.",
       "nl": "Het grootste zoetwaterongewervelde ter wereld, een traag groeiende blauwbruine rivierkreeft van beschaduwde Tasmaanse rivieren.",
       "hu": "A világ legnagyobb édesvízi gerinctelenje, lassan növő kékesbarna folyami rák Tasmania árnyékos folyóiból.",
+      "pl": "Największy słodkowodny bezkręgowiec świata, wolno rosnący niebieskobrązowy rak zacienionych rzek Tasmanii.",
       "zh": "世界上最大的淡水无脊椎动物，塔斯马尼亚荫蔽河流中生长缓慢的蓝褐色螯虾。",
       "ar": "أكبر لافقاريات المياه العذبة في العالم، جراد نهر أزرق بني بطيء النمو من أنهار تسمانيا المظللة.",
       "he": "חסר החוליות הגדול ביותר במים מתוקים בעולם, סרטן נהרות כחול-חום איטי גדילה מנהרות מוצלים בטסמניה."
@@ -2294,6 +2408,7 @@
       "pt": "Mexilhão listrado do tamanho de uma unha que reveste rochas, naufrágios e tubagens aos milhares, clarificando a água à medida que se espalha.",
       "nl": "Duimnagelgrote gestreepte mossel die rotsen, wrakken en leidingen met duizenden bedekt en het water helderder maakt terwijl hij zich verspreidt.",
       "hu": "Hüvelykujjköröm méretű, csíkos kagyló, ezrével borítja be a sziklákat, roncsokat és csöveket, terjedése közben kitisztítja a vizet.",
+      "pl": "Prążkowany małż wielkości paznokcia, tysiącami pokrywający skały, wraki i rury i oczyszczający wodę wszędzie tam, gdzie się rozprzestrzenia.",
       "zh": "指甲大小的条纹贻贝，成千上万地覆盖岩石、沉船和管道，扩散的同时使水变清。",
       "ar": "بلح بحر مخطط بحجم ظفر الإبهام يغطي الصخور والحطام والأنابيب بالآلاف، ويصفّي الماء مع انتشاره.",
       "he": "צדפה מפוספסת בגודל ציפורן המכסה סלעים, ספינות טרופות וצינורות באלפים ומצלילה את המים תוך התפשטותה."
@@ -2314,6 +2429,7 @@
       "pt": "Parente mais arredondado e pálido do mexilhão-zebra que coloniza fundos moles e águas frias e profundas onde aquele não consegue.",
       "nl": "Rondere, blekere verwant van de driehoeksmossel die zachte bodems en diep koud water koloniseert waar die niet kan.",
       "hu": "A vándorkagyló kerekebb, halványabb rokona, puha aljzatot és mély, hideg vizet népesít be, ahová a vándorkagyló nem jut el.",
+      "pl": "Bardziej zaokrąglona i jaśniejsza krewna racicznicy zmiennej, zasiedlająca miękkie dno i głęboką zimną wodę, niedostępne dla tamtej.",
       "zh": "斑马贻贝更圆更淡的近亲，能在斑马贻贝无法生存的软底和深冷水域定居。",
       "ar": "قريب أكثر استدارة وشحوباً لبلح البحر المخطط، يستوطن القيعان الطرية والمياه العميقة الباردة التي لا يستطيع الآخر بلوغها.",
       "he": "קרוב עגול וחיוור יותר של צדפת הזברה המאכלס קרקעיות רכות ומים עמוקים וקרים שהזברה אינה יכולה."
@@ -2334,6 +2450,7 @@
       "pt": "Mexilhão escuro e alongado que pode viver mais de um século meio enterrado no cascalho limpo de rios rápidos de salmão.",
       "nl": "Donkere, langwerpige mossel die meer dan een eeuw half ingegraven kan leven in schoon grind van snelle zalmrivieren.",
       "hu": "Sötét, megnyúlt kagyló, amely több mint egy évszázadig élhet félig beásva a gyors lazacos folyók tiszta kavicsába.",
+      "pl": "Ciemny, wydłużony małż, który może żyć ponad sto lat, do połowy zagrzebany w czystym żwirze bystrych rzek łososiowych.",
       "zh": "深色长形的贻贝，可在湍急鲑鱼河流的洁净砾石中半埋生活一个多世纪。",
       "ar": "بلح بحر داكن مستطيل يمكنه العيش أكثر من قرن نصف مدفون في الحصى النظيف لأنهار السلمون السريعة.",
       "he": "צדפה כהה ומוארכת שיכולה לחיות יותר ממאה שנה חצי קבורה בחצץ נקי של נהרות סלמון מהירים."
@@ -2354,6 +2471,7 @@
       "pt": "Grande mexilhão de concha fina de lagos e canais lodosos, filtra a água com os sifões logo acima do lodo.",
       "nl": "Grote dunschalige zwanenmossel van modderige meren en kanalen die met zijn sifons vlak boven het slib water filtert.",
       "hu": "Nagy, vékony héjú kagyló iszapos tavakból és csatornákból, szifóival közvetlenül az iszap fölött szűri a vizet.",
+      "pl": "Duży małż o cienkiej muszli z mulistych jezior i kanałów, filtrujący wodę syfonami tuż nad mułem.",
       "zh": "大型薄壳贻贝，生活在泥底湖泊和运河中，用水管在淤泥上方过滤水体。",
       "ar": "بلح بحر كبير رقيق الصدفة يعيش في البحيرات والقنوات الطينية، يرشح الماء بسيفوناته فوق الطمي مباشرة.",
       "he": "צדפה גדולה דקת קונכייה מאגמים ותעלות בוציים, מסננת מים בסיפונים שלה ממש מעל הטין."
@@ -2374,6 +2492,7 @@
       "pt": "Mexilhão asiático invasor muito grande de concha castanha brilhante, chegado com peixes de aquicultura e espalhado por lagos quentes.",
       "nl": "Zeer grote invasieve Aziatische mossel met een glanzend bruine schelp, meegekomen met kweekvis en verspreid over warme meren.",
       "hu": "Nagyon nagy, invazív ázsiai kagyló fényes barna héjjal, tenyésztett halakkal érkezett és meleg tavakban terjed.",
+      "pl": "Bardzo duży inwazyjny małż azjatycki o lśniącej brązowej muszli, zawleczony z rybami hodowlanymi i rozprzestrzeniający się w ciepłych jeziorach.",
       "zh": "体型极大的亚洲入侵贻贝，壳呈亮褐色，随养殖鱼类传入并在温暖湖泊中扩散。",
       "ar": "بلح بحر آسيوي غازٍ كبير جداً بصدفة بنية لامعة، وصل مع الأسماك المستزرعة وينتشر في البحيرات الدافئة.",
       "he": "צדפה אסייתית פולשת גדולה מאוד עם קונכייה חומה מבריקה, הגיעה עם דגי חווה ומתפשטת באגמים חמימים."
@@ -2394,6 +2513,7 @@
       "pt": "Esponja ramificada verde ou cinzenta que reveste ramos e pedras em lagos claros, colorida pelas algas que vivem no seu interior.",
       "nl": "Groene of grijze vertakte spons die takken en stenen in heldere meren bedekt, gekleurd door algen die erin leven.",
       "hu": "Zöld vagy szürke, elágazó szivacs, tiszta tavakban ágakat és köveket von be, színét a benne élő algák adják.",
+      "pl": "Zielona lub szara rozgałęziona gąbka porastająca patyki i kamienie w czystych jeziorach, zabarwiona przez żyjące w niej glony.",
       "zh": "绿色或灰色的分枝状海绵，附着在清澈湖泊的树枝和石头上，颜色来自体内共生的藻类。",
       "ar": "إسفنج متفرع أخضر أو رمادي يغطي الأغصان والحجارة في البحيرات الصافية، تلوّنه الطحالب التي تعيش داخله.",
       "he": "ספוג מסתעף ירוק או אפור המצפה ענפים ואבנים באגמים צלולים, צבוע על ידי אצות החיות בתוכו."
@@ -2414,6 +2534,7 @@
       "pt": "Medusa transparente do tamanho de uma moeda que surge em enxames em lagos de pedreira quentes e represas no fim do verão.",
       "nl": "Muntgrote doorzichtige kwal die in de nazomer in zwermen verschijnt in warme groevemeren en stuwmeren.",
       "hu": "Érme méretű, átlátszó medúza, nyár végén rajokban jelenik meg meleg bányatavakban és víztározókban.",
+      "pl": "Przezroczysta meduza wielkości monety, pojawiająca się późnym latem rojami w ciepłych jeziorach wyrobiskowych i zbiornikach zaporowych.",
       "zh": "硬币大小的透明水母，夏末在温暖的采石场湖泊和水库中成群出现。",
       "ar": "قنديل بحر شفاف بحجم عملة معدنية يظهر في أسراب في بحيرات المحاجر الدافئة والخزانات في أواخر الصيف.",
       "he": "מדוזה שקופה בגודל מטבע המופיעה בנחילים באגמי מחצבה חמימים ובמאגרים בסוף הקיץ."
@@ -2434,6 +2555,7 @@
       "pt": "Grande caracol de concha pontiaguda que desliza sobre plantas em águas paradas europeias e respira ar à superfície.",
       "nl": "Grote poelslak met een spits huisje die over planten in stilstaand Europees water glijdt en aan het oppervlak lucht ademt.",
       "hu": "Nagy, hegyes házú csiga, az európai állóvizek növényein siklik és a felszínen levegőt lélegzik.",
+      "pl": "Duży ślimak o spiczastej muszli, sunący po roślinach i gładkich jak szkło powierzchniach stojących wód Europy i oddychający powietrzem przy powierzchni.",
       "zh": "大型尖壳螺，在欧洲静水的植物上滑行，浮到水面呼吸空气。",
       "ar": "حلزون كبير بصدفة مدببة ينساب فوق النباتات في المياه الراكدة الأوروبية ويتنفس الهواء عند السطح.",
       "he": "חילזון גדול עם קונכייה מחודדת המחליק על צמחים במים עומדים באירופה ונושם אוויר על פני המים."
@@ -2454,6 +2576,7 @@
       "pt": "Caracol achatado e enrolado como um minúsculo corno de carneiro, raspa algas de folhas e pedras em lagoas com vegetação.",
       "nl": "Platte, opgerolde posthoornslak als een piepkleine ramshoorn die algen van bladeren en stenen in begroeide vijvers graast.",
       "hu": "Lapos, kosszarvra emlékeztető tekercses csiga, hínáros tavak levelein és kövein legeli az algát.",
+      "pl": "Płaski, spiralnie zwinięty ślimak przypominający maleńki barani róg, zgryzający glony z liści i kamieni w zarośniętych stawach.",
       "zh": "扁平盘曲如小羊角的螺，在水草茂密的池塘中刮食叶片和石头上的藻类。",
       "ar": "حلزون مسطح ملتف مثل قرن كبش صغير، يرعى الطحالب من الأوراق والحجارة في البرك العشبية.",
       "he": "חילזון שטוח ומפותל כמו קרן איל זעירה, רועה אצות מעלים ואבנים בבריכות עשירות בצמחייה."
@@ -2474,6 +2597,7 @@
       "pt": "Grande caracol castanho-dourado que deposita cachos de ovos rosa vivo acima da linha de água, invasor em zonas húmidas quentes e arrozais.",
       "nl": "Grote goudbruine appelslak die felroze eiclusters boven de waterlijn afzet, invasief in warme wetlands en rijstvelden.",
       "hu": "Nagy, aranybarna csiga, élénk rózsaszín petecsomóit a vízvonal fölé rakja, invazív a meleg vizes élőhelyeken és rizsföldeken.",
+      "pl": "Duży złotobrązowy ślimak składający jaskraworóżowe złoża jaj nad linią wody, inwazyjny na ciepłych mokradłach i polach ryżowych.",
       "zh": "大型金褐色螺，在水线上方产下亮粉色卵块，在温暖湿地和稻田中为入侵物种。",
       "ar": "حلزون كبير بني ذهبي يضع عناقيد بيض وردية زاهية فوق خط الماء، غازٍ في الأراضي الرطبة الدافئة وحقول الأرز.",
       "he": "חילזון גדול חום-זהוב המטיל אשכולות ביצים ורודות בוהקות מעל קו המים, פולש באזורי ביצה חמים ובשדות אורז."
@@ -2494,6 +2618,7 @@
       "pt": "Colónia gelatinosa do tamanho de uma bola, cravejada de minúsculos animais, agarrada a ramos e cordas em água quente e parada.",
       "nl": "Geleiachtige kolonie zo groot als een voetbal, bezet met piepkleine diertjes, vastgeklampt aan takken en touwen in warm stilstaand water.",
       "hu": "Focilabda méretű, kocsonyás telep, apró állatokkal telehintve, ágakon és köteleken tapad meleg, csendes vízben.",
+      "pl": "Galaretowata kolonia wielkości piłki nożnej, usiana maleńkimi zwierzętami, uczepiona gałęzi i lin w ciepłej stojącej wodzie.",
       "zh": "足球大小的胶状群体，表面布满微小动物，附着在温暖静水中的树枝和绳索上。",
       "ar": "مستعمرة هلامية بحجم كرة القدم مرصعة بحيوانات دقيقة، تتشبث بالأغصان والحبال في المياه الدافئة الساكنة.",
       "he": "מושבה דמוית ג'לי בגודל כדורגל, משובצת בבעלי חיים זעירים, נצמדת לענפים ולחבלים במים חמים ושקטים."
@@ -2514,6 +2639,7 @@
       "pt": "Caranguejo escavador de pinças peludas que passa anos nos rios antes de descer para se reproduzir nos estuários.",
       "nl": "Gravende krab met harige scharen die jaren in rivieren doorbrengt voordat hij stroomafwaarts loopt om in estuaria te paaien.",
       "hu": "Üregásó rák szőrös ollókkal, éveket tölt folyókban, mielőtt a torkolatokba vándorol szaporodni.",
+      "pl": "Ryjący nory krab o owłosionych szczypcach, który spędza lata w rzekach, zanim powędruje w dół rzeki, by rozmnażać się w estuariach.",
       "zh": "掘穴的螃蟹，螯上长有绒毛，在河流中生活数年后顺流而下到河口繁殖。",
       "ar": "سرطان حفّار بمخالب مشعرة يقضي سنوات في الأنهار قبل أن يسير مع مجرى النهر للتكاثر في المصبات.",
       "he": "סרטן חופר עם צבתות שעירות המבלה שנים בנהרות לפני שהוא הולך במורד הזרם להתרבות בשפכים."
@@ -2534,6 +2660,7 @@
       "pt": "Grande camarão de pinças azuis dos rios da Ásia e da Austrália, com pinças mais compridas do que o corpo nos machos velhos.",
       "nl": "Grote garnaal met blauwe scharen uit Aziatische en Australische rivieren, waarvan oude mannetjes scharen langer dan hun lichaam hebben.",
       "hu": "Nagy, kék ollójú garnéla Ázsia és Ausztrália folyóiból, az idős hímek ollói hosszabbak a testüknél.",
+      "pl": "Duża krewetka o niebieskich szczypcach z rzek Azji i Australii; u starych samców szczypce są dłuższe od ciała.",
       "zh": "亚洲和澳大利亚河流中的大型蓝螯虾，老年雄性的螯比身体还长。",
       "ar": "روبيان كبير بمخالب زرقاء من أنهار آسيا وأستراليا، مخالب الذكور المسنة أطول من أجسامها.",
       "he": "שרימפס גדול עם צבתות כחולות מנהרות אסיה ואוסטרליה, שצבתותיהם של הזכרים הזקנים ארוכות מגופם."
@@ -2554,6 +2681,7 @@
       "pt": "Tartaruga pesada de carapaça rugosa e longa cauda serrilhada, repousa na lama de lagoas e rios lentos com a cabeça de fora.",
       "nl": "Zware schildpad met een ruw schild en een lange gezaagde staart die met de kop naar buiten in de modder van vijvers en trage rivieren ligt.",
       "hu": "Nehéz, érdes páncélú teknős hosszú, fűrészes farokkal, kidugott fejjel fekszik tavak és lassú folyók iszapjában.",
+      "pl": "Ciężki żółw o szorstkim pancerzu i długim, piłkowanym ogonie, leżący w mule stawów i wolno płynących rzek z wystawioną głową.",
       "zh": "体重壳糙的龟，尾长带锯齿，伏在池塘和缓流河流的泥中，头部露出。",
       "ar": "سلحفاة ثقيلة خشنة الدرع بذيل طويل مسنن، ترقد في طين البرك والأنهار البطيئة ورأسها خارج الطين.",
       "he": "צב כבד עם שריון מחוספס וזנב ארוך משונן, רובץ בבוץ של בריכות ונהרות איטיים כשראשו בחוץ."
@@ -2574,6 +2702,7 @@
       "pt": "Gigante de aspeto pré-histórico com três quilhas cristadas e um isco lingual em forma de verme, espera de boca aberta no fundo dos rios do sul.",
       "nl": "Prehistorisch ogende reus met drie getande kielen en een wormvormig tonglokaas die met open bek op zuidelijke rivierbodems wacht.",
       "hu": "Őskori külsejű óriás három tarajos gerinccel és féregszerű nyelvcsalival, nyitott szájjal várakozik a déli folyók fenekén.",
+      "pl": "Olbrzym o prehistorycznym wyglądzie, z trzema ząbkowanymi grzebieniami na pancerzu i przynętą w kształcie robaka na języku, czekający z otwartą paszczą na dnie rzek południa USA.",
       "zh": "外形似史前生物的巨龟，背甲有三道脊棱，舌上有蠕虫状诱饵，张口静待于南方河底。",
       "ar": "عملاق ذو مظهر ما قبل التاريخ بثلاثة أعراف مسننة وطعم لساني يشبه الدودة، ينتظر بفم مفتوح على قيعان الأنهار الجنوبية.",
       "he": "ענק בעל מראה פרהיסטורי עם שלוש שדרות משוננות ופיתיון לשון דמוי תולעת, ממתין בפה פתוח על קרקעיות נהרות הדרום."
@@ -2594,6 +2723,7 @@
       "pt": "Tartaruga lisa e escura com riscas vermelhas e amarelas no pescoço e na orla da carapaça, apanha sol em fila sobre troncos por toda a América do Norte.",
       "nl": "Gladde donkere schildpad met rode en gele strepen op de hals en schildrand die in rijen op boomstammen zont in heel Noord-Amerika.",
       "hu": "Sima, sötét teknős vörös és sárga csíkokkal a nyakán és a páncél szegélyén, sorban napozik fatörzseken Észak-Amerika-szerte.",
+      "pl": "Gładki ciemny żółw z czerwonymi i żółtymi paskami na szyi i brzegu pancerza, wygrzewający się rzędami na kłodach w całej Ameryce Północnej.",
       "zh": "壳光滑的深色龟，颈部和甲缘有红黄条纹，在北美各地成排趴在倒木上晒太阳。",
       "ar": "سلحفاة داكنة ملساء بخطوط حمراء وصفراء على العنق وحافة الدرع، تتشمس في صفوف على جذوع الأشجار في أنحاء أمريكا الشمالية.",
       "he": "צב כהה וחלק עם פסים אדומים וצהובים על הצוואר ושולי השריון, מתחמם בשורות על גזעים ברחבי צפון אמריקה."
@@ -2614,6 +2744,7 @@
       "pt": "Tartaruga de lagoa de riscas verdes com uma faixa vermelha atrás de cada olho, a tartaruga de estimação hoje asselvajada em águas quentes de todo o mundo.",
       "nl": "Groengestreepte roodwangschildpad met een rode streep achter elk oog, de huisdierschildpad die nu verwilderd is in warm water wereldwijd.",
       "hu": "Zöld csíkos mocsári teknős vörös sávval mindkét szeme mögött, a kedvtelésből tartott teknős, ma világszerte elvadult a meleg vizekben.",
+      "pl": "Żółw wodny w zielone paski z czerwoną smugą za każdym okiem, popularny w handlu zoologicznym, dziś zdziczały w ciepłych wodach całego świata.",
       "zh": "带绿色条纹的池龟，每只眼后有一道红纹，作为宠物流行，如今在全球温暖水域野化。",
       "ar": "سلحفاة برك بخطوط خضراء وشريط أحمر خلف كل عين، سلحفاة تجارة الحيوانات الأليفة التي باتت متوحشة في المياه الدافئة حول العالم.",
       "he": "צב בריכות מפוספס ירוק עם פס אדום מאחורי כל עין, צב חיות המחמד שכיום משוטט חופשי במים חמים ברחבי העולם."
@@ -2634,6 +2765,7 @@
       "pt": "Tartaruga oliva com linhas amarelas em forma de mapa na carapaça e uma quilha baixa, apanha sol nas rochas de rios claros e grandes lagos.",
       "nl": "Olijfkleurige schildpad met kaartachtige gele lijnen op het schild en een lage kiel die op rotsen langs heldere rivieren en grote meren zont.",
       "hu": "Olajzöld teknős térképszerű sárga vonalakkal a páncélján és alacsony gerinccel, tiszta folyók és nagy tavak szikláin napozik.",
+      "pl": "Oliwkowy żółw z żółtymi liniami na pancerzu przypominającymi mapę i z niskim kilem, wygrzewający się na skałach nad czystymi rzekami i dużymi jeziorami.",
       "zh": "橄榄色的龟，甲壳上有地图状黄线，脊棱较低，在清澈河流和大湖的岩石上晒太阳。",
       "ar": "سلحفاة زيتونية بخطوط صفراء تشبه الخريطة على درعها وعرف منخفض، تتشمس على الصخور بمحاذاة الأنهار الصافية والبحيرات الكبيرة.",
       "he": "צב זית עם קווים צהובים דמויי מפה על שריונו ושדרה נמוכה, מתחמם על סלעים לאורך נהרות צלולים ואגמים גדולים."
@@ -2654,6 +2786,7 @@
       "pt": "Tartaruga achatada e coriácea como uma panqueca com focinho de snorkel, enterrada na areia de rios rasos com apenas a cabeça de fora.",
       "nl": "Platte, leerachtige pannenkoek van een schildpad met een snorkelsnuit, ingegraven in het zand van ondiepe rivieren met alleen de kop zichtbaar.",
       "hu": "Lapos, bőrszerű, palacsintára emlékeztető teknős szipkaszerű orral, sekély folyók homokjába ásva, csak a feje látszik ki.",
+      "pl": "Płaski, skórzasty żółw podobny do naleśnika, z ryjkiem jak fajka, zagrzebany w piasku płytkich rzek tak, że widać tylko głowę.",
       "zh": "扁平如薄饼的软壳龟，吻部如呼吸管，埋在浅河的沙中只露出头部。",
       "ar": "سلحفاة مسطحة جلدية كالفطيرة بخطم يشبه أنبوب التنفس، مدفونة في رمال الأنهار الضحلة ولا يظهر منها سوى رأسها.",
       "he": "צב שטוח ועורי כפנקייק עם חרטום דמוי שנורקל, קבור בחול בנהרות רדודים כשרק ראשו נראה."
@@ -2674,6 +2807,7 @@
       "pt": "Grande tartaruga de carapaça mole e escura com longo focinho tubular, comum nas nascentes, canais e lagos da Florida.",
       "nl": "Grote donkere weekschildpad met een lange buisvormige snuit, algemeen in de bronnen, kanalen en meren van Florida.",
       "hu": "Nagy, sötét lágyhéjú teknős hosszú, csőszerű orral, gyakori Florida forrásaiban, csatornáiban és tavaiban.",
+      "pl": "Duży ciemny żółwiak z długim, rurkowatym ryjkiem, pospolity w źródłach, kanałach i jeziorach Florydy.",
       "zh": "大型深色软壳龟，吻部长而呈管状，常见于佛罗里达的泉水、运河和湖泊。",
       "ar": "سلحفاة كبيرة داكنة رخوة الدرع بخطم أنبوبي طويل، شائعة في ينابيع فلوريدا وقنواتها وبحيراتها.",
       "he": "צב רך שריון גדול וכהה עם חרטום צינורי ארוך, נפוץ במעיינות, בתעלות ובאגמים של פלורידה."
@@ -2694,6 +2828,7 @@
       "pt": "Tartaruga de rio única da Nova Guiné e do norte da Austrália com barbatanas de tartaruga marinha e focinho carnudo de porco.",
       "nl": "Unieke rivierschildpad uit Nieuw-Guinea en Noord-Australië met zeeschildpadflippers en een vlezige varkenssnuit.",
       "hu": "Egyedülálló folyami teknős Új-Guineából és Észak-Ausztráliából tengeri teknősre emlékeztető uszonyokkal és húsos, disznószerű orral.",
+      "pl": "Niezwykły żółw rzeczny Nowej Gwinei i północnej Australii o płetwach jak u żółwi morskich i mięsistym, świńskim ryjku.",
       "zh": "新几内亚和澳大利亚北部特有的河龟，具有海龟般的鳍足和肉质猪鼻状吻部。",
       "ar": "سلحفاة نهرية فريدة من غينيا الجديدة وشمال أستراليا بزعانف كسلاحف البحر وخطم لحمي يشبه أنف الخنزير.",
       "he": "צב נהר ייחודי מגינאה החדשה וצפון אוסטרליה עם סנפירי צב ים וחרטום בשרני דמוי חזיר."
@@ -2714,6 +2849,7 @@
       "pt": "Rara tartaruga australiana que respira pela cloaca e ostenta uma crista de algas verdes, encontrada num único rio de Queensland.",
       "nl": "Zeldzame Australische schildpad die door zijn cloaca ademt en een groene algenhanenkam draagt, alleen in één rivier in Queensland.",
       "hu": "Ritka ausztrál teknős, kloákáján át lélegzik és zöld algataréjt visel, egyetlen queenslandi folyóban él.",
+      "pl": "Rzadki australijski żółw, który oddycha przez kloakę i nosi zielony irokez z glonów; żyje w jednej tylko rzece w Queenslandzie.",
       "zh": "稀有的澳大利亚龟，能通过泄殖腔呼吸，头顶长着绿藻莫西干发型，仅见于昆士兰的一条河流。",
       "ar": "سلحفاة أسترالية نادرة تتنفس عبر المذرق وتنمو على رأسها عرف من الطحالب الخضراء، توجد في نهر واحد في كوينزلاند.",
       "he": "צב אוסטרלי נדיר הנושם דרך הביב שלו ומגדל ציצת אצות ירוקה, מצוי בנהר יחיד בקווינסלנד."
@@ -2734,6 +2870,7 @@
       "pt": "Tartaruga de pescoço lateral do Amazonas com manchas amarelas na cabeça, apanha sol em grupos sobre troncos e bancos de areia de grandes rios.",
       "nl": "Amazone-halswenderschildpad met gele kopvlekken die in groepen op boomstammen en zandbanken van grote rivieren zont.",
       "hu": "Amazonasi nyakfordító teknős sárga fejfoltokkal, csoportosan napozik nagy folyók fatörzsein és homokpadjain.",
+      "pl": "Amazoński żółw bokoszyjny z żółtymi plamami na głowie, wygrzewający się grupami na kłodach i łachach piaszczystych dużych rzek.",
       "zh": "亚马逊侧颈龟，头部有黄斑，成群在大河的倒木和沙洲上晒太阳。",
       "ar": "سلحفاة أمازونية جانبية العنق ببقع صفراء على الرأس، تتشمس في مجموعات على الجذوع والضفاف الرملية للأنهار الكبيرة.",
       "he": "צב אמזונס מטה צוואר עם כתמים צהובים בראש, מתחמם בקבוצות על גזעים ושרטונות חול של נהרות גדולים."
@@ -2754,6 +2891,7 @@
       "pt": "Tartaruga escura salpicada de pontos amarelos, a tartaruga de água doce nativa da Europa, escorrega das margens soalheiras para lagoas com vegetação.",
       "nl": "Donkere schildpad met gele stippen, Europa's inheemse moerasschildpad, die van zonnige oevers in begroeide vijvers glijdt.",
       "hu": "Sárga pöttyökkel hintett sötét teknős, Európa őshonos mocsári teknőse, napos partokról hínáros tavakba csusszan.",
+      "pl": "Ciemny żółw nakrapiany żółtymi kropkami, rodzimy słodkowodny żółw Europy, zsuwający się z nasłonecznionych brzegów do zarośniętych stawów.",
       "zh": "布满黄色斑点的深色龟，欧洲本土淡水龟，从向阳的岸边滑入水草茂密的池塘。",
       "ar": "سلحفاة داكنة منقطة بنقاط صفراء، سلحفاة المياه العذبة الأصلية في أوروبا، تنزلق من الضفاف المشمسة إلى البرك العشبية.",
       "he": "צב כהה מנוקד בנקודות צהובות, צב המים המתוקים המקומי של אירופה, מחליק מגדות שטופות שמש לבריכות עשירות בצמחייה."
@@ -2774,6 +2912,7 @@
       "pt": "Réptil couraçado de focinho largo dos pântanos, nascentes e rios do sudeste dos EUA, flutua mostrando apenas os olhos e as narinas.",
       "nl": "Breedsnuitig gepantserd reptiel van moerassen, bronnen en rivieren in het zuidoosten van de VS dat drijft met alleen ogen en neusgaten boven water.",
       "hu": "Széles orrú páncélos hüllő az USA délkeleti mocsaraiból, forrásaiból és folyóiból, csak a szeme és az orrlyukai látszanak ki a vízből.",
+      "pl": "Opancerzony gad o szerokim pysku z bagien, źródeł i rzek południowo-wschodnich Stanów Zjednoczonych, unoszący się tak, że nad wodą widać tylko oczy i nozdrza.",
       "zh": "美国东南部沼泽、泉水和河流中的宽吻披甲爬行动物，漂浮时仅露出眼睛和鼻孔。",
       "ar": "زاحف مدرع عريض الخطم من مستنقعات وينابيع وأنهار جنوب شرق الولايات المتحدة، يطفو ولا يظهر منه سوى العينين والمنخرين.",
       "he": "זוחל משוריין רחב חרטום מביצות, מעיינות ונהרות בדרום-מזרח ארה\"ב, צף כשרק עיניו ונחיריו נראים."
@@ -2794,6 +2933,7 @@
       "pt": "Pequeno jacaré oliva com uma crista óssea entre os olhos, abundante em rios lentos e lagoas da América Central e do Sul.",
       "nl": "Kleine olijfkleurige kaaiman met een benige richel tussen de ogen, talrijk in trage rivieren en lagunes in Midden- en Zuid-Amerika.",
       "hu": "Kis, olajzöld kajmán csontos taréjjal a szemei között, gyakori Közép- és Dél-Amerika lassú folyóiban és lagúnáiban.",
+      "pl": "Mały oliwkowy kajman z kostnym wałem między oczami, liczny w wolno płynących rzekach i lagunach Ameryki Środkowej i Południowej.",
       "zh": "小型橄榄色凯门鳄，两眼间有骨质脊，在中南美洲的缓流河流和潟湖中数量众多。",
       "ar": "كيمن زيتوني صغير بحافة عظمية بين عينيه، وفير في الأنهار البطيئة والبحيرات الساحلية في أمريكا الوسطى والجنوبية.",
       "he": "קיימן זית קטן עם רכס גרמי בין עיניו, שכיח בנהרות איטיים ובלגונות ברחבי מרכז ודרום אמריקה."
@@ -2814,6 +2954,7 @@
       "pt": "O maior predador do Amazonas, um jacaré negro couraçado de até cinco metros, caça à noite em lagos e floresta inundada.",
       "nl": "De grootste roofdier van de Amazone, een zwarte gepantserde kaaiman tot vijf meter lang die 's nachts in meren en overstroomd bos jaagt.",
       "hu": "Az Amazonas legnagyobb ragadozója, akár öt méteres fekete páncélos kajmán, éjjel vadászik tavakban és elárasztott erdőben.",
+      "pl": "Największy drapieżnik Amazonii, czarny opancerzony kajman długości do pięciu metrów, polujący nocą w jeziorach i zalanym lesie.",
       "zh": "亚马逊最大的掠食者，黑色披甲凯门鳄，体长可达五米，夜间在湖泊和淹没森林中捕食。",
       "ar": "أكبر مفترس في الأمازون، كيمن أسود مدرع يصل طوله إلى خمسة أمتار، يصطاد ليلاً في البحيرات والغابات المغمورة.",
       "he": "הטורף הגדול ביותר באמזונס, קיימן שחור משוריין באורך עד חמישה מטרים, צד בלילה באגמים וביער מוצף."
@@ -2834,6 +2975,7 @@
       "pt": "Crocodilo australiano de focinho estreito dos rios e desfiladeiros do norte, tímido e muito menor do que o crocodilo-de-água-salgada.",
       "nl": "Smalsnuitige Australische krokodil van noordelijke rivieren en kloven, schuw en veel kleiner dan de zoutwaterkrokodil.",
       "hu": "Keskeny orrú ausztrál krokodil az északi folyókból és szurdokokból, félénk és jóval kisebb a bordás krokodilnál.",
+      "pl": "Australijski krokodyl o wąskim pysku z północnych rzek i wąwozów, płochliwy i znacznie mniejszy od krokodyla różańcowego.",
       "zh": "吻部细长的澳大利亚鳄鱼，栖息于北部河流和峡谷，性情胆怯，体型远小于湾鳄。",
       "ar": "تمساح أسترالي نحيل الخطم من أنهار وأخاديد الشمال، خجول وأصغر بكثير من تمساح المياه المالحة.",
       "he": "תנין אוסטרלי צר חרטום מנהרות ומקניונים בצפון, ביישן וקטן בהרבה מתנין המים המלוחים."
@@ -2854,6 +2996,7 @@
       "pt": "Serpente castanha robusta com bandas que apanha sol em rochas e ramos sobre riachos do leste da América do Norte, inofensiva mas pronta a morder.",
       "nl": "Dikke gebandeerde bruine slang die op rotsen en takken boven beken in oostelijk Noord-Amerika zont, ongevaarlijk maar snel met bijten.",
       "hu": "Vaskos testű, sávos barna kígyó, Észak-Amerika keleti patakjai fölött sziklákon és ágakon napozik, ártalmatlan, de gyorsan harap.",
+      "pl": "Gruby brązowy wąż w poprzeczne pasy, wygrzewający się na skałach i gałęziach nad strumieniami wschodniej Ameryki Północnej; niejadowity, ale skory do kąsania.",
       "zh": "身体粗壮、带环纹的褐色蛇，在北美东部溪流上方的岩石和树枝上晒太阳，无毒但易咬人。",
       "ar": "ثعبان بني سميك الجسم بأشرطة يتشمس على الصخور والأغصان فوق جداول شرق أمريكا الشمالية، غير سام لكنه سريع العض.",
       "he": "נחש חום עבה גוף ומפוספס המתחמם על סלעים וענפים מעל נחלים במזרח צפון אמריקה, לא מסוכן אך מהיר לנשוך."
@@ -2874,6 +3017,7 @@
       "pt": "A serpente mais pesada do mundo, um gigante oliva com manchas pretas, jaz submersa em pântanos e rios lentos do Amazonas.",
       "nl": "De zwaarste slang op aarde, een olijfkleurige reus met zwarte vlekken die ondergedoken in Amazonemoerassen en trage rivieren ligt.",
       "hu": "A Föld legnehezebb kígyója, olajzöld óriás fekete foltokkal, az Amazonas mocsaraiban és lassú folyóiban fekszik a víz alatt.",
+      "pl": "Najcięższy wąż na Ziemi, oliwkowy olbrzym w czarne plamy, leżący w zanurzeniu na bagnach i w wolno płynących rzekach Amazonii.",
       "zh": "世界上最重的蛇，橄榄色巨蟒，身上有黑斑，潜伏在亚马逊沼泽和缓流河流中。",
       "ar": "أثقل ثعبان على وجه الأرض، عملاق زيتوني ببقع سوداء، يرقد مغموراً في مستنقعات الأمازون وأنهاره البطيئة.",
       "he": "הנחש הכבד ביותר על פני האדמה, ענק בצבע זית עם כתמים שחורים, רובץ שקוע בביצות האמזונס ובנהרות איטיים."
@@ -2894,6 +3038,7 @@
       "pt": "Salamandra gigante de cabeça achatada com pregas de pele enrugada, esconde-se sob grandes rochas em rios frios e claros dos Apalaches.",
       "nl": "Reusachtige salamander met platte kop en gerimpelde huidplooien die zich onder grote stenen in koude heldere Appalachen-rivieren verbergt.",
       "hu": "Óriási, lapos fejű szalamandra ráncos bőrredőkkel, az Appalache-hegység hideg, tiszta folyóiban nagy kövek alatt rejtőzik.",
+      "pl": "Olbrzymia salamandra o płaskiej głowie i pomarszczonych fałdach skóry, kryjąca się pod dużymi głazami w zimnych, czystych rzekach Appalachów.",
       "zh": "头部扁平、皮肤褶皱的巨型蝾螈，藏身于阿巴拉契亚寒冷清澈河流的大石头下。",
       "ar": "سلمندر عملاق مسطح الرأس بطيات جلدية مجعدة، يختبئ تحت الصخور الكبيرة في أنهار الأبالاش الباردة الصافية.",
       "he": "סלמנדרה ענקית שטוחת ראש עם קפלי עור מקומטים, מסתתרת מתחת לסלעים גדולים בנהרות קרים וצלולים בהרי האפלצ'ים."
@@ -2914,6 +3059,7 @@
       "pt": "Salamandra castanha manchada que mantém as brânquias vermelhas plumosas toda a vida, rasteja à noite pelos fundos de lagos e rios.",
       "nl": "Bruine gevlekte salamander die zijn gevederde rode kieuwen levenslang behoudt en 's nachts over meer- en rivierbodems kruipt.",
       "hu": "Barna, foltos szalamandra, tollas vörös kopoltyúit egész életében megtartja, éjjel tó- és folyófenéken mászik.",
+      "pl": "Brązowa, plamista salamandra, która przez całe życie zachowuje pierzaste czerwone skrzela i nocą pełza po dnie jezior i rzek.",
       "zh": "褐色带斑点的蝾螈，终生保留羽状红鳃，夜间在湖底和河底爬行。",
       "ar": "سلمندر بني مرقط يحتفظ بخياشيمه الحمراء الريشية طوال حياته، يزحف ليلاً فوق قيعان البحيرات والأنهار.",
       "he": "סלמנדרה חומה מנוקדת השומרת על זימיה האדומים הנוצתיים לכל חייה, זוחלת בלילה על קרקעיות אגמים ונהרות."
@@ -2934,6 +3080,7 @@
       "pt": "Salamandra com brânquias e ar sorridente que nunca sai da água, criticamente ameaçada nos canais de Xochimilco perto da Cidade do México.",
       "nl": "Glimlachende salamander met kieuwen die het water nooit verlaat, ernstig bedreigd in de kanalen van Xochimilco bij Mexico-Stad.",
       "hu": "Mosolygós, kopoltyús szalamandra, sosem hagyja el a vizet, kritikusan veszélyeztetett Xochimilco csatornáiban Mexikóváros mellett.",
+      "pl": "Uśmiechnięta salamandra ze skrzelami, która nigdy nie opuszcza wody, krytycznie zagrożona w kanałach Xochimilco pod miastem Meksyk.",
       "zh": "面带微笑的有鳃蝾螈，终生不离开水，在墨西哥城附近霍奇米尔科的运河中极度濒危。",
       "ar": "سلمندر مبتسم ذو خياشيم لا يغادر الماء أبداً، مهدد بالانقراض بشدة في قنوات خوتشيميلكو قرب مكسيكو سيتي.",
       "he": "סלמנדרה מחייכת עם זימים שלעולם אינה עוזבת את המים, בסכנת הכחדה חמורה בתעלות שוצ'ימילקו ליד מקסיקו סיטי."
@@ -2954,6 +3101,7 @@
       "pt": "O maior anfíbio vivo, um gigante castanho enrugado com quase dois metros, escondido em riachos de montanha frescos e rochosos.",
       "nl": "De grootste levende amfibie, een gerimpelde bruine reus van bijna twee meter die zich in koele rotsachtige bergbeken verbergt.",
       "hu": "A legnagyobb élő kétéltű, ráncos, barna, közel két méteres óriás, hűvös, sziklás hegyi patakokban rejtőzik.",
+      "pl": "Największy żyjący płaz, pomarszczony brązowy olbrzym długości prawie dwóch metrów, kryjący się w chłodnych, kamienistych górskich potokach.",
       "zh": "现存最大的两栖动物，皮肤褶皱的褐色巨物，体长近两米，藏身于凉爽多石的山溪中。",
       "ar": "أكبر برمائي حي، عملاق بني مجعد يبلغ طوله نحو مترين، يختبئ في جداول الجبال الباردة الصخرية.",
       "he": "הדו-חי הגדול ביותר החי כיום, ענק חום מקומט באורך כמעט שני מטרים, מסתתר בנחלי הרים קרירים וסלעיים."
@@ -2974,6 +3122,7 @@
       "pt": "Pequeno tritão oliva que regressa às charcas a cada primavera, os machos desenvolvem uma crista ondulada e um ventre laranja manchado.",
       "nl": "Kleine olijfkleurige watersalamander die elk voorjaar naar vijvers terugkeert, waarbij de mannetjes een golvende kam en een gevlekte oranje buik krijgen.",
       "hu": "Kis, olajzöld gőte, minden tavasszal visszatér a tavakba, a hímek hullámos tarajt és foltos narancssárga hasat növesztenek.",
+      "pl": "Mała oliwkowa traszka, co wiosnę wracająca do stawów; samcom wyrasta falisty grzebień, a ich pomarańczowy brzuch pokrywają plamy.",
       "zh": "小型橄榄色蝾螈，每年春季回到池塘，雄性长出波状背嵴和带斑点的橙色腹部。",
       "ar": "سمندل زيتوني صغير يعود إلى البرك كل ربيع، تنمو للذكور قمة متموجة وبطن برتقالي مرقط.",
       "he": "טריטון זית קטן החוזר לבריכות בכל אביב, הזכרים מגדלים ציצה גלית ובטן כתומה מנוקדת."
@@ -2994,6 +3143,7 @@
       "pt": "Grande tritão preto verrugoso de ventre laranja vivo, os machos reprodutores ostentam uma crista dentada de dragão.",
       "nl": "Grote zwarte wrattige kamsalamander met een vurig oranje buik, waarbij de paaiende mannetjes een gekartelde drakenkam dragen.",
       "hu": "Nagy, fekete, szemölcsös gőte tűznarancs hassal, a nászruhás hímek csipkézett, sárkányszerű tarajt viselnek.",
+      "pl": "Duża czarna, brodawkowata traszka o ognistopomarańczowym brzuchu; samce w porze godowej noszą postrzępiony, smoczy grzebień.",
       "zh": "大型黑色疣皮蝾螈，腹部呈火橙色，繁殖期雄性长出锯齿状的龙形背嵴。",
       "ar": "سمندل أسود كبير ثؤلولي ببطن برتقالي ناري، تحمل الذكور في موسم التزاوج قمة مسننة تشبه التنين.",
       "he": "טריטון שחור גדול ומיובל עם בטן כתומה לוהטת, הזכרים בעונת הרבייה נושאים ציצה משוננת דמוית דרקון."
@@ -3014,6 +3164,7 @@
       "pt": "Enorme rã verde de coaxar grave, pousada entre nenúfares em lagoas quentes e hoje invasora em vários continentes.",
       "nl": "Enorme groene kikker met een diep gebrul die tussen waterlelies in warme vijvers zit en nu invasief is op meerdere continenten.",
       "hu": "Hatalmas zöld béka mély, bőgő hanggal, meleg tavak tavirózsái között ül, ma több kontinensen invazív.",
+      "pl": "Ogromna zielona żaba o basowym ryku, siedząca wśród liści lilii wodnych w ciepłych stawach, dziś inwazyjna na kilku kontynentach.",
       "zh": "体型巨大的绿色蛙，叫声低沉如牛吼，栖息在温暖池塘的睡莲叶间，如今在多个大洲成为入侵物种。",
       "ar": "ضفدع أخضر ضخم بنقيق جهير عميق، يجلس بين أوراق زنابق الماء في البرك الدافئة وأصبح غازياً في عدة قارات.",
       "he": "צפרדע ירוקה ענקית עם געייה עמוקה, יושבת בין עלי נופר בבריכות חמימות וכיום פולשת בכמה יבשות."
@@ -3034,6 +3185,7 @@
       "pt": "Rã castanha com máscara ocular escura que se reúne em ruidosas multidões primaveris para desovar em lagoas e valas da Europa.",
       "nl": "Bruine kikker met een donker oogmasker die zich in het voorjaar in luidruchtige groepen verzamelt om te paaien in Europese vijvers en sloten.",
       "hu": "Barna béka sötét szemmaszkkal, tavasszal hangos tömegekben gyűlik össze petézni az európai tavakban és árkokban.",
+      "pl": "Brązowa żaba z ciemną maską przy oczach, wiosną zbierająca się w hałaśliwe gromady, by składać skrzek w stawach i rowach Europy.",
       "zh": "褐色的蛙，眼部有深色面罩纹，春季成群喧闹地聚集在欧洲池塘和沟渠中产卵。",
       "ar": "ضفدع بني بقناع عيني داكن يتجمع في حشود ربيعية صاخبة للتكاثر في البرك والخنادق الأوروبية.",
       "he": "צפרדע חומה עם מסכת עין כהה המתקבצת בהמונים רועשים באביב להטיל בבריכות ובתעלות באירופה."
@@ -3054,6 +3206,7 @@
       "pt": "Lontra esguia e brincalhona que caça peixes e lagostins em rios e lagos da América do Norte, deixando escorregas de lama nas margens.",
       "nl": "Slanke speelse otter die op vis en rivierkreeft jaagt in rivieren en meren in heel Noord-Amerika en modderglijbanen op oevers achterlaat.",
       "hu": "Karcsú, játékos vidra, Észak-Amerika folyóiban és tavaiban halakra és rákokra vadászik, a partokon sárcsúszdákat hagy.",
+      "pl": "Smukła, skora do zabawy wydra polująca na ryby i raki w rzekach i jeziorach Ameryki Północnej, zostawiająca na brzegach błotne ślizgawki.",
       "zh": "身姿矫健、爱嬉戏的水獭，在北美的河流湖泊中捕食鱼类和螯虾，在岸边留下泥滑道。",
       "ar": "قضاعة رشيقة مرحة تصطاد الأسماك وجراد النهر في أنهار وبحيرات أمريكا الشمالية، تاركة منزلقات طينية على الضفاف.",
       "he": "לוטרה חלקה ושובבה הצדה דגים וסרטני נהרות בנהרות ובאגמים ברחבי צפון אמריקה ומשאירה מגלשות בוץ על הגדות."
@@ -3074,6 +3227,7 @@
       "pt": "Lontra castanha esquiva de rios, lagos e costas da Europa, em recuperação em toda a sua área após décadas de declínio.",
       "nl": "Schuwe bruine otter van Europese rivieren, meren en kusten die zich na decennia van achteruitgang in zijn hele verspreidingsgebied herstelt.",
       "hu": "Félénk, barna vidra Európa folyóiból, tavaiból és partjairól, évtizedes hanyatlás után egész elterjedési területén erősödik.",
+      "pl": "Płochliwa brązowa wydra rzek, jezior i wybrzeży Europy, po dziesięcioleciach spadku liczebności odradzająca się w całym swoim zasięgu.",
       "zh": "胆怯的褐色水獭，栖息于欧洲的河流、湖泊和海岸，在数十年衰退后正于整个分布区恢复。",
       "ar": "قضاعة بنية خجولة تعيش في أنهار وبحيرات وسواحل أوروبا، تتعافى في كامل نطاقها بعد عقود من التراجع.",
       "he": "לוטרה חומה ביישנית מנהרות, אגמים וחופים באירופה, המתאוששת בכל תחום תפוצתה אחרי עשורים של דעיכה."
@@ -3094,6 +3248,7 @@
       "pt": "Lontra de quase dois metros com uma mancha creme na garganta, vive em ruidosos grupos familiares nos rios e lagos de meandro do Amazonas.",
       "nl": "Bijna twee meter lange otter met een crèmekleurige keelvlek die in luidruchtige familiegroepen op Amazonerivieren en hoefijzermeren leeft.",
       "hu": "Közel két méteres vidra krémszínű torokfolttal, zajos családi csoportokban él az Amazonas folyóin és morotvatavain.",
+      "pl": "Niemal dwumetrowa wydra z kremową plamą na gardle, żyjąca w hałaśliwych grupach rodzinnych na rzekach i starorzeczach Amazonii.",
       "zh": "体长近两米的水獭，喉部有乳白色斑块，在亚马逊河流和牛轭湖中以喧闹的家族群体生活。",
       "ar": "قضاعة يقارب طولها مترين ببقعة كريمية على الحلق، تعيش في مجموعات عائلية صاخبة على أنهار الأمازون وبحيراته الهلالية.",
       "he": "לוטרה באורך כמעט שני מטרים עם כתם קרם בגרון, החיה בקבוצות משפחתיות רועשות בנהרות האמזונס ובאגמי פרסה."
@@ -3114,6 +3269,7 @@
       "pt": "Grande roedor de cauda achatada que represa riachos em lagoas e nada sob o gelo, com uma toca de ramos como abrigo.",
       "nl": "Groot knaagdier met platte staart dat beken tot vijvers afdamt en onder het ijs zwemt met een burcht van takken als schuilplaats.",
       "hu": "Nagy, lapos farkú rágcsáló, patakokat duzzaszt tavakká és a jég alatt úszik, ágakból épített várában húzza meg magát.",
+      "pl": "Duży gryzoń o płaskim ogonie, który tamami spiętrza strumienie w stawy i pływa pod lodem, a schronienie znajduje w żeremiu z gałęzi.",
       "zh": "尾巴扁平的大型啮齿动物，筑坝将溪流变成池塘，在冰下游动，以树枝巢穴为庇护。",
       "ar": "قارض كبير مسطح الذيل يسد الجداول ليحولها إلى برك ويسبح تحت الجليد، ويتخذ من كوخ الأغصان مأوى.",
       "he": "מכרסם גדול שטוח זנב הסוכר נחלים לבריכות ושוחה מתחת לקרח, עם מאורת ענפים למחסה."
@@ -3134,6 +3290,7 @@
       "pt": "O maior roedor da Europa, reintroduzido por todo o continente, derruba árvores ribeirinhas e constrói barragens e tocas.",
       "nl": "Europa's grootste knaagdier, over het hele continent geherintroduceerd, dat oeverbomen velt en dammen en burchten bouwt.",
       "hu": "Európa legnagyobb rágcsálója, a kontinens egészén visszatelepítették, parti fákat dönt ki, gátakat és várakat épít.",
+      "pl": "Największy gryzoń Europy, reintrodukowany na całym kontynencie, ścinający nadrzeczne drzewa i budujący tamy oraz żeremia.",
       "zh": "欧洲最大的啮齿动物，已在全洲重新引入，啃倒河边树木，修筑水坝和巢穴。",
       "ar": "أكبر قوارض أوروبا، أعيد إدخاله في أنحاء القارة، يقطع أشجار ضفاف الأنهار ويبني السدود والأكواخ.",
       "he": "המכרסם הגדול ביותר באירופה, שהושב לרחבי היבשת, מפיל עצי גדה ובונה סכרים ומאורות."
@@ -3154,6 +3311,7 @@
       "pt": "Roedor castanho do tamanho de um rato com cauda escamosa achatada, nada por pântanos de tabuas e constrói tocas abobadadas de caniço.",
       "nl": "Ratgrote bruine knaagdier met een geschubde afgeplatte staart dat door lisdoddemoerassen zwemt en koepelvormige rietburchten bouwt.",
       "hu": "Patkány méretű, barna rágcsáló pikkelyes, lapított farokkal, gyékényes mocsarakban úszik és kupolás nádvárakat épít.",
+      "pl": "Brązowy gryzoń wielkości szczura o łuskowatym, spłaszczonym ogonie, pływający wśród szuwarów pałkowych i budujący kopulaste domki z trzciny.",
       "zh": "鼠大小的褐色啮齿动物，尾巴有鳞且侧扁，在香蒲沼泽中游动，用芦苇筑圆顶巢。",
       "ar": "قارض بني بحجم الجرذ بذيل حرشفي مفلطح، يسبح عبر مستنقعات البردي ويبني أكواخاً قبابية من القصب.",
       "he": "מכרסם חום בגודל חולדה עם זנב קשקשי ושטוח, שוחה בביצות סוף ובונה מאורות קנים כיפתיות."
@@ -3174,6 +3332,7 @@
       "pt": "Mamífero ovíparo com bico de pato e patas palmadas, procura alimento de olhos fechados ao longo dos ribeiros do leste da Austrália ao amanhecer e ao anoitecer.",
       "nl": "Eierleggend zoogdier met een eendensnavel en zwemvliezen dat met gesloten ogen foerageert langs beken in oostelijk Australië bij zonsopgang en schemering.",
       "hu": "Tojásrakó emlős kacsacsőrrel és úszóhártyás lábakkal, csukott szemmel keres táplálékot Kelet-Ausztrália patakjaiban hajnalban és alkonyatkor.",
+      "pl": "Jajorodny ssak z kaczym dziobem i błonami pławnymi na łapach, o świcie i zmierzchu żerujący z zamkniętymi oczami w potokach wschodniej Australii.",
       "zh": "卵生哺乳动物，长着鸭嘴和蹼足，黎明和黄昏时闭着眼睛在澳大利亚东部溪流中觅食。",
       "ar": "ثديي بيوض بمنقار بط وأقدام مكففة، يبحث عن الطعام مغمض العينين على طول جداول شرق أستراليا عند الفجر والغسق.",
       "he": "יונק מטיל ביצים עם מקור ברווז ורגליים בעלות קרום שחייה, מלקט מזון בעיניים עצומות לאורך נחלי מזרח אוסטרליה עם שחר ודמדומים."
@@ -3194,6 +3353,7 @@
       "pt": "O mais pequeno dos peixes-boi, um herbívoro liso e escuro com uma mancha branca no peito, pasta plantas aquáticas em lagos e rios do Amazonas.",
       "nl": "De kleinste zeekoe, een gladde donkere grazer met een witte borstvlek die waterplanten begraast in Amazonemeren en -rivieren.",
       "hu": "A legkisebb manátusz, sima, sötét növényevő fehér mellfolttal, az Amazonas tavaiban és folyóiban vízinövényeket legel.",
+      "pl": "Najmniejszy z manatów, gładki ciemny roślinożerca z białą plamą na piersi, skubiący rośliny wodne w jeziorach i rzekach Amazonii.",
       "zh": "最小的海牛，皮肤光滑深色，胸部有白斑，在亚马逊湖河中啃食水生植物。",
       "ar": "أصغر أنواع خراف البحر، عاشب أملس داكن ببقعة بيضاء على الصدر، يرعى النباتات المائية في بحيرات الأمازون وأنهاره.",
       "he": "פרת הים הקטנה ביותר, אוכלת עשב חלקה וכהה עם כתם לבן בחזה, הרועה צמחי מים באגמים ובנהרות האמזונס."
@@ -3214,6 +3374,7 @@
       "pt": "Golfinho cor-de-rosa de bico longo e pescoço flexível, serpenteia entre os troncos da floresta inundada no Amazonas e no Orinoco.",
       "nl": "Roze dolfijn met lange snuit en soepele nek die tussen boomstammen van overstroomd bos in de Amazone en Orinoco zwemt.",
       "hu": "Rózsaszín, hosszú csőrű delfin hajlékony nyakkal, az Amazonas és az Orinoco elárasztott erdőinek fatörzsei között kanyarog.",
+      "pl": "Różowy delfin o długim dziobie i giętkiej szyi, lawirujący między pniami zalanego lasu w dorzeczach Amazonki i Orinoko.",
       "zh": "长喙的粉红色河豚，颈部灵活，在亚马逊和奥里诺科河淹没森林的树干间穿梭。",
       "ar": "دلفين وردي طويل المنقار بعنق مرن، يتلوى بين جذوع الغابة المغمورة في الأمازون والأورينوكو.",
       "he": "דולפין ורוד ארוך מקור עם צוואר גמיש, מתפתל בין גזעי יער מוצף באמזונס ובאורינוקו."
@@ -3234,6 +3395,7 @@
       "pt": "A única foca de água doce do mundo, uma pequena foca cinzento-prateada que descansa no gelo e nas margens rochosas do lago Baikal.",
       "nl": "De enige zoetwaterzeehond ter wereld, een kleine zilvergrijze zeehond die op het ijs en de rotsachtige oevers van het Baikalmeer rust.",
       "hu": "A világ egyetlen édesvízi fókája, kis, ezüstszürke fóka, a Bajkál-tó jegén és sziklás partjain pihen.",
+      "pl": "Jedyna na świecie foka słodkowodna, mała i srebrzystoszara, wylegująca się na lodzie i skalistych brzegach Bajkału.",
       "zh": "世界上唯一的淡水海豹，体型小巧呈银灰色，在贝加尔湖的冰面和岩岸上休息。",
       "ar": "الفقمة الوحيدة في المياه العذبة في العالم، فقمة صغيرة رمادية فضية تستلقي على جليد بحيرة بايكال وشواطئها الصخرية.",
       "he": "כלב הים היחיד בעולם במים מתוקים, כלב ים קטן אפור-כסוף העולה לנוח על הקרח והחופים הסלעיים של אגם באיקל."
@@ -3254,6 +3416,7 @@
       "pt": "O maior roedor, um herbívoro em forma de barril que vadeia e nada em rios e zonas húmidas sul-americanas em manadas tranquilas.",
       "nl": "Het grootste knaagdier, een tonvormige grazer die in kalme kuddes waadt en zwemt in Zuid-Amerikaanse rivieren en wetlands.",
       "hu": "A legnagyobb rágcsáló, hordó alakú növényevő, nyugodt csordákban gázol és úszik Dél-Amerika folyóiban és vizes élőhelyein.",
+      "pl": "Największy gryzoń, beczkowaty roślinożerca, który w spokojnych stadach brodzi i pływa w rzekach i na mokradłach Ameryki Południowej.",
       "zh": "最大的啮齿动物，体型如桶的食草动物，成群安静地在南美河流和湿地中涉水游泳。",
       "ar": "أكبر القوارض، عاشب برميلي الشكل يخوض ويسبح في أنهار أمريكا الجنوبية وأراضيها الرطبة في قطعان هادئة.",
       "he": "המכרסם הגדול ביותר, אוכל עשב דמוי חבית הבוסס ושוחה בנהרות ובאזורי ביצה בדרום אמריקה בעדרים רגועים."
@@ -3274,6 +3437,7 @@
       "pt": "Enorme gigante dos rios africanos que passa o dia submerso em grupos e caminha no fundo em vez de nadar; perigoso de abordar.",
       "nl": "Massieve Afrikaanse rivierreus die de dag ondergedoken in groepen doorbrengt en over de bodem loopt in plaats van te zwemmen; gevaarlijk om te benaderen.",
       "hu": "Hatalmas afrikai folyami óriás, a napot csoportokban a víz alatt tölti, és inkább jár a fenéken, mint úszik; veszélyes megközelíteni.",
+      "pl": "Potężny olbrzym afrykańskich rzek, który spędza dzień w zanurzeniu w stadzie i raczej chodzi po dnie, niż pływa; zbliżanie się do niego jest niebezpieczne.",
       "zh": "庞大的非洲河流巨兽，白天成群潜伏水中，在水底行走而非游泳；靠近极为危险。",
       "ar": "عملاق نهري أفريقي ضخم يقضي النهار مغموراً في مجموعات ويمشي على القاع بدلاً من السباحة؛ الاقتراب منه خطير.",
       "he": "ענק נהרות אפריקאי עצום המבלה את היום שקוע בלהקות והולך על הקרקעית במקום לשחות; מסוכן להתקרב אליו."
@@ -3294,6 +3458,7 @@
       "pt": "Folhas redondas flutuantes e grandes flores brancas que emergem de rizomas espessos enraizados na lama de águas paradas europeias.",
       "nl": "Drijvende ronde bladeren en grote witte bloemen die opstijgen uit dikke wortelstokken in de modder van stilstaand Europees water.",
       "hu": "Úszó, kerek levelek és nagy fehér virágok, amelyek az európai állóvizek iszapjában gyökerező vastag rizómákból emelkednek ki.",
+      "pl": "Okrągłe pływające liście i duże białe kwiaty wyrastające z grubych kłączy zakorzenionych w mule stojących wód Europy.",
       "zh": "圆形浮叶和大朵白花，从扎根于欧洲静水淤泥中的粗壮根茎抽出。",
       "ar": "أوراق مستديرة طافية وأزهار بيضاء كبيرة تنبثق من جذامير سميكة متجذرة في طين المياه الراكدة الأوروبية.",
       "he": "עלים עגולים צפים ופרחים לבנים גדולים העולים מקני שורש עבים המושרשים בבוץ של מים עומדים באירופה."
@@ -3314,6 +3479,7 @@
       "pt": "Folhas flutuantes em forma de coração e flores amarelas em taça, com grandes folhas submersas translúcidas visíveis aos mergulhadores.",
       "nl": "Hartvormige drijvende bladeren en bekervormige gele bloemen, met grote doorschijnende onderwaterbladeren die duikers van onderaf zien.",
       "hu": "Szív alakú úszólevelek és kehelyszerű sárga virágok, nagy, áttetsző víz alatti levelekkel, amelyeket a búvárok alulról látnak.",
+      "pl": "Sercowate pływające liście i kubkowate żółte kwiaty, a pod wodą duże, prześwitujące liście podwodne, które nurkowie widzą od spodu.",
       "zh": "心形浮叶和杯状黄花，水下还有潜水者可见的大型半透明沉水叶。",
       "ar": "أوراق طافية قلبية الشكل وأزهار صفراء كأسية، مع أوراق كبيرة شفافة تحت الماء يراها الغواصون من الأسفل.",
       "he": "עלים צפים בצורת לב ופרחים צהובים דמויי גביע, עם עלים תת-מימיים גדולים ושקופים למחצה הנראים לצוללנים מלמטה."
@@ -3334,6 +3500,7 @@
       "pt": "Folhas em fita com até dois metros que ondulam na corrente de rios e nascentes claros, favoritas dos peixes-boi.",
       "nl": "Lintvormige bladeren tot twee meter lang die wiegen in de stroming van heldere rivieren en bronnen, een favoriet van zeekoeien.",
       "hu": "Szalagszerű, akár két méter hosszú levelek, tiszta folyók és források sodrában ringatóznak, a manátuszok kedvence.",
+      "pl": "Taśmowate liście długości do dwóch metrów, falujące w prądzie czystych rzek i źródeł, przysmak manatów.",
       "zh": "带状叶片可长达两米，在清澈河流和泉水的水流中摇曳，是海牛最爱的食物。",
       "ar": "أوراق شريطية يصل طولها إلى مترين تتمايل في تيار الأنهار والينابيع الصافية، مفضلة لدى خراف البحر.",
       "he": "עלים דמויי סרט באורך עד שני מטרים המתנועעים בזרם של נהרות ומעיינות צלולים, מאכל אהוב על פרות ים."
@@ -3354,6 +3521,7 @@
       "pt": "Planta submersa sem raízes com verticilos de folhas rígidas e bifurcadas como a cauda de um guaxinim, flutua em massas densas em água parada.",
       "nl": "Wortelloze onderwaterplant met kransen van stijve gevorkte bladeren als een wasbeerstaart die in dichte massa's in stilstaand water drijft.",
       "hu": "Gyökértelen, alámerült növény merev, villás levelekből álló örvökkel, mint egy mosómedve farka, sűrű tömegekben sodródik az állóvízben.",
+      "pl": "Zanurzona roślina bez korzeni, z okółkami sztywnych, widlasto rozgałęzionych liści przypominającymi ogon szopa, unosząca się gęstymi kłębami w stojącej wodzie.",
       "zh": "无根的沉水植物，硬而分叉的叶片轮生如浣熊尾巴，在静水中成团漂浮。",
       "ar": "نبات مغمور بلا جذور بحلقات من أوراق صلبة متشعبة تشبه ذيل الراكون، ينجرف في كتل كثيفة في المياه الساكنة.",
       "he": "צמח שקוע חסר שורשים עם דורים של עלים קשיחים ומפוצלים כזנב דביבון, נסחף בגושים צפופים במים עומדים."
@@ -3374,6 +3542,7 @@
       "pt": "Planta submersa plumosa com verticilos de folhas finamente divididas que forma densos tapetes perto da superfície, invasora em muitos lagos.",
       "nl": "Veerachtige onderwaterplant met kransen van fijn verdeelde bladeren die dikke matten nabij het oppervlak vormt, invasief in veel meren.",
       "hu": "Tollszerű, alámerült növény finoman szeldelt levelekből álló örvökkel, a felszín közelében vastag szőnyeget alkot, sok tóban invazív.",
+      "pl": "Pierzasta roślina zanurzona z okółkami drobno podzielonych liści, tworząca przy powierzchni gęste kożuchy, inwazyjna w wielu jeziorach.",
       "zh": "羽状沉水植物，细裂的叶片轮生，在水面附近形成厚垫，在许多湖泊中为入侵物种。",
       "ar": "نبات مغمور ريشي بحلقات من أوراق دقيقة التقسيم يشكل حصائر كثيفة قرب السطح، غازٍ في كثير من البحيرات.",
       "he": "צמח שקוע נוצתי עם דורים של עלים מחולקים דק היוצר מחצלות עבות ליד פני המים, פולש באגמים רבים."
@@ -3394,6 +3563,7 @@
       "pt": "Alga verde quebradiça de cheiro almiscarado com ramos verticilados, muitas vezes incrustada de cal, que atapeta o fundo de lagos claros de água dura.",
       "nl": "Broos, muskusgeurend groenwier met kransvormige takken, vaak met kalk bedekt, dat de bodem van heldere hardwatermeren bedekt.",
       "hu": "Törékeny, pézsmaillatú zöldalga örvös ágakkal, gyakran mészkéreggel borítva, tiszta, kemény vizű tavak fenekét szőnyegezi be.",
+      "pl": "Krucha zielenica o piżmowym zapachu i okółkowych gałązkach, często inkrustowana wapieniem, wyścielająca dno czystych jezior o twardej wodzie.",
       "zh": "质脆、有麝香味的绿藻，枝条轮生，常附有石灰结壳，铺满清澈硬水湖泊的湖底。",
       "ar": "طحلب أخضر هش برائحة المسك وفروع حلقية، غالباً مغطى بقشرة كلسية، يفرش قاع البحيرات الصافية ذات المياه العسرة.",
       "he": "אצה ירוקה שבירה בעלת ריח מושק עם ענפים דוריים, לעיתים קרובות מצופה בגיר, מרפדת את קרקעית אגמים צלולים בעלי מים קשים."
@@ -3414,6 +3584,7 @@
       "pt": "Planta submersa densa com verticilos de três pequenas folhas verde-escuras, propaga-se por fragmentos em lagos e canais frescos de todo o mundo.",
       "nl": "Dichte onderwaterplant met kransen van drie kleine donkergroene bladeren die zich via fragmenten verspreidt door koele meren en kanalen wereldwijd.",
       "hu": "Sűrű, alámerült növény három kis sötétzöld levélből álló örvökkel, töredékekkel terjed hűvös tavakban és csatornákban világszerte.",
+      "pl": "Gęsta roślina zanurzona z okółkami trzech małych ciemnozielonych liści, rozprzestrzeniająca się z fragmentów pędów w chłodnych jeziorach i kanałach całego świata.",
       "zh": "茂密的沉水植物，三片深绿色小叶轮生，靠断枝在全球凉爽的湖泊和运河中扩散。",
       "ar": "نبات مغمور كثيف بحلقات من ثلاث أوراق صغيرة خضراء داكنة، ينتشر بالشظايا في البحيرات والقنوات الباردة حول العالم.",
       "he": "צמח שקוע צפוף עם דורים של שלושה עלים קטנים ירוקים כהים, מתפשט בשברים באגמים ובתעלות קרירים ברחבי העולם."
@@ -3434,6 +3605,7 @@
       "pt": "Planta submersa com folhas verde-avermelhadas de bordos ondulados como lasanha enrugada, cresce no início da primavera antes das outras plantas.",
       "nl": "Onderwaterplant met golvend gerande roodgroene bladeren als gekreukte lasagne die vroeg in het voorjaar groeit vóór andere waterplanten.",
       "hu": "Alámerült növény hullámos szélű, vörösesnek tűnő zöld levelekkel, mint a fodros lasagne, kora tavasszal nő, más hínárok előtt.",
+      "pl": "Roślina zanurzona o czerwonawozielonych liściach z falistym brzegiem, podobnych do pomarszczonej lasagne, rosnąca wczesną wiosną przed innymi roślinami wodnymi.",
       "zh": "沉水植物，叶缘波状呈红绿色，形似皱褶的千层面，早春时先于其他水草生长。",
       "ar": "نبات مغمور بأوراق خضراء محمرة متموجة الحواف تشبه اللازانيا المجعدة، ينمو مبكراً في الربيع قبل الأعشاب الأخرى.",
       "he": "צמח שקוע עם עלים ירוקים-אדמדמים בשוליים גליים כמו לזניה מקומטת, הצומח מוקדם באביב לפני צמחי מים אחרים."
@@ -3454,6 +3626,7 @@
       "pt": "Planta flutuante de folhas brilhantes sobre pecíolos cheios de ar e espigas de flores lilás, que sufoca cursos de água quentes em todo o mundo.",
       "nl": "Drijfplant met glanzende bladeren op met lucht gevulde stelen en aren van lavendelkleurige bloemen die warme waterwegen wereldwijd verstikt.",
       "hu": "Úszó növény fényes levelekkel levegővel telt szárakon és levendulaszínű virágfüzérekkel, világszerte elfojtja a meleg vízi utakat.",
+      "pl": "Roślina pływająca o lśniących liściach na wypełnionych powietrzem ogonkach i kłosach lawendowych kwiatów, zarastająca ciepłe drogi wodne na całym świecie.",
       "zh": "浮水植物，叶片光亮、叶柄膨大充气，开淡紫色穗状花，在全球温暖水道中大量堵塞水面。",
       "ar": "نبات طافٍ بأوراق لامعة على سيقان مملوءة بالهواء وسنابل من أزهار بنفسجية فاتحة، يخنق الممرات المائية الدافئة حول العالم.",
       "he": "צמח צף עם עלים מבריקים על גבעולים מלאי אוויר ושיבולים של פרחי לבנדר, החונק נתיבי מים חמים ברחבי העולם."
@@ -3474,6 +3647,7 @@
       "pt": "Gramínea alta de panículas plumosas que forma densos caniçais nas margens dos lagos; os seus caules submersos abrigam alevins e larvas de libélula.",
       "nl": "Hoog gras met pluimvormige toppen dat dichte rietkragen langs meeroevers vormt; de ondergedoken stengels beschutten jonge vis en libellenlarven.",
       "hu": "Magas, tollas bugájú fűféle, sűrű nádasokat alkot a tópartokon; víz alatti szárai ivadékoknak és szitakötőlárváknak adnak menedéket.",
+      "pl": "Wysoka trawa o pierzastych wiechach, tworząca gęste łany wzdłuż brzegów jezior; jej zanurzone łodygi dają schronienie narybkowi i larwom ważek.",
       "zh": "高大的芦苇草，顶端有羽状花序，在湖岸形成茂密苇丛，水下茎干为幼鱼和蜻蜓幼虫提供庇护。",
       "ar": "عشب طويل بعناقيد ريشية يشكل أحراشاً كثيفة على شواطئ البحيرات، وتؤوي سيقانه المغمورة صغار الأسماك ويرقات اليعسوب.",
       "he": "עשב גבוה בעל ראשים נוצתיים היוצר סבכים צפופים לאורך חופי אגמים, וגבעוליו השקועים מספקים מחסה לדגיגים ולזחלי שפיריות."

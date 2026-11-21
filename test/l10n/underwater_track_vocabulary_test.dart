@@ -52,6 +52,7 @@ final _offWords = <String, RegExp>{
   'nl': _word('routes?|spoor|sporen'),
   'pt': _word('rotas?|trajetos?|percursos?|rastros?'),
   'hu': _word('útvonal\\p{L}*'),
+  'pl': _word('tras\\p{L}*'),
   'zh': RegExp('路线|路径|航迹'),
 };
 
@@ -96,6 +97,7 @@ void main() {
       'hu',
       'it',
       'nl',
+      'pl',
       'pt',
       'zh',
     ]) {

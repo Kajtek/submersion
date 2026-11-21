@@ -10,7 +10,7 @@ the table this script writes to lib/core/geography/country_names.generated.dart.
 
 The names come from CLDR (Unicode licence), pinned to CLDR_VERSION:
 
-- every territory name in the app's eleven place-name languages, including
+- every territory name in the app's twelve place-name languages, including
   CLDR's short and variant forms ("UK", "Mexique");
 - each country's own name in its official languages (from territoryInfo),
   so "República Dominicana" and Arabic "مصر" resolve. A language CLDR ships
@@ -40,13 +40,14 @@ _BASE_URL = (
 # The app's place-name languages, as PlaceNameLanguage.supportedCodes lists
 # them in lib/core/constants/place_name_language.dart.
 PLACE_NAME_LANGUAGES = (
-    "en", "es", "fr", "de", "it", "nl", "pt", "hu", "ar", "he", "zh",
+    "en", "es", "fr", "de", "it", "nl", "pt", "hu", "pl", "ar", "he", "zh",
 )
 _OFFICIAL_STATUSES = {"official", "de_facto_official", "official_regional"}
 # Folded names CLDR maps to one country that people commonly use for
-# another: plain "Congo" is as often the Democratic Republic (CD) as the
-# Republic (CG), which CLDR gives it to. No flag beats a wrong one.
-DENIED_NAMES = frozenset({"congo"})
+# another: plain "Congo" (Polish "Kongo") is as often the Democratic
+# Republic (CD) as the Republic (CG), which CLDR gives it to. No flag beats
+# a wrong one.
+DENIED_NAMES = frozenset({"congo", "kongo"})
 _ALT_SUFFIXES = ("-alt-short", "-alt-variant")
 
 _REPO = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
